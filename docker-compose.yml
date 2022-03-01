@@ -1,0 +1,134 @@
+###based off: https://www.smarthomebeginner.com/docker-home-media-server-2018-basic/
+
+################################################################################
+# Commonly tweaked configuration options
+#-------------------------------------------------------------------------------
+# x-auth-variables:
+#   # authentication method: encrypted HTTP basic authentication ('true') vs LDAP ('false')
+#   &auth-variables
+#   NGINX_BASIC_AUTH: 'true'
+#   # NGINX LDAP (NGINX_BASIC_AUTH=false) can support LDAP, LDAPS, or LDAP+StartTLS.
+#   #   For StartTLS, set NGINX_LDAP_TLS_STUNNEL=true to issue the StartTLS command
+#   #   and use stunnel to tunnel the connection.
+#   NGINX_LDAP_TLS_STUNNEL: 'false'
+#   # stunnel will require and verify certificates for StartTLS when one or more
+#   # trusted CA certificate files are placed in the ./nginx/ca-trust directory.
+#   # For additional security, hostname or IP address checking of the associated
+#   # CA certificate(s) can be enabled by providing these values.
+#   NGINX_LDAP_TLS_STUNNEL_CHECK_HOST: ''
+#   NGINX_LDAP_TLS_STUNNEL_CHECK_IP: ''
+#   NGINX_LDAP_TLS_STUNNEL_VERIFY_LEVEL: 2
+
+# x-nginx-variables:
+#   # Whether or not to write nginx's access.log and error.log to OpenSearch
+#   &nginx-variables
+#   NGINX_LOG_ACCESS_AND_ERRORS: 'false'
+
+version: "3.6"
+services:
+  portainer:
+    image: portainer/portainer
+    container_name: portainer
+    restart: always
+    command: -H unix:///var/run/docker.sock
+    ports:
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${USERDIR}/glad_hs/portainer/data:/data
+      - ${USERDIR}/glad_hs/shared:/shared
+    environment:
+      - TZ=${TZ}
+  # heimdall:
+  #   image: lscr.io/linuxserver/heimdall
+  #   container_name: heimdall
+  #   #FIXME
+  #   environment:
+  #     - PUID=${PUID}
+  #     - PGID=${PGID}
+  #     - TZ=${TZ}
+  #   #FIXME
+  #   volumes:
+  #     - </path/to/appdata/config>:/config
+  #   #FIXME
+  #   ports:
+  #     - 80:80
+  #     - 443:443
+  #   restart: always
+
+  # phpmyadmin:
+  #   hostname: phpmyadmin
+  #   container_name: phpmyadmin
+  #   image: phpmyadmin/phpmyadmin
+  #   restart: always
+  #   links:
+  #     - mariadb:db
+  #   #FIXME
+  #   ports:
+  #     - 9001:80
+  #   #FIXME
+  #   environment:
+  #     - PMA_HOST=mariadb
+  #     - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+  # watchtower:
+  #   container_name: watchtower
+  #   restart: always
+  #   image: v2tec/watchtower
+  #   volumes:
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #   command: --schedule "0 0 4 * * SUN" --cleanup
+
+  ### homeassistant can turn a lot of stuff into home assistant device: https://www.home-assistant.io/
+  # homeassistant:
+  #   container_name: homeassistant
+  #   restart: always
+  #   image: homeassistant/home-assistant
+  #   devices:
+  #     - /dev/ttyUSB0:/dev/ttyUSB0
+  #     - /dev/ttyUSB1:/dev/ttyUSB1
+  #     - /dev/ttyACM0:/dev/ttyACM0
+  #   volumes:
+  #     - ${USERDIR}/glad_hs/homeassistant:/config
+  #     - /etc/localtime:/etc/localtime:ro
+  #     - ${USERDIR}/glad_hs/shared:/shared
+  #   ports:
+  #     - "XXXX:8123"
+  #   privileged: true
+  #   environment:
+  #     - PUID=${PUID}
+  #     - PGID=${PGID}
+  #     - TZ=${TZ}
+
+  # mariadb:
+  #   image: "linuxserver/mariadb"
+  #   container_name: "mariadb"
+  #   hostname: mariadb
+  #   volumes:
+  #     - ${USERDIR}/glad_hs/mariadb:/config
+  #   ports:
+  #     - target: 3306
+  #       published: 3306
+  #       protocol: tcp
+  #       mode: host
+  #   restart: always
+  #   environment:
+  #     - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+  #     - PUID=${PUID}
+  #     - PGID=${PUID}
+  #     - TZ=${TZ}
+
+  # nextcloud:
+  #   container_name: nextcloud
+  #   restart: always
+  #   image: linuxserver/nextcloud
+  #   #FIXME
+  #   volumes:
+  #     - ${USERDIR}/glad_hs/nextcloud:/config
+  #     - ${USERDIR}/shared_data:/data
+  #     - ${USERDIR}/glad_hs/shared:/shared
+  #   #FIXME
+  #   ports:
+  #     - "9002:443"
+  #   environment:
+  #     - PUID=${PUID}
+  #     - PGID=${PGID}
