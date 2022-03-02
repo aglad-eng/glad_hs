@@ -35,8 +35,8 @@ services:
       - "9000:9000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - ${USERDIR}/glad_hs/portainer/data:/data
-      - ${USERDIR}/glad_hs/shared:/shared
+      - ${GHS_DIR}/portainer/data:/data
+      - ${GHS_DIR}/shared:/shared
     environment:
       - TZ=${TZ}
   # heimdall:
@@ -88,9 +88,9 @@ services:
   #     - /dev/ttyUSB1:/dev/ttyUSB1
   #     - /dev/ttyACM0:/dev/ttyACM0
   #   volumes:
-  #     - ${USERDIR}/glad_hs/homeassistant:/config
+  #     - ${GHS_DIR}/homeassistant:/config
   #     - /etc/localtime:/etc/localtime:ro
-  #     - ${USERDIR}/glad_hs/shared:/shared
+  #     - ${GHS_DIR}/shared:/shared
   #   ports:
   #     - "XXXX:8123"
   #   privileged: true
@@ -104,7 +104,7 @@ services:
   #   container_name: "mariadb"
   #   hostname: mariadb
   #   volumes:
-  #     - ${USERDIR}/glad_hs/mariadb:/config
+  #     - ${GHS_DIR}/mariadb:/config
   #   ports:
   #     - target: 3306
   #       published: 3306
@@ -123,9 +123,9 @@ services:
   #   image: linuxserver/nextcloud
   #   #FIXME
   #   volumes:
-  #     - ${USERDIR}/glad_hs/nextcloud:/config
-  #     - ${USERDIR}/shared_data:/data
-  #     - ${USERDIR}/glad_hs/shared:/shared
+  #     - ${GHS_DIR}/nextcloud:/config
+  #     - ${GHS_DIR}/../shared_data:/data
+  #     - ${GHS_DIR}/shared:/shared
   #   #FIXME
   #   ports:
   #     - "9002:443"

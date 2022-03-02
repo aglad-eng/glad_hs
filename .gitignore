@@ -1,0 +1,10 @@
+#ignore everything
+*
+**/*
+
+#don't ignore our main files
+!.env
+!docker-compose.yml
+!.gitignore
+!LICENSE
+!README.md
