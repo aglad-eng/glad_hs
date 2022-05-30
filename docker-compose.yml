@@ -1,5 +1,5 @@
 ###based off: https://www.smarthomebeginner.com/docker-home-media-server-2018-basic/
-
+### https://www.smarthomebeginner.com/traefik-docker-nextcloud/
 ################################################################################
 # Commonly tweaked configuration options
 #-------------------------------------------------------------------------------
@@ -35,26 +35,23 @@ services:
       - "9000:9000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - ${GHS_DIR}/portainer/data:/data
+      - ${GHS_DIR}/docker/portainer/data:/data
       - ${GHS_DIR}/shared:/shared
     environment:
       - TZ=${TZ}
-  # heimdall:
-  #   image: lscr.io/linuxserver/heimdall
-  #   container_name: heimdall
-  #   #FIXME
-  #   environment:
-  #     - PUID=${PUID}
-  #     - PGID=${PGID}
-  #     - TZ=${TZ}
-  #   #FIXME
-  #   volumes:
-  #     - </path/to/appdata/config>:/config
-  #   #FIXME
-  #   ports:
-  #     - 80:80
-  #     - 443:443
-  #   restart: always
+  heimdall:
+    image: lscr.io/linuxserver/heimdall
+    container_name: heimdall
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${GHS_DIR}/docker/heimdall/config:/config
+    ports:
+      - 8080:80
+      - 4443:443
+    restart: always
 
   # phpmyadmin:
   #   hostname: phpmyadmin
@@ -63,20 +60,20 @@ services:
   #   restart: always
   #   links:
   #     - mariadb:db
-  #   #FIXME
   #   ports:
   #     - 9001:80
-  #   #FIXME
   #   environment:
   #     - PMA_HOST=mariadb
   #     - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
-  # watchtower:
-  #   container_name: watchtower
-  #   restart: always
-  #   image: v2tec/watchtower
-  #   volumes:
-  #     - /var/run/docker.sock:/var/run/docker.sock
-  #   command: --schedule "0 0 4 * * SUN" --cleanup
+
+  watchtower:
+    container_name: watchtower
+    restart: always
+    image: v2tec/watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    #This will update once a week at 4am on sunday 
+    command: --schedule "0 0 4 * * SUN" --cleanup
 
   ### homeassistant can turn a lot of stuff into home assistant device: https://www.home-assistant.io/
   # homeassistant:
@@ -88,11 +85,11 @@ services:
   #     - /dev/ttyUSB1:/dev/ttyUSB1
   #     - /dev/ttyACM0:/dev/ttyACM0
   #   volumes:
-  #     - ${GHS_DIR}/homeassistant:/config
+  #     - ${GHS_DIR}/docker/homeassistant:/config
   #     - /etc/localtime:/etc/localtime:ro
   #     - ${GHS_DIR}/shared:/shared
   #   ports:
-  #     - "XXXX:8123"
+  #     - "9003:8123"
   #   privileged: true
   #   environment:
   #     - PUID=${PUID}
@@ -104,7 +101,7 @@ services:
   #   container_name: "mariadb"
   #   hostname: mariadb
   #   volumes:
-  #     - ${GHS_DIR}/mariadb:/config
+  #     - ${GHS_DIR}/docker/mariadb:/config
   #   ports:
   #     - target: 3306
   #       published: 3306
@@ -116,19 +113,96 @@ services:
   #     - PUID=${PUID}
   #     - PGID=${PUID}
   #     - TZ=${TZ}
+######### UTILITIES ##########
 
+#WORKING
+# # MariaDB – Database Server for your Apps
+#   mariadb:
+#     image: "linuxserver/mariadb"
+#     container_name: "mariadb"
+#     hostname: mariadb
+#     volumes:
+#         - ${GHS_DIR}/docker/mariadb:/config
+#     security_opt:
+#       - no-new-privileges:true
+#     ports:
+#       - "3306:3306"
+#     restart: always
+#     # Recommended database settings as listed in:
+#     # https://docs.nextcloud.com/server/21/admin_manual/configuration_database/linux_database_configuration.html
+#     # command: --transaction-isolation=READ-COMMITTED --log-bin=msqyld-bin --binlog-format=ROW
+#     environment:
+#       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+#       PUID: ${PUID}
+#       PGID: ${PGID}
+#       TZ: ${TZ}
+#       # MYSQL_USER: nextcloud
+#       # MYSQL_DATABASE: nextcloud
+#       # MYSQL_ROOT_PASSWORD_FILE: /run/secrets/db_root_password
+#       # MYSQL_PASSWORD_FILE: /run/secrets/db_password
+#     healthcheck:
+#       test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+#       timeout: 20s
+#       retries: 10
+
+  #WORKING
   # nextcloud:
   #   container_name: nextcloud
   #   restart: always
   #   image: linuxserver/nextcloud
-  #   #FIXME
   #   volumes:
-  #     - ${GHS_DIR}/nextcloud:/config
-  #     - ${GHS_DIR}/../shared_data:/data
+  #     - ${GHS_DIR}/docker/nextcloud:/config
+  #     - ${GHS_DIR}/shared_data:/data
   #     - ${GHS_DIR}/shared:/shared
-  #   #FIXME
   #   ports:
   #     - "9002:443"
   #   environment:
   #     - PUID=${PUID}
   #     - PGID=${PGID}
+
+#https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
+  openvpn:
+    cap_add:
+     - NET_ADMIN
+    image: kylemanna/openvpn
+    container_name: openvpn
+    ports:
+     - "1194:1194/udp"
+    restart: always
+    volumes:
+     - ./openvpn-data/conf:/etc/openvpn
+    healthcheck:
+      test: curl --fail -s http://localhost:1194/ || exit 1
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+
+  # filebrowser:
+  #   image: hurlenko/filebrowser
+  #   container_name: filebrowser
+  #   restart: unless-stopped
+  #   user: "${PUID}:${PGID}"
+  #   environment:
+  #     - PUID=${PUID}
+  #     - PGID=${PGID}
+  #     # - TZ=${TZ}
+  #   volumes:
+  #     - ${GHS_DIR}/fb_data:/data
+  #     - ${GHS_DIR}/fb_config:/config
+  #   environment:
+  #     - FB_BASEURL=/filebrowser
+  #   ports:
+  #     - "9009:8080"
+
+  filebrowser:
+    container_name: filebrowser
+    hostname: filebrowser
+    restart: unless-stopped
+    image: filebrowser/filebrowser:latest
+    ports:
+      - "9082:80"
+    volumes:
+      - ${GHS_DIR}/fb_data/hosted_docs:/files
+      - ${GHS_DIR}/fb_config/fb_database.db:/database.db
+      - ${GHS_DIR}/fb_data/fb_logs.log:/fb_logs.log
+      - ${GHS_DIR}/fb_config/filebrowser.json:/.filebrowser.json

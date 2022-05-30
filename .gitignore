@@ -3,8 +3,13 @@
 **/*
 
 #don't ignore our main files
-!.env
 !docker-compose.yml
 !.gitignore
 !LICENSE
 !README.md
+
+#don't ignore these subdirectories
+!docker/
+
+#make sure to ignore these files
+docker/*
