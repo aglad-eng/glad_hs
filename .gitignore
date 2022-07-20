@@ -1,16 +1,24 @@
-#ignore everything
-*
-**/*
+*.pcap
+*.txt
+*.log
+*.ovpn
+/temp/
+/temp/*
+/temp/**/*
+/shared_data/
+/shared_data/*
+/shared_data/**/*
+*.sh
+.env
+*.env
 
-#don't ignore our main files
+# Don't ignore these shell scripts
+!docker_port_fix.sh
+!acme_reg_example.sh
+
+# Don't ignore our main files
 !docker-compose.yml
 !.gitignore
 !LICENSE
 !README.md
-!inetmonit.sh
-
-#don't ignore these subdirectories
-!docker/
-
-#make sure to ignore these files
-docker/*
+!.env.example

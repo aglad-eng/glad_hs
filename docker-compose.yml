@@ -60,75 +60,6 @@ services:
       - nginx-glad_hs
       - openvpn
 
-  ### homeassistant can turn a lot of stuff into home assistant device: https://www.home-assistant.io/
-  # homeassistant:
-  #   container_name: homeassistant
-  #   restart: unless-stopped
-  #   image: homeassistant/home-assistant
-  #   devices:
-  #     - /dev/ttyUSB0:/dev/ttyUSB0
-  #     - /dev/ttyUSB1:/dev/ttyUSB1
-  #     - /dev/ttyACM0:/dev/ttyACM0
-  #   volumes:
-  #     - ${GHS_DIR}/docker/homeassistant:/config
-  #     - /etc/localtime:/etc/localtime:ro
-  #     - ${GHS_DIR}/shared:/shared
-  #   ports:
-  #     - "9003:8123"
-  #   privileged: true
-  #   environment:
-  #     - PUID=${PUID}
-  #     - PGID=${PGID}
-  #     - TZ=${TZ}
-
-  
-######### UTILITIES ##########
-
-#WORKING
-# # MariaDB – Database Server for your Apps
-#   mariadb:
-#     image: "linuxserver/mariadb"
-#     container_name: "mariadb"
-#     hostname: mariadb
-#     volumes:
-#         - ${GHS_DIR}/docker/mariadb:/config
-#     security_opt:
-#       - no-new-privileges:true
-#     ports:
-#       - "3306:3306"
-#     restart: unless-stopped
-#     # Recommended database settings as listed in:
-#     # https://docs.nextcloud.com/server/21/admin_manual/configuration_database/linux_database_configuration.html
-#     # command: --transaction-isolation=READ-COMMITTED --log-bin=msqyld-bin --binlog-format=ROW
-#     environment:
-#       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
-#       PUID: ${PUID}
-#       PGID: ${PGID}
-#       TZ: ${TZ}
-#       # MYSQL_USER: nextcloud
-#       # MYSQL_DATABASE: nextcloud
-#       # MYSQL_ROOT_PASSWORD_FILE: /run/secrets/db_root_password
-#       # MYSQL_PASSWORD_FILE: /run/secrets/db_password
-#     healthcheck:
-#       test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
-#       timeout: 20s
-#       retries: 10
-
-  #WORKING
-  # nextcloud:
-  #   container_name: nextcloud
-  #   restart: unless-stopped
-  #   image: linuxserver/nextcloud
-  #   volumes:
-  #     - ${GHS_DIR}/docker/nextcloud:/config
-  #     - ${GHS_DIR}/shared_data:/data
-  #     - ${GHS_DIR}/shared:/shared
-  #   ports:
-  #     - "9002:443"
-  #   environment:
-  #     - PUID=${PUID}
-  #     - PGID=${PGID}
-
 #https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
   openvpn:
     cap_add:
@@ -326,8 +257,8 @@ services:
     restart: unless-stopped
 
 ###
-# 2 netowrks:
-#     1) Docker_lan: default netowrk ment for most docker containers to talk to each other
+# 2 networks:
+#     1) Docker_lan: default network ment for most docker containers to talk to each other
 #     2) oauth2-proxy-network: Used for nginx and oauth2 to seperate authentication services from standard docker containers for a bit
 #        more security
 ###
