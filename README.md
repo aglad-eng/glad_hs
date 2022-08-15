@@ -1,9 +1,9 @@
 # glad_hs
 A docker-compose framework for a home server.
 
-Goal:  
-      - Primary: To show an example set up of a basic home server.  Hopefully this will allow others looking to set up some refferences on how I did mine.  
-      - Secondary: To back up my current home server setup so that I can easily port it to a new physical machine and only have to install docker, docker compose, and adjust a few environment vairables to have a complete server environment set up.
+Goals:  
+  - Primary: To show an example set up of a basic home server.  Hopefully this will allow others looking to set up some refferences on how I did mine.  
+  - Secondary: To back up my current home server setup so that I can easily port it to a new physical machine and only have to install docker, docker compose, and adjust a few environment vairables to have a complete server environment set up.
       
 Note:  This home server is designed around the idea that you want specific others (family members, friends etc) to access the server remotely and easily while preventing others from accessing it.  For that reason specific design decisions are made for ease of access.
 
