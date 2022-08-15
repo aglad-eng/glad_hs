@@ -5,9 +5,9 @@ Goals:
   - Primary: To show an example set up of a basic home server.  Hopefully this will allow others looking to set up some refferences on how I did mine.  
   - Secondary: To back up my current home server setup so that I can easily port it to a new physical machine and only have to install docker, docker compose, and adjust a few environment vairables to have a complete server environment set up.
       
-Note:  This home server is designed around the idea that you want specific others (family members, friends etc) to access the server remotely and easily while preventing others from accessing it.  For that reason specific design decisions are made for ease of access.
+**Note**:  This home server is designed around the idea that you want specific others (family members, friends etc) to access the server remotely and easily while preventing others from accessing it.  For that reason specific design decisions are made for ease of access.
 
-Warnings:  This guide assumes that you are decently technical.  This means I won't explain everything in detail.  For example I won't be covering how to install docker as I assume you would be able to quickly google and found out how to install it properly.  Rather this repository is more of a skeletal framwork for a basic home server to get people started quickly, or to provide example configurations for common apps that, while I was creating my home server, had difficulty finding online.  
+**Warnings**:  This guide assumes that you are decently technical.  This means I won't explain everything in detail.  For example I won't be covering how to install docker as I assume you would be able to quickly google and found out how to install it properly.  Rather this repository is more of a skeletal framwork for a basic home server to get people started quickly, or to provide example configurations for common apps that, while I was creating my home server, had difficulty finding online.  
 
 If you need more detail on some basics I have found the following guides helpful for many things:
   - https://www.smarthomebeginner.com/home-server/ 
