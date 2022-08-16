@@ -70,10 +70,13 @@ The necessary changes are explained below.  You can perform them manually or wit
 ### NGINX Setup
 Each webserver I want has it's own .conf file in the conf.d/ directory.  There is also a "999_remaining_subdomains.conf" file.  This file uses regex to find the subdomain specified in the http/https request.  It will will then proxy the request to the correct app (assuming the app has the same service name in the docker-compose.yml file as it's associated subdomain).  I created this configuration file because when I first started I felt like it was the only one I needed.  Since then I have found enough slight differences in configurations needs of each webserver that I personally no longer use the file.  I kept it for examples incase someone wants to do something similar. 
 
-*Steps:*
+**Steps:**
 1. Copy and paste the nginx.conf file, the conf_templates directory, and the conf.d directory from nginx_config/examples into nginx_config/
 1. Replace occurances of "my_domain.com" to the domain name that you have set up for your server. See: ["Free Domain Name"](https://github.com/aglad-eng/glad_hs#free-domain-name)
 1. If you want to keep the "999_remaining_subdomains.conf" file, replace the regex expression  ``` ~^(?<var_subdomain>.+)\.my_domain\.com$; ``` to a regex experession that will appropriately catch the subdomain names of your domain. (the "my_domain" and ".com" should be changed).
+
+**Note:**
+These confs assume that the nginx container can reach other containers via their dns hostnames (defaults to container name) resolved via docker's internal dns. This is achieved through having the containers attached to the same user defined docker bridge network.  I have the network already setup properly in docker compose and in my .conf files.  However, it is important to know as you try and understand the files or create your own in the future.
 
 ### .ENV Setup
 Docker compose will automatically look for a .env file in the same directory as the docker-compose.yml file specified.  It uses the .env file as local environment variables.  I have created a ".env.example" in the root directory of the repo.  This has all of the environment variables that I used in my docker-compose.yml file.  You will need to copy it and rename it ".env".  Once the copy has been made and renamed edit each environment variable to their appropriate values.
