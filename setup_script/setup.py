@@ -26,7 +26,7 @@ def main():
     setup_env()
     setup_oauth()
 
-    print('\n\n Setup of glad_hs has finished.')
+    print('\nSetup of glad_hs has finished.')
     print('If you skipped steps and need to finish setup manually please view the README for more information: https://github.com/aglad-eng/glad_hs#setup')
 
 def setup_nginx():
@@ -57,25 +57,36 @@ def setup_fb():
 def prep_nginx_conf_files():
     global g_domain_name
 
+    ### Get paths
+    nginx_conf_relPath = "nginx_config/"
+    nginx_conf_absPath = os.path.join(glad_hs_dir, nginx_conf_relPath)
+    nginx_ex_relPath = "nginx_config/examples/"
+    nginx_ex_absPath = os.path.join(glad_hs_dir, nginx_ex_relPath)
+
+    ### Check if files already exist
+    nginx_main_conf_path = os.path.join(nginx_conf_absPath, "nginx.conf")
+    print(nginx_main_conf_path)
+    if (os.path.isfile(nginx_main_conf_path)):
+        print("file existed")
+        inp = get_user_yes_no('***Warning*** nginx conf files already exist.  Are you sure you want to overwrite them? (y/N)', 'n')
+        if is_no(inp):
+            return
+
     ### check pre requisite global variables
     if (g_domain_name is None):
         g_domain_name = ui_get_domain_name()
         if (g_domain_name is None):
             raise Exception(f"{__name__} - {ERR_G_VAR_UNDEFINED}")
 
+    print("Creating .conf files from examples provided and replacing domain in .conf files...")
+    shutil.copytree(nginx_ex_absPath, nginx_conf_absPath, dirs_exist_ok=True)
 
-    print("Creating .conf files from examples provided...")
-    nginx_conf_relPath = "/nginx_config"
-    nginx_conf_absPath = os.path.join(glad_hs_dir, nginx_conf_relPath)
-    nginx_ex_relPath = "/nginx_config/examples"
-    nginx_ex_absPath = os.path.join(glad_hs_dir, nginx_ex_relPath)
-
-    print("Replacing domain in .conf files...")
-    shutil.copytree(nginx_ex_absPath, nginx_conf_absPath)
-    findReplace(nginx_conf_absPath, DEFAULT_DOMAIN_NAME, g_domain_name)
+    findReplace_DIR(os.path.join(nginx_conf_absPath, "conf.d/"), DEFAULT_DOMAIN_NAME, g_domain_name)
+    findReplace_DIR(os.path.join(nginx_conf_absPath, "conf_templates/"), DEFAULT_DOMAIN_NAME, g_domain_name)
+    findReplace_File(nginx_main_conf_path, DEFAULT_DOMAIN_NAME, g_domain_name)
 
     # Open 999_remaining_subdomains.conf and replace correct sections
-    all_subdomains_conf_path = os.path.join(nginx_conf_absPath, "/conf.d/999_remaining_subdomains.conf")
+    all_subdomains_conf_path = os.path.join(nginx_conf_absPath, "conf.d/999_remaining_subdomains.conf")
     filedata = None
     with open(all_subdomains_conf_path, 'r') as file:
         filedata =  file.read()
@@ -94,7 +105,16 @@ def prep_env_file():
     global g_oauth_proxy_client_secret
     global g_oauth_secret_cookie
 
-    print("Creating .env file from given example...")
+    ### Get paths
+    fname = ".env"
+    envExample_file_path = os.path.join(glad_hs_dir, fname + ".example")
+    env_file_path = os.path.join(glad_hs_dir, fname)
+
+    ### Check if file exists
+    if (os.path.isfile(env_file_path)):
+        inp = get_user_yes_no(f'***Warning*** {fname} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
+        if is_no(inp):
+            return
 
     if (g_domain_name is None):
         g_domain_name = ui_get_domain_name()
@@ -112,11 +132,8 @@ def prep_env_file():
     smtp_email = input('SMTP email: ')
     smtp_domain = input('SMTP domain: ')
     VW_admin_token = input('Vaultwarden (bit warden) admin token: ')
-
-    envExample_file_path = os.path.join(glad_hs_dir, ".env")
-    env_file_path = os.path.join(glad_hs_dir, ".env")
     
-    print("Editing .env file...")
+    print("Creating and editing .env file...")
 
     with open(envExample_file_path, 'r') as file:
         filedata =  file.read()
@@ -149,7 +166,16 @@ def prep_oauth_config_file():
     global g_oauth_proxy_client_secret
     global g_oauth_secret_cookie
     
-    print("Creating oauth2_proxy.cfg file from given example...")
+    ### Get Paths
+    fname = "oauth2_proxy.cfg"
+    oauthConfigExample_file_path = os.path.join(glad_hs_dir, "oauth/", fname + ".example")
+    oauthConfig_file_path = os.path.join(glad_hs_dir, "oauth/", fname)
+    
+    ### Check if file exists
+    if (os.path.isfile(oauthConfig_file_path)):
+        inp = get_user_yes_no(f'***Warning*** {fname} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
+        if is_no(inp):
+            return
 
     if (g_domain_name is None):
         g_domain_name = ui_get_domain_name()
@@ -164,10 +190,7 @@ def prep_oauth_config_file():
     cookie_exp_hours = get_UI("time until cookie expires in hours - (this will determine how long people stay signed in via oauth): ")
     cookie_refresh_hours = get_UI("how often you want to check for expired cookies in hours: ")
 
-    oauthConfigExample_file_path = os.path.join(glad_hs_dir, "/oauth", "oauth2_proxy.cfg.example")
-    oauthConfig_file_path = os.path.join(glad_hs_dir, "/oauth", "oauth2_proxy.cfg")
-    
-    print("Editing oauth2_proxy.cfg file...")
+    print("Creating and editing oauth2_proxy.cfg file...")
 
     with open(oauthConfigExample_file_path, 'r') as file:
         filedata =  file.read()
@@ -185,8 +208,14 @@ def prep_oauth_config_file():
         file.write(filedata)
 
 def prep_oauth_emails_file():
-    oauthEmail_file_path = os.path.join(glad_hs_dir, "/oauth", "permitted_emails.txt")
+    fname = "permitted_emails.txt"
+    oauthEmail_file_path = os.path.join(glad_hs_dir, "oauth/", fname)
     
+    if (os.path.isfile(oauthEmail_file_path)):
+        inp = get_user_yes_no(f'***Warning*** {fname} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
+        if is_no(inp):
+            return
+
     with open(oauthEmail_file_path, 'w') as file:
         print("Enter a single email on each prompt that  is associated with a google account you whish to have access to your server.")
         while True:
@@ -194,17 +223,19 @@ def prep_oauth_emails_file():
             if (inp.strip().lower() == "q"):
                 break
             file.write(inp + "\n")
-        file.write("\n")
 
 def create_empty_db():
-    print("Creating Filebroswer database...")
     db_filename = "fb_database.db"
-    db_relPath = "/fb_config"
+    db_relPath = "fb_config/"
     db_file_path = os.path.join(glad_hs_dir, db_relPath, db_filename)
 
-    ### if db file does not exist create it
-    if (not os.path.isfile(db_file_path)):
-        with open(db_file_path, 'x') as fp:
+    if (os.path.isfile(db_file_path)):
+        inp = get_user_yes_no(f'***Warning*** {db_filename} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
+        if is_no(inp):
+            return
+        
+        print("Creating Filebroswer database...")
+        with open(db_file_path, 'w') as fp:
             pass
 
 ########## UI functions ##############
@@ -224,15 +255,18 @@ def ui_get_oauth_proxy_client_secret():
     return get_UI('Oath2 proxy client secret: ')
 
 ########## Utility Functions #############
-def findReplace(directory, find, replace, filePattern = '*'):
-    for path, dirs, files in os.walk(os.path.abspath(directory)):
+def findReplace_DIR(directory, find, replace, filePattern = '*'):
+    for path, dirs, files in os.walk(os.path.abspath(directory)):            
         for filename in fnmatch.filter(files, filePattern):
             filepath = os.path.join(path, filename)
-            with open(filepath) as f:
-                s = f.read()
-            s = s.replace(find, replace)
-            with open(filepath, "w") as f:
-                f.write(s)
+            findReplace_File(filepath, find, replace)
+
+def findReplace_File(filepath, find, replace):
+    with open(filepath) as f:
+        s = f.read()
+    s = s.replace(find, replace)
+    with open(filepath, "w") as f:
+        f.write(s)
 
 def get_user_yes_no(prompt, default):
     if not isinstance(prompt, str):
@@ -243,10 +277,10 @@ def get_user_yes_no(prompt, default):
     
     user_input = input(prompt)
     # check if "y", "n", or white space
-    while (not is_yes(user_input)) and (not is_no(user_input)) and (not user_input.isspace()):
-        user_input('    Incorrect input provided, please provide \'y\' or \'n\'')
+    while (not is_yes(user_input)) and (not is_no(user_input)) and (not user_input.isspace()) and (user_input != ''):
+        user_input = input('    Incorrect input provided, please provide \'y\' or \'n\'')
 
-    if (user_input.isspace()):
+    if (user_input.isspace() or user_input == ''):
         user_input = default
 
     return user_input
