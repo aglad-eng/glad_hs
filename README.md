@@ -74,6 +74,10 @@ Each webserver I want has it's own .conf file in the conf.d/ directory.  There i
 1. Copy and paste the nginx.conf file, the conf_templates directory, and the conf.d directory from nginx_config/examples into nginx_config/
 1. Replace occurances of "my_domain.com" to the domain name that you have set up for your server. See: ["Free Domain Name"](https://github.com/aglad-eng/glad_hs#free-domain-name)
 1. If you want to keep the "999_remaining_subdomains.conf" file, replace the regex expression  ``` ~^(?<var_subdomain>.+)\.my_domain\.com$; ``` to a regex experession that will appropriately catch the subdomain names of your domain. (the "my_domain" and ".com" should be changed).
+1. If you want to treat internal IP addresses and external IP addresses differently update the 
+nginx.conf file at the "TODO" section.  I treated them differently for vaultwarden since 
+The authorization is not necessary if someone is already on my network, and the vaultwarden
+apps do not work with authorization redirects.
 
 **Note:**
 These confs assume that the nginx container can reach other containers via their dns hostnames (defaults to container name) resolved via docker's internal dns. This is achieved through having the containers attached to the same user defined docker bridge network.  I have the network already setup properly in docker compose and in my .conf files.  However, it is important to know as you try and understand the files or create your own in the future.
