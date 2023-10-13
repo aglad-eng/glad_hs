@@ -1,0 +1,9 @@
+{
+    "auth.method": "noauth",
+    "port": 80,
+    "baseURL": "",
+    "address": "",
+    "log": "/fb_logs.log",
+    "database": "/database.db",
+    "root": "/files"
+}

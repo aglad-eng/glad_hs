@@ -2,8 +2,5 @@
 *
 # Except this file, main compose, needed directories
 !.gitignore
-!docker-compose.yml
-!filebrowser_config/
-!filebrowser_config/*
-!filebrowser_data/
-!filebrowser_data/*
+!hosted_docs/
+!hosted_docs/*
