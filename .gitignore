@@ -12,6 +12,9 @@
 .env
 *.env
 
+#Ignore sandbox folders
+unused_services/
+
 # Don't ignore these shell scripts
 !docker_port_fix.sh
 !acme_reg_example.sh
