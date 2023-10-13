@@ -5,9 +5,6 @@
 /temp/
 /temp/*
 /temp/**/*
-/shared_data/
-/shared_data/*
-/shared_data/**/*
 *.sh
 .env
 *.env
@@ -18,10 +15,11 @@ unused_services/
 # Don't ignore these shell scripts
 !docker_port_fix.sh
 !acme_reg_example.sh
+!docker-network-all.sh
+!docker-up-all.sh
 
 # Don't ignore our main files
 !docker-compose.yml
 !.gitignore
 !LICENSE
 !README.md
-!.env.example
