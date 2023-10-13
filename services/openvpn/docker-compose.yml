@@ -1,0 +1,25 @@
+version: "3.6"
+
+services:
+#https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
+  openvpn:
+    cap_add:
+     - NET_ADMIN
+    image: kylemanna/openvpn:latest
+    container_name: openvpn
+    ports:
+     - "1194:1194/udp"
+    restart: unless-stopped
+    volumes:
+     - ${GHS_DIR}/services/openvpn/openvpn-data/conf:/etc/openvpn
+    healthcheck:
+      test: curl --fail -s http://localhost:1194/ || exit 1
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - openvpn_lan
+
+networks:
+  openvpn_lan:
+    external: true 

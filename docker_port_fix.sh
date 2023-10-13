@@ -14,7 +14,7 @@ docker stop $(docker ps -aq)
 #stop the docker daemon
 sudo service docker stop
 
-#clear netowrk database for docker
+#clear network database for docker
 sudo rm -f /var/lib/docker/network/files/local-kv.db
 
 #restart the service

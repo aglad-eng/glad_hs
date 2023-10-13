@@ -6,26 +6,6 @@ version: "3.6"
 # I use this in the Ngninx config a lot
 services:
 
-  ###
-  #  I personally don't use portainer.  I have liked making my own docker compose file instead. But I have it here to show how it would
-  #  be set up for those who prefer it.
-  ###
-  portainer:
-    image: portainer/portainer:latest
-    container_name: portainer
-    restart: unless-stopped
-    command: -H unix:///var/run/docker.sock
-    ports:
-      - 9000
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-      - ${GHS_DIR}/docker/portainer/data:/data
-      - ${GHS_DIR}/shared:/shared
-    environment:
-      - TZ=${TZ}
-    networks:
-      - docker_lan
-
   heimdall:
     image: lscr.io/linuxserver/heimdall:latest
     container_name: heimdall
@@ -51,15 +31,6 @@ services:
     command: --schedule "0 0 4 * * SUN" --cleanup
     networks:
       - docker_lan
-    depends_on:
-      - oauth
-      - jellyfin
-      - filebrowser
-      - heimdall
-      - portainer
-      - nginx-glad_hs
-      - openvpn
-      - adguardhome
 
 #https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
   openvpn:
@@ -144,6 +115,32 @@ services:
     restart: unless-stopped
     networks:
       - docker_lan
+
+  urbackup:
+    image: uroni/urbackup-server:latest
+    container_name: urbackup
+    restart: unless-stopped
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${GHS_DIR}/docker/urbackup/database:/var/urbackup
+      - ${GHS_DIR}/docker/urbackup/backups:/backups
+      # Uncomment the next line if you want to bind-mount the www-folder
+      #- /path/to/wwwfolder:/usr/share/urbackup
+    # networks:
+    #   - docker_lan
+    network_mode: "host"
+    # ports:
+    #   - 55413
+    #   - 35623
+    # Uncomment the following two lines if you're using BTRFS support
+    #cap_add:
+    #  - SYS_ADMIN
+    # Uncomment the following two lines if you're using ZFS support
+    #devices:
+    #  - /dev/zfs:/dev/zfs
 
   vaultwarden:
     container_name: vaultwarden
@@ -237,7 +234,7 @@ services:
       - 80:80
       - 443:443
     security_opt:
-      - no-new-privileges:true
+      - no-new-privileges=true
     volumes:
       ### 
       #   - Basic nginx.conf file file that looks for servers defined in conf.d directory
@@ -257,19 +254,8 @@ services:
     networks:
       - docker_lan
       - oauth2-proxy-network
+      - immich_lan
     restart: unless-stopped
-    ###
-    #   I read that docker containers created after nginx is running are not resolved correctly.  For this reason I make nginx dependent on
-    #   applications that need to be resolved by nginx
-    ###
-    depends_on:
-      - oauth
-      - jellyfin
-      - filebrowser
-      - heimdall
-      - portainer
-      - vaultwarden
-      - adguardhome
   
   ###
   #  Used for google oauth2.  I have it set up as an authentication method for each of my exposed applications.
@@ -287,7 +273,7 @@ services:
       - 8080
       - 4180
     security_opt:
-      - no-new-privileges:true
+      - no-new-privileges=true
     volumes:
       - "${GHS_DIR}/oauth:/config"
       - ~/.acme.sh:/cert_info
@@ -297,6 +283,118 @@ services:
     networks:
       - oauth2-proxy-network
     restart: unless-stopped
+
+########################################################## IMMICH #########################################
+
+#   immich-server:
+#     container_name: immich_server
+#     image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+#     command: ["start-server.sh"]
+#     volumes:
+#       - ${UPLOAD_LOCATION}:/usr/src/app/upload
+#     env_file:
+#       - immich.env
+#     depends_on:
+#       - redis
+#       - database
+#       - typesense
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   immich-microservices:
+#     container_name: immich_microservices
+#     image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+#     command: ["start-microservices.sh"]
+#     volumes:
+#       - ${UPLOAD_LOCATION}:/usr/src/app/upload
+#     env_file:
+#       - immich.env
+#     depends_on:
+#       - redis
+#       - database
+#       - typesense
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   immich-machine-learning:
+#     container_name: immich_machine_learning
+#     image: ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+#     volumes:
+#       - ${UPLOAD_LOCATION}:/usr/src/app/upload
+#       - model-cache:/cache
+#     env_file:
+#       - immich.env
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   immich-web:
+#     container_name: immich_web
+#     image: ghcr.io/immich-app/immich-web:${IMMICH_VERSION:-release}
+#     env_file:
+#       - immich.env
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   typesense:
+#     container_name: immich_typesense
+#     image: typesense/typesense:0.24.0
+#     environment:
+#       - TYPESENSE_API_KEY=${TYPESENSE_API_KEY}
+#       - TYPESENSE_DATA_DIR=/data
+#     logging:
+#       driver: none
+#     volumes:
+#       - tsdata:/data
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   redis:
+#     container_name: immich_redis
+#     image: redis:6.2
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   database:
+#     container_name: immich_postgres
+#     image: postgres:14
+#     env_file:
+#       - immich.env
+#     environment:
+#       POSTGRES_PASSWORD: ${DB_PASSWORD}
+#       POSTGRES_USER: ${DB_USERNAME}
+#       POSTGRES_DB: ${DB_DATABASE_NAME}
+#       PG_DATA: /var/lib/postgresql/data
+#     volumes:
+#       - pgdata:/var/lib/postgresql/data
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+#   immich-proxy:
+#     container_name: immich_proxy
+#     image: ghcr.io/immich-app/immich-proxy:${IMMICH_VERSION:-release}
+#     environment:
+#       # Make sure these values get passed through from the env file
+#       - IMMICH_SERVER_URL
+#       - IMMICH_WEB_URL
+#     ports:
+#       - 8080
+#     depends_on:
+#       - immich-server
+#     networks:
+#       - immich_lan
+#     restart: unless-stopped
+
+# volumes:
+#   pgdata:
+#   model-cache:
+#   tsdata:
 
 ###
 # 2 networks:
@@ -308,4 +406,6 @@ networks:
   docker_lan:
     driver: bridge    
   oauth2-proxy-network:
+    driver: bridge
+  immich_lan:
     driver: bridge

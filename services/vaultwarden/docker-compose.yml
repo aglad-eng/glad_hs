@@ -1,0 +1,50 @@
+version: "3.6"
+
+services:
+  vaultwarden:
+    container_name: vaultwarden
+    hostname: vaultwarden
+    restart: unless-stopped
+    image: vaultwarden/server:latest
+    # For explanations of environemnt variables see: https://github.com/dani-garcia/vaultwarden/blob/main/.env.template
+    environment:
+      ### This environment variable disables forced https (this is because I have it hidden within local docker netowrk
+      #   behind a reverse proxy that is forced https)
+      - WEBSOCKET_ENABLED=true
+
+      ###
+      # Gmail has a free SMTP server (up to 500 or 1,000 per day).  It is easy to look up how to set up your credentials.
+      ###
+      - SMTP_HOST=${SMTP_DOMAIN}
+      - SMTP_FROM=${SMTP_EMAIL}
+      - SMTP_FROM_NAME=VaultWarden 
+      - SMTP_PORT=587 
+      - SMTP_SECURITY=starttls
+      - SMTP_USERNAME=${SMTP_USERNAME}
+      - SMTP_PASSWORD=${SMTP_PASSWORD}
+      - SMTP_TIMEOUT=30
+      - LOGIN_RATELIMIT_SECONDS=60
+      - LOGIN_RATELIMIT_MAX_BURST=10
+      - ADMIN_RATELIMIT_SECONDS=300
+      - ADMIN_RATELIMIT_MAX_BURST=3
+      - INVITATIONS_ALLOWED=true
+      - INVITATION_ORG_NAME=Vaultwarden
+      - ADMIN_TOKEN=${VW_ADMIN_TOKEN}
+      - SIGNUPS_ALLOWED=true
+      - SIGNUPS_VERIFY=true
+      - SIGNUPS_VERIFY_RESEND_TIME=60
+      - SIGNUPS_VERIFY_RESEND_LIMIT=6
+      - DISABLE_ADMIN_TOKEN=false
+      - SHOW_PASSWORD_HINT=false
+      ### This should be the domain used for your vaultwarden.  It is what is used for links in emails that vault warden deploys
+      - DOMAIN=https://vaultwarden.${GHS_BASE_DOMAIN}
+    volumes:
+      - ${GHS_DIR}/services/vaultwarden/vw_data:/data
+    ports:
+      - 80
+    networks:
+      - vaultwarden_lan
+
+networks:
+  vaultwarden_lan:
+    external: true
