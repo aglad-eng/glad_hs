@@ -3,3 +3,5 @@
 # Except this file, main compose, needed directories
 !.gitignore
 !docker-compose.yml
+!uploaded_files/
+!uploaded_files/*

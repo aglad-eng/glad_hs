@@ -14,12 +14,13 @@ services:
       "--noauth"
     ]
     environment:
-      - FB_NOAUTH=noauth
+      # - FB_NOAUTH=noauth
       - FB_BRANDING.DISABLEEXTERNAL=true
     ports:
       - 80
     volumes:
       - ${GHS_DIR}/services/filebrowser/filebrowser_data/hosted_docs:/files
+      - ${GHS_DIR}/services/jellyfin/uploaded_files:/files/jellyfin
       - ${GHS_DIR}/services/filebrowser/filebrowser_config/fb_database.db:/database.db
       - ${GHS_DIR}/services/filebrowser/filebrowser_data/fb_logs.log:/fb_logs.log
       - ${GHS_DIR}/services/filebrowser/filebrowser_config/filebrowser.json:/.filebrowser.json
