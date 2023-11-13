@@ -9,7 +9,8 @@ networks=( \
     "nginx_lan" \
     "oauth_lan" \
     "openvpn_lan" \
-    "vaultwarden_lan" )
+    "vaultwarden_lan" \ 
+    "wg-easy_lan" )
 
 if [[ $# -eq 0 ]]; then
   echo "Usage: $0 [create|remove|list]"

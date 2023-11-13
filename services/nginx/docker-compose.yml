@@ -36,6 +36,7 @@ services:
       - oauth_lan
       - openvpn_lan
       - vaultwarden_lan
+      - wg-easy_lan
     restart: unless-stopped
 
 networks:
@@ -54,6 +55,8 @@ networks:
   openvpn_lan:
     external: true
   vaultwarden_lan:
+    external: true
+  wg-easy_lan:
     external: true
   primary_reverse_proxy:
     driver: bridge    
