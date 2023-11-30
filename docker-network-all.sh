@@ -9,6 +9,7 @@ networks=( \
     "nginx_lan" \
     "oauth_lan" \
     "openvpn_lan" \
+    "paperless_lan" \
     "vaultwarden_lan" \ 
     "wg-easy_lan" )
 

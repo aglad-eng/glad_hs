@@ -1,5 +1,5 @@
 # glad_hs
-A docker-compose framework for a home server.  The first part of the read me is explanations on chioces.  Skip to ["Setup"](https://github.com/aglad-eng/glad_hs#setup) to see instructions on how to set up and run the server.
+A docker compose framework for a home server.  The first part of the read me is explanations on chioces.  Skip to ["Setup"](https://github.com/aglad-eng/glad_hs#setup) to see instructions on how to set up and run the server.
 
 Goals:  
   - Primary: To show an example set up of a basic home server.  Hopefully this will allow others looking to set up some refferences on how I did mine.  
@@ -96,7 +96,7 @@ Replace the example email addresses with an the email addresses associated with 
 Filebrowser is a basic web ui for the file system of the server.  By default it uses a file as a binary dictionary.  For Filebrowser to start properly it needs an empty file to use as it's binary database.  Create an empty fb_data.db file under the fb_config/ directory.  The full path should be \<Path to repo\>/fb_config/fb_data.db.  
 
 ### Final Setup Command
-Once everything has been set up start the server by using the following command when in the root directory of the repository: ``` docker-compose up -d ```.  This will spin up all the docker containers defined in docker-compose.yml.
+Once everything has been set up start the server by using the following command when in the root directory of the repository: ``` docker compose up -d ```.  This will spin up all the docker containers defined in docker-compose.yml.
 
 # Useful sites and resources
   - General: https://www.smarthomebeginner.com/home-server/ 
