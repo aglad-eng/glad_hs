@@ -35,6 +35,7 @@ services:
       - jellyfin_lan
       - oauth_lan
       - openvpn_lan
+      - paperless_lan
       - vaultwarden_lan
       - wg-easy_lan
     restart: unless-stopped
@@ -53,6 +54,8 @@ networks:
   oauth_lan:
     external: true
   openvpn_lan:
+    external: true
+  paperless_lan:
     external: true
   vaultwarden_lan:
     external: true
