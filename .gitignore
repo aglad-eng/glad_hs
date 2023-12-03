@@ -16,7 +16,7 @@ unused_services/
 !docker_port_fix.sh
 !acme_reg_example.sh
 !docker-network-all.sh
-!docker-up-all.sh
+!docker-all.sh
 
 # Don't ignore our main files
 !docker-compose.yml

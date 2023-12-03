@@ -3,3 +3,4 @@
 # Except this file, main compose, needed directories
 !.gitignore
 !docker-compose.yml
+!.env.example

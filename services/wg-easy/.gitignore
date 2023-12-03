@@ -5,3 +5,4 @@
 !docker-compose.yml
 !wg_volume/
 !wg_volume/*
+!.env.example

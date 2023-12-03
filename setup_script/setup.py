@@ -23,22 +23,16 @@ g_oauth_secret_cookie = None
 def main():
     setup_fb()
     setup_nginx()
-    setup_env()
     setup_oauth()
 
     print('\nSetup of glad_hs has finished.')
+    print('\n***REMEMBER*** You must setup .env files for your services manually.')
     print('If you skipped steps and need to finish setup manually please view the README for more information: https://github.com/aglad-eng/glad_hs#setup')
 
 def setup_nginx():
     inp = get_user_yes_no('Do you want nginx to be automatically setup for you? (will put your domain name into .conf files): (Y/n)', 'y')
     if is_yes(inp):
         prep_nginx_conf_files()
-        print('')
-
-def setup_env():
-    inp = get_user_yes_no('Do you want the .env file to be automatically setup for you? (will put environment variables for docker-compose.yml): (Y/n)', 'y')
-    if is_yes(inp):
-        prep_env_file()
         print('')
 
 def setup_oauth():
@@ -58,9 +52,9 @@ def prep_nginx_conf_files():
     global g_domain_name
 
     ### Get paths
-    nginx_conf_relPath = "nginx_config/"
+    nginx_conf_relPath = "services/nginx/nginx_config/"
     nginx_conf_absPath = os.path.join(glad_hs_dir, nginx_conf_relPath)
-    nginx_ex_relPath = "nginx_config/examples/"
+    nginx_ex_relPath = "services/nginx/nginx_config/examples/"
     nginx_ex_absPath = os.path.join(glad_hs_dir, nginx_ex_relPath)
 
     ### Check if files already exist
@@ -85,81 +79,6 @@ def prep_nginx_conf_files():
     findReplace_DIR(os.path.join(nginx_conf_absPath, "conf_templates/"), DEFAULT_DOMAIN_NAME, g_domain_name)
     findReplace_File(nginx_main_conf_path, DEFAULT_DOMAIN_NAME, g_domain_name)
 
-    # Open 999_remaining_subdomains.conf and replace correct sections
-    all_subdomains_conf_path = os.path.join(nginx_conf_absPath, "conf.d/999_remaining_subdomains.conf")
-    filedata = None
-    with open(all_subdomains_conf_path, 'r') as file:
-        filedata =  file.read()
-
-    repl_string = g_domain_name.replace('.', '\.')
-    # Replace the target string
-    filedata = filedata.replace('my_domain\.com', repl_string)
-
-    # Write the file out again
-    with open(all_subdomains_conf_path, 'w') as file:
-        file.write(filedata)
-
-def prep_env_file():
-    global g_domain_name
-    global g_oauth_proxy_client_id
-    global g_oauth_proxy_client_secret
-    global g_oauth_secret_cookie
-
-    ### Get paths
-    fname = ".env"
-    envExample_file_path = os.path.join(glad_hs_dir, fname + ".example")
-    env_file_path = os.path.join(glad_hs_dir, fname)
-
-    ### Check if file exists
-    if (os.path.isfile(env_file_path)):
-        inp = get_user_yes_no(f'***Warning*** {fname} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
-        if is_no(inp):
-            return
-
-    if (g_domain_name is None):
-        g_domain_name = ui_get_domain_name()
-
-    oauth_admin_email = input('Oath2 admin email: ')
-    if g_oauth_secret_cookie is None:
-        g_oauth_secret_cookie = ui_get_oauth_secret_cookie()
-    if g_oauth_proxy_client_id is None:
-        g_oauth_proxy_client_id = ui_get_oauth_proxy_client_id()
-    if g_oauth_proxy_client_secret is None:
-        g_oauth_proxy_client_secret = ui_get_oauth_proxy_client_secret()
-
-    smtp_username = input('SMTP username: ')
-    smtp_password = input('SMTP password: ')
-    smtp_email = input('SMTP email: ')
-    smtp_domain = input('SMTP domain: ')
-    VW_admin_token = input('Vaultwarden (bit warden) admin token: ')
-    
-    print("Creating and editing .env file...")
-
-    with open(envExample_file_path, 'r') as file:
-        filedata =  file.read()
-
-    # Replace the target string
-    filedata = filedata.replace('GHS_DIR=/home/username/glad_hs', 'GHS_DIR=' + glad_hs_dir)
-    filedata = filedata.replace('GHS_SECRETS_DIR=/home/username/glad_hs/secrets', 'GHS_SECRETS_DIR=' + os.path.join(glad_hs_dir, '/secrets'))
-    filedata = filedata.replace('GHS_DOMAIN_NAME_PROXY=mydomain.com', 'GHS_DOMAIN_NAME_PROXY=' + g_domain_name)
-    filedata = filedata.replace('GHS_BASE_DOMAIN=mydomain.com', 'GHS_BASE_DOMAIN=' + g_domain_name)
-
-    filedata = filedata.replace('MY_OAUTH_ADMIN_EMAIL=my_email@gmail.com', 'MY_OAUTH_ADMIN_EMAIL=' + oauth_admin_email)
-    filedata = filedata.replace('OAUTH2_PROXY_COOKIE_SECRET=SUPER_SECRET_GENERATED_COOKIE', 'OAUTH2_PROXY_COOKIE_SECRET=' + g_oauth_secret_cookie)
-    filedata = filedata.replace('OAUTH2_PROXY_COOKIE_DOMAIN=https://<oauth_sub_domain>.mydomain.com', 'OAUTH2_PROXY_COOKIE_DOMAIN=' + f"https://oauth.{g_domain_name}")
-    filedata = filedata.replace('OAUTH2_PROXY_CLIENT_ID=client_id_recieved_from_oauth_provider', 'OAUTH2_PROXY_CLIENT_ID=' + g_oauth_proxy_client_id)
-    filedata = filedata.replace('OAUTH2_PROXY_CLIENT_SECRET=client_secret', 'OAUTH2_PROXY_CLIENT_SECRET=' + g_oauth_proxy_client_secret)
-
-    filedata = filedata.replace('SMTP_USERNAME=my_email@gmail.com', 'SMTP_USERNAME=' + smtp_username)
-    filedata = filedata.replace('SMTP_PASSWORD=smtp_password', 'SMTP_PASSWORD=' + smtp_password)
-    filedata = filedata.replace('SMTP_EMAIL=my_email@gmail.com', 'SMTP_EMAIL=' + smtp_email)
-    filedata = filedata.replace('SMTP_DOMAIN=smtp.gmail.com', 'SMTP_DOMAIN=' + smtp_domain)
-    filedata = filedata.replace('VW_ADMIN_TOKEN=super_secure_admin_token', 'VW_ADMIN_TOKEN=' + VW_admin_token)
-
-    # Write the file out again
-    with open(env_file_path, 'w') as file:
-        file.write(filedata)
-
 def prep_oauth_config_file():
     global g_domain_name
     global g_oauth_proxy_client_id
@@ -168,8 +87,8 @@ def prep_oauth_config_file():
     
     ### Get Paths
     fname = "oauth2_proxy.cfg"
-    oauthConfigExample_file_path = os.path.join(glad_hs_dir, "oauth/", fname + ".example")
-    oauthConfig_file_path = os.path.join(glad_hs_dir, "oauth/", fname)
+    oauthConfigExample_file_path = os.path.join(glad_hs_dir, "services/oauth/config/", fname + ".example")
+    oauthConfig_file_path = os.path.join(glad_hs_dir, "services/oauth/config/", fname)
     
     ### Check if file exists
     if (os.path.isfile(oauthConfig_file_path)):
@@ -209,7 +128,7 @@ def prep_oauth_config_file():
 
 def prep_oauth_emails_file():
     fname = "permitted_emails.txt"
-    oauthEmail_file_path = os.path.join(glad_hs_dir, "oauth/", fname)
+    oauthEmail_file_path = os.path.join(glad_hs_dir, "services/oauth/config/", fname)
     
     if (os.path.isfile(oauthEmail_file_path)):
         inp = get_user_yes_no(f'***Warning*** {fname} files already exists.  Are you sure you want to overwrite it? (y/N)', 'n')
@@ -226,7 +145,7 @@ def prep_oauth_emails_file():
 
 def create_empty_db():
     db_filename = "fb_database.db"
-    db_relPath = "fb_config/"
+    db_relPath = "services/filebrowser/filebrowser_config/"
     db_file_path = os.path.join(glad_hs_dir, db_relPath, db_filename)
 
     if (os.path.isfile(db_file_path)):
