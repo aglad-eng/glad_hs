@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this file, main compose, needed directories
+!.gitignore
+!hosted_docs/
+!hosted_docs/*

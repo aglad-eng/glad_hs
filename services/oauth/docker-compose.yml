@@ -1,0 +1,33 @@
+version: "3.6"
+
+services:
+  ###
+  #  Used for google oauth2.  I have it set up as an authentication method for each of my exposed applications.
+  #
+  #  I used a combination of the following to sites to figure out the configuration for the bitnami/oauth2-proxy service and
+  #  the nginx oauth authentication call back
+  #       See:  https://oauth2-proxy.github.io/oauth2-proxy/docs/configuration/overview/
+  #       See:  https://github.com/bitly/oauth2_proxy
+  ###
+  oauth:
+    image: "bitnami/oauth2-proxy:latest"
+    container_name: oauth
+    hostname: oauth
+    ports:
+      - 8080
+      - 4180
+    security_opt:
+      - no-new-privileges=true
+    volumes:
+      - "${GHS_DIR}/services/oauth/config:/config"
+      - ~/.acme.sh:/cert_info
+    command: [
+      "--config=/config/oauth2_proxy.cfg"
+    ]
+    networks:
+      - oauth_lan
+    restart: unless-stopped
+
+networks:
+  oauth_lan:
+    external: true    

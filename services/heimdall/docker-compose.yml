@@ -1,0 +1,21 @@
+version: "3.6"
+
+services:
+  heimdall:
+    image: lscr.io/linuxserver/heimdall:latest
+    container_name: heimdall
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${GHS_DIR}/services/heimdall/config:/config
+    ports:
+      - 80
+    restart: unless-stopped
+    networks:
+      - heimdall_lan
+
+networks:
+  heimdall_lan:
+    external: true  

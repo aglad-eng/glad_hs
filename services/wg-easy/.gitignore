@@ -1,0 +1,8 @@
+# Ignore everything in this directory
+*
+# Except this file, main compose, needed directories
+!.gitignore
+!docker-compose.yml
+!wg_volume/
+!wg_volume/*
+!.env.example

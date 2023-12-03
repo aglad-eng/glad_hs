@@ -1,0 +1,65 @@
+version: "3.6"
+
+services:
+  nginx-glad_hs:
+    container_name: nginx-glad_hs
+    hostname: nginx-glad_hs
+    image: nginx:latest
+    ports:
+      - 80:80
+      - 443:443
+    security_opt:
+      - no-new-privileges=true
+    volumes:
+      ### 
+      #   - Basic nginx.conf file file that looks for servers defined in conf.d directory
+      #   - Conf.d directory containers servers for each application desired
+      #         - Titled ###-title name,  servers are spun up in alphabitcal order, numbers let you organise in desired order easily
+      #   - Conf_templates - Files that are used as includes in servers defined in con.d directory to clean up each servers definition
+      ###
+      - ${GHS_DIR}/services/nginx/nginx_config/nginx.conf:/etc/nginx/nginx.conf
+      - ${GHS_DIR}/services/nginx/nginx_config/conf.d:/etc/nginx/conf.d
+      - ${GHS_DIR}/services/nginx/nginx_config/conf_templates:/etc/nginx/conf_templates
+
+      ### TLS certificates
+      - /etc/letsencrypt:/etc/letsencrypt:ro
+      - /tmp/acme_challenge:/tmp/acme_challenge
+      - ~/.acme.sh:/cert_info
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+    networks:
+      - primary_reverse_proxy
+      - adguardhome_lan
+      - filebrowser_lan
+      - heimdall_lan
+      - immich_lan
+      - jellyfin_lan
+      - oauth_lan
+      - openvpn_lan
+      - paperless_lan
+      - vaultwarden_lan
+      - wg-easy_lan
+    restart: unless-stopped
+
+networks:
+  adguardhome_lan:
+    external: true
+  filebrowser_lan:
+    external: true
+  heimdall_lan:
+    external: true
+  immich_lan:
+    external: true
+  jellyfin_lan:
+    external: true
+  oauth_lan:
+    external: true
+  openvpn_lan:
+    external: true
+  paperless_lan:
+    external: true
+  vaultwarden_lan:
+    external: true
+  wg-easy_lan:
+    external: true
+  primary_reverse_proxy:
+    driver: bridge    

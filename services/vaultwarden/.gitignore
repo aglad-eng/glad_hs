@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except this file, main compose, needed directories
+!.gitignore
+!.env.example
+!docker-compose.yml

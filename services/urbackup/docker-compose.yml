@@ -1,0 +1,28 @@
+version: "3.6"
+
+services:
+  urbackup:
+    image: uroni/urbackup-server:latest
+    container_name: urbackup
+    restart: unless-stopped
+    environment:
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+    volumes:
+      - ${GHS_DIR}/services/urbackup/database:/var/urbackup
+      - ${GHS_DIR}/services/urbackup/backups:/backups
+      # Uncomment the next line if you want to bind-mount the www-folder
+      #- /path/to/wwwfolder:/usr/share/urbackup
+    # networks:
+    #   - docker_lan
+    network_mode: "host"
+    # ports:
+    #   - 55413
+    #   - 35623
+    # Uncomment the following two lines if you're using BTRFS support
+    #cap_add:
+    #  - SYS_ADMIN
+    # Uncomment the following two lines if you're using ZFS support
+    #devices:
+    #  - /dev/zfs:/dev/zfs
