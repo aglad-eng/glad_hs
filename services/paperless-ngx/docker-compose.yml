@@ -87,16 +87,17 @@ services:
 
   gotenberg:
     container_name: paperless-gotenberg
-    image: docker.io/gotenberg/gotenberg:7.8
+    image: docker.io/gotenberg/gotenberg:7.6
     restart: unless-stopped
-    networks:
-      - paperless_lan
     # The gotenberg chromium route is used to convert .eml files. We do not
     # want to allow external content like tracking pixels or even javascript.
     command:
       - "gotenberg"
       - "--chromium-disable-javascript=true"
       - "--chromium-allow-list=file:///tmp/.*"
+      - "--api-timeout=500s"
+    networks:
+      - paperless_lan
 
   tika:
     container_name: paperless-tika

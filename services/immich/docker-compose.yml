@@ -89,6 +89,32 @@ services:
     networks:
       - immich_lan
 
+  backup:
+    container_name: immich_db_backup
+    image: prodrigestivill/postgres-backup-local:latest
+    env_file:
+      - .env
+    environment:
+      POSTGRES_HOST: immich_postgres
+      POSTGRES_DB: ${DB_DATABASE_NAME}
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      SCHEDULE: "@daily"
+      BACKUP_KEEP_DAYS: 7
+      BACKUP_KEEP_WEEKS: 4
+      BACKUP_KEEP_MONTHS: 6
+      BACKUP_DIR: /db_backups
+      HEALTHCHECK_PORT: 8080
+      POSTGRES_CLUSTER: "TRUE"
+      POSTGRES_EXTRA_OPTS: -c
+    volumes:
+      - ${GHS_DIR}/services/immich/db_backup:/backups
+    depends_on:
+      - database
+    restart: unless-stopped
+    networks:
+      - immich_lan
+
 volumes:
   pgdata:
   model-cache:
