@@ -24,7 +24,7 @@ services:
       ### TLS certificates
       - /etc/letsencrypt:/etc/letsencrypt:ro
       - /tmp/acme_challenge:/tmp/acme_challenge
-      - ~/.acme.sh:/cert_info
+      - ~/certinfo:/cert_info
       - /var/run/docker.sock:/tmp/docker.sock:ro
     networks:
       - primary_reverse_proxy

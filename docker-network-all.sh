@@ -10,7 +10,7 @@ networks=( \
     "oauth_lan" \
     "openvpn_lan" \
     "paperless_lan" \
-    "vaultwarden_lan" \ 
+    "vaultwarden_lan" \
     "wg-easy_lan" )
 
 if [[ $# -eq 0 ]]; then

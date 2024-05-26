@@ -37,7 +37,7 @@ services:
     image: docker.io/library/redis:7
     restart: unless-stopped
     volumes:
-      - redisdata:/data
+      - ${GHS_DIR}/services/paperless-ngx/redisdata:/data
     networks:
       - paperless_lan
 
@@ -46,7 +46,7 @@ services:
     image: docker.io/library/postgres:15
     restart: unless-stopped
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - ${GHS_DIR}/services/paperless-ngx/pgdata:/var/lib/postgresql/data
     environment:
       POSTGRES_DB: paperless
       POSTGRES_USER: paperless
@@ -105,12 +105,6 @@ services:
     restart: unless-stopped
     networks:
       - paperless_lan
-
-volumes:
-  data:
-  media:
-  pgdata:
-  redisdata:
 
 networks:
   paperless_lan:
