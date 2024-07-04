@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Ravenous Void error</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13871225/ravenous-void-error</link>
+		<description>Posts in the discussion thread &quot;Ravenous Void error&quot; - Duration</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:01 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13871225#post-4826239</guid>
+				<title>Re: Ravenous Void error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13871225/ravenous-void-error#post-4826239</link>
+				<description></description>
+				<pubDate>Mon, 23 Nov 2020 14:27:33 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for the catches, they've been fixed.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13871225#post-4825868</guid>
+				<title>Re: Ravenous Void error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13871225/ravenous-void-error#post-4825868</link>
+				<description></description>
+				<pubDate>Mon, 23 Nov 2020 04:19:11 +0000</pubDate>
+				<wikidot:authorName>merwini</wikidot:authorName>				<wikidot:authorUserId>7048651</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Also, <a class="newpage" href="http://dnd5e.wikidot.com/invulnerability">Invulnerability</a> has the opposite problem, where the Duration is correct on the spell's page, but in the spell table it lists the duration incorrectly as &quot;Concentration up to 1 minute&quot;.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13871225#post-4825865</guid>
+				<title>Ravenous Void error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13871225/ravenous-void-error#post-4825865</link>
+				<description></description>
+				<pubDate>Mon, 23 Nov 2020 04:07:37 +0000</pubDate>
+				<wikidot:authorName>merwini</wikidot:authorName>				<wikidot:authorUserId>7048651</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The table of spells correctly shows the duration as &quot;Concentration, up to 1 minute&quot;, but the actual spell page incorrectly give the duration as &quot;Instantaneous&quot;.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

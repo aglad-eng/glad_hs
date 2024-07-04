@@ -1,0 +1,3439 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Page Tags - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887293;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "system:page-tags";
+        OZONE.request.timestamp = 1720132749;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "system:page-tags";
+        WIKIREQUEST.info.pageId = 48865967;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/css/wiki/pagestagcloud/PagesTagCloudModule.css);
+
+
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="../../local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="../../local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="../../common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="../../random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="../../index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/system:page-tags/tag/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="../../main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="../../system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="wondrous-item#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+<li><a href="../../help:quick-reference">Quick Reference</a></li>
+<li><a href="../../help:creating-pages">Creating Pages</a></li>
+<li><a href="../../help:editing-pages">Editing Pages</a></li>
+<li><a href="../../help:navigation-bars">Navigation Bars</a></li>
+<li><a href="../../help:using-modules">Using Modules</a></li>
+<li><a href="../../help:templates">Templates</a></li>
+<li><a href="../../help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="wondrous-item#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../_admin">Site Manager</a></li>
+<li><a href="../../nav:top">Edit Top Bar</a></li>
+<li><a href="../../nav:side">Edit Side Bar</a></li>
+<li><a href="../../css:_home">CSS Manager</a></li>
+<li><a href="../../system:recent-changes">Recent Changes</a></li>
+<li><a href="../../system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="../../main:about">About</a></li>
+<li><a href="../../main:contact">Contact</a></li>
+<li><a href="../../legal:_home">Legal</a></li>
+<li><a href="../../forum:start">Discussion Forums</a></li>
+<li><a href="../../system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/system:page-tags/tag/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Page Tags</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div style="float:right; width: 50%;">	<div class="pages-tag-cloud-box">
+									<a class="tag" href="???"
+					style="font-size: 112%; color: rgb(124, 124, 188);"
+					>???</a>
+							<a class="tag" href="abjuration"
+					style="font-size: 121%; color: rgb(121, 121, 185);"
+					>abjuration</a>
+							<a class="tag" href="ai"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>ai</a>
+							<a class="tag" href="armor"
+					style="font-size: 125%; color: rgb(120, 120, 184);"
+					>armor</a>
+							<a class="tag" href="artifact"
+					style="font-size: 115%; color: rgb(123, 123, 187);"
+					>artifact</a>
+							<a class="tag" href="artificer"
+					style="font-size: 137%; color: rgb(116, 116, 180);"
+					>artificer</a>
+							<a class="tag" href="attuned"
+					style="font-size: 300%; color: rgb(64, 64, 128);"
+					>attuned</a>
+							<a class="tag" href="avatar"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>avatar</a>
+							<a class="tag" href="awakened"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>awakened</a>
+							<a class="tag" href="bard"
+					style="font-size: 161%; color: rgb(108, 108, 172);"
+					>bard</a>
+							<a class="tag" href="bard-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>bard-expanded</a>
+							<a class="tag" href="./bg:da"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>bg:da</a>
+							<a class="tag" href="bomt"
+					style="font-size: 121%; color: rgb(121, 121, 185);"
+					>bomt</a>
+							<a class="tag" href="./bp:gog"
+					style="font-size: 109%; color: rgb(125, 125, 189);"
+					>bp:gog</a>
+							<a class="tag" href="cantrip"
+					style="font-size: 118%; color: rgb(122, 122, 186);"
+					>cantrip</a>
+							<a class="tag" href="chonurgy"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>chonurgy</a>
+							<a class="tag" href="chronurgy"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>chronurgy</a>
+							<a class="tag" href="cleric"
+					style="font-size: 147%; color: rgb(113, 113, 177);"
+					>cleric</a>
+							<a class="tag" href="cleric-expanded"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>cleric-expanded</a>
+							<a class="tag" href="cm"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>cm</a>
+							<a class="tag" href="common"
+					style="font-size: 134%; color: rgb(117, 117, 181);"
+					>common</a>
+							<a class="tag" href="conjuration"
+					style="font-size: 139%; color: rgb(115, 115, 179);"
+					>conjuration</a>
+							<a class="tag" href="cos"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>cos</a>
+							<a class="tag" href="cr"
+					style="font-size: 110%; color: rgb(125, 125, 189);"
+					>cr</a>
+							<a class="tag" href="./cr:cn"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>cr:cn</a>
+							<a class="tag" href="dc"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>dc</a>
+							<a class="tag" href="divination"
+					style="font-size: 114%; color: rgb(123, 123, 187);"
+					>divination</a>
+							<a class="tag" href="dmg"
+					style="font-size: 199%; color: rgb(96, 96, 160);"
+					>dmg</a>
+							<a class="tag" href="druid"
+					style="font-size: 164%; color: rgb(108, 108, 172);"
+					>druid</a>
+							<a class="tag" href="druid-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>druid-expanded</a>
+							<a class="tag" href="dsdq"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>dsdq</a>
+							<a class="tag" href="dunamancy"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>dunamancy</a>
+							<a class="tag" href="egw"
+					style="font-size: 116%; color: rgb(123, 123, 187);"
+					>egw</a>
+							<a class="tag" href="eighth"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>eighth</a>
+							<a class="tag" href="enchantment"
+					style="font-size: 122%; color: rgb(121, 121, 185);"
+					>enchantment</a>
+							<a class="tag" href="./e:rlw"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>e:rlw</a>
+							<a class="tag" href="evocation"
+					style="font-size: 141%; color: rgb(115, 115, 179);"
+					>evocation</a>
+							<a class="tag" href="fifth"
+					style="font-size: 124%; color: rgb(120, 120, 184);"
+					>fifth</a>
+							<a class="tag" href="first"
+					style="font-size: 133%; color: rgb(118, 118, 182);"
+					>first</a>
+							<a class="tag" href="fourth"
+					style="font-size: 123%; color: rgb(121, 121, 185);"
+					>fourth</a>
+							<a class="tag" href="ftd"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ftd</a>
+							<a class="tag" href="ggr"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ggr</a>
+							<a class="tag" href="gos"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>gos</a>
+							<a class="tag" href="graviturgy"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>graviturgy</a>
+							<a class="tag" href="hat"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>hat</a>
+							<a class="tag" href="homebrew"
+					style="font-size: 129%; color: rgb(119, 119, 183);"
+					>homebrew</a>
+							<a class="tag" href="./id:rf"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>id:rf</a>
+							<a class="tag" href="illusion"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>illusion</a>
+							<a class="tag" href="immortal"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>immortal</a>
+							<a class="tag" href="imr"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>imr</a>
+							<a class="tag" href="jrc"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>jrc</a>
+							<a class="tag" href="kgv"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>kgv</a>
+							<a class="tag" href="legendary"
+					style="font-size: 155%; color: rgb(110, 110, 174);"
+					>legendary</a>
+							<a class="tag" href="llk"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>llk</a>
+							<a class="tag" href="lmp"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>lmp</a>
+							<a class="tag" href="./lr:dtb"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>lr:dtb</a>
+							<a class="tag" href="mcv2"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>mcv2</a>
+							<a class="tag" href="mot"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>mot</a>
+							<a class="tag" href="necromancy"
+					style="font-size: 116%; color: rgb(123, 123, 187);"
+					>necromancy</a>
+							<a class="tag" href="ninth"
+					style="font-size: 108%; color: rgb(126, 126, 190);"
+					>ninth</a>
+							<a class="tag" href="nomad"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>nomad</a>
+							<a class="tag" href="ooa"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>ooa</a>
+							<a class="tag" href="paladin"
+					style="font-size: 119%; color: rgb(122, 122, 186);"
+					>paladin</a>
+							<a class="tag" href="paladin-expanded"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>paladin-expanded</a>
+							<a class="tag" href="pbtso"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>pbtso</a>
+							<a class="tag" href="poa"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>poa</a>
+							<a class="tag" href="potion"
+					style="font-size: 114%; color: rgb(124, 124, 188);"
+					>potion</a>
+							<a class="tag" href="psaim"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>psaim</a>
+							<a class="tag" href="qis"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>qis</a>
+							<a class="tag" href="ranger"
+					style="font-size: 127%; color: rgb(119, 119, 183);"
+					>ranger</a>
+							<a class="tag" href="ranger-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ranger-expanded</a>
+							<a class="tag" href="rare"
+					style="font-size: 193%; color: rgb(98, 98, 162);"
+					>rare</a>
+							<a class="tag" href="ring"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>ring</a>
+							<a class="tag" href="ritual"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>ritual</a>
+							<a class="tag" href="rod"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>rod</a>
+							<a class="tag" href="rot"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>rot</a>
+							<a class="tag" href="sas"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>sas</a>
+							<a class="tag" href="scc"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>scc</a>
+							<a class="tag" href="scroll"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>scroll</a>
+							<a class="tag" href="sdw"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>sdw</a>
+							<a class="tag" href="second"
+					style="font-size: 135%; color: rgb(117, 117, 181);"
+					>second</a>
+							<a class="tag" href="seventh"
+					style="font-size: 111%; color: rgb(125, 125, 189);"
+					>seventh</a>
+							<a class="tag" href="sixth"
+					style="font-size: 119%; color: rgb(122, 122, 186);"
+					>sixth</a>
+							<a class="tag" href="skt"
+					style="font-size: 106%; color: rgb(126, 126, 190);"
+					>skt</a>
+							<a class="tag" href="sorcerer"
+					style="font-size: 196%; color: rgb(97, 97, 161);"
+					>sorcerer</a>
+							<a class="tag" href="sorcerer-expanded"
+					style="font-size: 107%; color: rgb(126, 126, 190);"
+					>sorcerer-expanded</a>
+							<a class="tag" href="staff"
+					style="font-size: 112%; color: rgb(124, 124, 188);"
+					>staff</a>
+							<a class="tag" href="tagged"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>tagged</a>
+							<a class="tag" href="tce"
+					style="font-size: 117%; color: rgb(123, 123, 187);"
+					>tce</a>
+							<a class="tag" href="tdcsr"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>tdcsr</a>
+							<a class="tag" href="technomagic"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>technomagic</a>
+							<a class="tag" href="third"
+					style="font-size: 130%; color: rgb(118, 118, 182);"
+					>third</a>
+							<a class="tag" href="toa"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>toa</a>
+							<a class="tag" href="tod"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>tod</a>
+							<a class="tag" href="transmutation"
+					style="font-size: 141%; color: rgb(115, 115, 179);"
+					>transmutation</a>
+							<a class="tag" href="typ"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>typ</a>
+							<a class="tag" href="uncommon"
+					style="font-size: 175%; color: rgb(104, 104, 168);"
+					>uncommon</a>
+							<a class="tag" href="unearthedarcana"
+					style="font-size: 118%; color: rgb(122, 122, 186);"
+					>unearthedarcana</a>
+							<a class="tag" href="unique"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>unique</a>
+							<a class="tag" href="veor"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>veor</a>
+							<a class="tag" href="very-rare"
+					style="font-size: 168%; color: rgb(106, 106, 170);"
+					>very-rare</a>
+							<a class="tag" href="vgm"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>vgm</a>
+							<a class="tag" href="vrgr"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>vrgr</a>
+							<a class="tag" href="wand"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>wand</a>
+							<a class="tag" href="warlock"
+					style="font-size: 162%; color: rgb(108, 108, 172);"
+					>warlock</a>
+							<a class="tag" href="warlock-expanded"
+					style="font-size: 107%; color: rgb(126, 126, 190);"
+					>warlock-expanded</a>
+							<a class="tag" href="wbw"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>wbw</a>
+							<a class="tag" href="wdh"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>wdh</a>
+							<a class="tag" href="wdmm"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>wdmm</a>
+							<a class="tag" href="weapon"
+					style="font-size: 162%; color: rgb(108, 108, 172);"
+					>weapon</a>
+							<a class="tag" href="wgte"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>wgte</a>
+							<a class="tag" href="wizard"
+					style="font-size: 248%; color: rgb(81, 81, 145);"
+					>wizard</a>
+							<a class="tag" href="wizard-expanded"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>wizard-expanded</a>
+							<a class="tag" href="wondrous-item"
+					style="font-size: 281%; color: rgb(70, 70, 134);"
+					>wondrous-item</a>
+							<a class="tag" href="wondrous-items"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>wondrous-items</a>
+							<a class="tag" href="wtge"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>wtge</a>
+							<a class="tag" href="wu-jen"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>wu-jen</a>
+							<a class="tag" href="xge"
+					style="font-size: 117%; color: rgb(123, 123, 187);"
+					>xge</a>
+						</div>
+	
+</div>
+<a name="pages"></a>
+<h2>List of pages tagged with <em>wondrous-item</em>:</h2> 
+
+
+<div class="pages-list" id="tagged-pages-list">
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:abracadabrus">Abracadabrus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:absorbing-tattoo">Absorbing Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:adaptive-helm">Adaptive Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:alchemical-compendium">Alchemical Compendium</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:alchemy-jug">Alchemy Jug</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:alchemy-jug-blue">Alchemy Jug (Blue)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:alchemy-jug-orange">Alchemy Jug (Orange)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:all-purpose-tool">All-Purpose Tool</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amethyst-lodestone">Amethyst Lodestone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-health">Amulet of Health</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-proof-against-detection-and-location">Amulet of Proof Against Detection and Location</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-protection-from-turning">Amulet of Protection from Turning</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-the-black-skull">Amulet of the Black Skull</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-the-devout">Amulet of the Devout</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-the-drunkard">Amulet of the Drunkard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-the-planes">Amulet of the Planes</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:amulet-of-the-shield">Amulet of the Shield</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:apparatus-of-kwalish">Apparatus of Kwalish</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:arcane-cannon">Arcane Cannon</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:arcane-grimoire">Arcane Grimoire</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:arcane-propulsion-arm">Arcane Propulsion Arm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:astral-shard">Astral Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:astromancy-archive">Astromancy Archive</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:atlas-of-endless-horizons">Atlas of Endless Horizons</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:baba-yagas-mortar-and-pestle">Baba Yaga's Mortar and Pestle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:badge-of-the-watch">Badge of the Watch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bag-of-beans">Bag of Beans</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bag-of-bounty">Bag Of Bounty</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bag-of-devouring">Bag of Devouring</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bag-of-holding">Bag of Holding</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bag-of-tricks">Bag of Tricks</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:balance-of-harmony">Balance of Harmony</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:balloon-pack">Balloon Pack</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:banner-of-the-krig-rune">Banner of the Krig Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:banshees-veil">Banshee's Veil</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:barrier-tattoo">Barrier Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:battle-standard-of-infernal-power">Battle Standard of Infernal Power</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bead-of-force">Bead of Force</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bead-of-nourishment">Bead of Nourishment</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bead-of-refreshment">Bead of Refreshment</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:belashyrras-beholder-crown">Belashyrra's Beholder Crown</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bell-branch">Bell Branch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:belt-of-dwarvenkind">Belt of Dwarvenkind</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:belt-of-giant-strength">Belt of Giant Strength</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bigbys-beneficent-bracelet">Bigby's Beneficent Bracelet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:black-crystal-tablet">Black Crystal Tablet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:blasted-goggles">Blasted Goggles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:blazing-bowstring">Blazing Bowstring</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:blinkback-belt">Blinkback Belt</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:blod-stone">Blod Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:blood-fury-tattoo">Blood Fury Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bloodwell-vial">Bloodwell Vial</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bobbing-lily-pad">Bobbing Lily Pad</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:book-of-exalted-deeds">Book of Exalted Deeds</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:book-of-vile-darkness">Book of Vile Darkness</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:book-of-vile-darkness-variant">Book of Vile Darkness (Variant)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-elvenkind">Boots of Elvenkind</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-false-tracks">Boots of False Tracks</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-haste">Boots of Haste</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-levitation">Boots of Levitation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-speed">Boots of Speed</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-striding-and-springing">Boots of Striding and Springing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-swiftness">Boots of Swiftness</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-the-vigilant">Boots of the Vigilant</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:boots-of-the-winterlands">Boots of the Winterlands</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bottle-of-boundless-coffee">Bottle of Boundless Coffee</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bowl-of-commanding-water-elementals">Bowl of Commanding Water Elementals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bracelet-of-rock-magic">Bracelet of Rock Magic</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bracer-of-flying-daggers">Bracer of Flying Daggers</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bracers-of-archery">Bracers of Archery</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bracers-of-celerity">Bracers of Celerity</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bracers-of-defense">Bracers of Defense</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:brazier-of-commanding-fire-elementals">Brazier of Commanding Fire Elementals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:breathing-bubble">Breathing Bubble</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:bridle-of-capturing">Bridle of Capturing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:brooch-of-living-essence">Brooch of Living Essence</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:brooch-of-shielding">Brooch of Shielding</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:broom-of-flying">Broom of Flying</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:butchers-bib">Butcher's Bib</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cabals-ruin">Cabal's Ruin</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:candle-of-invocation">Candle of Invocation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:candle-of-the-deep">Candle of the Deep</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cape-of-enlargement">Cape of Enlargement</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cape-of-the-mountebank">Cape of the Mountebank</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cap-of-water-breathing">Cap of Water Breathing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:card-sharps-deck">Card Sharp's Deck</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:carpet-of-flying">Carpet of Flying</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cataclysm-bolts">Cataclysm Bolts</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cauldron-of-plenty">Cauldron of Plenty</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cauldron-of-rebirth">Cauldron of Rebirth</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:censer-of-controlling-air-elementals">Censer of Controlling Air Elementals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chain-of-returning">Chain of Returning</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:charlatans-die">Charlatan's Die</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:charm-of-plant-command">Charm of Plant Command</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chest-of-preserving">Chest of Preserving</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chime-of-exile">Chime of Exile</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chime-of-opening">Chime of Opening</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chromatic-rose">Chromatic Rose</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:chronolometer">Chronolometer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cincture-of-the-stone-king">Cincture of the Stone King</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:circlet-of-barbed-vision">Circlet of Barbed Vision</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:circlet-of-blasting">Circlet of Blasting</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:circlet-of-human-perfection">Circlet of Human Perfection</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:circlet-of-wisdom">Circlet of Wisdom</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:clarotas-helmet">Clarota's Helmet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:claw-of-the-wyrm-rune">Claw of the Wyrm Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:claws-of-the-umber-hulk">Claws of the Umber Hulk</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cleansing-stone">Cleansing Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-arachnida">Cloak of Arachnida</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-billowing">Cloak of Billowing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-displacement">Cloak of Displacement</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-elvenkind">Cloak of Elvenkind</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-invisibility">Cloak of Invisibility</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-many-fashions">Cloak of Many Fashions</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-protection">Cloak of Protection</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-the-bat">Cloak of the Bat</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cloak-of-the-manta-ray">Cloak of the Manta Ray</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:clockwork-amulet">Clockwork Amulet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:clothes-of-mending">Clothes of Mending</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:coat-of-the-crest">Coat of the Crest</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:coiling-grasp-tattoo">Coiling Grasp Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:coin-of-delving">Coin of Delving</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:conch-of-teleportation">Conch of Teleportation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:constantoris-portrait">Constantori's Portrait</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cracked-driftglobe">Cracked Driftglobe</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crook-of-rao">Crook of Rao</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crown-of-lies">Crown of Lies</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crown-of-the-wrath-bringer">Crown of the Wrath Bringer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crown-of-whirling-comets">Crown Of Whirling Comets</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crystal-ball">Crystal Ball</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:crystalline-chronicle">Crystalline Chronicle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cube-of-force">Cube of Force</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cubic-gate">Cubic Gate</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cuddly-strixhaven-mascot">Cuddly Strixhaven Mascot</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:cursed-luckstone">Cursed Luckstone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:daerns-instant-fortress">Daern's Instant Fortress</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:danoths-visor">Danoth's Visor</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dark-shard-amulet">Dark Shard Amulet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:decanter-of-endless-water">Decanter of Endless Water</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-dimensions">Deck Of Dimensions</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-illusions">Deck of Illusions</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-many-more-things">Deck Of Many More Things</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-many-things">Deck of Many Things</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-miscellany">Deck Of Miscellany</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-oracles">Deck Of Oracles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-several-things">Deck of Several Things</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-wild-cards">Deck Of Wild Cards</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:deck-of-wonder">Deck Of Wonder</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:delvers-claws">Delver's Claws</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:demonomicon-of-iggwilv">Demonomicon of Iggwilv</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:devastation-orb">Devastation Orb</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dimensional-loop">Dimensional Loop</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dimensional-shackles">Dimensional Shackles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dispelling-stone">Dispelling Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:docent">Docent</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dodecahedron-of-doom">Dodecahedron of Doom</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:donjons-sundering-sphere">Donjon's Sundering Sphere</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:doublet-of-dramatic-demise">Doublet of Dramatic Demise</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:draakhorn">Draakhorn</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dragonhide-belt">Dragonhide Belt</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dragon-mask">Dragon Mask</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dragon-touched-focus">Dragon-Touched Focus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dragon-vessel">Dragon Vessel</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dread-helm">Dread Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:Driftglobe">Driftglobe</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:duplicitous-manuscript">Duplicitous Manuscript</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dust-of-corrosion">Dust of Corrosion</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dust-of-deliciousness">Dust of Deliciousness</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dust-of-disappearance">Dust of Disappearance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dust-of-dryness">Dust of Dryness</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:dust-of-sneezing-and-choking">Dust of Sneezing and Choking</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eagle-whistle">Eagle Whistle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ear-horn-of-hearing">Ear Horn of Hearing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:earring-of-message">Earring of Message</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:earthboard">Earthboard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:earworm">Earworm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:echo-stone">Echo Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:efreeti-bottle">Efreeti Bottle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eldritch-claw-tattoo">Eldritch Claw Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:elemental-essence-shard">Elemental Essence Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:Elemental-gem">Elemental Gem</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:emerald-pen">Emerald Pen</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:enduring-spellbook">Enduring Spellbook</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ersatz-eye">Ersatz Eye</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:everbright-lantern">Everbright Lantern</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eversmoking-bottle">Eversmoking Bottle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eye-and-hand-of-vecna">Eye and Hand of Vecna</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eyes-of-charming">Eyes of Charming</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eyes-of-minute-seeing">Eyes of Minute Seeing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:eyes-of-the-eagle">Eyes of the Eagle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:fabulist-gem">Fabulist Gem</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:far-gear">Far Gear</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:far-realm-shard">Far Realm Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:fate-dealers-deck">Fate Dealer's Deck</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:feather-of-diatryma-summoning">Feather of Diatryma Summoning</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:feather-token">Feather Token</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:feywild-shard">Feywild Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:figurine-of-wondrous-power">Figurine of Wondrous Power</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:finders-goggles">Finder's Goggles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:fish-suit">Fish Suit</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:flamefriend-lantern">Flamefriend Lantern</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:flask-of-perpetual-booze">Flask of Perpetual Booze</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:flying-chariot">Flying Chariot</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:flying-citadel-helm">Flying Citadel Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:folding-boat">Folding Boat</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:fulminating-treatise">Fulminating Treatise</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:galders-bubble-pipe">Galder's Bubble Pipe</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gate-stone">Gate Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gauntlets-of-flaming-fury">Gauntlets of Flaming Fury</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gauntlets-of-ogre-power">Gauntlets of Ogre Power</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gavel-of-the-venn-rune">Gavel of the Venn Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gem-of-brightness">Gem of Brightness</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gem-of-seeing">Gem of Seeing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ghost-lantern">Ghost Lantern</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ghost-step-tattoo">Ghost Step Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:glamerweave">Glamerweave</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:glove-of-blasting">Glove of Blasting</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gloves-of-missile-snaring">Gloves of Missile Snaring</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gloves-of-soul-catching">Gloves of Soul Catching</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gloves-of-swimming-and-climbing">Gloves of Swimming and Climbing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gloves-of-thievery">Gloves of Thievery</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:glowrune-pigment">Glowrune Pigment</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:gnomengarde-grenade">Gnomengarde Grenade</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:goggles-of-night">Goggles of Night</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:goggles-of-object-reading">Goggles of Object Reading</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:grimoire-infinitus">Grimoire Infinitus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:guardian-emblem">Guardian Emblem</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:guild-keyrune">Guild Keyrune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hammock-of-worlds">Hammock of Worlds</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hand-cone-of-clarity">Hand Cone of Clarity</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:harkon-s-bite">Harkon's Bite</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:harp-of-gilded-plenty">Harp of Gilded Plenty</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hat-of-disguise">Hat of Disguise</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hat-of-vermin">Hat of Vermin</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hat-of-wizardry">Hat of Wizardry</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:headband-of-intellect">Headband of Intellect</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:heart-weavers-primer">Heart Weaver's Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hell-hound-cloak">Hell Hound Cloak</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-brilliance">Helm of Brilliance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-comprehending-languages">Helm of Comprehending Languages</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-devil-command">Helm of Devil Command</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-disjunction">Helm of Disjunction</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-perfect-potential">Helm of Perfect Potential</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-telepathy">Helm of Telepathy</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-teleportation">Helm of Teleportation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-the-gods">Helm of the Gods</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-the-scavenger">Helm of the Scavenger</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:helm-of-underwater-action">Helm of Underwater Action</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hewards-handy-haversack">Heward's Handy Haversack</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hewards-handy-spice-pouch">Heward's Handy Spice Pouch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:holy-symbol-of-ravenkind">Holy Symbol of Ravenkind</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:hook-of-fishers-delight">Hook of Fisher's Delight</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horn-of-beckoning-death">Horn of Beckoning Death</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horn-of-blasting">Horn of Blasting</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horn-of-silent-alarm">Horn of Silent Alarm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horn-of-the-endless-maze">Horn of the Endless Maze</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horn-of-valhalla">Horn of Valhalla</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horseshoes-of-a-zephyr">Horseshoes of a Zephyr</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:horseshoes-of-speed">Horseshoes of Speed</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:house-of-cards">House Of Cards</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:icon-of-ravenloft">Icon of Ravenloft</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:iggwilv-s-cauldron">Iggwilv's Cauldron</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:iggwylvs-horn">Iggwylv's Horn</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:illuminators-tattoo">Illuminator's Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:illusionists-bracers">Illusionist's Bracers</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:imbued-wood-focus">Imbued Wood Focus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:infernal-puzzle-box">Infernal Puzzle Box</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:infernal-tack">Infernal Tack</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:infiltrators-key">Infiltrator's Key</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ingot-of-the-skold-rune">Ingot of the Skold Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:inquisitives-goggles">Inquisitive's Goggles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:insignia-of-claws">Insignia of Claws</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:instrument-of-illusions">Instrument of Illusions</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:instrument-of-scribing">Instrument of Scribing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:instrument-of-the-bards">Instrument of the Bards</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ioun-stone">Ioun Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:iron-bands-of-bilarro">Iron Bands of Bilarro</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:iron-flask">Iron Flask</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:jesters-mask">Jester's Mask</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:jewel-of-three-prayers">Jewel of Three Prayers</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:kagonesti-forest-shroud">Kagonesti Forest Shroud</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:Keoghtoms-ointment">Keoghtom's Ointment</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:keycharm">Keycharm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:kiss-of-the-changebringer">Kiss of the Changebringer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:knaves-eye-patch">Knave's Eye Patch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:korolnor-scepter">Korolnor Scepter</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:kyrzins-ooze">Kyrzin's Ooze</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lantern-of-revealing">Lantern of Revealing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lantern-of-tracking">Lantern of Tracking</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:libram-of-souls-and-flesh">Libram of Souls and Flesh</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lifewell-tattoo">Lifewell Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:living-gloves">Living Gloves</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:loadstone">Loadstone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lock-of-trickery">Lock of Trickery</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lords-ensemble">Lord's Ensemble</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lorehold-primer">Lorehold Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lost-crown-of-besilmer">Lost Crown of Besilmer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lubas-tarokka-of-souls">Luba's Tarokka of Souls</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:luxon-beacon">Luxon Beacon</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:lyre-of-building">Lyre of Building</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:maelstrom-gloves">Maelstrom Gloves</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mantle-of-spell-resistance">Mantle of Spell Resistance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mantle-of-the-tempest">Mantle of the Tempest</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:manual-of-bodily-health">Manual of Bodily Health</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:manual-of-gainful-exercise">Manual of Gainful Exercise</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:manual-of-golems">Manual of Golems</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:manual-of-quickness-of-action">Manual of Quickness of Action</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mask-of-the-beast">Mask of the Beast</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mask-of-the-dragon-queen">Mask of the Dragon Queen</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:masque-charm">Masque Charm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:masquerade-tattoo">Masquerade Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medallion-of-thoughts">Medallion of Thoughts</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-muscle">Medal of Muscle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-the-conch">Medal of the Conch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-the-horizonback">Medal of the Horizonback</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-the-maze">Medal of the Maze</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-the-meat-pie">Medal of the Meat Pie</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-the-wetlands">Medal of the Wetlands</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:medal-of-wit">Medal of Wit</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mighty-servant-of-leuk-o">Mighty Servant of Leuk-o</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mimir">Mimir</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mindblasting-cap">Mindblasting Cap</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mind-crystal">Mind Crystal</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mindguard-crown">Mindguard Crown</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mirror-of-infinite-transpondence">Mirror of Infinite Transpondence</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mirror-of-life-trapping">Mirror of Life Trapping</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mirror-of-reflected-pasts">Mirror of Reflected Pasts</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mirror-of-the-past">Mirror of the Past</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mistral-mantle">Mistral Mantle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mizzium-apparatus">Mizzium Apparatus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mizzium-mortar">Mizzium Mortar</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:moodmark-paint">Moodmark Paint</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mudslick-tower">Mudslick Tower</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:murgaxor-s-orb">Murgaxor's Orb</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:mystery-key">Mystery Key</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:natures-mantle">Nature's Mantle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:navigation-orb">Navigation Orb</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:necklace-of-adaptation">Necklace of Adaptation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:necklace-of-fireballs">Necklace of Fireballs</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:necklace-of-prayer-beads">Necklace of Prayer Beads</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:night-caller">Night Caller</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:nightfall-pearl">Nightfall Pearl</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:nimbus-coronet">Nimbus Coronet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:nolzurs-marvelous-pigments">Nolzur's Marvelous Pigments</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:opal-of-the-ild-rune">Opal of the Ild Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-direction">Orb of Direction</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-dragonkind">Orb of Dragonkind</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-gonging">Orb of Gonging</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-shielding">Orb of Shielding</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-skoraeus">Orb of Skoraeus</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-the-stein-rune">Orb of the Stein Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-the-veil">Orb of the Veil</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orb-of-time">Orb of Time</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orcus-figurine">Orcus Figurine</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ornithopter-of-flying">Ornithopter of Flying</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:orrery-of-the-wanderer">Orrery Of The Wanderer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:outer-essence-shard">Outer Essence Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:paper-bird">Paper Bird</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pearl-of-power">Pearl of Power</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pennant-of-the-vind-rune">Pennant of the Vind Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:peregrine-mask">Peregrine Mask</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:perfume-of-bewitching">Perfume of Bewitching</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:periapt-of-health">Periapt of Health</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:periapt-of-proof-against-poison">Periapt of Proof against Poison</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:periapt-of-wound-closure">Periapt of Wound Closure</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pipe-of-remembrance">Pipe of Remembrance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pipe-of-smoke-monsters">Pipe of Smoke Monsters</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pipes-of-haunting">Pipes of Haunting</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pipes-of-the-sewers">Pipes of the Sewers</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:piwafwi">Piwafwi</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:piwafwi-of-fire-resistance">Piwafwi of Fire Resistance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pixie-dust">Pixie Dust</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:planecallers-codex">Planecaller's Codex</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:platinum-scarf">Platinum Scarf</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pole-of-angling">Pole of Angling</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pole-of-collapsing">Pole of Collapsing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:portable-hole">Portable Hole</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:portal-compass">Portal Compass</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pot-of-awakening">Pot of Awakening</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:powder-keg">Powder Keg</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:prehistoric-figurines-of-wondrous-power">Prehistoric Figurines of Wondrous Power</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pressure-capsule">Pressure Capsule</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:prismari-primer">Prismari Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:professor-orb">Professor Orb</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:propeller-helm">Propeller Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:prosthetic-limb">Prosthetic Limb</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:protective-verses">Protective Verses</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:psi-crystal">Psi Crystal</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pyroconverger">Pyroconverger</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:pyxis-of-pandemonium">Pyxis of Pandemonium</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:quaals-feather-token">Quaal's Feather Token</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:quandrix-primer">Quandrix Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:quiver-of-ehlonna">Quiver of Ehlonna</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ravens-slumber">Raven's Slumber</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:reincarnation-dust">Reincarnation Dust</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:revelers-concertina">Reveler's Concertina</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rhythm-makers-drum">Rhythm Maker's Drum</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-eyes">Robe of Eyes</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-flaying">Robe of Flaying</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-scintillating-colors">Robe of Scintillating Colors</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-serpents">Robe of Serpents</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-stars">Robe of Stars</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-summer">Robe of Summer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-the-archmagi">Robe of the Archmagi</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:robe-of-useful-items">Robe of Useful Items</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rod-of-mercurial-form">Rod of Mercurial Form</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rogues-mantle">Rogue's Mantle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:Rope-of-Climbing">Rope of Climbing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rope-of-entanglement">Rope of Entanglement</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rope-of-mending">Rope of Mending</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:rotor-of-return">Rotor of Return</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ruby-of-the-war-mage">Ruby of the War Mage</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ruinstone">Ruinstone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:Saddle-of-the-cavalier">Saddle of the Cavalier</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sanctum-amulet">Sanctum Amulet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:scaled-ornament">Scaled Ornament</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:scarab-of-protection">Scarab of Protection</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:scissors-of-shadow-snipping">Scissors of Shadow Snipping</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:scribes-pen">Scribe's Pen</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sekolahian-worshipping-statuette">Sekolahian Worshipping Statuette</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sending-stones">Sending Stones</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sensory-stone">Sensory Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:serpent-belt">Serpent Belt</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shadowfell-brand-tattoo">Shadowfell Brand Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shadowfell-shard">Shadowfell Shard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shard-of-the-ise-rune">Shard of the Ise Rune</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shard-of-xeluan">Shard of Xeluan</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shard-solitaire">Shard Solitaire</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shiftweave">Shiftweave</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:shrieking-greaves">Shrieking Greaves</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:silverquill-primer">Silverquill Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:siren-song-lyre">Siren Song Lyre</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:skull-helm">Skull Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:skysail">Skysail</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:slippers-of-spider-climbing">Slippers of Spider Climbing</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:smokepowder">Smokepowder</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:soul-coin">Soul Coin</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sovereign-glue">Sovereign Glue</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:speaking-stone">Speaking Stone</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spell-bottle">Spell Bottle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spell-gem">Spell Gem</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spelljamming-helm">Spelljamming Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spellshard">Spellshard</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spellwrought-tattoo">Spellwrought Tattoo</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:sphere-of-annihilation">Sphere Of Annihilation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:spies-murmur">Spies' Murmur</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stone-of-controlling-earth-elementals">Stone of Controlling Earth Elementals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stone-of-golorr">Stone of Golorr</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:luckstone">Stone of Good Luck (Luckstone)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stone-of-ill-luck">Stone of Ill Luck</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stonespeaker-crystal">Stonespeaker Crystal</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stormgirdle">Stormgirdle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:stormrider-boots">Stormrider Boots</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:strixhaven-pennant">Strixhaven Pennant</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tablet-of-reawakening">Tablet of Reawakening</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:talarith">Talarith</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:talisman-of-pure-good">Talisman of Pure Good</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:talisman-of-the-sphere">Talisman of the Sphere</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:talisman-of-ultimate-evil">Talisman of Ultimate Evil</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:talking-doll">Talking Doll</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tankard-of-plenty">Tankard of Plenty</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tankard-of-sobriety">Tankard of Sobriety</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tashas-creeping-keepboat">Tasha's Creeping Keepboat</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:teeth-of-dahlver-nar">Teeth of Dahlver-Nar</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:teleportation-tablet">Teleportation Tablet</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:telescopic-transporter">Telescopic Transporter</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:the-infernal-machine-of-lum-the-mad">The Infernal Machine Of Lum The Mad</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:thermal-cube">Thermal Cube</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:timepiece-of-travel">Timepiece of Travel</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:titanstone-knuckles">Titanstone Knuckles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tome-of-clear-thought">Tome of Clear Thought</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tome-of-leadership-and-influence">Tome of Leadership and Influence</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tome-of-the-stilled-tongue">Tome of the Stilled Tongue</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:tome-of-understanding">Tome of Understanding</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:universal-solvent">Universal Solvent</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ventilating-lungs">Ventilating Lungs</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:verminshroud">Verminshroud</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:veterans-cane">Veteran's Cane</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:vox-seeker">Vox Seeker</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wand-sheath">Wand Sheath</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:war-horn-of-valor">War Horn of Valor</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:warriors-passkey">Warrior's Passkey</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:watchful-helm">Watchful Helm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wayfarers-boots">Wayfarer's Boots</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:weird-tank">Weird Tank</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:well-of-many-worlds">Well of Many Worlds</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wheel-of-stars">Wheel of Stars</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wheel-of-wind-and-water">Wheel of Wind and Water</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wildspace-orrery">Wildspace Orrery</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wind-fan">Wind Fan</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:winged-boots">Winged Boots</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wings-of-flying">Wings of Flying</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wingwear">Wingwear</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:witchlight-vane">Witchlight Vane</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:witchlight-watch">Witchlight Watch</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:witherbloom-primer">Witherbloom Primer</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wraps-of-dyamak">Wraps of Dyamak</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wreath-of-the-prism">Wreath of the Prism</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wyrmreaver-gauntlets">Wyrmreaver Gauntlets</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:wyrmskull-throne">Wyrmskull Throne</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../wondrous-items:ythryn-mythallar">Ythryn Mythallar</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://superfront.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/superfront.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://superfront.wikidot.com">无敌前厅</a></h3>
+            <div class="desc">          
+              你曾在此建站
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://arlington.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/arlington.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://arlington.wikidot.com">Arlington, Mass.</a></h3>
+            <div class="desc">          
+              The Arlington Wiki - Arlington, MA
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://es-backrooms-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/es-backrooms-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://es-backrooms-wiki.wikidot.com">Wiki Backrooms Español</a></h3>
+            <div class="desc">          
+              Ya has estado aquí antes.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://shatteredspheres.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/shatteredspheres.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://shatteredspheres.wikidot.com">Shattered Spheres</a></h3>
+            <div class="desc">          
+              The World of Thoryn
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

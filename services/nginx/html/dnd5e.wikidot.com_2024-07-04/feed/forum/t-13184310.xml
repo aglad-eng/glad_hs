@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in Beast Master Conclave</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13184310/error-in-beast-master-conclave</link>
+		<description>Posts in the discussion thread &quot;Error in Beast Master Conclave&quot; - Current entry uses UA material instead of original RAW</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13184310#post-4826626</guid>
+				<title>Re: Error in Beast Master Conclave</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13184310/error-in-beast-master-conclave#post-4826626</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 03:25:05 +0000</pubDate>
+				<wikidot:authorName>Out of Time</wikidot:authorName>				<wikidot:authorUserId>4858050</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed. Added separate pages for each version, though I can't add the revised beast master to the front page</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13184310#post-4767381</guid>
+				<title>Re: Error in Beast Master Conclave</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13184310/error-in-beast-master-conclave#post-4767381</link>
+				<description></description>
+				<pubDate>Sat, 05 Sep 2020 05:25:41 +0000</pubDate>
+				<wikidot:authorName>PHBRangerisGood</wikidot:authorName>				<wikidot:authorUserId>6810149</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>RAW Ranger isnt even on Wikidot. See my latest post about it - I agree with you</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13184310#post-4566450</guid>
+				<title>Error in Beast Master Conclave</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13184310/error-in-beast-master-conclave#post-4566450</link>
+				<description></description>
+				<pubDate>Fri, 27 Mar 2020 00:25:18 +0000</pubDate>
+				<wikidot:authorName>nolexus02</wikidot:authorName>				<wikidot:authorUserId>6271640</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Currently the Beast Master Conclave contains the subclass feats of the Beast Conclave of the UA Variant Ranger; it should be reverted to the RAW version (and the Beast Conclave optionally put into a separate page).</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

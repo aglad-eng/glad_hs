@@ -1,0 +1,3 @@
+Sitemap: http://dnd5e.wikidot.com/sitemap.xml
+User-agent: voltron
+Disallow: /

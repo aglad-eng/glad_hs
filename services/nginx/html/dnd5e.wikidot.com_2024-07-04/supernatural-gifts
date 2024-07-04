@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Supernatural Gifts - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887298;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "supernatural-gifts";
+        OZONE.request.timestamp = 1720132500;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "supernatural-gifts";
+        WIKIREQUEST.info.pageId = 1316864769;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="supernatural-gifts#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="supernatural-gifts#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Supernatural Gifts</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div id="toc" class="floatright">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 1em;"><a href="supernatural-gifts#toc0">Supernatural Gifts: Theros</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc1">Anvilwrought</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc2">Anvilwrought Characteristics</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc3">Heroic Destiny</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc4">Heroic Destiny</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc5">Iconoclast</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc6">Iconoclast Hero</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc7">Iconoclast Paragon</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc8">Iconoclast Archetype</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc9">Iconoclast Characteristics</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc10">Inscrutable</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc11">Inscrutable Characteristics</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc12">Lifelong Companion</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc13">Companion Relationships</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc14">Nyxborn</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc15">Nyxborn Origin</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc16">Nyxborn Quirks</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc17">Oracle</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc18">Augur</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc19">Seer</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc20">Sibyl</a></div>
+<div style="margin-left: 4em;"><a href="supernatural-gifts#toc21">Divine Oracle</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc22">Oracle Curse</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc23">Pious</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc24">Pious Quirks</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc25">Unscarred</a></div>
+<div style="margin-left: 3em;"><a href="supernatural-gifts#toc26">Unscarred Origin</a></div>
+<div style="margin-left: 1em;"><a href="supernatural-gifts#toc27">Supernatural Gifts: Wildemount</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc28">Hollow One</a></div>
+<div style="margin-left: 1em;"><a href="supernatural-gifts#toc29">Supernatural Blessing: Fate-Touched (HB)</a></div>
+<div style="margin-left: 2em;"><a href="supernatural-gifts#toc30">Fortune's Grace</a></div>
+</div>
+</div>
+<h1 id="toc0"><span>Supernatural Gifts: Theros</span></h1>
+<p>Source: Mythic Odysseys of Theros</p>
+<p><em>Most heroes of Theros have some kind of supernatural aid to help them achieve their goals. Often this aid comes from the gods, but some heroes might find their support from other beings, such as the sphinx Medomai, an oracle like Atris or Kydele, or a repository of mystical knowledge. Some heroes are born with supernatural power or born as a result of supernatural events.</em></p>
+<p>A character in Theros begins with one supernatural gift chosen from those in this section. Work with the DM to decide where your character's gift came from. Is it tied to the god you serve? Was it the result of a fateful encounter with a sphinx or an oracle? Does it indicate the nature of your birth? Each gift's description also includes a table to spark your imagination as you think about your character's gift.</p>
+<p>These supernatural gifts are intended for starting characters, but some might be bestowed by gods as rewards for remarkable deeds.</p>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/yahooui/tabview-min.js"></script>
+<div id="wiki-tabview-775eb37c9affacd7723a23fb88d93e2c" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Anvilwrought</em></a></li>
+<li><a href="javascript:;"><em>Heroic Destiny</em></a></li>
+<li><a href="javascript:;"><em>Iconoclast</em></a></li>
+<li><a href="javascript:;"><em>Inscrutable</em></a></li>
+<li><a href="javascript:;"><em>Lifelong Companion</em></a></li>
+<li><a href="javascript:;"><em>Nyxborn</em></a></li>
+<li><a href="javascript:;"><em>Oracle</em></a></li>
+<li><a href="javascript:;"><em>Pious</em></a></li>
+<li><a href="javascript:;"><em>Unscarred</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<h2 id="toc1"><span>Anvilwrought</span></h2>
+<p>You were forged in the fires of Purphoros's forge. Your appearance bears a metallic sheen and visible joints. The Anvilwrought Characteristics table suggests details of your life or origins. Additionally, you gain the following traits.</p>
+<p><strong>Constructed Resilience.</strong> You were created to have remarkable fortitude, represented by the following benefits:</p>
+<ul>
+<li>You have advantage on saving throws against being poisoned, and you have resistance to poison damage.</li>
+<li>You don't need to eat, drink, or breathe.</li>
+<li>You are immune to disease.</li>
+<li>You don't need to sleep, and magic can't put you to sleep.</li>
+</ul>
+<p><strong>Sentry's Rest.</strong> When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.</p>
+<h3 id="toc2"><span>Anvilwrought Characteristics</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Characteristic</th>
+</tr>
+<tr>
+<td>1</td>
+<td>An oread who works in Purphoros's forge is the closest thing I have to a parent.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Purphoros made me to serve him.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I was created decades ago and, fearing that I'm growing obsolete, recently fled Mount Velus.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Purphoros regrets my creation and wants to reforge me into something better.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Purphoros intended me to carry on his work by making even greater creations of my own.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Someone in Mount Velus implanted a terrible secret within me in order to smuggle it out into the world.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<h2 id="toc3"><span>Heroic Destiny</span></h2>
+<p>Great deeds lie in your future, and it will take extraordinary effort to kill you before you accomplish those deeds. Choose or roll a random destiny using the Heroic Destiny table. Additionally, you gain the following traits.</p>
+<p><strong>Defy Death.</strong> You have advantage on death saving throws.</p>
+<p><strong>Hard to Kill.</strong> When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can't use it again until you finish a long rest.</p>
+<h3 id="toc4"><span>Heroic Destiny</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Destiny</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I'm destined to be the most skilled practitioner of a craft or trade.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I'm destined to earn a place among the stars of Nyx</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I'm destined to become a god.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I'm destined to liberate my beloved from the clutches of the Underworld.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I was born while a kraken ravaged Meletis, and I'm destined to destroy that kraken.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I'm destined to uncover the secret of the gods' power.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-2" style="display:none">
+<h2 id="toc5"><span>Iconoclast</span></h2>
+<p>No one can deny the reality of the gods of Theros, whose presence and deeds are visible in the night sky and sometimes directly in the mortal realm. But some people refute the idea that the gods are worthy of reverence. Such iconoclasts are common among the leonin, but members of any culture can adopt this supernatural gift. The Iconoclast Characteristics table presents suggestions for why you've become an iconoclast.</p>
+<p>Your denial of the gods gives you supernatural power to resist their influence in the world. You gain the following traits.</p>
+<p><strong>Enlightened Protection.</strong> You can cast <a href="./spell:protection-from-evil-and-good">Protection from Evil and Good</a> with this trait, targeting only yourself and requiring no material components. Once you do so, you can't cast it in this way again until you finish a long rest. Wisdom is your spellcasting ability for this trait.</p>
+<p><strong>Reject the Gods.</strong> You can't gain or lose Piety to any god. You instead gain the following traits at the character level listed in each one. Wisdom is your spellcasting ability for any spell that you cast through these traits.</p>
+<h4 id="toc6"><span>Iconoclast Hero</span></h4>
+<p><em>5th-level Iconoclast trait</em><br />
+You can cast <a href="./spell:dispel-magic">Dispel Magic</a> with this trait. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<h4 id="toc7"><span>Iconoclast Paragon</span></h4>
+<p><em>11th-level Iconoclast trait</em><br />
+You can cast <a href="./spell:dispel-evil-and-good">Dispel Evil and Good</a> with this trait, requiring no material components. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<p>In addition, when you cast <a href="./spell:dispel-magic">Dispel Magic</a> using your Iconoclast Hero trait, you cast it as a 4th-level spell.</p>
+<h4 id="toc8"><span>Iconoclast Archetype</span></h4>
+<p><em>17th-level Iconoclast trait</em><br />
+You can cast <a href="./spell:antimagic-field">Antimagic Field</a> with this trait, requiring no material components. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<p>In addition, when you cast <a href="./spell:dispel-magic">Dispel Magic</a> using your Iconoclast Hero trait, you cast it as a 5th-level spell.</p>
+<h3 id="toc9"><span>Iconoclast Characteristics</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Characteristic</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I blame the gods for the death of those I cared about.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Multiple gods seek to use me to their ends, so I try to avoid all divine entanglements.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>It's obvious the gods are fickle and unworthy of worship.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I know the world's future lies with mortals, not gods.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I'm convinced the gods want me dead.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I refuse to be a pawn in divine schemes.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-3" style="display:none">
+<h2 id="toc10"><span>Inscrutable</span></h2>
+<p>Like a sphinx, you have a mind like a maze, impenetrable to mortal scrutiny. This might be a gift or training from an actual sphinx, the blessing (or curse) of a god, or an inexplicable talent. The Inscrutable Characteristics table suggests options for what makes you inscrutable. Additionally, you gain the following traits.</p>
+<p><strong>Psychic Shield.</strong> You have resistance to psychic damage.<br />
+<strong>Sphinx's Shroud.</strong> You are immune to any effect that allows other creatures to sense your emotions or read your thoughts. Wisdom (Insight) checks made to ascertain your intentions or sincerity have disadvantage.</p>
+<h3 id="toc11"><span>Inscrutable Characteristics</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Characteristic</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was educated by a sphinx in the Dakra Isles.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I am a devout adherent to one of Meletis's schools of philosophy</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I only speak in the past tense, as if all things I say have already transpired.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I have sworn a vow to allow no living person to see behind the mask that covers my face at all times.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Why wouldn't I phrase every statement as a question?</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I was born a sphinx, but a god cursed me into humanoid form and saddled me with the limits of mortal knowledge. I won't rest until I break the curse.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-4" style="display:none">
+<h2 id="toc12"><span>Lifelong Companion</span></h2>
+<p>Behind many heroes is another hero whose greatness comes from the support and love they offer. Haktos had his beloved Perynes, Renata was accompanied by her servant Karados, and Siona sailed with her devoted crew. Like these partners, you are great and make others great. Consider the Companion Relationships table when determining your legendary connection. Any relationship with another player's character requires that player's consent. Additionally, you gain the following traits.</p>
+<p><strong>Boon Aura.</strong> Your allies within 5 feet of you have advantage on saving throws against being frightened or charmed, provided you aren't incapacitated.<br />
+<strong>Companion's Protection.</strong> When a creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to cause the attack to hit you instead. Once you use this trait, you can't do so again until you finish a long rest.</p>
+<h3 id="toc13"><span>Companion Relationships</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Relationship</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Another character is my lover or dearest friend.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Another character is my sibling.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Another character is my parent or child.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Another character is a champion of my god.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>After admiring another character from afar, I've finally won a position by their side.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I want nothing more than for another character to recognize my devotion and love me in return.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-5" style="display:none">
+<h2 id="toc14"><span>Nyxborn</span></h2>
+<p>Born from the minds of the gods, the creatures that populate the gods' realm are called Nyxborn. Nyxborn creatures resemble mortal beings, but philosophers debate their true character. Are they idealized forms of mortal beings, free from the imperfections and transience that causes mortals to suffer and die? Or are they hollow and soulless shades, lacking the authenticity and pathos that make mortal existence worthwhile?</p>
+<p>A Nyxborn is like a fragment of divinity, an idea or a dream that is incarnate. You embody an idea—like the way leaves turn toward the sun or the feeling of ocean sand between the toes, the way the heart stirs when the tide of battle changes or the sadness that lingers when remembering a happy moment of childhood.</p>
+<p>These ideas, dreams, memories, and feelings are the stuff Nyx is made of, and a Nyxborn is shaped from that raw material. You might have been specifically crafted by one of the gods to serve a certain purpose. Or your existence could be an accident caused by a confluence of supernatural forces. The Nyxborn Origin table offers a handful of suggestions that might explain how you came to be, and the Nyxborn Quirks table describes some special effects that might linger around your person.</p>
+<p>Additionally, you gain the following traits.</p>
+<p><strong>Cloak of Stars.</strong> As an action, you wrap yourself in a starry cloak, appearing like a silhouette formed of the night sky. When you do, attack rolls have disadvantage against you. This cloak lasts for 1 minute, until you doff it (no action required), or until you die. Once you use this trait, you can't use it again until you finish a long rest.<br />
+<strong>Nyxborn Resistance.</strong> You have resistance to necrotic and radiant damage.</p>
+<h3 id="toc15"><span>Nyxborn Origin</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Origin</th>
+</tr>
+<tr>
+<td>1</td>
+<td>One of my parents is a nyxborn, a nymph, or some other supernatural creature.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I was formed from Nyx by one of the gods to serve as a divine emissary.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I'm a side effect of some other divine action.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A god witnessed my birth, making me what I am.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I was rescued from the Underworld and took on supernatural characteristics when I returned to life.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I'm a song or other work of art brought to life.</td>
+</tr>
+</table>
+<h3 id="toc16"><span>Nyxborn Quirks</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Quirk</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Whenever my weapon strikes something, the weapon gives off a shower of starry sparks.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>My hair moves as if in a perpetual breeze.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>My anger smells like burning autumn leaves.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>When the sun shines on me just so, I glimmer with many colors.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>My laughter causes nearby birds to erupt in song.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>People who sleep near me always dream of the sea.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-6" style="display:none">
+<h2 id="toc17"><span>Oracle</span></h2>
+<p>You possess a precious gift coveted not just by mortals but by the gods themselves: the gift of clear communication between the mortal and divine realms. As an oracle, you can perceive the whims of the gods and petition them for glimpses of their vast insight. This gift also comes with a curse, though, which typically takes the form of dire insights. Consult the Oracle Curse table to determine what unwanted revelations you receive.</p>
+<p>The gods seek mortal oracles to act as their agents. As a result, most oracles devote themselves to the service of a single god and learn to ignore the voices of all others. Occasionally, two gods agree to share the services of an oracle. Oracles who try to remain independent often find themselves pursued by the agents of evil gods who would bind them to the god's service, if necessary.</p>
+<p>You gain the following traits.</p>
+<p><strong>Ears of the Oracle.</strong> You can speak, read, and write Celestial, the language of the gods. In addition, a god might deliver a message through you, and you can decide whether to use your own voice or to allow the god's voice to come through your mouth to deliver the message, translated into any language you speak.</p>
+<p><strong>Oracle's Insight.</strong> The gods give you flashes of insight that help you bring your efforts to fruition. When you make an ability check, you can roll a d10 and add the number rolled to the check. You can wait until after you roll the d20 before deciding to add the d10, but you must decide before the DM says whether the roll succeeds or fails. Once you use this trait, you can't use it again until you finish a short or long rest.</p>
+<p><strong>Oracle's Piety.</strong> Your oracular abilities improve as your piety score increases. Instead of gaining the piety benefits associated with any god, you gain the following traits when you reach the specified piety score.<br />
+Wisdom is your spellcasting ability for any spell that you cast through these traits.</p>
+<h4 id="toc18"><span>Augur</span></h4>
+<p><em>Piety 3+ Oracle trait</em><br />
+You can cast <a href="./spell:augury">Augury</a> as a ritual with this trait. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<h4 id="toc19"><span>Seer</span></h4>
+<p><em>Piety 10+ Oracle trait</em><br />
+You can cast <a href="./spell:divination">Divination</a> as a ritual with this trait. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<h4 id="toc20"><span>Sibyl</span></h4>
+<p><em>Piety 25+ Oracle trait</em><br />
+You can cast <a href="./spell:commune">Commune</a> as a ritual with this trait. Once you do so, you can't cast it in this way again until you finish a long rest.</p>
+<p>You also can't be surprised, provided you aren't incapacitated.</p>
+<h4 id="toc21"><span>Divine Oracle</span></h4>
+<p><em>Piety 50+ Oracle trait</em><br />
+You can increase your Intelligence or Wisdom score by 2, as well as increasing your maximum for the chosen score by 2.</p>
+<h3 id="toc22"><span>Oracle Curse</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Flaw</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I know exactly how I'm going to die, and I can't do or say anything to prevent it.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>People who consult me for information rarely believe the answers I give them.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I'm haunted by nightmares foretelling the deaths of people I've never met.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I'm often distracted by the sights and sounds of things that other people can't perceive.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>A horrible monster in Nyx watches me constantly, and I see it every time I venture outdoors.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Any time I grow close to someone, I see them aged, dying, or dead.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Whenever I receive a divine vision, I get an intense pain in my head or chest.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>One of the gods intends to use me as an oracle whether I want to listen or not.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-7" style="display:none">
+<h2 id="toc23"><span>Pious</span></h2>
+<p>Born with a particular connection to a deity, you have been winning favor with your god since birth. Consult the Pious Quirks table to determine how your faith might influence your personality. Additionally, you gain the following traits.</p>
+<p><strong>Pious Protection.</strong> If you fail a saving throw, you can reroll it, and you must use the new roll. Once you use this trait, you can't do so again until you finish a long rest.</p>
+<p><strong>Religious Study.</strong> You have advantage on any Intelligence (Religion) check pertaining to your chosen god.</p>
+<p><strong>Starting Piety.</strong> You begin with a piety score of 3 with your chosen god.</p>
+<h3 id="toc24"><span>Pious Quirks</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Quirk</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I often call people by the name of my god (or another god) by accident.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I stay up late at night watching the stars in hopes that my god will share a message with me.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I'm deeply jealous of my god's oracles, who seem to have a more intimate relationship with my god than I can ever hope to attain.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I dream of one day entering Nyx and being granted a permanent place at my god's side.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I have no home besides the temples of my god.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I can't prove it, but I suspect that my god might actually be my parent.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-8" style="display:none">
+<h2 id="toc25"><span>Unscarred</span></h2>
+<p>Like the great hero Haktos, you are resistant to physical harm. Use the Unscarred Origin table to determine how you gained your legendary invulnerability. Additionally, you gain the following trait.</p>
+<p><strong>Unscarred Resilience.</strong> When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest.</p>
+<h3 id="toc26"><span>Unscarred Origin</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Origin</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was bathed in hydra's blood as an infant, and my wounds close too quickly to become mortal injuries.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I swallowed a magic stone that fell from Nyx, which made my skin hard as rock.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>When I was wounded as a child, a god healed me. Now wounds are reluctant to undo the god's work.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I was rescued from the Underworld, and I'm not sure I fully returned to life—it's always so cold.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I was born on one of the Dakra Isles. All my people are naturally resilient, a fact I didn't realize until I lost my home and ventured into the world.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I don't know who one or more of my parents is, but my resilience (and other hints) provide clues to their immortal identity.</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabView775eb37c9affacd7723a23fb88d93e2c = new YAHOO.widget.TabView('wiki-tabview-775eb37c9affacd7723a23fb88d93e2c');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script><br />
+<br />
+<h1 id="toc27"><span>Supernatural Gifts: Wildemount</span></h1>
+<p>Source: Explorer's Guide to Wildemount</p>
+<p><em>The magic that sustains Hollow Ones is a mystery. Most Hollow Ones are reborn after dying in Blightshore, suggesting that the spell-scarred nature of the land brought them back for an unknown purpose. Yet some beings find that, days after they died, they awaken, clutching to life, with only a terrible emptiness inside to remind them of their death.</em></p>
+<p><em>In Blightshore, Hollow Ones are seen as a people like any other. They seem strange, but the adventurous and hardy folk of Blightshore are used to making allies with strange creatures. Elsewhere, Hollow Ones are indistinguishable from living creatures, save for the faint stench of necromancy that lingers about them.</em></p>
+<p><em>The transition from life to becoming a Hollow One affects different people to different degrees. Some let their anger and regret consume them. Others use their second chance to become a brighter force in the world. However, all Hollow Ones are marked by their new existence: feelings of unease, dread or sadness cling to them like tattered rags of their past life.</em></p>
+<p>The Dungeon Master has the option to allow a character created in a Wildemount campaign to be a Hollow One. Alternatively, a character who perishes in the course of a campaign might return as a Hollow One, created by the mysterious forces that scar the land.</p>
+<h2 id="toc28"><span>Hollow One</span></h2>
+<p>As a Hollow One, the void left behind by your departed soul is filled with the strange magic of Blightshore. Becoming a Hollow One is a supernatural gift that bestows upon you the following traits.</p>
+<p><strong>Ageless.</strong> You don't age, and effects that would cause you to age don't work on you.</p>
+<p><strong>Cling to Life.</strong> When you make a death saving throw and roll 16 or higher, you regain 1 hit point.</p>
+<p><strong>Revenance.</strong> You retain your creature type, yet you register as undead to spells and other effects that detect the presence of the undead creature type.</p>
+<p><strong>Unsettling Presence.</strong> As an action, you can unsettle a creature you can see within 15 feet of you. The target has disadvantage on the next saving throw it makes within the next minute. Constructs, undead, and creatures that can't be frightened are immune to this feature. Once you use this feature, you can't use it again until you finish a long rest.</p>
+<br />
+<br />
+<h1 id="toc29"><span>Supernatural Blessing: Fate-Touched (HB)</span></h1>
+<p>Source: Tal'Dorei Setting Reborn</p>
+<p><em>Most lives and souls find their ways easily along the paths of fate and destiny, oblivious and eager to be a part of the history meant for them. Some souls, however, carry themselves with mysterious influence, the golden threads of their fate subtly guiding history as they pass. Events both magnificent and catastrophic often follow such souls, which take the form of great rulers and terrible tyrants, powerful mages, religious leaders, and legendary heroes. These are the fate-touched.</em></p>
+<p><em>Few fate-touched ever become aware of their prominent nature. Without the confirmation of the gods themselves, few can know for certain that they bear this blessing. And this is as it should be, for people of renown and power grow easily jealous of those whose gifts outstrip their own. The surviving chronicles of the Age of Arcanum are filled with tales of magical hierarchs who enslaved those they took for fate-touched—or worse, attempted to extract the essence of fate from them by the most horrid means. Being touched by fate can be a blessing or a curse. It is most often those who bear the blessings of fortune who are remembered by history, while those cursed by fate are forgotten. Most cultures of Exandria have legends of those marked by ill fate simply by being born under the full light of Ruidus, the vermilion moon around which countless fell legends swirl.</em></p>
+<p>Player characters and NPCs gain this blessing by having the GM grant it to them, gaining the Fortune’s Grace feature as a result. A character might receive the blessing as a gift from the gods, or as a temporary and surprising phenomenon when the campaign shifts into a story arc focused on that character. An NPC ally might bear this blessing to help them survive as the characters protect them from a terrible threat. A previously benign NPC might even become a power-hungry villain as they test the limits of their fate-touched gift.</p>
+<h2 id="toc30"><span>Fortune's Grace</span></h2>
+<p>Your fate-touched essence can cause events to shift in your favor. When you make an attack roll, an ability check, or a saving throw, you can choose to reroll the d20. You must reroll the die before the outcome of the initial roll is determined.</p>
+<p>Alternatively, when a creature you can see makes an attack against you or makes a saving throw against one of your spells or features, you can force that creature to reroll the attack roll or saving throw.</p>
+<p>If the roll that triggers the reroll is made with advantage or disadvantage, both d20s are rerolled. Once you use this feature, you can’t use it again until you finish a long rest.</p>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://lightworks.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightworks.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://lightworks.wikidot.com">Lightworks Unofficial Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://moneymakeia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/moneymakeia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://moneymakeia.wikidot.com">the money making encyclopedia</a></h3>
+            <div class="desc">          
+              Make money with us and have a fun
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fed20.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fed20.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fed20.wikidot.com">Fire Emblem d20</a></h3>
+            <div class="desc">          
+              A tabletop version of the RPG/Strategy game!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://norron.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/norron.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://norron.wikidot.com">WikiNorron</a></h3>
+            <div class="desc">          
+              Almost as good as the guide, maybe better!
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Background: Phlan Insurgent - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 12838331;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "background:phlan-insurgent";
+        OZONE.request.timestamp = 1720132586;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "background:phlan-insurgent";
+        WIKIREQUEST.info.pageId = 1307053282;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:phlan-insurgent#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:phlan-insurgent#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Background: Phlan Insurgent</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<p>Source: Curse of Strahd: Optional Backgrounds</p>
+<p>The taking of Phlan by Vorgansharax is a clear memory in your mind. You were going about your everyday business when the green dragon's forces spilled out of the sewers and assailed your home. Many of Phlan's citizens, young and old alike, were captured, killed, or offered as tribute to the Maimed Virulence. You, yourself, were one of those captured. But, either with the help of adventurers or through your own wits and sheer determination, you escaped.</p>
+<p>Rather than flee the region, you've chosen to stay and fight. Finding refuge outside the town and the deadly thicket surrounding it, you strike out against the Tears of the Virulence and their monstrous allies. You've learned to survive in dire and desperate circumstances, with supplies running low and the arrival of reinforcements uncertain. You've grown accustomed to acting under the cover of night, dealing what blows you can to avenge the friends and family you lost within the currently occupied Phlan. You will drive Vorgansharax out, or you die trying.</p>
+<p><strong>Skill Proficiencies:</strong> Stealth, Survival<br />
+<strong>Tool Proficiencies:</strong> One type of artisan's tools, vehicles (land)<br />
+<strong>Equipment:</strong> A <span class="hover">bag of 20 caltrops<span>Value:1gp Weight:2lbs</span></span>, a small trinket that connects you to the life you once had before the occupation of Phlan, a <span class="hover">healer's kit<span>Value:5gp Weight:3lbs</span></span>, a set of dark <span class="hover">common clothes<span>Value:5sp Weight:3lbs</span></span> that includes a cloak and hood, and a <span class="hover">pouch<span>Value:5sp Weight:1lb</span></span> containing 5gp</p>
+<h2 id="toc0"><span>Origin</span></h2>
+<p>Removed from your life as a townsperson, you’ve adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both).</p>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Origin (General</th>
+<th>Origin (Specific)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Fisher</td>
+<td>Stojanow River worker</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hunter</td>
+<td>Twilight Marsh worker</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Craftsperson</td>
+<td>Mantor’s Library scribe</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Priest/Priestess</td>
+<td>Clergy of Ilmater</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Cook</td>
+<td>Laughing Goblin server</td>
+</tr>
+<tr>
+<td>6</td>
+<td>City Watch</td>
+<td>Black Fist guard</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Servant</td>
+<td>House Sokol retainer</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Unskilled Laborer</td>
+<td>Bay of Phlan dockworker</td>
+</tr>
+</table>
+<h2 id="toc1"><span>Feature: Guerilla</span></h2>
+<p>You’ve come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge &#8212; or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use.</p>
+<h2 id="toc2"><span>Suggested Characteristics</span></h2>
+<p>You have given up the life you knew as a citizen of Phlan. However, the Maimed Virulence’s invasion resonates deep inside you. Perhaps you have a few friends or family members who were able to escape with you. Or, perhaps, everyone you held dear either perished or went missing during the fall. You may know of someone who is, against all odds, surviving within the thicket and you long to liberate them from a life of peril within the town.</p>
+<h3 id="toc3"><span><strong>Phlan Insurgent Personality Traits</strong></span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Personality Trait</th>
+</tr>
+<tr>
+<td>1</td>
+<td>My patience knows no bounds, so long as my goal is in sight.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>In life and in struggle, the ends justify my actions.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>If you aren’t helping me, you’d best at least stay out of my way.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I long for the life that was taken away from me.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Friends and family perished, tragically, before my eyes. I hope never to undergo that again.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Making the right choices in life is important to me. The choices I make might save not just my life, but the lives of others as well.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>I can never allow my foes to get the drop on me.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Time is a precious resource that I must spend wisely.</td>
+</tr>
+</table>
+<h3 id="toc4"><span><strong>Phlan Insurgent Ideals</strong></span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Ideal</th>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>Leadership.</strong> The oppressed need someone to inspire them to courageous acts. (Good)</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Unpredictability.</strong> Keeping the enemy guessing and off-balance is my tactical strength. (Chaos)</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Determination.</strong> Threats to my home must be eliminated at all costs. (Any)</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Freedom.</strong> Those who are enslaved and unjustly imprisoned deserve my aid. (Good)</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Resourcefulness.</strong> Our wits are our most valuable resource in troubled times. (Any)</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Unity.</strong> Working together, we can overcome all obstacles, even the most seemingly insurmountable ones. (Any)</td>
+</tr>
+</table>
+<h3 id="toc5"><span><strong>Phlan Insurgent Bonds</strong></span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Bond</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I’ll never let my fellow insurgents down. They are my only remaining friends.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I was separated from a loved one during my escape from town. I will find them.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>One of the Tears of the Virulence was a trusted friend, until the day they betrayed the city. They will pay harshly for their transgressions.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>An item I hold close is my last remaining connection to the family I lost during the fall.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The dragon who took my past life away from me will feel the full extent of my vengeance.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The knowledge in Mantor’s Library is an irreplaceable treasure that must be protected.</td>
+</tr>
+</table>
+<h3 id="toc6"><span><strong>Phlan Insurgent Flaw</strong></span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Flaw</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I have no respect for those who flee. I harbor a deep grudge against the citizens who abandoned Phlan.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Ale is the only way I can escape the desperation of my circumstances.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>It doesn’t take much to get me into a fight.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Being an insurgent means doing things that aren’t always ethical. I’m still learning to live with that.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>My desire to liberate Phlan oftentimes clouds my judgment, despite my best efforts.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I relentlessly despise the Maimed Virulence and his allies. I’d abandon other goals in order to strike out at them.</td>
+</tr>
+</table>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <div class="desc">          
+              exciting, all electron DFT
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">混沌中文沙盒站</a></h3>
+            <div class="desc">          
+              心灵迷宫 启悟在望
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <div class="desc">          
+              a Religion for the 21st Century
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

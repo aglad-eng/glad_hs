@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Bard - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887298;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "bard";
+        OZONE.request.timestamp = 1720132397;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "bard";
+        WIKIREQUEST.info.pageId = 52374215;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="Bard#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="Bard#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Bard</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<p><strong><em>Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.</em></strong></p>
+<p><em>You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.</em></p>
+<table class="wiki-content-table">
+<tr>
+<th colspan="5">The Bard</th>
+<th colspan="9">Spell Slots per Spell Level</th>
+</tr>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Features</th>
+<th>Cantrips Known</th>
+<th>Spells Known</th>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+<th>6th</th>
+<th>7th</th>
+<th>8th</th>
+<th>9th</th>
+</tr>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>Spellcasting, Bardic Inspiration (d6)</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td>Jack of All Trades, Song of Rest (d6), <em>Magical Inspiration (Optional)</em></td>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>Bard College, Expertise</td>
+<td>2</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td>
+<td>3</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td>Bardic Inspiration (d8), Font of Inspiration</td>
+<td>3</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>Countercharm, Bard College feature</td>
+<td>3</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td></td>
+<td>3</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td>
+<td>3</td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td>Song of Rest (d8)</td>
+<td>3</td>
+<td>12</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td>Bardic Inspiration (d10), Expertise, Magical Secrets</td>
+<td>4</td>
+<td>14</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td></td>
+<td>4</td>
+<td>15</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td>
+<td>4</td>
+<td>15</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td>Song of Rest (d10)</td>
+<td>4</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>Magical Secrets, Bard College feature</td>
+<td>4</td>
+<td>18</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td>Bardic Inspiration (d12)</td>
+<td>4</td>
+<td>19</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td>
+<td>4</td>
+<td>19</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td>Song of Rest (d12)</td>
+<td>4</td>
+<td>20</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>Magical Secrets</td>
+<td>4</td>
+<td>22</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td>Ability Score Improvement, <em>Bardic Versatility (Optional)</em></td>
+<td>4</td>
+<td>22</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>Superior Inspiration</td>
+<td>4</td>
+<td>22</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</table>
+<div class="feature">
+<div class="row">
+<h1 id="toc0"><span>Class Features</span></h1>
+<div class="col-lg-12">
+<p>As a bard, you gain the following class features.</p>
+<h5 id="toc1"><span>Hit Points</span></h5>
+<p><strong>Hit Dice:</strong> 1d8 per bard level<br />
+<strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br />
+<strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per bard level after 1st</p>
+<h5 id="toc2"><span>Proficiencies</span></h5>
+<p><strong>Armor:</strong> Light armor<br />
+<strong>Weapons:</strong> Simple weapons, hand crossbows, longswords, rapiers, shortswords<br />
+<strong>Tools:</strong> Three musical instruments of your choice<br />
+<strong>Saving Throws:</strong> Dexterity, Charisma<br />
+<strong>Skills:</strong> Choose any three</p>
+<h5 id="toc3"><span>Equipment</span></h5>
+<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+<ul>
+<li>(a) a rapier, (b) a longsword, or (c) any simple weapon</li>
+<li>(a) a diplomat's pack or (b) an entertainer's pack</li>
+<li>(a) a lute or (b) any other musical instrument</li>
+<li>Leather armor and a dagger</li>
+</ul>
+<h3 id="toc4"><span>Spellcasting</span></h3>
+<p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.</p>
+<h5 id="toc5"><span>Cantrips</span></h5>
+<p>You know two cantrips of your choice from the <a href="./spells:Bard">bard spell list</a>. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.</p>
+<h5 id="toc6"><span>Spell Slots</span></h5>
+<p>The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. For example, if you know the 1st-level spell <a href="./spell:Cure-wounds">Cure Wounds</a> and have a 1st-level and a 2nd-level spell slot available, you can cast <a href="./spell:Cure-wounds">Cure Wounds</a> using either slot.</p>
+<h5 id="toc7"><span>Spells Known of 1st Level and Higher</span></h5>
+<p>You know four 1st-level spells of your choice from the <a href="./spells:Bard">bard spell list</a>.</p>
+<p>The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</p>
+<p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.</p>
+<h5 id="toc8"><span>Spellcasting Ability</span></h5>
+<p>Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.</p>
+<p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Charisma modifier</p>
+<p><strong>Spell attack modifier</strong> = your proficiency bonus + your Charisma modifier</p>
+<h5 id="toc9"><span>Ritual Casting</span></h5>
+<p>You can cast any bard spell you know as a ritual if that spell has the ritual tag.</p>
+<h5 id="toc10"><span>Spellcasting Focus</span></h5>
+<p>You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.</p>
+<h3 id="toc11"><span>Bardic Inspiration</span></h3>
+<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p>
+<p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p>
+<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>
+<p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>
+<h3 id="toc12"><span>Jack of All Trades</span></h3>
+<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>
+<h3 id="toc13"><span>Song of Rest</span></h3>
+<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.</p>
+<p>The extra Hit Points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.</p>
+<h3 id="toc14"><span>Magical Inspiration (Optional)</span></h3>
+<p>At 2nd level, if a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.</p>
+<h3 id="toc15"><span>Bard College</span></h3>
+<p>At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level.</p>
+<table class="wiki-content-table">
+<tr>
+<th>College</th>
+<th>Source</th>
+</tr>
+<tr>
+<td><a href="./bard:creation">Creation</a></td>
+<td>Tasha's Cauldron of Everything</td>
+</tr>
+<tr>
+<td><a href="./bard:eloquence">Eloquence</a></td>
+<td>Mythic Odysseys of Theros<br />
+Tasha's Cauldron of Everything</td>
+</tr>
+<tr>
+<td><a href="./bard:glamour">Glamour</a></td>
+<td>Xanathar's Guide to Everything</td>
+</tr>
+<tr>
+<td><a href="./bard:lore">Lore</a></td>
+<td>Player's Handbook</td>
+</tr>
+<tr>
+<td><a href="./bard:spirits">Spirits</a></td>
+<td>Van Richten's Guide to Ravenloft</td>
+</tr>
+<tr>
+<td><a href="./bard:swords">Swords</a></td>
+<td>Xanathar's Guide to Everything</td>
+</tr>
+<tr>
+<td><a href="./bard:valor">Valor</a></td>
+<td>Player's Handbook</td>
+</tr>
+<tr>
+<td><a href="./bard:whispers">Whispers</a></td>
+<td>Xanathar's Guide to Everything</td>
+</tr>
+<tr>
+<th colspan="2">Archived Unearthed Arcana</th>
+</tr>
+<tr>
+<td>&nbsp;<a href="./bard:mage-of-lorehold-ua">Mage of Lorehold</a></td>
+<td><a href="https://media.wizards.com/2021/dnd/downloads/UA2021_06_08_MagesStrixhaven.pdf">Unearthed Arcana 79 - Mages of Strixhaven</a></td>
+</tr>
+<tr>
+<td>&nbsp;<a href="./bard:mage-of-silverquill-ua">Mage of Silverquill</a></td>
+<td><a href="https://media.wizards.com/2021/dnd/downloads/UA2021_06_08_MagesStrixhaven.pdf">Unearthed Arcana 79 - Mages of Strixhaven</a></td>
+</tr>
+<tr>
+<td><a href="./bard:creation-ua">Creation</a></td>
+<td><a href="https://media.wizards.com/2020/dnd/downloads/UA2020_02_06_Subclasses2.pdf">Unearthed Arcana 68 - Subclasses, Part 2</a></td>
+</tr>
+<tr>
+<td><a href="./bard:spirits-ua">Spirits</a></td>
+<td><a href="https://media.wizards.com/2020/dnd/downloads/UA2020_Subclasses04.pdf">Unearthed Arcana 74 - Subclasses, Part 4</a></td>
+</tr>
+<tr>
+<td><a href="./bard:satire-ua">Satire</a></td>
+<td><a href="https://media.wizards.com/2015/downloads/dnd/04_UA_Classics_Revisited.pdf">Unearthed Arcana 12 - Kits of Old</a></td>
+</tr>
+</table>
+<h3 id="toc16"><span>Expertise</span></h3>
+<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p>
+<p>At 10th level, you can choose another two skill proficiencies to gain this benefit.</p>
+<h3 id="toc17"><span>Ability Score Improvement</span></h3>
+<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+<h3 id="toc18"><span>Bardic Versatility (Optional)</span></h3>
+<p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:</p>
+<ul>
+<li>Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.</li>
+</ul>
+<ul>
+<li>Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the <a href="./spells:Bard">bard spell list</a>.</li>
+</ul>
+<h3 id="toc19"><span>Font of Inspiration</span></h3>
+<p>Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.</p>
+<h3 id="toc20"><span>Countercharm</span></h3>
+<p>At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).</p>
+<h3 id="toc21"><span>Magical Secrets</span></h3>
+<p>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</p>
+<p>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</p>
+<p>You learn two additional spells from any classes at 14th level and again at 18th level.</p>
+<h3 id="toc22"><span>Superior Inspiration</span></h3>
+<p>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://borradores-scp-es.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/borradores-scp-es.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://borradores-scp-es.wikidot.com">Borradores SCP-ES</a></h3>
+            <div class="desc">          
+              Sitio de borradores para miembros de la Fundación SCP-ES
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://etnolinguistica.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/etnolinguistica.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://etnolinguistica.wikidot.com">Biblioteca Digital Curt Nimuendajú</a></h3>
+            <div class="desc">          
+              línguas e culturas indígenas sul-americanas
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://thep-serc.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/thep-serc.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://thep-serc.wikidot.com">SERC Schools in THEP</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://backrooms-sandbox-2.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox-2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://backrooms-sandbox-2.wikidot.com">Backrooms Sandbox 2</a></h3>
+            <div class="desc">          
+              Sandbox: Reloaded
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

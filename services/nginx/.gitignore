@@ -3,5 +3,9 @@
 # Except this file, main compose, needed directories
 !.gitignore
 !docker-compose.yml
+
 !nginx_config/
 !nginx_config/*
+
+!/html
+!/html/**

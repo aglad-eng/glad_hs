@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Half-Elf Mark of Storms error</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14004202/half-elf-mark-of-storms-error</link>
+		<description>Posts in the discussion thread &quot;Half-Elf Mark of Storms error&quot; - Feature &quot;Magical Detection&quot; should be called &quot;Headwinds&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14004202#post-4898755</guid>
+				<title>Re: Half-Elf Mark of Storms error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14004202/half-elf-mark-of-storms-error#post-4898755</link>
+				<description></description>
+				<pubDate>Mon, 15 Feb 2021 03:09:04 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14004202#post-4898285</guid>
+				<title>Half-Elf Mark of Storms error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14004202/half-elf-mark-of-storms-error#post-4898285</link>
+				<description></description>
+				<pubDate>Sun, 14 Feb 2021 15:31:08 +0000</pubDate>
+				<wikidot:authorName>Floogin</wikidot:authorName>				<wikidot:authorUserId>7274981</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Mark of Storms option for Half-Elves has the Headwinds race feature listed incorrectly as Magical Detection.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

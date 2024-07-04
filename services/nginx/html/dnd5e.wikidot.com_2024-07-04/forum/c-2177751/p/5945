@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Forum Category - DND 5th Edition Open Topic</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887289;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "forum:category";
+        OZONE.request.timestamp = 1720132797;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "forum:category";
+        WIKIREQUEST.info.pageId = 48865947;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="../../../local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="../../../local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="../../../common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Posts in the forum category &quot;Open Topic&quot;" href="../../../feed/forum/cp-2177751.xml"/><link rel="alternate" type="application/rss+xml" title="Threads in the forum category &quot;Open Topic&quot;" href="../../../feed/forum/ct-2177751.xml"/><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="../../../random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="../../../index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/forum/c-2177751/p/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../../index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="../../../main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="../../../system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="5945#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../../help:_home">User Guide</a></li>
+<li><a href="../../../help:first-time-user">First Time User</a></li>
+<li><a href="../../../help:quick-reference">Quick Reference</a></li>
+<li><a href="../../../help:creating-pages">Creating Pages</a></li>
+<li><a href="../../../help:editing-pages">Editing Pages</a></li>
+<li><a href="../../../help:navigation-bars">Navigation Bars</a></li>
+<li><a href="../../../help:using-modules">Using Modules</a></li>
+<li><a href="../../../help:templates">Templates</a></li>
+<li><a href="../../../help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="5945#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../../_admin">Site Manager</a></li>
+<li><a href="../../../nav:top">Edit Top Bar</a></li>
+<li><a href="../../../nav:side">Edit Side Bar</a></li>
+<li><a href="../../../css:_home">CSS Manager</a></li>
+<li><a href="../../../system:recent-changes">Recent Changes</a></li>
+<li><a href="../../../system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="../../../help:_home">User Guide</a></li>
+<li><a href="../../../help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="../../../main:about">About</a></li>
+<li><a href="../../../main:contact">Contact</a></li>
+<li><a href="../../../legal:_home">Legal</a></li>
+<li><a href="../../../forum:start">Discussion Forums</a></li>
+<li><a href="../../../system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/forum/c-2177751/p/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Forum Category</span></div>
+          
+          
+
+
+
+<div id="page-content">
+
+<div class="forum-category-box">
+		<div class="forum-breadcrumbs">
+		<a href="http://dnd5e.wikidot.com/forum/start">Forum</a>
+		&raquo;
+		Community /
+		Open Topic
+	</div>
+	
+	<div class="description-block well">
+		<div class="statistics">
+			Number of threads: 118984<br/>
+			Number of posts: 120008<br/>
+			<span class="rss-icon"><img src="http://www.wikidot.com/common--theme/base/images/feed/feed-icon-14x14.png" alt="rss icon"/></span>
+			RSS: <a href="../../../feed/forum/ct-2177751.xml">New threads</a> | <a href="../../../feed/forum/cp-2177751.xml">New posts</a>
+		
+		</div>
+		Discuss anything!
+	</div>
+	
+			<div class="options">
+			Order by: <div class="btn btn-primary disabled btn-small btn-sm"><strong>Last post date</strong></div> <a href="../sort/start" class="btn btn-primary btn-small btn-sm">Thread starting date</a>
+		</div>	
+		
+	<div class="new-post">
+		<a href="http://dnd5e.wikidot.com/forum:new-thread/c/2177751" class="btn btn-primary">Create a new thread</a>
+	</div>
+	
+					<div class="pager"><span class="pager-no">page 5945 of 5950</span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5944">&laquo; previous</a></span><span class="target"><a href="1">1</a></span><span class="target"><a href="2">2</a></span><span class="dots">...</span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5943">5943</a></span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5944">5944</a></span><span class="current">5945</span><span class="target"><a href="5946">5946</a></span><span class="target"><a href="5947">5947</a></span><span class="target"><a href="5948">5948</a></span><span class="target"><a href="5949">5949</a></span><span class="target"><a href="5950">5950</a></span><span class="target"><a href="5946">next &raquo;</a></span></div>
+	
+	
+	<table style="width: 98%" class="table">
+		<tr class="head">
+			<td>
+				Thread name			</td>
+			<td>
+				Started			</td>
+			<td>
+				Posts			</td>
+			<td>
+				Recent post			</td>
+		</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14932960/dmg-races">DMG Races</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <br/>
+					<span class="odate time_1656337158 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 Jun 2022 13:39</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14915840/monsters">monsters</a><br/>
+					</div>
+					<div class="description">
+						should we start adding them?
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/lousilver" onclick="WIKIDOT.page.listeners.userInfo(8099718); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8099718&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="lousilver" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8099718)"/></a><a href="http://www.wikidot.com/user:info/lousilver" onclick="WIKIDOT.page.listeners.userInfo(8099718); return false;" >lousilver</a></span> <br/>
+					<span class="odate time_1656038384 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">24 Jun 2022 02:39</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span><br/>
+							<span class="odate time_1656078736 format_%28%25O%20%25A%29">24 Jun 2022 13:52</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14915840/monsters#post-5410782">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14725856/unearthed-arcana:giant-options">Unearthed Arcana: Giant Options</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <br/>
+					<span class="odate time_1653622632 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 May 2022 03:37</span>
+				</td>
+				<td class="posts">
+					5
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1656041894 format_%28%25O%20%25A%29">24 Jun 2022 03:38</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14725856/unearthed-arcana:giant-options#post-5408517">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14861475/should-the-wiki-change-from-race-to-lineage">Should the wiki change from Race to Lineage?</a><br/>
+					</div>
+					<div class="description">
+						Should the wiki change all the Race pages to say Lineage? Also should the pages also change for the stat increases to be choices? Thoughts?
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/josephjj321" onclick="WIKIDOT.page.listeners.userInfo(8083618); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8083618&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Josephjj321" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8083618)"/></a><a href="http://www.wikidot.com/user:info/josephjj321" onclick="WIKIDOT.page.listeners.userInfo(8083618); return false;" >Josephjj321</a></span> <br/>
+					<span class="odate time_1655347781 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">16 Jun 2022 02:49</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1655385431 format_%28%25O%20%25A%29">16 Jun 2022 13:17</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14861475/should-the-wiki-change-from-race-to-lineage#post-5394207">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14678821/exploring-eberron-and-homebrew-races">Exploring Eberron and Homebrew Races</a><br/>
+					</div>
+					<div class="description">
+						Thoughts potentially on adding the homebrew races from Keith Baker&#039;s Exploring Eberron or other homebrew races
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/phosphoria" onclick="WIKIDOT.page.listeners.userInfo(6941388); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6941388&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Phosphoria" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6941388)"/></a><a href="http://www.wikidot.com/user:info/phosphoria" onclick="WIKIDOT.page.listeners.userInfo(6941388); return false;" >Phosphoria</a></span> <br/>
+					<span class="odate time_1651549880 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 May 2022 03:51</span>
+				</td>
+				<td class="posts">
+					5
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1655268749 format_%28%25O%20%25A%29">15 Jun 2022 04:52</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14678821/exploring-eberron-and-homebrew-races#post-5392885">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14715608/errata-checklist">Errata Checklist</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <br/>
+					<span class="odate time_1653474528 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 May 2022 10:28</span>
+				</td>
+				<td class="posts">
+					7
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1654356299 format_%28%25O%20%25A%29">04 Jun 2022 15:24</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14715608/errata-checklist#post-5371340">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14673252/equipment-and-items">Equipment and Items</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/dexials" onclick="WIKIDOT.page.listeners.userInfo(8012334); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8012334&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Dexials" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8012334)"/></a><a href="http://www.wikidot.com/user:info/dexials" onclick="WIKIDOT.page.listeners.userInfo(8012334); return false;" >Dexials</a></span> <br/>
+					<span class="odate time_1651345330 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2022 19:02</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/dexials" onclick="WIKIDOT.page.listeners.userInfo(8012334); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8012334&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Dexials" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8012334)"/></a><a href="http://www.wikidot.com/user:info/dexials" onclick="WIKIDOT.page.listeners.userInfo(8012334); return false;" >Dexials</a></span><br/>
+							<span class="odate time_1651538946 format_%28%25O%20%25A%29">03 May 2022 00:49</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14673252/equipment-and-items#post-5300393">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14663637/heroes-of-krynn-revisited-ua">Heroes of Krynn Revisited UA</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6675660&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Valkyria Grey" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6675660)"/></a><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;" >Valkyria Grey</a></span> <br/>
+					<span class="odate time_1650918259 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 Apr 2022 20:24</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14556402/aura-of-vitality:wrong-classes">Aura of Vitality: Wrong classes</a><br/>
+					</div>
+					<div class="description">
+						The spell Aura of Vitality should only be accessible to Paladins.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/obnidem" onclick="WIKIDOT.page.listeners.userInfo(7340743); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7340743&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Obnidem" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7340743)"/></a><a href="http://www.wikidot.com/user:info/obnidem" onclick="WIKIDOT.page.listeners.userInfo(7340743); return false;" >Obnidem</a></span> <br/>
+					<span class="odate time_1646941253 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Mar 2022 19:40</span>
+				</td>
+				<td class="posts">
+					7
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1649360678 format_%28%25O%20%25A%29">07 Apr 2022 19:44</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14556402/aura-of-vitality:wrong-classes#post-5255119">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14592571/correction-at-the-summon-celestial-page">Correction at the Summon Celestial page</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/kostas-sgouros" onclick="WIKIDOT.page.listeners.userInfo(7965449); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7965449&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Kostas Sgouros" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7965449)"/></a><a href="http://www.wikidot.com/user:info/kostas-sgouros" onclick="WIKIDOT.page.listeners.userInfo(7965449); return false;" >Kostas Sgouros</a></span> <br/>
+					<span class="odate time_1648990390 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 Apr 2022 12:53</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14582244/call-to-all-rules-lawyers-and-contract-specialist">Call to all Rules lawyers and contract specialist</a><br/>
+					</div>
+					<div class="description">
+						I need help creating a contract with a demon Lord
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/neon-rayne" onclick="WIKIDOT.page.listeners.userInfo(7956269); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7956269&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Neon Rayne " style="background-image:url(http://www.wikidot.com/userkarma.php?u=7956269)"/></a><a href="http://www.wikidot.com/user:info/neon-rayne" onclick="WIKIDOT.page.listeners.userInfo(7956269); return false;" >Neon Rayne </a></span> <br/>
+					<span class="odate time_1648479712 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">28 Mar 2022 15:01</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1648565006 format_%28%25O%20%25A%29">29 Mar 2022 14:43</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14582244/call-to-all-rules-lawyers-and-contract-specialist#post-5244744">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14474696/tal-dorei-campaign-setting-reborn">Tal&#039;Dorei Campaign Setting Reborn</a><br/>
+					</div>
+					<div class="description">
+						The third Critical Role sourcebook came out
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/dr-benji" onclick="WIKIDOT.page.listeners.userInfo(1575709); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=1575709&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Dr Benji" style="background-image:url(http://www.wikidot.com/userkarma.php?u=1575709)"/></a><a href="http://www.wikidot.com/user:info/dr-benji" onclick="WIKIDOT.page.listeners.userInfo(1575709); return false;" >Dr Benji</a></span> <br/>
+					<span class="odate time_1644287477 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">08 Feb 2022 02:31</span>
+				</td>
+				<td class="posts">
+					12
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1647482887 format_%28%25O%20%25A%29">17 Mar 2022 02:08</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14474696/tal-dorei-campaign-setting-reborn#post-5233232">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14553846/heroes-of-krynn-ua">Heroes of Krynn UA</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6675660&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Valkyria Grey" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6675660)"/></a><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;" >Valkyria Grey</a></span> <br/>
+					<span class="odate time_1646780001 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">08 Mar 2022 22:53</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6675660&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Valkyria Grey" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6675660)"/></a><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;" >Valkyria Grey</a></span><br/>
+							<span class="odate time_1647284332 format_%28%25O%20%25A%29">14 Mar 2022 18:58</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14553846/heroes-of-krynn-ua#post-5231333">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14545578/auroboros:coils-of-the-serpent">Auroboros: Coils of the Serpent</a><br/>
+					</div>
+					<div class="description">
+						Should we include this content in the homebrew section?
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <br/>
+					<span class="odate time_1646106446 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2022 03:47</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1646319846 format_%28%25O%20%25A%29">03 Mar 2022 15:04</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14545578/auroboros:coils-of-the-serpent#post-5222687">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14104616/van-richten-s-guide-to-ravenloft">Van Richten&#039;s Guide to Ravenloft</a><br/>
+					</div>
+					<div class="description">
+						Updates on adding Van Richten&#039;s Guide to Ravenloft content
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <br/>
+					<span class="odate time_1621613861 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">21 May 2021 16:17</span>
+				</td>
+				<td class="posts">
+					21
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1646145220 format_%28%25O%20%25A%29">01 Mar 2022 14:33</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14104616/van-richten-s-guide-to-ravenloft#post-5221323">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14470304/mordenkainen-s-monsters-of-the-multiverse">Mordenkainen&#039;s Monsters of the Multiverse</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <br/>
+					<span class="odate time_1644002213 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">04 Feb 2022 19:16</span>
+				</td>
+				<td class="posts">
+					13
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/out-of-time" onclick="WIKIDOT.page.listeners.userInfo(4858050); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=4858050&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Out of Time" style="background-image:url(http://www.wikidot.com/userkarma.php?u=4858050)"/></a><a href="http://www.wikidot.com/user:info/out-of-time" onclick="WIKIDOT.page.listeners.userInfo(4858050); return false;" >Out of Time</a></span><br/>
+							<span class="odate time_1645907335 format_%28%25O%20%25A%29">26 Feb 2022 20:28</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14470304/mordenkainen-s-monsters-of-the-multiverse#post-5219085">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14476631/why-does-some-parts-dont-show-on-the-main-page">Why does some parts dont show on the main page?</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/toksy3" onclick="WIKIDOT.page.listeners.userInfo(7884423); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7884423&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Toksy3" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7884423)"/></a><a href="http://www.wikidot.com/user:info/toksy3" onclick="WIKIDOT.page.listeners.userInfo(7884423); return false;" >Toksy3</a></span> <br/>
+					<span class="odate time_1644390036 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Feb 2022 07:00</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1644427488 format_%28%25O%20%25A%29">09 Feb 2022 17:24</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14476631/why-does-some-parts-dont-show-on-the-main-page#post-5198217">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons">Fizban&#039;s Treasury of Dragons</a><br/>
+					</div>
+					<div class="description">
+						To track additions and changes related to Fizban&#039;s Treasury of Dragons release
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <br/>
+					<span class="odate time_1635274446 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">26 Oct 2021 18:54</span>
+				</td>
+				<td class="posts">
+					24
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+							<span class="odate time_1644330936 format_%28%25O%20%25A%29">08 Feb 2022 14:35</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons#post-5197076">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14463720/no-siren-race">No Siren race?</a><br/>
+					</div>
+					<div class="description">
+						The Siren race from Planeshift: Ixalan is missing!!
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/snowynya" onclick="WIKIDOT.page.listeners.userInfo(7727402); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7727402&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="snowynya" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7727402)"/></a><a href="http://www.wikidot.com/user:info/snowynya" onclick="WIKIDOT.page.listeners.userInfo(7727402); return false;" >snowynya</a></span> <br/>
+					<span class="odate time_1642862699 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">22 Jan 2022 14:44</span>
+				</td>
+				<td class="posts">
+					5
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span><br/>
+							<span class="odate time_1643750991 format_%28%25O%20%25A%29">01 Feb 2022 21:29</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14463720/no-siren-race#post-5191438">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="http://dnd5e.wikidot.com/forum/t-14460543/lycanthrope-origins-of-the-beast">Lycanthrope/Origins of the Beast</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/derbyd" onclick="WIKIDOT.page.listeners.userInfo(7849920); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7849920&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="DerbyD" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7849920)"/></a><a href="http://www.wikidot.com/user:info/derbyd" onclick="WIKIDOT.page.listeners.userInfo(7849920); return false;" >DerbyD</a></span> <br/>
+					<span class="odate time_1642465841 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">18 Jan 2022 00:30</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/derbyd" onclick="WIKIDOT.page.listeners.userInfo(7849920); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=7849920&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="DerbyD" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7849920)"/></a><a href="http://www.wikidot.com/user:info/derbyd" onclick="WIKIDOT.page.listeners.userInfo(7849920); return false;" >DerbyD</a></span><br/>
+							<span class="odate time_1642638908 format_%28%25O%20%25A%29">20 Jan 2022 00:35</span>
+							<a href="http://dnd5e.wikidot.com/forum/t-14460543/lycanthrope-origins-of-the-beast#post-5181377">Jump!</a>
+															</td>
+			</tr>
+			</table>
+	
+			<div class="pager"><span class="pager-no">page 5945 of 5950</span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5944">&laquo; previous</a></span><span class="target"><a href="1">1</a></span><span class="target"><a href="2">2</a></span><span class="dots">...</span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5943">5943</a></span><span class="target"><a href="http://dnd5e.wikidot.com/forum/c-2177751/p/5944">5944</a></span><span class="current">5945</span><span class="target"><a href="5946">5946</a></span><span class="target"><a href="5947">5947</a></span><span class="target"><a href="5948">5948</a></span><span class="target"><a href="5949">5949</a></span><span class="target"><a href="5950">5950</a></span><span class="target"><a href="5946">next &raquo;</a></span></div>
+		
+</div></div>
+
+
+
+
+
+
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://sistdig.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sistdig.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://sistdig.wikidot.com">Sistemas Digitales</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://g-backrooms-wiki-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/g-backrooms-wiki-cn.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://g-backrooms-wiki-cn.wikidot.com">The Backrooms-G 后室G层群维基</a></h3>
+            <div class="desc">          
+              于虚空之中的希望
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bokusatsu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bokusatsu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bokusatsu.wikidot.com">撲殺食堂 Wiki</a></h3>
+            <div class="desc">          
+              年中無休
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://e-h-s.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/e-h-s.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://e-h-s.wikidot.com">Electromagnetic (Hyper)Sensitivity</a></h3>
+            <div class="desc">          
+              Causes of Electro Smog, EMF and Wireless Devices
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

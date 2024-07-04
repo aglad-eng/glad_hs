@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Adventuring Gear - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887298;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "adventuring-gear";
+        OZONE.request.timestamp = 1720132502;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "adventuring-gear";
+        WIKIREQUEST.info.pageId = 999708485;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="adventuring-gear#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="adventuring-gear#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Adventuring Gear</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div id="toc" class="floatright">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc0">Equipment Packs</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc1">Common Items</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc2">Usable Items</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc3">Clothes</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc4">Arcane Focus</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc5">Druidic Focus</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc6">Holy Symbols</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc7">Containers</a></div>
+<div style="margin-left: 1em;"><a href="adventuring-gear#toc8">Setting Specific Adventuring Gear</a></div>
+<div style="margin-left: 2em;"><a href="adventuring-gear#toc9">Dragonlance</a></div>
+</div>
+</div>
+<h1 id="toc0"><span>Equipment Packs</span></h1>
+<em>The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.</em><br />
+<table class="wiki-content-table">
+<tr>
+<th>Equipment Pack</th>
+<th>Cost</th>
+<th>Contents</th>
+</tr>
+<tr>
+<td>Burglar's Pack</td>
+<td>16 gp</td>
+<td>Backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</td>
+</tr>
+<tr>
+<td>Diplomat's Pack</td>
+<td>39 gp</td>
+<td>Chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.</td>
+</tr>
+<tr>
+<td>Dungeoneer's Pack</td>
+<td>12 gp</td>
+<td>Backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</td>
+</tr>
+<tr>
+<td>Entertainer's Pack</td>
+<td>40 gp</td>
+<td>Backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.</td>
+</tr>
+<tr>
+<td>Explorer's Pack</td>
+<td>10 gp</td>
+<td>Backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.</td>
+</tr>
+<tr>
+<td>Priest's Pack</td>
+<td>19 gp</td>
+<td>Backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.</td>
+</tr>
+<tr>
+<td>Scholar's Pack</td>
+<td>40 gp</td>
+<td>Backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.</td>
+</tr>
+</table>
+<h1 id="toc1"><span>Common Items</span></h1>
+<table class="wiki-content-table">
+<tr>
+<th>Common Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Abacus</td>
+<td>2 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Bedroll</td>
+<td>1 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Bell</td>
+<td>1 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Blanket</td>
+<td>5 sp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Block and Tackle<br />
+* <em>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</em></td>
+<td>1 gp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Book<br />
+* <em>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented sing text or pictures. A book of spells is a spellbook.</em></td>
+<td>25 gp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Candle<br />
+* <em>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for another 5 feet.</em></td>
+<td>1 cp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Chain (10 ft)<br />
+* <em>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.</em></td>
+<td>5 gp</td>
+<td>10&#160;lb.</td>
+</tr>
+<tr>
+<td>Chalk (1 pc)</td>
+<td>1 cp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Component Pouch<br />
+* <em>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</em></td>
+<td>25 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Fishing Tackle<br />
+* <em>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</em></td>
+<td>1 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Grappling Hook</td>
+<td>2 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Hammer</td>
+<td>1 gp</td>
+<td>3&#160;lb.</td>
+</tr>
+<tr>
+<td>Hourglass</td>
+<td>25 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Ink (1 oz)</td>
+<td>10 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Ink Pen</td>
+<td>2 cp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Ladder (10 ft)</td>
+<td>1 sp</td>
+<td>25&#160;lb.</td>
+</tr>
+<tr>
+<td>Lock<br />
+* <em>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</em></td>
+<td>10 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Magnifying Glass<br />
+* <em>This lens allows a closer look at small objects. It is also useful as a substitute or flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</em></td>
+<td>100 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Manacles<br />
+* <em>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</em></td>
+<td>2 gp</td>
+<td>6&#160;lb.</td>
+</tr>
+<tr>
+<td>Mess Kit<br />
+* <em>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</em></td>
+<td>2 sp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Miner's Pick</td>
+<td>2 gp</td>
+<td>10&#160;lb.</td>
+</tr>
+<tr>
+<td>Paper (1 pc)</td>
+<td>2 sp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Parchment (1 sheet)</td>
+<td>1 sp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Perfume (vial)</td>
+<td>5 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Piton</td>
+<td>5 cp</td>
+<td>0.25&#160;lb.</td>
+</tr>
+<tr>
+<td>Pole (10 ft)</td>
+<td>5 cp</td>
+<td>7&#160;lb.</td>
+</tr>
+<tr>
+<td>Ram, Portable<br />
+* <em>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</em></td>
+<td>4 gp</td>
+<td>35&#160;lb.</td>
+</tr>
+<tr>
+<td>Rations (1 day)<br />
+* <em>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</em></td>
+<td>5 sp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Rope<br />
+* <em>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</em><br />
+- Hemp (50 ft)<br />
+- Silk (50 feet)</td>
+<td><br />
+<br />
+1 gp<br />
+10 gp</td>
+<td><br />
+<br />
+10&#160;lb.<br />
+5&#160;lb.</td>
+</tr>
+<tr>
+<td>Sealing Wax</td>
+<td>5 sp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Shovel</td>
+<td>2 gp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Signal Whistle</td>
+<td>5 cp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Signet Ring</td>
+<td>5 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Sledgehammer</td>
+<td>2 gp</td>
+<td>10&#160;lb.</td>
+</tr>
+<tr>
+<td>Spellbook<br />
+* <em>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.</em></td>
+<td>50 gp</td>
+<td>3&#160;lb.</td>
+</tr>
+<tr>
+<td>Spikes - Iron (10)</td>
+<td>1 gp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Spyglass<br />
+* <em>Objects viewed through a spyglass are magnified to twice their size.</em></td>
+<td>1000 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Tent - 2 person</td>
+<td>2 gp</td>
+<td>20 lbs.</td>
+</tr>
+<tr>
+<td>Whetstone</td>
+<td>1 cp</td>
+<td>1&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc2"><span>Usable Items</span></h1>
+<table class="wiki-content-table">
+<tr>
+<th>Usable Items</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Acid (vial)<br />
+* <em>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</em></td>
+<td>25 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Alchemist's Fire (flask)<br />
+* <em>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</em></td>
+<td>50 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Antitoxin (vial)<br />
+* <em>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefits to undead or constructs.</em></td>
+<td>50 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Ball Bearings (bag of 1,000)<br />
+* <em>As an action, you can spill these tiny balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</em></td>
+<td>1 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Caltrops (bag of 20)<br />
+* <em>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</em></td>
+<td>1 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Climber's Kit<br />
+* <em>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.</em></td>
+<td>25 gp</td>
+<td>12&#160;lb.</td>
+</tr>
+<tr>
+<td>Crowbar<br />
+* <em>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</em></td>
+<td>2 gp</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Healer's Kit<br />
+* <em>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</em></td>
+<td>5 gp</td>
+<td>3&#160;lb.</td>
+</tr>
+<tr>
+<td>Holy Water (flask)<br />
+* <em>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.</em><br />
+* <em>A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</em></td>
+<td>25 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Hunting Trap<br />
+* <em>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</em></td>
+<td>5 gp</td>
+<td>25&#160;lb.</td>
+</tr>
+<tr>
+<td>Lamp<br />
+* <em>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</em></td>
+<td>5 sp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Lantern - Bullseye<br />
+* <em>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</em></td>
+<td>10 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Lantern - Hooded<br />
+* <em>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</em></td>
+<td>5 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Oil (flask)<br />
+* <em>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. if lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</em></td>
+<td>1 sp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Poison, basic (vial)<br />
+* <em>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</em></td>
+<td>100 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a href="./wondrous-items:Potion-of-healing">Potion of Healing (common)</a></td>
+<td>50 gp</td>
+<td>0.5&#160;lb.</td>
+</tr>
+<tr>
+<td>Tinderbox<br />
+* <em>This small container holds flint, fire steel, an tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch &#8212; or anything else with abundant, exposed fuel &#8212; takes an action. Lighting any other fire takes 1 minutes.</em></td>
+<td>5 sp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Torch<br />
+* <em>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</em></td>
+<td>1 cp</td>
+<td>1&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc3"><span>Clothes</span></h1>
+<table class="wiki-content-table">
+<tr>
+<th>Clothes</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Common Clothes</td>
+<td>5 sp</td>
+<td>3&#160;lb.</td>
+</tr>
+<tr>
+<td>Costume</td>
+<td>5 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Fine Clothes</td>
+<td>15 gp</td>
+<td>6&#160;lb.</td>
+</tr>
+<tr>
+<td>Robes</td>
+<td>1 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Traveler's Clothes</td>
+<td>2 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc4"><span>Arcane Focus</span></h1>
+<em>An arcane focus is a special item &#8212; an orb, a crystal, a rod, a specifically constructed staff, a wand-like length of wood, or some similar item &#8212; designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.</em><br />
+<table class="wiki-content-table">
+<tr>
+<th>Arcane Focus</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Crystal</td>
+<td>10 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Orb</td>
+<td>20 gp</td>
+<td>3&#160;lb.</td>
+</tr>
+<tr>
+<td>Rod</td>
+<td>10 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Staff</td>
+<td>5 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Wand</td>
+<td>10 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc5"><span>Druidic Focus</span></h1>
+<em>A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.</em><br />
+<table class="wiki-content-table">
+<tr>
+<th>Druidic Focus</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Sprig of Mistletoe</td>
+<td>1 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Totem</td>
+<td>1 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wooden Staff</td>
+<td>5 gp</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Yew Wand</td>
+<td>10 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc6"><span>Holy Symbols</span></h1>
+<em>A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</em><br />
+<table class="wiki-content-table">
+<tr>
+<th>Holy Symbols</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Amulet</td>
+<td>5 gp</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Emblem</td>
+<td>5 gp</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Reliquary</td>
+<td>5 gp</td>
+<td>2&#160;lb.</td>
+</tr>
+</table>
+<h1 id="toc7"><span>Containers</span></h1>
+<table class="wiki-content-table">
+<tr>
+<th>Containers</th>
+<th>Cost</th>
+<th>Capacity</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Backpack*<br />
+* <em>You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</em></td>
+<td>2 gp</td>
+<td>1 cubic foot/30 pounds of gear</td>
+<td>5&#160;lb.</td>
+</tr>
+<tr>
+<td>Barrel</td>
+<td>2 gp</td>
+<td>40 gallons liquid, 4 cubic feet solid</td>
+<td>70&#160;lb.</td>
+</tr>
+<tr>
+<td>Basket</td>
+<td>4 sp</td>
+<td>2 cubic feet/40 pounds of gear</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Bucket</td>
+<td>5 cp</td>
+<td>3 gallons liquid, 1/2 cubic foot solid</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Case, Crossbow Bolt</td>
+<td>1 gp</td>
+<td>20 crossbow bolts</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Case, Map/Scroll</td>
+<td>1 gp</td>
+<td>ten rolled-up sheets of paper or five rolled-up sheets of parchment</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Chest</td>
+<td>5 gp</td>
+<td>12 cubic feet/300 pounds of gear</td>
+<td>25&#160;lb.</td>
+</tr>
+<tr>
+<td>Flask or Tankard</td>
+<td>2 cp</td>
+<td>1 pint liquid</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Glass Bottle</td>
+<td>2 gp</td>
+<td>1.5 pints liquid</td>
+<td>2&#160;lb.</td>
+</tr>
+<tr>
+<td>Jug or Pitcher</td>
+<td>2 cp</td>
+<td>1 gallon liquid</td>
+<td>4&#160;lb.</td>
+</tr>
+<tr>
+<td>Pot, iron</td>
+<td>2 gp</td>
+<td>1 gallon liquid</td>
+<td>10&#160;lb</td>
+</tr>
+<tr>
+<td>Pouch<br />
+* <em>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch.</em></td>
+<td>5 sp</td>
+<td>1/5 cubic foot/6 pounds of gear</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Quiver</td>
+<td>1 gp</td>
+<td>20 arrows</td>
+<td>1&#160;lb.</td>
+</tr>
+<tr>
+<td>Sack</td>
+<td>1 cp</td>
+<td>1 cubic foot/30 pounds of gear</td>
+<td>0.5&#160;lb.</td>
+</tr>
+<tr>
+<td>Vial</td>
+<td>1 gp</td>
+<td>4 ounces liquid</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Waterskin</td>
+<td>2 sp</td>
+<td>4 pints liquid</td>
+<td>5&#160;lb.(full)</td>
+</tr>
+</table>
+<h1 id="toc8"><span>Setting Specific Adventuring Gear</span></h1>
+<h2 id="toc9"><span>Dragonlance</span></h2>
+<p>Source: Dragonlance: Shadow of the Dragon Queen</p>
+<table class="wiki-content-table">
+<tr>
+<th>Items</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Fargab<br />
+* <em>These backpack-sized devices are created in pairs, with matching numbers engraved on them, and allow communication over a long distance using radio frequencies. While wearing a fargab, you can use an action to speak into the device's mouthpiece and send a short message of twenty-five words or less to another creature wearing the matched fargab while it is within 18 miles of you. The message emits from the speakers of the device and can be heard up to 10 feet awayfrom the device. If no creature is wearing the fargab, the speakers make static noises instead.</em></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Narycrash<br />
+* <em>This backpack-sized device holds a balloon-based parachute. If you fall while wearing this device, you can use your reaction to deploy the parachute. Once deployed, the parachute rapidly inflates, and you descend 60 feet per round and take no damage from falling. When you are 10 feet away from the ground, roll a d20. If you roll a 5 or less, the parachute gives out, and you begin to fall normally.</em></td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://calu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/calu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://calu.wikidot.com">CalU Secondary Education Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://historynewmedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/historynewmedia.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://historynewmedia.wikidot.com">History in the New Media</a></h3>
+            <div class="desc">          
+              Digital Project Design in Archives and Public History
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://keramik.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/keramik.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://keramik.wikidot.com">Keramiker - fabriker - stämplar och signaturer</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://backrooms-wiki-npg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki-npg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://backrooms-wiki-npg.wikidot.com">The NPGRooms ♂日♂暮♂里♂</a></h3>
+            <div class="desc">          
+              你肯定来♂过这里
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

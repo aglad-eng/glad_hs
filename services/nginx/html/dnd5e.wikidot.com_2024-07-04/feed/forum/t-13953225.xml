@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Fighter: Scout error?</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13953225/fighter:scout-error</link>
+		<description>Posts in the discussion thread &quot;Fighter: Scout error?&quot; - Natural Explorer description doesn&#039;t match the one in Ranger class</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13953225#post-4871077</guid>
+				<title>Re: Fighter: Scout error?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13953225/fighter:scout-error#post-4871077</link>
+				<description></description>
+				<pubDate>Fri, 15 Jan 2021 18:50:04 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Just looked into it. The &quot;Natural Explorer&quot; that was being used for the Scout subclass was taken from the Revised Ranger (UA 18 - The Ranger, Revised), not the PHB. I just fixed it. Thanks for the heads up!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13953225#post-4852299</guid>
+				<title>Fighter: Scout error?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13953225/fighter:scout-error#post-4852299</link>
+				<description></description>
+				<pubDate>Thu, 24 Dec 2020 00:35:42 +0000</pubDate>
+				<wikidot:authorName>Rysz</wikidot:authorName>				<wikidot:authorUserId>7161730</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The description of Natural Explorer feature is different than the one in Ranger class description.<br /> According to &quot;Unearthed Arcana: Kits of Old&quot; the difference should be much smaller.</p> <p>I know it's an archived unearthed arcana, but some people still want to use it and it can be misleading.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

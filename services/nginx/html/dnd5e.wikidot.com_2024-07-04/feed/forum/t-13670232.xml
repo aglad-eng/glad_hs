@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Front page topic links</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13670232/front-page-topic-links</link>
+		<description>Posts in the discussion thread &quot;Front page topic links&quot; - The topic links seem to be going to the wrong sections</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13670232#post-4829415</guid>
+				<title>Re: Front page topic links</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13670232/front-page-topic-links#post-4829415</link>
+				<description></description>
+				<pubDate>Fri, 27 Nov 2020 13:16:14 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Those links have been fixed. It's not a hard-coded distance it's based on the header tags in the code, looks like a bunch had been added over time and those links were never updated. I generally just scroll to where I'm going so never noticed.</p> <p>Thanks for the heads up!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13670232#post-4829141</guid>
+				<title>Re: Front page topic links</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13670232/front-page-topic-links#post-4829141</link>
+				<description></description>
+				<pubDate>Fri, 27 Nov 2020 05:18:24 +0000</pubDate>
+				<wikidot:authorName>SquirrellyOtter</wikidot:authorName>				<wikidot:authorUserId>7061664</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I noticed this too. I kinda wonder if the &quot;jumps&quot; were hardcoded a certain distance; I think the jumps worked when the page was originally built with less content, but as more stuff was added (more backgrounds, more classes, etc) the jump distances weren't updated to match so instead of jumping to the items, you land on sorcerer because there's that much new content added since the site was built.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13670232#post-4757234</guid>
+				<title>Front page topic links</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13670232/front-page-topic-links#post-4757234</link>
+				<description></description>
+				<pubDate>Mon, 24 Aug 2020 11:03:06 +0000</pubDate>
+				<wikidot:authorName>Toastghoast</wikidot:authorName>				<wikidot:authorUserId>6420009</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The front page needs to be amended to move to the correct section</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

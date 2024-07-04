@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Background: Uthgardt Tribe Member - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 12838331;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "background:uthgardt-tribe-member";
+        OZONE.request.timestamp = 1720132585;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "background:uthgardt-tribe-member";
+        WIKIREQUEST.info.pageId = 52563629;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:uthgardt-tribe-member#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:uthgardt-tribe-member#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Background: Uthgardt Tribe Member</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div id="toc" class="floatright">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 1em;"><a href="./background:uthgardt-tribe-member#toc0">Features</a></div>
+<div style="margin-left: 2em;"><a href="./background:uthgardt-tribe-member#toc1">Barbarian Tribes of Faerûn</a></div>
+<div style="margin-left: 2em;"><a href="./background:uthgardt-tribe-member#toc2">Uthgardt Tribes and Their Territories</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc3">Blue Bear</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc4">Black Lion and Red Tiger</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc5">Sky Pony</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc6">Tree Ghost</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc7">Great Worm</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc8">Black Raven</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc9">Elk</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc10">Thunderbeast</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc11">Gray Wolf</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc12">Griffon</a></div>
+<div style="margin-left: 3em;"><a href="./background:uthgardt-tribe-member#toc13">Red Pony and Golden Eagle</a></div>
+<div style="margin-left: 2em;"><a href="./background:uthgardt-tribe-member#toc14">Uthgardt Heritage</a></div>
+<div style="margin-left: 1em;"><a href="./background:uthgardt-tribe-member#toc15">Suggested Characteristics</a></div>
+</div>
+</div>
+<p><strong><em>Though you might have only recently arrived in civilized lands, you are no stranger to the values of cooperation and group effort when striving for supremacy. You learned these principles, and much more, as a member of an Uthgardt tribe.</em></strong></p>
+<p><strong><em>Your people have always tried to hold to the old ways. Tradition and taboo have kept the Uthgardt strong while the kingdoms of others have collapsed into chaos and ruin. But for the last few generations, some bands among the tribes were tempted to settle, make peace, trade, and even to build towns. Perhaps this is why Uthgar chose to raise up the totems among the people as living embodiments of his power. Perhaps they needed a reminder of who they were and from whence they came. The Chosen of Uthgar led bands back to the old ways, and most of your people abandoned the soft ways of civilization.</em></strong></p>
+<p><strong><em>You might have grown up in one of the tribes that had decided to settle down, and now that they have abandoned that path, you find yourself adrift. Or you might come from a segment of the Uthgardt that adheres to tradition, but you seek to bring glory to your tribe by achieving great things as a formidable adventurer.</em></strong></p>
+<p><strong><em>See the &quot;Uthgardt Tribes and Their Territories&quot; section below for details on each tribe's territory and its activities that will help you choose your affiliation.</em></strong></p>
+<p>Source: Sword Coast Adventurer's Guide</p>
+<p><strong>Skill Proficiencies:</strong> Athletics, Survival<br />
+<strong>Tool Proficiencies:</strong> One type of musical instrument or artisan's tools<br />
+<strong>Languages:</strong> One of your choice<br />
+<strong>Equipment:</strong> A <span class="hover">hunting trap<span>Value:5gp Weight:25lbs</span></span>, a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of <span class="hover">traveler's clothes<span>Value:2gp Weight:4lbs</span></span>, and a <span class="hover">pouch<span>Value:5sp Weight:1lb</span></span> containing 10gp</p>
+<h1 id="toc0"><span><span style="font-size:80%;">Features</span></span></h1>
+<h2 id="toc1"><span><span style="font-size:80%;">Barbarian Tribes of Faerûn</span></span></h2>
+<p>Though this section details the Uthgardt specifically, either it or the <a href="./background:outlander">Outlander</a> background can be used for a character whose origin lies with one of the other barbarian tribes in Faerûn.</p>
+<p>You might be a fair-haired barbarian of the Reghed, dwelling in the shadow of the Reghed Glacier in the far North near Icewind Dale. You might also be of the nomadic Rashemi, noted for their savage berserkers and their masked witches. Perhaps you hail from one of the wood elf tribes in the Chondalwood, or the magic-hating human tribes of the sweltering jungles of Chult.</p>
+<h2 id="toc2"><span><span style="font-size:80%;">Uthgardt Tribes and Their Territories</span></span></h2>
+<p>For most Uthgardt tribes, the only stability in their history is the site of their ancestral mound. Most of the Uthgardt holy sites have existed since antiquity, but the fortunes of the tribes that revere them have hardly been static. Following are brief descriptions of the Uthgardt tribes today.</p>
+<h3 id="toc3"><span><span style="font-size:80%;">Blue Bear</span></span></h3>
+<p>The easternmost of the Uthgardt are the Blue Bear –&nbsp;thought destroyed more than a century ago – who have recently emerged from inside the High Forest and reclaimed their ancestral mound at Stone Stand, just south of the Moon Pass and north of the forest. The Blue Bears have reoccupied much of their old territory in the time since they returned to prominence, though they don't venture near Hellgate Keep, considering it a taboo place.</p>
+<h3 id="toc4"><span><span style="font-size:80%;">Black Lion and Red Tiger</span></span></h3>
+<p>North of Blue Bear territory, in the Glimmering Wood, is Beorunna's Well, a settlement of some size that near the ancient ancestral mound of the Red Tiger tribe. The settlement was founded some time ago by members of the Black Lion tribe, who put down roots here rather than continuing to live as nomads. Though the Red Tigers are less than comfortable with the present situation, they consider Beorunna's Well their holy site, so they make the best of things. Bands of Red Tiger tribespeople often winter in Beorunna's Well, and many of its hunters and trappers use the settlement as a place to sell the leather and furs they acquire in nearby forests.</p>
+<h3 id="toc5"><span><span style="font-size:80%;">Sky Pony</span></span></h3>
+<p>In a part of the Glimmerwood called the Moonwood stands the One Stone, the ancestral mound of the Sky Pony tribe. These are a people divided; half of the tribe has settled and built a sizable steading around the One Stone, similar to what Black Lion has done at Beorunna's Well. The other half of the tribe considers this act an insult to their totem, so they launch raids on the settlement, burning as much of it as they can and then escaping, often on pegasus-back.</p>
+<h3 id="toc6"><span><span style="font-size:80%;">Tree Ghost</span></span></h3>
+<p>In the depths of the High Forest stands the Grandfather Tree, the ancestral mound of the Tree Ghost tribe. The Tree Ghosts split off from the Blue Bears long ago and all but disappeared into the forest, although occasional reports reach civilization that they are still alive and can sometimes be seen clustered around the Grandfather Tree. Some sages postulate that the newly reborn Blue Bear tribe might well be Tree Ghost Uthgardt who are following a call from a revived Blue Bear totem.</p>
+<h3 id="toc7"><span><span style="font-size:80%;">Great Worm</span></span></h3>
+<p>The Frost Hills, a small southern spike of the Spine of the World Mountains just north of the Evermoors, is the site of Great Worm Cavern, the ancestral mound of the Great Worm tribe. These Uthgardt are notoriously reclusive; it has been twenty years since the tribe has sent raiding parties out anywhere but against the ores of the Spine Mountains.</p>
+<h3 id="toc8"><span><span style="font-size:80%;">Black Raven</span></span></h3>
+<p>As forbidding as the Spine of the World Mountains they roam, the Black Ravens are fanatical in their adherence to the old Uthgardt ways. Ranging out from Raven Rock, their ancestral mound deep inside the mountains, they have been known to send raiding parties as far south as Silverymoon, but their most frequent targets are the caravans that come in and out of Mithral Hall.</p>
+<h3 id="toc9"><span><span style="font-size:80%;">Elk</span></span></h3>
+<p>Flint Rock in the midst of the Evermoors is the ancestral mound of the Elk tribe. The Elk were once prolific raiders, extending their reach even into Nesme and Mithral Hall, but the tribe was shattered a handful of decades past by the forces of those cities. Though their numbers have replenished, the Elk remain mostly hunters and foragers. They are masters at avoiding or repulsing the threats of the Evermoors, and often hire themselves out as guides for outsiders.</p>
+<h3 id="toc10"><span><span style="font-size:80%;">Thunderbeast</span></span></h3>
+<p>The Thunderbeast tribe has not been heard from in several years. When the Thunderbeasts made their annual pilgrimage to Morgur's Mound in Neverwinter Wood, they found their holy site desecrated. Soon thereafter, their chieftain took them back into the depths of the High Forest, and they have not emerged since.</p>
+<h3 id="toc11"><span><span style="font-size:80%;">Gray Wolf</span></span></h3>
+<p>The Gray Wolf tribe, made up of lycanthropes, was destroyed by a Selunite crusade because of the tribe's curse. Some of the surviving Gray Wolves took shelter among other Uthgardt tribes.</p>
+<h3 id="toc12"><span><span style="font-size:80%;">Griffon</span></span></h3>
+<p>The Griffon tribe came to an untimely end when it rose against the forces of Luruar allied with giants and orcs.</p>
+<h3 id="toc13"><span><span style="font-size:80%;">Red Pony and Golden Eagle</span></span></h3>
+<p>The Red Pony and Golden Eagle tribes vanished centuries ago. They were last seen in the vicinity of the One Stone, the ancestral mound those tribes shared with Sky Pony.</p>
+<h2 id="toc14"><span><span style="font-size:80%;">Uthgardt Heritage</span></span></h2>
+<p>You have an excellent knowledge of not only your tribe's territory, but also the terrain and natural resources of the rest of the North. You are familiar enough with any wilderness area that you find twice as much food and water as you normally would when you forage there.</p>
+<p>Additionally, you can call upon the hospitality of your people, and those folk allied with your tribe, often including members of druid circles, tribes of nomadic elves, the Harpers, and the priesthoods devoted to the gods of the First Circle.</p>
+<h1 id="toc15"><span><span style="font-size:80%;">Suggested Characteristics</span></span></h1>
+<p>Use the tables for the <a href="./background:outlander">Outlander</a> background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.</p>
+<p>Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds – great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred – are sacred to you.</p>
+<p>Your bond is undoubtedly associated with your tribe or some aspect of Uthgardt philosophy or culture (perhaps even Uthgar himself). Your ideal is a personal choice that probably hews closely to the ethos of your people and certainly doesn't contradict or compromise what being an Uthgardt stands for.</p>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <div class="desc">          
+              exciting, all electron DFT
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">混沌中文沙盒站</a></h3>
+            <div class="desc">          
+              心灵迷宫 启悟在望
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <div class="desc">          
+              a Religion for the 21st Century
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Background: Dimir Operative - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 12838331;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "background:dimir-operative";
+        OZONE.request.timestamp = 1720132588;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "background:dimir-operative";
+        WIKIREQUEST.info.pageId = 1305773497;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:dimir-operative#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./background:dimir-operative#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Background: Dimir Operative</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div id="toc" class="floatright">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 1em;"><a href="./background:dimir-operative#toc0">Features</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc1">False Identity</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc2">Dimir Guild Spells</a></div>
+<div style="margin-left: 1em;"><a href="./background:dimir-operative#toc3">Suggested Characteristics</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc4">Personality Traits</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc5">Ideals</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc6">Bonds</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc7">Flaws</a></div>
+<div style="margin-left: 1em;"><a href="./background:dimir-operative#toc8">Contacts</a></div>
+<div style="margin-left: 2em;"><a href="./background:dimir-operative#toc9">Dimir Contacts</a></div>
+</div>
+</div>
+<p><strong><em>You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone's mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission's sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.</em></strong></p>
+<p><strong><em>As part of your covert work for House Dimir, you maintain a false identity as a member of another guild. You can choose your secondary guild or roll to determine it randomly. This secondary guild membership determines a portion of your starting equipment and is also where most of your contacts come from. You infiltrate your secondary guild to learn its secrets, keep tabs on its activities, or perhaps undermine it from within.</em></strong></p>
+<p>Source: Guildmaster's Guide to Ravnica</p>
+<p><strong>Skill Proficiencies:</strong> Deception, Stealth<br />
+<strong>Tool Proficiencies:</strong> Disguise kit<br />
+<strong>Languages:</strong> One of your choice<br />
+<strong>Equipment:</strong> A Dimir insignia, three <span class="hover">small knives<span>Value:0 Weight:0 (individually)</span></span>, a set of dark-colored <span class="hover">common clothes<span>Value:5sp Weight:3lbs</span></span>, and the starting equipment of the background described in this chapter for your secondary guild</p>
+<h1 id="toc0"><span><span style="font-size:80%;">Features</span></span></h1>
+<h2 id="toc1"><span><span style="font-size:80%;">False Identity</span></span></h2>
+<p>You have more than one identity. The one you wear most of the time makes you appear to be a member of a guild other than House Dimir. You have documentation, established acquaintances, and disguises that allow you to assume that persona and fit into the secondary guild.</p>
+<p>Whenever you choose, you can drop this identity and blend into the guildless masses of the city.</p>
+<p>Consider why you're embedded in the secondary guild. Create a story with your DM, inspired by rolling on the following table or choosing a reason that suits you.</p>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Reason for Infiltration</th>
+</tr>
+<tr>
+<td>1</td>
+<td>My parents belong to this guild, and I let them think I'm following in their footsteps.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I've been assigned to track this guild's activities.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I've been assigned to get close to an individual in this guild and learn their secrets.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I've been assigned to recruit a new Dimir spy from the ranks of this guild.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I was a member of this guild before the Dimir recruited me.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I don't like what this guild stands for and want to destroy it from within.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>I secretly wish I could leave the Dimir and join this guild, but there is no escaping the Dimir.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>I chose this guild at random or on a lark.</td>
+</tr>
+</table>
+<h2 id="toc2"><span><span style="font-size:80%;">Dimir Guild Spells</span></span></h2>
+<p><em>Prerequisite: Spellcasting or Pact Magic class feature</em></p>
+<p>For you, the spells on the Dimir Guild Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)</p>
+<p><strong>Dimir Guild Spells</strong></p>
+<table class="wiki-content-table">
+<tr>
+<th>Spell Level</th>
+<th>Spell</th>
+</tr>
+<tr>
+<td>Cantrip</td>
+<td><a href="./spell:encode-thoughts" target="_blank">Encode Thoughts</a>, <a href="./spell:mage-hand" target="_blank">Mage Hand</a></td>
+</tr>
+<tr>
+<td>1st</td>
+<td><a href="./spell:disguise-self" target="_blank">Disguise Self</a>, <a href="./spell:sleep" target="_blank">Sleep</a></td>
+</tr>
+<tr>
+<td>2nd</td>
+<td><a href="./spell:detect-thoughts" target="_blank">Detect Thoughts</a>, <a href="./spell:pass-without-trace" target="_blank">Pass Without Trace</a></td>
+</tr>
+<tr>
+<td>3rd</td>
+<td><a href="./spell:gaseous-form" target="_blank">Gaseous Form</a>, <a href="./spell:meld-into-stone" target="_blank">Meld Into Stone</a>, <a href="./spell:nondetection" target="_blank">Nondetection</a></td>
+</tr>
+<tr>
+<td>4th</td>
+<td><a href="./spell:arcane-eye" target="_blank">Arcane Eye</a>, <a href="./spell:freedom-of-movement" target="_blank">Freedom of Movement</a></td>
+</tr>
+<tr>
+<td>5th</td>
+<td><a href="./spell:modify-memory" target="_blank">Modify Memory</a></td>
+</tr>
+</table>
+<p>Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the <a href="./spell:encode-thoughts" target="_blank">Encode Thoughts</a> cantrip, you can turn a creature's thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.</p>
+<h1 id="toc3"><span><span style="font-size:80%;">Suggested Characteristics</span></span></h1>
+<p>Skilled at infiltration, disguise, and deception, members of House Dimir appear inscrutable. Your true personality and ideals might never manifest, or they might mark you as a quirky member of your secondary guild.</p>
+<div class="feature">
+<div class="row">
+<div class="col-sm-6">
+<h2 id="toc4"><span><span style="font-size:80%;">Personality Traits</span></span></h2>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Personality Trait</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I'm good at hiding my true thoughts and feelings.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>When I'm in doubt about revealing something, I assume it's a secret, and I don't share it.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I like to sound mysterious, because wisdom hidden grows deeper with time.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I have no patience with people who get in my way.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I love hearing about other people's nightmares.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Combat is meant to be quick, clean, and one-sided.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>I like to stick to the shadows.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>I never show my anger. I just plot my revenge.</td>
+</tr>
+</table>
+</div>
+<div class="col-sm-6">
+<h2 id="toc5"><span><span style="font-size:80%;">Ideals</span></span></h2>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Ideal</th>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>Guild.</strong> My guild is all that really matters. (Any)</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Control.</strong> I like pulling the strings. (Lawful)</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Secrets.</strong> I collect secrets and never reveal them. (Any)</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Knowledge.</strong> I want to know as much as I can about this city and how it works. (Any)</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Independence.</strong> I value the freedom to pursue my own goals without interference. (Chaotic)</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Nihilism.</strong> I don't believe in anything, and anyone who does is a fool. (Neutral)</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6">
+<h2 id="toc6"><span><span style="font-size:80%;">Bonds</span></span></h2>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Bond</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I discovered a secret I can't let anyone else uncover - including my guild superiors.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I formed a close friendship or romance with someone in the guild I'm infiltrating.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The Dimir agent who recruited me was unmasked and killed. My revenge on the killers will be thorough and painful.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I spend as much time as I can in the Ismeri Library because I'm certain an information hub operates behind its facade. I want its secrets!</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I'm utterly loyal to my superior in the guild, more than to the guild or its guildmaster.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Someone has discovered my true identity.</td>
+</tr>
+</table>
+</div>
+<div class="col-sm-6">
+<h2 id="toc7"><span><span style="font-size:80%;">Flaws</span></span></h2>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>Flaw</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I like secrets so much that I'm reluctant to share details of a plan even with those who need to know.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I would let my friends die rather than reveal my true identity.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I have trouble trusting anyone but myself.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I have a particular vice that puts all my secrets at risk if I'm not careful.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I'm pretty sure I've done something horrible that I can't remember because of the guild's mind magic.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I put too much trust in the people who give me orders.</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<h1 id="toc8"><span><span style="font-size:80%;">Contacts</span></span></h1>
+<p>As an agent of House Dimir working undercover, you have limited contacts within your guild. Your relationships within your secondary guild, in the guise of your false identity, are usually more extensive.</p>
+<p>Roll once on the Dimir Contacts table, giving you an ally who serves as your contact in Dimir. Then roll twice on the table for your secondary guild. The first roll gives you an ally there, and the second roll gives you a rival.</p>
+<h2 id="toc9"><span><span style="font-size:80%;">Dimir Contacts</span></span></h2>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Contact</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I know a Dimir courier who relays messages to me from someone higher up on the chain of command.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I get orders from a shapeshifter I recognize only through a series of code phrases we exchange.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>An ostentatiously wealthy vampire is my secret guild superior, summoning me to a luxurious estate by means of coded messages.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I have never met my guild contact, but I receive telepathic messages, usually in my dreams.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I've never met my guild contact, but I get coded messages from a pattern of street lights and graffiti.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I didn't discover the identity of my guild contact until after we had begun a romantic relationship.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>My superior maintains an elaborate identity as a young street urchin &#8230; unless it's all a lie, and I'm being sent on ridiculous missions by a twisted child.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>My sibling and I both get telepathic orders from a mysterious contact, and I'm starting to question the authenticity of my sibling's orders.</td>
+</tr>
+</table>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <div class="desc">          
+              exciting, all electron DFT
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">混沌中文沙盒站</a></h3>
+            <div class="desc">          
+              心灵迷宫 启悟在望
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <div class="desc">          
+              a Religion for the 21st Century
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

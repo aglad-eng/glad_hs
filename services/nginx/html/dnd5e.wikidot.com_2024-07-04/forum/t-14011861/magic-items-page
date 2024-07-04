@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Magic Items Page - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887289;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "forum:thread";
+        OZONE.request.timestamp = 1720132797;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "forum:thread";
+        WIKIREQUEST.info.pageId = 1331229237;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="../../local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="../../local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="../../common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Posts in the discussion thread &quot;Magic Items Page&quot;" href="http://dnd5e.wikidot.com/feed/forum/t-14011861.xml"/><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/forum/ForumViewThreadModule.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/forum/ForumViewThreadPostsModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="../../random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="../../index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/forum/t-14011861/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="../../main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="../../system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="magic-items-page#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+<li><a href="../../help:quick-reference">Quick Reference</a></li>
+<li><a href="../../help:creating-pages">Creating Pages</a></li>
+<li><a href="../../help:editing-pages">Editing Pages</a></li>
+<li><a href="../../help:navigation-bars">Navigation Bars</a></li>
+<li><a href="../../help:using-modules">Using Modules</a></li>
+<li><a href="../../help:templates">Templates</a></li>
+<li><a href="../../help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="magic-items-page#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../_admin">Site Manager</a></li>
+<li><a href="../../nav:top">Edit Top Bar</a></li>
+<li><a href="../../nav:side">Edit Side Bar</a></li>
+<li><a href="../../css:_home">CSS Manager</a></li>
+<li><a href="../../system:recent-changes">Recent Changes</a></li>
+<li><a href="../../system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="../../main:about">About</a></li>
+<li><a href="../../main:contact">Contact</a></li>
+<li><a href="../../legal:_home">Legal</a></li>
+<li><a href="../../forum:start">Discussion Forums</a></li>
+<li><a href="../../system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/forum/t-14011861/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Forum Thread</span></div>
+          
+          
+
+
+
+<div id="page-content">
+
+
+<div class="forum-thread-box "> 
+	<div  class="forum-breadcrumbs">
+		<a href="http://dnd5e.wikidot.com/forum/start">Forum</a>
+        &raquo; <a href="../c-2177751/open-topic">Community / Open Topic</a>
+		&raquo; Magic Items Page
+	</div>
+	
+	<div class="description-block well">
+		<div class="statistics">
+			Started by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span><br/>
+			Date:  <span class="odate time_1614288120 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 Feb 2021 21:22</span><br/>
+			Number of posts: 11<br/>
+			<span class="rss-icon"><img src="http://www.wikidot.com/common--theme/base/images/feed/feed-icon-14x14.png" alt="rss icon"/></span>
+			RSS: <a href="http://dnd5e.wikidot.com/feed/forum/t-14011861.xml">New posts</a>
+		</div>
+									<div class="head">Summary:</div>
+				should we add semi-official items to the Wondrous Items page? how&#039;s the page look? changes?
+							
+	</div>
+	
+	<div class="options">
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.unfoldAll(event)" class="btn btn-default btn-small btn-sm">Unfold All</a> 
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.foldAll(event)" class="btn btn-default btn-small btn-sm">Fold All</a>
+		<a href="javascript:;" id="thread-toggle-options" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.toggleThreadOptions(event)" class="btn btn-default btn-small btn-sm"><i class="icon-plus"></i> More Options</a>
+	</div>
+	<div id="thread-options-2" class="options" style="display: none">
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.editThreadMeta(event)" class="btn btn-default btn-small btn-sm">Edit Title &amp; Description</a>
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.editThreadStickiness(event)" class="btn btn-default btn-small btn-sm">Stickness</a>
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.editThreadBlock(event)" class="btn btn-default btn-small btn-sm">Lock Thread</a>
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.moveThread(event)" class="btn btn-default btn-small btn-sm">Move Thread</a>
+			</div>
+	
+	<div id="thread-action-area" class="action-area well" style="display: none"></div>
+
+    <div id="thread-container" class="thread-container">
+        <div id="thread-container-posts" style="display: none">
+            
+
+<div class="pager"><span class="pager-no">page 1 of 2</span><span class="current">1</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadPostsModule.listeners.updateList(2)">2</a></span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadPostsModule.listeners.updateList(2)">next &raquo;</a></span></div>
+
+	
+					
+      
+    <div class="post-container" id="fpc-4910356">
+                      
+		<div class="post" id="post-4910356">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4910356)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4910356">
+																		Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span> <span class="odate time_1614288120 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 Feb 2021 21:22</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4910356">
+									
+
+<p>so i've spent a long time working on the <a href="../../wondrous-items">Wondrous Items</a> page, making pages for every magic item, potion, weapon, ring, etc in the dnd books and adding them to the master page. so far, ive gotten through 613 / 721 items (over half of them were from the DMG).</p>
+<p>in looking for magic items, i also remembered two sources im hesitant to add to the page: &quot;Legends of Runeterra: Dark Tides of Bilgewater&quot; and &quot;Tal'Dorei Campaign Guide&quot;. netiher are official, wizards of the coast properties, but both are relatively popular and wouldn't be out of place considering we already have subclasses from both prominently on our main page. there's only 7 items in LR:DTB (varying from common to rare) and the 16 legendary items in the TDCG. if there's anyone who strongly opposes adding the items (likely under their own category near the bottom), let me know.</p>
+<p>additionally: if people could take a look at the page and let me know if there's any edits or whatever to the format of the page you'd like done, i'd appreciate it. given the scope of the page, it probably would've been smart to give them tags like our spells and mystic disciplines pages, but i'm already several hundred items in, so i wont change what's there unless there's a strong consensus to do so.</p>
+<p>anyways have a good week/weekend, stay healthy and all that</p>
+<p>Update: there's now just one item left: <em>The Infernal Machine of Lum the Mad</em>, so once that's done, every official WOTC magic item will have a page here (as far as I know. let me know if there's anything i've missed)</p>
+
+							</div>
+
+								
+							<div class="changes">
+					Last edited on <span class="odate time_1614457971 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 Feb 2021 20:32</span>
+					by <span class="printuser"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>
+					<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showHistory(event,4910356)"><i class="icon-plus"></i> Show more</a>
+				</div>
+				<div class="revisions" style="display: none"></div>
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4910356)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4910356" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4910356)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4910356)">Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>, <span class="odate time_1614288120 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 Feb 2021 21:22</span>
+		</div>
+	</div>
+ 
+                
+                	
+
+
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4913367">
+                      
+		<div class="post" id="post-4913367">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4913367)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4913367">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <span class="odate time_1614557223 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 00:07</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4913367">
+									
+
+<p>thanks! Yeah, it makes sense for Tal'dorei and runeterra to have their items their, since they already have their subclasses and so as pages already</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4913367)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4913367" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4913367)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4913367)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span>, <span class="odate time_1614557223 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 00:07</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4914105">
+                      
+		<div class="post" id="post-4914105">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4914105)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4914105">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <span class="odate time_1614624827 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 18:53</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4914105">
+									
+
+<p>Holy crap man, I thought it took me a long time to get the new spell pages set up. Nicely done!</p>
+<p>I might take some time in the future to see if we can make some formatting changes so it's easier to find stuff. Maybe something similar to the spell pages. I've had experience adding tags to what seems like innumerable pages so we can work through that if needed. What's a little carpal tunnel in the service of expanding D&amp;D knowledge?</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4914105)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4914105" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4914105)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4914105)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span>, <span class="odate time_1614624827 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 18:53</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4914135">
+                      
+		<div class="post" id="post-4914135">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4914135)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4914135">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span> <span class="odate time_1614627774 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 19:42</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4914135">
+									
+
+<p>lol it was definitely an undertaking. once i finish the last few items (just added the bilgewater items, all that's left is the infernal machine and the tal'dorei items), I'll get to work tagging them. we can probably use the categories that are already there, like<br />
+- the shortened version of the book (DMG, TCE, XGE, etc),<br />
+- rarity,<br />
+- what type of item it is (weapon, armor, potion, wondrous item),<br />
+- if it's homebrew, and<br />
+- if it needs attunement.</p>
+<p>I'm not sure how we'd reformat the page itself, like if we'd do the spells page formatting where it's sorted by rarity or item type, but that can be its own discussion. in any case, I'm just glad the information is all collected in one place</p>
+<p>update: every item is now finished, homebrew and the Infernal Machine included. I need to do some real-world work this week, but I'll get started on tagging the pages so we can organize the magic items page better.</p>
+
+							</div>
+
+								
+							<div class="changes">
+					Last edited on <span class="odate time_1614706343 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">02 Mar 2021 17:32</span>
+					by <span class="printuser"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>
+					<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showHistory(event,4914135)"><i class="icon-plus"></i> Show more</a>
+				</div>
+				<div class="revisions" style="display: none"></div>
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4914135)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4914135" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4914135)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4914135)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>, <span class="odate time_1614627774 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">01 Mar 2021 19:42</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4915758">
+                      
+		<div class="post" id="post-4915758">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4915758)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4915758">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <span class="odate time_1614776411 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 Mar 2021 13:00</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4915758">
+									
+
+<p>god bless you mate</p>
+<p>yeah best of luck with the real world stuff</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4915758)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4915758" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4915758)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4915758)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span>, <span class="odate time_1614776411 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">03 Mar 2021 13:00</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4920774">
+                      
+		<div class="post" id="post-4920774">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4920774)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4920774">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span> <span class="odate time_1615225203 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">08 Mar 2021 17:40</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4920774">
+									
+
+<p>Turns out tagging items is a much faster process than I thought. I've also hit some problems I wanted advice on.</p>
+<p>First of all, every item has now been tagged with the 3 following signifiers<br />
+1) Source (DMG, TCE, etc. The full list can be seen at the top of <a href="../../wondrous-items">http://dnd5e.wikidot.com/wondrous-items</a>)<br />
+2) Rarity (common, uncommon, rare, very-rare, legendary, artifact, unique)<br />
+3) Item type (armor, potion, ring, rod, scroll, staff, wand, weapon, wondrous-item)</p>
+<p>There's also the two additional signifiers as needed:<br />
+4) Attuned (if it requires any sort of attunement)<br />
+5) Homebrew (so far, only Legend of Runeterra and Tal'Dorei Campaign Setting are added, but more can be based on need)</p>
+<p>More importantly, I've been tinkering on the page <a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a> to see how a table akin to our spells page would work, and I'm realizing that in addition to tags, we also need to have the tagged information hidden under the item descriptions just as spell information is hidden under spell descriptions. This is the only way to make the items page list anything other than the item's name. I can go back through and try to add that information in, but it will likely take a lot of time. It'll likely be formatted as follows (using the <a href="http://dnd5e.wikidot.com/wondrous-item:potion-of-climbing">Potion of Climbing</a> page as reference. Ignore quotation marks, it's just to work around CSS):</p>
+<table class="wiki-content-table">
+<tr>
+<th></th>
+</tr>
+</table>
+<p>Source: Dungeon Master's Guide</p>
+<p><em>Potion, common</em></p>
+<p>When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.</p>
+<p>&quot;====&quot;<br />
+[[include :snippets:suo BEGIN CODE |unique=first |type=showto]]<br />
+&quot;====&quot;<br />
+Potion<br />
+&quot;====&quot;<br />
+-<br />
+&quot;====&quot;<br />
+DMG<br />
+&quot;====&quot;<br />
+[[include :snippets:suo END CODE]]</p>
+<table class="wiki-content-table">
+<tr>
+<th></th>
+</tr>
+</table>
+<p>If anyone who knows more about CSS than me can confirm if this should work if applied to the item pages so that the final magic items page will be able to list the relevant information, please let me know. I'm kind of just working on trial-and-error from the template of the spells page, so anyone with more experience giving me a nudge in the right direction would be appreciated.</p>
+<p>Edit: So apparently adding the hidden item information is also not terribly difficult since, in the last 6 hours of on-and-off tinkering. I've already gotten through almost 500 items. The WIP page is also going well, as I've gotten it to categorize items by rarity. The problem is that from there, it can only sort the items alphabetically, and I can't figure out how to change it so that the page might sort the items by, for example, item type or source. If people are alright with the items being sorted alphabetically, that might be fine, but I'd prefer if they could be sorted in other ways. I've also gotten the page to separate the homebrew items from the published items, so I can make a page dedicated to items from the unofficial sources.</p>
+<p>Anyways, I should be done adding the information to the items by tomorrow night, but I'd still appreciate some advice from CSS experts on how to sort the tables other than alphabetically.</p>
+<p>Edit 2: Wow uh. All items now have their hidden info added to them. Again, faster than I thought.</p>
+
+							</div>
+
+								
+							<div class="changes">
+					Last edited on <span class="odate time_1615271337 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Mar 2021 06:28</span>
+					by <span class="printuser"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>
+					<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showHistory(event,4920774)"><i class="icon-plus"></i> Show more</a>
+				</div>
+				<div class="revisions" style="display: none"></div>
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4920774)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4920774" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4920774)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4920774)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>, <span class="odate time_1615225203 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">08 Mar 2021 17:40</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4921674">
+                      
+		<div class="post" id="post-4921674">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4921674)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4921674">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span> <span class="odate time_1615307509 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Mar 2021 16:31</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4921674">
+									
+
+<p>Ok. This should be my last post on the matter.</p>
+<p>So as far as I can tell, the new Magic Items page (<a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a>) is fully operational and good to go. It sorts all published items by rarity, and there's links to pages where you can look at specific item types or look at all items published in specific sources. I can't figure out how to sort the pages differently, but with the links provided, it should provide everything people should need.</p>
+<p>I guess the last questions are<br />
+1) Should we change how magic items are promoted on the main page? It's currently sort of hidden under items under &quot;Wondrous Items&quot;. I don't know if it's important enough for us to want to give it its own larger space on the main page.<br />
+2) Should we change where the link goes on the main page (change from <a href="../../wondrous-items">http://dnd5e.wikidot.com/wondrous-items</a> to <a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a>) OR should we just copy the source of magic-items and paste over the source of wondrous-items? Currently, every magic item page is filed under dnd5e.wikidot.com/wondrous-items, so avoiding adding magic-items to the mix might be for the best, but I don't know if anyone wants to keep the massive list currently found at wondrous-items.</p>
+<p>Let me know what you all think, and the admins can adjust the main page as they wish.</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4921674)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4921674" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4921674)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4921674)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>, <span class="odate time_1615307509 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Mar 2021 16:31</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4921993">
+                      
+		<div class="post" id="post-4921993">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4921993)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4921993">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span> <span class="odate time_1615338568 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Mar 2021 01:09</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4921993">
+									
+
+<p>Nicely done! I've been keeping up with what's been going on but haven't really had the time to contribute, moved a few months ago and we're still trying to get settled into the new house.</p>
+<p>For the main page, we can certainly move magic items somewhere else, they do kind of get lost in the shuffle of everything on the page. I can mess around a bit later this week and see what I can come up with.</p>
+<p>As for using magic-items or wondrous-items; I'm fine sticking with wondrous, means we don't have to move all the pages you just created to magic to keep things consistent.</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4921993)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4921993" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4921993)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4921993)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6144441&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="Fredbob711" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6144441)"/></a><a href="http://www.wikidot.com/user:info/fredbob711" onclick="WIKIDOT.page.listeners.userInfo(6144441); return false;" >Fredbob711</a></span>, <span class="odate time_1615338568 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Mar 2021 01:09</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4922462">
+                      
+		<div class="post" id="post-4922462">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4922462)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4922462">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span> <span class="odate time_1615389940 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Mar 2021 15:25</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4922462">
+									
+
+<p>Sounds good. I just updated the wondrous-items page to be the new format. I'll leave the main page management to you, but barring some CSS wizardry I'm unaware of, it should be all set until the next sourcebooks come out. Guess I need to find something else to work on now lol. It's been a nice distraction over the last 4.5 months</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4922462)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4922462" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4922462)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4922462)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5928724&amp;amp;size=small&amp;amp;timestamp=1720132796" alt="cottoneyenoh" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5928724)"/></a><a href="http://www.wikidot.com/user:info/cottoneyenoh" onclick="WIKIDOT.page.listeners.userInfo(5928724); return false;" >cottoneyenoh</a></span>, <span class="odate time_1615389940 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">10 Mar 2021 15:25</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+	
+					
+      
+    <div class="post-container" id="fpc-4927407">
+                      
+		<div class="post" id="post-4927407">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,4927407)" class="btn btn-default btn-small btn-sm">Fold</a>
+					</div>
+								<div class="title" id="post-title-4927407">
+																		Re: Magic Items Page
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <span class="odate time_1615894378 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">16 Mar 2021 11:32</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-4927407">
+									
+
+<p>Ooh, apparently the new candle keep cove (or whatever it was called) mystery themed books has some new magic items that came alongside it</p>
+
+							</div>
+
+								
+							<div class="changes">
+					Last edited on <span class="odate time_1615894477 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">16 Mar 2021 11:34</span>
+					by <span class="printuser"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span>
+					<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showHistory(event,4927407)"><i class="icon-plus"></i> Show more</a>
+				</div>
+				<div class="revisions" style="display: none"></div>
+					
+						<div class="options">
+				
+																					<a href="javascript:;" onclick="togglePostOptions(event,4927407)" class="btn btn-default btn-small btn-sm">Options</a>
+							</div>
+									
+			<div id="post-options-4927407" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,4927407)" c>Unfold</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,4927407)">Re: Magic Items Page</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132797" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span>, <span class="odate time_1615894378 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">16 Mar 2021 11:32</span>
+		</div>
+	</div>
+ 
+                
+                	
+
+
+        
+            </div>
+ 
+
+
+<div class="pager"><span class="pager-no">page 1 of 2</span><span class="current">1</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadPostsModule.listeners.updateList(2)">2</a></span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadPostsModule.listeners.updateList(2)">next &raquo;</a></span></div>
+        </div>
+    </div>
+
+	<div class="new-post">
+		<a href="javascript:;" id="new-post-button" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.newPost(event,null)" class="btn btn-default">New Post</a>
+	</div>
+	
+	<div style="display:none" id="post-options-template">
+			<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showPermalink(event,'%POST_ID%')" class="btn btn-default btn-small btn-sm">Permanent Link</a>
+			<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.editPost(event,'%POST_ID%')" class="btn btn-default btn-small btn-sm">Edit</a>
+			<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.deletePost(event,'%POST_ID%')"class="btn btn-danger btn-small btn-sm">Delete</a>
+	</div>
+	
+	<div style="display:none" id="post-options-permalink-template">/forum/t-14011861/magic-items-page#post-</div>
+</div>
+
+<script type="text/javascript">
+	WIKIDOT.forumThreadId = 14011861;
+</script></div>
+
+
+
+
+
+
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://z-backrooms.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/z-backrooms.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://z-backrooms.wikidot.com">The Backrooms Z</a></h3>
+            <div class="desc">          
+              既终即始
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-equestria.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-equestria.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-equestria.wikidot.com">SCP基金会小马国分部</a></h3>
+            <div class="desc">          
+              控制 • 收容 • 保护
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fuor-clover.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fuor-clover.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fuor-clover.wikidot.com">正在商定中…</a></h3>
+            <div class="desc">          
+              正在重建中…
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://backroomsft-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backroomsft-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://backroomsft-wiki.wikidot.com">The Backrooms FT同人创作站</a></h3>
+            <div class="desc">          
+              唯有信仰 打破牢笼
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Separating published and UA subclasses</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses</link>
+		<description>Posts in the discussion thread &quot;Separating published and UA subclasses&quot; - Should we separate them into their own groups?</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4842583</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4842583</link>
+				<description></description>
+				<pubDate>Sat, 12 Dec 2020 00:48:21 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Do you think we could do the same with the Race options too? For example, the UA Kalashtar and Warforged are listed alongside their official iterations. I just think it would look a bit neater, and people can still access the UA and official versions, like the Archived UA subclasses.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4835427</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4835427</link>
+				<description></description>
+				<pubDate>Thu, 03 Dec 2020 19:36:49 +0000</pubDate>
+				<wikidot:authorName>qorinthian</wikidot:authorName>				<wikidot:authorUserId>6517502</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Looks good - I'm just glad my topic finally got comments! I prefer the separation of UA because of new user experience, and because WotC started overriding UA. Glad to see that implemented.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4832939</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4832939</link>
+				<description></description>
+				<pubDate>Mon, 30 Nov 2020 22:34:09 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So with the addition of some Tasha's subclasses but some still a work in progress and UA vs published versions the main page was bothering my OCD. So I went ahead and updated it this afternoon, each class has been split into Published &amp; Unearthed Arcana with setting-specific headings where needed.</p> <p>Any UA that was overridden by a subclass published in Tasha's or released well before Tasha's was moved into an Archived UA section at the bottom of the page. That leaves only 'current' UA subclasses under the main class headings (Ranger Drakewarden, Bard Spirits, Warlock Undead, Monk Ascendant Dragon). The individual class pages had their UA * Archived UA split into separate headings as well; some of those are looking pretty cluttered right now, so we might move to a simpler 'Published', 'Unearthed Arcana', 'Setting Specific', 'Homebrew', &amp; 'Archived Unearthed Arcana' set up instead of splitting out the homebrew by each publisher that released it.</p> <p>I also went through and (mostly? might be a few exceptions) standardized how subclass pages addressed. 'way-of-' and 'college-of-' should not be in the subclass page address. Anything that's UA should end in '-ua'; examples below. This should make keeping track of what is and what is not UA easier for contributors. If you see anything that doesn't conform to those standards throw up a post and let us know. Later on we might do a '-hb' on homebrew pages to make sure nothing interferes with published content.</p> <p>This means there are a few broken links on the main page, where either a Tasha's class hasn't been entered yet (fey wanderer &amp; swarmkeeper). I imagine all the contributors will work on getting these fixed as fast as we can.</p> <p>Subclass Link Examples:</p> <table class="wiki-content-table"> <tr> <th>Subclass</th> <th>Address</th> <th>Good/Bad</th> </tr> <tr> <th colspan="3">Published</th> </tr> <tr> <td>Oath of the Watchers</td> <td>dnd5e.wikidot.com/paladin:oath-of-the-watchers</td> <td>Bad</td> </tr> <tr> <td>Oath of the Watchers</td> <td>dnd5e.wikidot.com/paladin:watchers</td> <td>Good</td> </tr> <tr> <th colspan="3">Unearthed Arcana</th> </tr> <tr> <td>Oath of the Watchers (UA)</td> <td>dnd5e.wikidot.com/paladin:oath-of-the-watchers</td> <td>Bad</td> </tr> <tr> <td>Oath of the Watchers (UA)</td> <td>dnd5e.wikidot.com/paladin:watchers</td> <td>Bad</td> </tr> <tr> <td>Oath of the Watchers (UA)</td> <td>dnd5e.wikidot.com/paladin:watchers-ua</td> <td>Good</td> </tr> </table> <p>I added new header links at the top of the page to the Homebrew and Archived UA sections. Backgrounds got split into 3 columns which seemed a little cleaner to me.</p> <p>If you disagree with a specific subclass being moved to the Archived section make your case. It's a subjective thing, but I think that any subclass that was released before the list in Tasha's became semi-official is unlikely to be released in 5e. Or at the least will be re-released in new UA.</p> <p>Sorry if this seems too semi-official, I'm a developer by trade so that's how I'm used to presenting this stuff to people. I'm not trying to tell everyone how it should be (it's not even my page to do so), but I think all these things make sense.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4829138</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4829138</link>
+				<description></description>
+				<pubDate>Fri, 27 Nov 2020 05:12:54 +0000</pubDate>
+				<wikidot:authorName>SquirrellyOtter</wikidot:authorName>				<wikidot:authorUserId>7061664</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi, I'm new (just messaged admin for editing privileges this afternoon), I just wanted to throw in my two cents that the test version of the site (published by source) is much easier to navigate when I'm directing players to look for &quot;legal&quot; classes for my campaign because I draw from the sourcebooks, so mixing in UA with the published classes gets new-user-unfriendly very quickly.</p> <p>I wish I could jump in and help update pages with the release of Tasha's! This is a very cool website and I'd like to help support it however I can!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4827163</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4827163</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 18:33:14 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Artificer, Barbarian, &amp; Bard are updated with the subclasses broken into what sourcebooks they're published in on the test page. Probably not an ongoing issue since WotC doesn't add classes very often, but the Artificer is the example of how it can get cluttered if subclasses are reprinted. Smaller example is the Bard College of Eloquence.</p> <p>Rest of the classes are still split simply by Published, Setting Specific, &amp; UA.</p> <p>New Obsolete Unearthed Arcana section at the bottom of the page after the Homebrew section.</p> <p><a href="http://dnd5e.wikidot.com/home:test">http://dnd5e.wikidot.com/home:test</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4827004</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4827004</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 13:34:11 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Let me work some of this into the test page when I have some time and I'll let you guys know and you can give me some feedback.</p> <p>UA in my opinion is different from homebrew in that it's coming from the official source of D&amp;D and they specifically want playtesters. Because of that, I like the idea of keeping current UA in the main class categories while having the separate category for Homebrew. Blood Hunter is a slightly different beast that I still struggle with whether it should stay in its place on the main page. I think it's the closest thing to an official unofficial class out there, but it is still homebrew.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4826816</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4826816</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 09:36:18 +0000</pubDate>
+				<wikidot:authorName>Out of Time</wikidot:authorName>				<wikidot:authorUserId>4858050</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I like the idea of separating UA and official content, though I think we should also minorly organize things into what source they are from, if not in separate bullet points, order them with the PHB options first, i think that would help a lot of source restricted people, because I have a friend who only wants to use things from books he has, but not everyone in the group has the books he has, so layering the different sources would help. I'm saying this because half of the backgrounds are from SCAG, and those backgrounds can be somewhat restrictive.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4826681</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4826681</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 05:02:51 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>i think that separating pubished and ua content like we do with homebrew would work great. we have a test page right now where we're looking at reformatting the main page to separate subclasses into 2/3 categories: published, ua, and setting specific where applicable (like plane shifts). you can check it out here (<a href="http://dnd5e.wikidot.com/home:test">http://dnd5e.wikidot.com/home:test</a>) if you want to see how it might look</p> <p>the biggest problem really is that we can't make any changes to the main page without admin approval, and we don't want to edit page titles and the class pages just to have links redirect to the wrong places on the main page</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4826619</guid>
+				<title>Re: Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4826619</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 03:12:12 +0000</pubDate>
+				<wikidot:authorName>Out of Time</wikidot:authorName>				<wikidot:authorUserId>4858050</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Eh, I see no need to, if it has (UA) next to it, its unearthed arcana, and you can edit the class page to have that next to the class, the problem is with the main page, because you can't change that without admin privileges, though its still a minor problem due to every UA being marked in its own page, usually in the title.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13650712#post-4750066</guid>
+				<title>Separating published and UA subclasses</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13650712/separating-published-and-ua-subclasses#post-4750066</link>
+				<description></description>
+				<pubDate>Mon, 17 Aug 2020 19:43:39 +0000</pubDate>
+				<wikidot:authorName>qorinthian</wikidot:authorName>				<wikidot:authorUserId>6517502</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>We already separate homebrew and partnered subclass content - should we also separate the Unearthed Arcana content into its own grouping to organize it better? For example - see Fighter, which has separate categories for Runeterra and Gunslinger homebrew.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

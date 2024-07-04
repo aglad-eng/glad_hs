@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Rune Magic - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 12795626;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "wondrous-items:rune-magic";
+        OZONE.request.timestamp = 1720132740;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "wondrous-items:rune-magic";
+        WIKIREQUEST.info.pageId = 52385992;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./wondrous-items:rune-magic#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./wondrous-items:rune-magic#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Rune Magic</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div class="feature">
+<div class="row">
+<h1><span>Rune Magic</span></h1>
+<div class="col-lg-12">
+<p>Rune magic allows a character to unlock the power contained within magical symbols and sigils. Not every such mark has the potential for power. Only those runes forged in the ancient days of creation still resonate with the fundamental magic of the world.</p>
+<p>Runes work much like magic items. You can discover them, attune to them, and use their magic in a variety of ways. However, unlike with magic items, only a rune scribe can use all the benefits a rune offers.</p>
+<table style="margin:0; padding:0">
+<tr>
+<td style="margin:0; padding:0">
+<div id="toc">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc0">Overview</a></div>
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc1">Finding Runes</a></div>
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc2">Buying and Selling Runes</a></div>
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc3">Identifying Runes</a></div>
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc4">Runes and Attunement</a></div>
+<div style="margin-left: 3em;"><a href="./wondrous-items:rune-magic#toc5">Master Runes</a></div>
+<div style="margin-left: 6em;"><a href="./wondrous-items:rune-magic#toc6">Opal of the Ild Rune</a></div>
+<div style="margin-left: 6em;"><a href="./wondrous-items:rune-magic#toc7">Orb of the Stein Rune</a></div>
+<div style="margin-left: 6em;"><a href="./wondrous-items:rune-magic#toc8">Pennant of the Vind Rune</a></div>
+<div style="margin-left: 6em;"><a href="./wondrous-items:rune-magic#toc9">Shard of the Kalt Rune</a></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<h3 id="toc0"><span>Overview</span></h3>
+<p>Runes are powerful icons that you can use for a variety of effects. In order to use a rune, you must normally find and keep a master rune. A <strong>master rune</strong> is a rare object –&nbsp;a gem or carved rock, a magical token, a shard of some special material, and so on –&nbsp;engraved with the rune and empowered with magic that allows you to unleash the rune’s effects. Those effects are divided into two categories.</p>
+<p>•&nbsp;<strong>Simple properties</strong> are usable by anyone who attunes to a master rune.<br />
+•&nbsp;<strong>Complex properties</strong> are usable only by a character who attunes to a master rune and who possesses the Rune Lore class feature.</p>
+<p>Unless otherwise noted, you must have a master rune on your person in order to use its properties.</p>
+<h3 id="toc1"><span>Finding Runes</span></h3>
+<p>A rune found as treasure is a master rune, carefully scribed into a rare object and available for use as a training tool to allow would-be rune scribes to unlock its power. Each rune discussed below is detailed as part of a master rune.</p>
+<p>Master runes and the runes they contain are treated much like magic items. They are categorized in rarity from rare to legendary, and can be placed in a campaign whenever the DM opts to place treasure. There are no common or uncommon runes.</p>
+<h3 id="toc2"><span>Buying and Selling Runes</span></h3>
+<p>Treat a master rune as a magic item of its equivalent rarity for the purpose of buying and selling in the campaign. Just as with other magic items, the DM will determine whether such items are available to purchase in the campaign and under what conditions.</p>
+<h3 id="toc3"><span>Identifying Runes</span></h3>
+<p>Runes are identified in a manner similar to magic items. Simply handling a master rune causes a strong sense of its rune’s identity to echo in a character’s mind. For example, touching a master rune item containing the kalt rune (the rune of cold) might cause you to experience a sudden chill as visions of snow and ice flash through your mind.</p>
+<p>The <a href="./spell:identify">Identify</a> spell immediately reveals a master rune’s simple properties. You can also learn its simple properties over the course of a short rest while maintaining physical contact with the rune.</p>
+<h3 id="toc4"><span>Runes and Attunement</span></h3>
+<p>A rune always requires attunement to use its simple properties. Attuning to a master rune requires you to spend a short rest focused on only that item while being in physical contact with it. This can’t be the same short rest used to learn the rune’s properties. This focus takes the form of carefully and repeatedly copying the rune, whether with ink and parchment or simply scribing it into the dirt. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, you gain an intuitive understanding of how to activate the rune’s magical properties.</p>
+<p>A master rune can be attuned to only one creature at a time, and all runes count toward your limit of magic items you can attune to. Any attempt to attune to a fourth magic item or rune fails (though a rune scribe’s Rune Mastery feature allows attunement to one additional rune). You cannot attune to more than one copy of a rune.</p>
+<p>You can end attunement to a rune in the same manner as with any other magic item.</p>
+<h3 id="toc5"><span>Master Runes</span></h3>
+<p>Presented here are four runes (in the form of master runes) for use in your campaign – just enough to fully outfit a rune scribe who reaches 5th level.</p>
+<h6 id="toc6"><span>Opal of the Ild Rune</span></h6>
+<p><em>Master rune, rare (requires attunement)</em><br />
+This triangular fire opal measures about three inches on each side and is half an inch thick. The <em>ild</em> rune –&nbsp;the rune of fire –&nbsp;shimmers within its core. Grasping this object causes a split second of searing, fiery pain to pass through you. That pain quickly fades, giving way to a warming glow.<br />
+<strong><em>Ignite (Simple Property).</em></strong> As an action, you scribe the <em>ild</em> rune using ash onto a flammable object. That object immediately bursts into flame. While it burns, the fire extends 1 foot out from the rune you scribed.<br />
+<strong><em>Fire Tamer (Simple Property).</em></strong> As an action, you touch an open flame and scribe the <em>ild</em> rune within it with a hand motion. This causes the flame to immediately extinguish. For a large blaze, the fire is extinguished in a 10-foot radius around you. You can extend this distance by expending a spell slot when using the <em>ild</em> rune in this manner. The radius extends by 20 feet per level of the expended spell slot<br />
+<strong><em>Fire’s Friend (Simple Property).</em></strong> While you are attuned to this rune, you have resistance to cold damage.<br />
+<strong><em>Combustion (Complex Property).</em></strong> As an action, you scribe this rune using ash onto a creature within your reach as you expend a spell slot. The creature automatically takes 1d10 fire damage plus 1d10 fire damage per level of the expended spell slot.<br />
+<strong><em>Flame Brand (Complex Property).</em></strong> Over the course of a short rest, you inscribe this rune using ash onto a melee or ranged weapon, or onto up to 20 pieces of ammunition. The weapon or ammunition gains a ghostly aura of yellow flame and deals fire damage instead of piercing, slashing, or bludgeoning damage.<br />
+In addition, you can expend a spell slot while using this property to grant the weapon or ammunition a bonus to attack rolls and damage rolls equal to the spell slot’s level divided by three.<br />
+These effects last for 24 hours or until you use this property again.<br />
+<strong><em>Flame Stoker (Complex Property).</em></strong> While you are attuned to this rune, your fire attacks are deadlier. Whenever you roll fire damage from an attack or a spell you cast, you can reroll that damage and use the higher result.</p>
+<h6 id="toc7"><span>Orb of the Stein Rune</span></h6>
+<p><em>Master rune, rare (requires attunement)</em><br />
+This spherical chunk of granite is about the size of a human fist. The <em>stein</em> rune – the rune of stone – appears on the orb as crystalline veins that play across its surface. When first grasped, the stone feels impossibly heavy, as if even a titan could not lift it. That feeling passes after a moment, allowing you to carry the stone with ease.<br />
+<strong><em>Indomitable Stand (Simple Property).</em></strong> As an action, you scribe the <em>stein</em> rune onto the ground at your feet. Until you move, you have advantage on all ability checks and saving throws to resist effects that would force you to move. In addition, any creature that moves within 10 feet of you must succeed on a DC 12 Strength saving throw or have its movement immediately end.<br />
+<strong><em>Stone Soul (Simple Property).</em></strong> While you are attuned to this rune, you cannot be petrified.<br />
+<strong><em>Stone's Secrets (Simple Property).</em></strong> As an action, you scribe this rune onto a stone wall or floor. You learn the location and size of all creatures standing on or touching that surface within 30 feet of you, though only for the moment when the property is used.<br />
+<strong><em>Crushing Brand (Complex Property).</em></strong> Over the course of a short rest, you inscribe this rune using dirt or crushed stone onto one weapon that deals bludgeoning damage. The weapon gains a ghostly brown aura, and bludgeoning damage dealt by the weapon ignores resistance and immunity. If you roll the maximum on the weapon’s damage die or dice, the target of your attack is knocked prone if it is a creature.<br />
+In addition, you can expend a spell slot to grant the weapon a bonus to attack rolls and damage rolls equal to the spell slot’s level divided by three.<br />
+These effects last for 24 hours or until you use this property again.<br />
+<strong><em>Earthen Step (Complex Property).</em></strong> While you are attuned to this rune, you can cast <a href="./spell:meld-into-stone">Meld into Stone</a> as a bonus action. You regain this ability after a short or long rest.<br />
+<strong><em>Overwhelming Bolt (Complex Property).</em></strong> As an action, you scribe this rune using dirt or crushed rock onto a creature within your reach as you expend a spell slot. The creature must succeed on a Strength saving throw (DC 12 + the level of the expended spell slot). On a failure, the creature takes 2d8 bludgeoning damage plus 1d8 bludgeoning damage per level of the expended spell slot and is knocked prone. On a successful saving throw, the creature takes half as much damage and is not knocked prone.</p>
+<h6 id="toc8"><span>Pennant of the Vind Rune</span></h6>
+<p><em>Master rune, rare (requires attunement)</em><br />
+This five-foot-long blue pennant is crafted from silk and whips about as if buffeted by a strong breeze. The <em>vind</em> rune –&nbsp;the rune of wind –&nbsp;flickers across its surface like a shimmering cloud. Grasping the pennant causes you to feel a powerful gust of wind wash over you, tearing at your clothes and gear. Anyone watching you sees nothing out of the ordinary, and the sensation passes after a moment.<br />
+<strong><em>Comforting Wind (Simple Property).</em></strong> While you are attuned to this rune, you cannot suffocate or drown, and you gain advantage on saving throws against poisonous gases, inhaled poisons, and similar effects.<br />
+<strong><em>Wind Step (Simple Property).</em></strong> As an action, you scribe the <em>vind</em> rune in the air around you and immediately fly 20 feet. If you do not land at the end of this flight, you fall.<br />
+<strong><em>Wind’s Grasp (Simple Property).</em></strong> As a reaction when you fall, you can scribe this rune in the air around you to take no damage from the fall.<br />
+<strong><em>Howling Brand (Complex Property).</em></strong> Over the course of a short rest, you inscribe this rune in the air above one ranged weapon. The weapon gains a ghostly blue aura and has its normal and maximum range doubled. The weapon’s attacks do not suffer disadvantage due to range.<br />
+In addition, you can expend a spell slot while using this property to grant the weapon a bonus to attack rolls and damage rolls equal to the spell slot’s level divided by three.<br />
+These effects last for 24 hours or until you use this property again.<br />
+<strong><em>Shrieking Bolt (Complex Property).</em></strong> As an action, you scribe this rune in the air between you and a creature you can see while you expend a spell slot. The creature must make a Strength saving throw (DC 12 + the spell slot’s level). On a failure, it takes 2d8 bludgeoning damage plus 1d8 bludgeoning damage per level of the expended spell slot, and is pushed in a straight line directly away from you for 10 feet per level of the expended spell slot. On a successful saving throw, the creature takes half as much damage and is not pushed away from you.<br />
+<strong><em>Wind Walker (Complex Property).</em></strong> While you are attuned to this rune, you can cast levitate as a bonus action. You regain this ability after a short or long rest.</p>
+<h6 id="toc9"><span>Shard of the Kalt Rune</span></h6>
+<p><em>Master rune, rare (requires attunement)</em><br />
+This long, slender shard of ice is roughly the size of a dagger. The <em>kalt</em> rune –&nbsp;the rune of ice –&nbsp;glows within the shard. When first grasped, the shard emits a painful cold that leaves your hand and arm numb. That feeling passes after a moment, allowing the shard to be handled normally.<br />
+<strong><em>Frigid Touch (Simple Property).</em></strong> As an action, you scribe the <em>kalt</em> rune on the surface of any volume of water. The water freezes in a 10-foot radius around the spot where you scribed the rune.<br />
+<strong><em>Frost Friend (Simple Property).</em></strong> While you are attuned to this rune, you have resistance to fire damage.<br />
+<strong><em>Icy Mantle (Simple Property).</em></strong> As an action, you scribe the <em>kalt</em> rune using water onto yourself or another creature. The water instantly freezes into a mantle of protective ice that does not hinder movement or action. The next time the creature takes bludgeoning, slashing, or piercing damage, that damage is reduced to zero and the icy mantle is destroyed.<br />
+<strong><em>Freezing Bolt (Complex Property).</em></strong> As an action, you scribe this rune using water onto a creature within your reach as you expend a spell slot. The rune freezes in place, and the creature must make a Constitution saving throw (DC 12 + the level of the expended spell slot). On a failure, the creature takes 2d8 cold damage plus 1d8 cold damage per level of the expended spell slot, and its speed is reduced to 0 until the end of your next turn. On a successful saving throw, the creature takes half as much damage and its speed is not affected.<br />
+<strong><em>Ice Brand (Complex Property).</em></strong> Over the course of a short rest, you inscribe this rune using water onto a melee or ranged weapon, or onto up to 20 pieces of ammunition. The weapon or ammunition gains a ghostly white aura and deals cold damage instead of piercing, slashing, or bludgeoning damage.<br />
+In addition, you can expend a spell slot while using this property to grant the weapon or ammunition a bonus to attack rolls and damage rolls equal to the spell slot’s level divided by three.<br />
+These effects last for 24 hours or until you use this property again.<br />
+<strong><em>Winter’s Howl (Complex Property).</em></strong> While you are attuned to this rune, you can cast <a href="./spell:sleet-storm">Sleet Storm</a> as an action. You regain this ability after a short or long rest.</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://dfc-command.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/dfc-command.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://dfc-command.wikidot.com">深林文学部管理组</a></h3>
+            <div class="desc">          
+              森林深处，管理讨论
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://kikloforiakiagogi.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/kikloforiakiagogi.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://kikloforiakiagogi.wikidot.com">Κυκλοφοριακή αγωγή: πεζοί εν δράσει!</a></h3>
+            <div class="desc">          
+              παιγνιώδης εκμάθηση κυκλοφοριακής αγωγής
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scpdraft.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scpdraft.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scpdraft.wikidot.com">SCP Drafts</a></h3>
+            <div class="desc">          
+              For Matthew and Thomas&#039;s SCPs
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://hopkinswhpg.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/hopkinswhpg.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://hopkinswhpg.wikidot.com">World History/Physical Geo.</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,2896 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>This is your Life - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887298;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "this-is-your-life";
+        OZONE.request.timestamp = 1720132588;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "this-is-your-life";
+        WIKIREQUEST.info.pageId = 1330061935;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="this-is-your-life#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="this-is-your-life#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>This is your Life</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<p>Source: Xanathars Guide to Everything</p>
+<div id="toc" class="floatright">
+<div id="toc-action-bar"><a href="javascript:;" onclick="WIKIDOT.page.listeners.foldToc(event)">Fold</a><a style="display: none" href="javascript:;" onclick="WIKIDOT.page.listeners.unfoldToc(event)">Unfold</a></div>
+<div class="title">Table of Contents</div>
+<div id="toc-list">
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc0">Ideas, Not Rules</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc1">How and When to Use the Tables</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc2">Section by Section</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc3">Origins</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc4">Parents</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc5">Parents</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc6">Half-Elf Parents</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc7">Half-Orc Parents</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc8">Tiefling Parents</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc9">Birthplace</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc10">Birthplace</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc11">Siblings</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc12">Number of Siblings</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc13">Birth Order</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc14">Family and Friends</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc15">Family</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc16">Absent Parent</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc17">Family Lifestyle</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc18">Childhood Home</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc19">Childhood Memories</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc20">Personal Decisions</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc21">Background</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc22">Acolyte</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc23">Charlatan</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc24">Criminal</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc25">Entertainer</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc26">Folk Hero</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc27">Guild Artisan</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc28">Hermit</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc29">Noble</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc30">Outlander</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc31">Sage</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc32">Sailor</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc33">Soldier</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc34">Class Training</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc35">Barbarian</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc36">Bard</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc37">Cleric</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc38">Druid</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc39">Fighter</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc40">Monk</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc41">Paladin</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc42">Ranger</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc43">Rogue</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc44">Sorcerer</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc45">Warlock</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc46">Wizard</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc47">Life Events</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc48">Life Events by Age</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc49">Life Events</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc50">Secondary Tables</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc51">Adventures</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc52">Arcane Matters</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc53">Boons</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc54">Crime</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc55">Punishment</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc56">Supernatural Events</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc57">Tragedies</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc58">War</a></div>
+<div style="margin-left: 4em;"><a href="this-is-your-life#toc59">Weird Stuff</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc60">Supplemental Tables</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc61">Alignment</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc62">Cause of Death</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc63">Class</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc64">Occupation</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc65">Race</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc66">Relationship</a></div>
+<div style="margin-left: 3em;"><a href="this-is-your-life#toc67">Status</a></div>
+<div style="margin-left: 2em;"><a href="this-is-your-life#toc68">What’s Next?</a></div>
+</div>
+</div>
+<p>The character creation rules in the player's handbook provide all the information you need to define your character in preparation for a life of adventuring. What they don't do is account for all the circumstances that shaped your character during the years between your birth and the start of your career as a member of a class.</p>
+<p>What did your character accomplish or experience before deciding to become an adventurer? What were the circumstances of your birth? How large is your family, and what sorts of relationships do you have with your relatives? Which people were the greatest influences on you during your formative years, for better or worse?</p>
+<p>To answer these questions and more, you can use the tables and the advice in this section to compose a well-developed backstory for your character-an autobiography of sorts-that you can use to inform how you roleplay the character. Your DM can draw from this material as the campaign proceeds, creating situations and scenarios that build off your previous life experiences.</p>
+<h2 id="toc0"><span>Ideas, Not Rules</span></h2>
+<p>Even though these pages are full of tables and die rolls, they don't make up a rules system-in fact, the opposite is true. You can use as much or as little of this material as you desire, and you can make decisions in any order you want.</p>
+<p>For instance, you might not want these tables to help you decide who your parents and siblings are, because that's among the information you've already come up with. But you can still use other parts, such as the section on life events, to provide added depth and detail.</p>
+<h3 id="toc1"><span>How and When to Use the Tables</span></h3>
+<p>If you're comfortable with letting the dice decide a certain fact about your character, go ahead and roll. If not, you can take charge and make the decision, choosing from among the possibilities on a table. Of course, you also have the option of disregarding the result of a die roll if it conflicts with another result. Likewise, if the text instructs you to roll on a table, that's not meant to be taken literally. You can always make your own choice.</p>
+<p>Although these tables are meant to augment the step-by-step character creation process in the player's handbook, they don't occupy a specific place in that process. You can use some of them early on-for instance, it's possible to determine your parents and other family members immediately after deciding your character's race-but you could also wait until later in the process. You might prefer to establish more facts about your character's game identity-such as your class, ability scores, and alignment-before supplementing that information with what's offered here.</p>
+<h3 id="toc2"><span>Section by Section</span></h3>
+<p>This material is divided into four sections, each addressing a different aspect of your character's backstory.</p>
+<p><strong>Origins.</strong> To find out who and where you came from, use the &quot;Origins&quot; section. When you're done, you will have a summary of facts about your parents, your siblings, and the circumstances under which you grew up.</p>
+<p><strong>Personal Decisions.</strong> After you have selected your character's background and class, use the appropriate tables to determine how you came to make those choices.</p>
+<p><strong>Life Events.</strong> Your character's existence until now, no matter how brief or uneventful, has been marked by one or more life events-memorable happenings that have had an effect on who you are today.</p>
+<p><strong>Supplemental Tables.</strong> Your life has intersected with the lives of plenty of other people, all the way from your infancy to today. When a result mentions such a person, you can use the supplemental tables to add needed details-such as race, class, or occupation-to that person. Some tables in the other sections direct you to one or more of the supplemental tables, and you can also use them any other time you see fit.</p>
+<h2 id="toc3"><span>Origins</span></h2>
+<p>The usual first step in creating your character's life story is to determine your early circumstances. Who were your parents? Where were you born? Did you have any siblings? Who raised you? You can address these questions by using the following tables.</p>
+<h3 id="toc4"><span>Parents</span></h3>
+<p>You had parents, of course, even if they didn't raise you. To determine what you know about these people, use the Parents table. If you want, you can roll separately on the table for your mother and your father. Use the supplemental tables as desired (particularly Class, Occupation, and Alignment) to learn more about your parents.</p>
+<h4 id="toc5"><span>Parents</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Parents</th>
+</tr>
+<tr>
+<td>1-95</td>
+<td>You know who your parents are or were.</td>
+</tr>
+<tr>
+<td>96-100</td>
+<td>You do not know who your parents were.</td>
+</tr>
+</table>
+<p><em>Nonhuman Parents.</em> If your character is a half-elf, a half-orc, or a tiefling, you can use one of the tables below to determine the race of each of your parents. When you have a result, randomly determine which part of the result refers to your father and which to your mother.</p>
+<h4 id="toc6"><span>Half-Elf Parents</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Parents</th>
+</tr>
+<tr>
+<td>1-5</td>
+<td>One parent was an elf and the other was a human</td>
+</tr>
+<tr>
+<td>6</td>
+<td>One parent was an elf and the other was a half-elf.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>One parent was a human and the other was a half-elf.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Both parents were half-elves.</td>
+</tr>
+</table>
+<h4 id="toc7"><span>Half-Orc Parents</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Parents</th>
+</tr>
+<tr>
+<td>1-3</td>
+<td>One parent was an orc and the other was a human.</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>One parent was an orc and the other was a half-orc.</td>
+</tr>
+<tr>
+<td>6-7</td>
+<td>One parent was a human and the other was a half-orc.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Both parents were half-orcs.</td>
+</tr>
+</table>
+<h4 id="toc8"><span>Tiefling Parents</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Parents</th>
+</tr>
+<tr>
+<td>1-4</td>
+<td>Both parents were humans, their infernal heritage dormant until you came along.</td>
+</tr>
+<tr>
+<td>5-6</td>
+<td>One parent was a tiefling and the other was a human.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>One parent was a tiefling and the other was a devil.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>One parent was a human and the other was a devil.</td>
+</tr>
+</table>
+<h3 id="toc9"><span>Birthplace</span></h3>
+<p>After establishing your parentage, you can determine where you were born by using the Birthplace table. (Modify the result or roll again if you get a result that's inconsistent with what you know about your parents.) Once you have a result, roll percentile dice. On a roll of 00, a strange event coincided with your birth: the moon briefly turning red, all the milk within a mile spoiling, the water in the area freezing solid in midsummer, all the iron in the home rusting or turning to silver, or some other unusual event of your choice.</p>
+<h4 id="toc10"><span>Birthplace</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Location</th>
+</tr>
+<tr>
+<td>1-50</td>
+<td>Home</td>
+</tr>
+<tr>
+<td>51-55</td>
+<td>Home of a family friend</td>
+</tr>
+<tr>
+<td>56-63</td>
+<td>Home of a healer or midwife</td>
+</tr>
+<tr>
+<td>64-65</td>
+<td>Carriage, cart, or wagon</td>
+</tr>
+<tr>
+<td>66-68</td>
+<td>Barn, shed, or other outbuilding</td>
+</tr>
+<tr>
+<td>69-70</td>
+<td>Cave</td>
+</tr>
+<tr>
+<td>71-72</td>
+<td>Field</td>
+</tr>
+<tr>
+<td>73-74</td>
+<td>Forest</td>
+</tr>
+<tr>
+<td>75-77</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>78</td>
+<td>Battlefield</td>
+</tr>
+<tr>
+<td>79-80</td>
+<td>Alley or street</td>
+</tr>
+<tr>
+<td>81-82</td>
+<td>Brothel, tavern or inn</td>
+</tr>
+<tr>
+<td>83-84</td>
+<td>Castle, keep, tower or palace</td>
+</tr>
+<tr>
+<td>85</td>
+<td>Sewer or rubbish heap</td>
+</tr>
+<tr>
+<td>86-88</td>
+<td>Among people of a different race</td>
+</tr>
+<tr>
+<td>89-91</td>
+<td>On board a boat or a ship</td>
+</tr>
+<tr>
+<td>92-93</td>
+<td>In a prison or in the headquarters of a secret organization</td>
+</tr>
+<tr>
+<td>94-95</td>
+<td>In a sage's laboratory</td>
+</tr>
+<tr>
+<td>96</td>
+<td>In the Feywild</td>
+</tr>
+<tr>
+<td>97</td>
+<td>In the Shadowfell</td>
+</tr>
+<tr>
+<td>98</td>
+<td>On the Astral Plane or Ethereal Plane</td>
+</tr>
+<tr>
+<td>99</td>
+<td>On an Inner Plane of your choice</td>
+</tr>
+<tr>
+<td>100</td>
+<td>On an Outer Plane of your choice</td>
+</tr>
+</table>
+<h3 id="toc11"><span>Siblings</span></h3>
+<p>You might be an only child or one of many children. Your siblings could be cherished friends or hated rivals. Roll on the Number of Siblings table to determine how many brothers or sisters you have. If you are a dwarf or an elf, subtract 2 from your roll. Then, roll on the Birth Order table for each sibling to determine that person's age relative to yours (older, younger, or born at the same time).</p>
+<p><strong>Occupation.</strong> For each sibling of suitable age, roll on the Occupation supplemental table to determine what that person does for a living.</p>
+<p><strong>Alignment.</strong> You can choose your siblings' alignments or roll on the Alignment supplemental table.<br />
+Status. By now, each of your siblings might be alive and well, alive and not so well, in dire straits, or dead. Roll on the Status supplemental table.</p>
+<p><strong>Relationship.</strong> You can roll on the Relationship supplemental table to determine how your siblings feel about you. They might all have the same attitude toward you, or some might view you differently from how the others do.</p>
+<p><strong>Other Details.</strong> You can decide any other details you like about each sibling, including gender, personality, and place in the world.</p>
+<h4 id="toc12"><span>Number of Siblings</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d10</th>
+<th>Siblings</th>
+</tr>
+<tr>
+<td>1-2</td>
+<td>None</td>
+</tr>
+<tr>
+<td>3-4</td>
+<td>1d3</td>
+</tr>
+<tr>
+<td>5-6</td>
+<td>1d4+1</td>
+</tr>
+<tr>
+<td>7-8</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>9-10</td>
+<td>1d8+3</td>
+</tr>
+</table>
+<h4 id="toc13"><span>Birth Order</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>2d6</th>
+<th>Birth Order</th>
+</tr>
+<tr>
+<td>2</td>
+<td>Twin, triplet or quadruplet</td>
+</tr>
+<tr>
+<td>3-7</td>
+<td>Older</td>
+</tr>
+<tr>
+<td>8-12</td>
+<td>Younger</td>
+</tr>
+</table>
+<h3 id="toc14"><span>Family and Friends</span></h3>
+<p>Who raised you, and what was life like for you when you were growing up? You might have been raised by your parents, by relatives, or in an orphanage. Or you could have spent your childhood on the streets of a crowded city with only your fellow runaways and orphans to keep you company.</p>
+<p>Use the Family table to determine who raised you. If you know who your parents are but you get a result that does not mention one or both of them, use the Absent Parent table to determine what happened.</p>
+<p>Next, refer to the Family Lifestyle table to determine the general circumstances of your upbringing. (Chapter 5 of the player's handbook has more information about lifestyles.) The result on that table includes a number that is applied to your roll on the Childhood Home table, which tells you where you spent your early years. Wrap up this section by using the Childhood Memories table, which tells you how you were treated by other youngsters as you were growing up.</p>
+<p><strong>Supplemental Tables.</strong> You can roll on the Relationship table to determine how your family members or other important figures in your life feel about you. You can also use the Race, Occupation, and Alignment tables to learn more about the family members or guardians who raised you.</p>
+<h4 id="toc15"><span>Family</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Family</th>
+</tr>
+<tr>
+<td>1</td>
+<td>None</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Institution, such as an asylum</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Temple</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>Orphanage</td>
+</tr>
+<tr>
+<td>6-7</td>
+<td>Guardian</td>
+</tr>
+<tr>
+<td>8-15</td>
+<td>Paternal or maternal aunt, uncle, or both</td>
+</tr>
+<tr>
+<td>16-25</td>
+<td>Paternal or maternal grandparent(s)</td>
+</tr>
+<tr>
+<td>26-35</td>
+<td>Adoptive family (same or different race)</td>
+</tr>
+<tr>
+<td>36-55</td>
+<td>Single father or stepfather</td>
+</tr>
+<tr>
+<td>56-75</td>
+<td>Single mother or stepmother</td>
+</tr>
+<tr>
+<td>75-100</td>
+<td>Mother and father</td>
+</tr>
+</table>
+<h4 id="toc16"><span>Absent Parent</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d4</th>
+<th>Fate</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Your parent died (roll on the Cause of Death supplemental table).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Your parent was imprisoned, enslaved, or otherwise taken away.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Your parent abandoned you.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Your parent disappeared to an unknown fate.</td>
+</tr>
+</table>
+<h4 id="toc17"><span>Family Lifestyle</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>3d6</th>
+<th>Lifestyle*</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Wretched (-40)</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>Squalid (-20)</td>
+</tr>
+<tr>
+<td>6-8</td>
+<td>Poor (-10)</td>
+</tr>
+<tr>
+<td>9-12</td>
+<td>Modest (+0)</td>
+</tr>
+<tr>
+<td>13-15</td>
+<td>Comfortable (+10)</td>
+</tr>
+<tr>
+<td>16-17</td>
+<td>Wealthy (+20)</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Aristocratic (+40)</td>
+</tr>
+</table>
+<p>*After making this roll, apply the modifier from the Family-Life table to arrive at the result.</p>
+<h4 id="toc18"><span>Childhood Home</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100*</th>
+<th>Home</th>
+</tr>
+<tr>
+<td>0 or lower</td>
+<td>On the streets</td>
+</tr>
+<tr>
+<td>1-20</td>
+<td>Rundown shack</td>
+</tr>
+<tr>
+<td>21-30</td>
+<td>No permanent residence</td>
+</tr>
+<tr>
+<td>31-40</td>
+<td>Encampment or village in the wilderness</td>
+</tr>
+<tr>
+<td>41-50</td>
+<td>Apartment in a rundown neighborhood</td>
+</tr>
+<tr>
+<td>51-70</td>
+<td>Small house</td>
+</tr>
+<tr>
+<td>71-90</td>
+<td>Large house</td>
+</tr>
+<tr>
+<td>91-110</td>
+<td>Mansion</td>
+</tr>
+<tr>
+<td>111 or higher</td>
+<td>Palace or castle</td>
+</tr>
+</table>
+<p>*After making this roll, apply the modifier from the Family-Life table to arrive at the result.</p>
+<h4 id="toc19"><span>Childhood Memories</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>3d6 + Cha mod</th>
+<th>Memory</th>
+</tr>
+<tr>
+<td>1-3</td>
+<td>I am still haunted by my childhood, when I was treated badly by my peers.</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>I spent most of my childhood alone, with no close friends.</td>
+</tr>
+<tr>
+<td>6-8</td>
+<td>Others saw me as being different or strange, and so I had few companions.</td>
+</tr>
+<tr>
+<td>9-12</td>
+<td>I had a few close friends and lived an ordinary childhood.</td>
+</tr>
+<tr>
+<td>13-15</td>
+<td>I had several friends, and my childhood was generally a happy one.</td>
+</tr>
+<tr>
+<td>16-17</td>
+<td>I always found it easy to make friends, and I loved being around people.</td>
+</tr>
+<tr>
+<td>18-25</td>
+<td>Everyone knew who I was, and I had friends everywhere I went.</td>
+</tr>
+</table>
+<h2 id="toc20"><span>Personal Decisions</span></h2>
+<p>Your character's life takes a particular course depending on the choices you make for the character's background and class.</p>
+<h3 id="toc21"><span>Background</span></h3>
+<p>Roll on the appropriate table in this section as soon as you decide your background, or at any later time if you choose. If a background includes a special decision point, such as a folk hero's defining event or the specialty of a criminal or a sage, it's best to make that determination before using the pertinent table below.</p>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/yahooui/tabview-min.js"></script>
+<div id="wiki-tabview-bde7c6135127c56e6190107010d66181" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Acolyte</em></a></li>
+<li><a href="javascript:;"><em>Charlatan</em></a></li>
+<li><a href="javascript:;"><em>Criminal</em></a></li>
+<li><a href="javascript:;"><em>Entertainer</em></a></li>
+<li><a href="javascript:;"><em>Folk Hero</em></a></li>
+<li><a href="javascript:;"><em>Guild Artisan</em></a></li>
+<li><a href="javascript:;"><em>Hermit</em></a></li>
+<li><a href="javascript:;"><em>Noble</em></a></li>
+<li><a href="javascript:;"><em>Outlander</em></a></li>
+<li><a href="javascript:;"><em>Sage</em></a></li>
+<li><a href="javascript:;"><em>Sailor</em></a></li>
+<li><a href="javascript:;"><em>Soldier</em></a></li>
+<li><a href="javascript:;"><em>Urchin</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<h4 id="toc22"><span>Acolyte</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became an acolyte because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I ran away from home at an early age and found refuge in a temple.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>My family gave me to a temple, since they were unable or unwilling to care for me.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I grew up in a household with strong religious convictions. Entering the service of one or more gods seemed natural.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>An impassioned sermon struck a chord deep in my soul and moved me to serve the faith.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I followed a childhood friend, a respected acquaintance, or someone I loved into religious service.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>After encountering a true servant of the gods, I was so inspired that I immediately entered the service of a religious group.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<h4 id="toc23"><span>Charlatan</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a charlatan because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was left to my own devices, and my knack for manipulating others helped me survive.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I learned early on that people are gullible and easy to exploit.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I often got in trouble, but I managed to talk my way out of it every time.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I took up with a confidence artist, from whom I learned my craft.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>After a charlatan fleeced my family, I decided to learn the trade so I would never be fooled by such deception again.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I was poor or I feared becoming poor, so I learned the tricks I needed to keep myself out of poverty.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-2" style="display:none">
+<h4 id="toc24"><span>Criminal</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a criminal because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I resented authority in my younger days and saw a life of crime as the best way to fight against tyranny and oppression.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Necessity forced me to take up the life, since it was the only way I could survive.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I fell in with a gang of reprobates and ne'er-do-wells, and I learned my specialty from them.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A parent or relative taught me my criminal specialty to prepare me for the family business.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I left home and found a place in a thieves' guild or some other criminal organization.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I was always bored, so I turned to crime to pass the time and discovered I was quite good at it.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-3" style="display:none">
+<h4 id="toc25"><span>Entertainer</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became an entertainer because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Members of my family made ends meet by performing, so it was fitting for me to follow their example.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I always had a keen insight into other people, enough so that I could make them laugh or cry with my stories or songs.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I ran away from home to follow a minstrel troupe.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I saw a bard perform once, and I knew from that moment on what I was born to do.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I earned coin by performing on street corners and eventually made a name for myself.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>A traveling entertainer took me in and taught me the trade.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-4" style="display:none">
+<h4 id="toc26"><span>Folk Hero</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a folk hero because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I learned what was right and wrong from my family.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I was always enamored by tales of heroes and wished I could be something more than ordinary.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I hated my mundane life, so when it was time for someone to step up and do the right thing, I took my chance.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A parent or one of my relatives was an adventurer, and I was inspired by that person's courage.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>A mad old hermit spoke a prophecy when I was born, saying that I would accomplish great things.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I have always stood up for those who are weaker than I am.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-5" style="display:none">
+<h4 id="toc27"><span>Guild Artisan</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a guild artisan because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was apprenticed to a master who taught me the guild's business.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>| I helped a guild artisan keep a secret or complete a task, and in return I was taken on as an apprentice.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>One of my family members who belonged to the guild made a place for me.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I was always good with my hands, so I took the opportunity to learn a trade.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I wanted to get away from my home situation and start a new life.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I learned the essentials of my craft from a mentor but had to join the guild to finish my training.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-6" style="display:none">
+<h4 id="toc28"><span>Hermit</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a hermit because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>My enemies ruined my reputation, and I fled to the wilds to avoid further disparagement.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I am comfortable with being isolated, as I seek inner peace.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I never liked the people I called my friends, so it was easy for me to strike out on my own.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I felt compelled to forsake my past, but did so with great reluctance, and sometimes I regret making that decision.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I lost everything-my home, my family, my friends. Going it alone was all I could do.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Society's decadence disgusted me, so I decided to leave it behind.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-7" style="display:none">
+<h4 id="toc29"><span>Noble</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a noble because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I come from an old and storied family, and it fell to me to preserve the family name.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>My family has been disgraced, and I intend to clear our name.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>My family recently came by its title, and that elevation thrust us into a new and strange world.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>My family has a title, but none of my ancestors have distinguished themselves since we gained it.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>My family is filled with remarkable people. I hope to live up to their example.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I hope to increase my family's power and influence.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-8" style="display:none">
+<h4 id="toc30"><span>Outlander</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became an outlander because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I spent a lot of time in the wilderness as a youngster, and I came to love that way of life.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>From a young age, I couldn't abide the stink of the cities and preferred to spend my time in nature.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I came to understand the darkness that lurks in the wilds, and I vowed to combat it.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>My people lived on the edges of civilization, and I learned the methods of survival from my family.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>After a tragedy I retreated to the wilderness, leaving my old life behind.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>My family moved away from civilization, and I learned to adapt to my new environment.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-9" style="display:none">
+<h4 id="toc31"><span>Sage</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a sage because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was naturally curious, so I packed up and went to a university to learn more about the world.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>My mentor's teachings opened my mind to new possibilities in that field of study.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I was always an avid reader, and I learned much about my favorite topic on my own.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I discovered an old library and pored over the texts I found there. That experience awakened a hunger for more knowledge.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I impressed a wizard who told me I was squandering my talents and should seek out an education to take advantage of my gifts.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>| One of my parents or a relative gave me a basic education that whetted my appetite, and I left home to build on what I had learned.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-10" style="display:none">
+<h4 id="toc32"><span>Sailor</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a sailor because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was press-ganged by pirates and forced to serve on their ship until I finally escaped.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I wanted to see the world, so I signed on as a deck-hand for a merchant ship.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>One of my relatives was a sailor who took me to sea.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>| I needed to escape my community quickly, so I stowed away on a ship. When the crew found me, I was forced to work for my passage.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Reavers attacked my community, so I found refuge on a ship until I could seek vengeance.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I had few prospects where I was living, so I left to find my fortune elsewhere.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-11" style="display:none">
+<h4 id="toc33"><span>Soldier</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a soldier because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I joined the militia to help protect my community from monsters.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>A relative of mine was a soldier, and I wanted to carry on the family tradition.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The local lord forced me to enlist in the army.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>War ravaged my homeland while I was growing up. Fighting was the only life I ever knew.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I wanted fame and fortune, so I joined a mercenary company, selling my sword to the highest bidder.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Invaders attacked my homeland. It was my duty to take up arms in defense of my people.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-12" style="display:none">++++<br />
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became an urchin because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Wanderlust caused me to leave my family to see the world. I look after myself.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I ran away from a bad situation at home and made my own way in the world.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Monsters wiped out my village, and I was the sole survivor. I had to find a way to survive.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A notorious thief looked after me and other orphans, and we spied and stole to earn our keep.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>One day I woke up on the streets, alone and hungry, with no memory of my early childhood.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>My parents died, leaving no one to look after me. I raised myself.</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabViewbde7c6135127c56e6190107010d66181 = new YAHOO.widget.TabView('wiki-tabview-bde7c6135127c56e6190107010d66181');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<h2 id="toc34"><span>Class Training</span></h2>
+<p>If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a d6 and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.</p>
+<p>The class sections earlier in this chapter have further story suggestions, which you can use in concert with the material here.</p>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/yahooui/tabview-min.js"></script>
+<div id="wiki-tabview-8ef7a429487677605cfb589527236599" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Barbarian</em></a></li>
+<li><a href="javascript:;"><em>Bard</em></a></li>
+<li><a href="javascript:;"><em>Cleric</em></a></li>
+<li><a href="javascript:;"><em>Druid</em></a></li>
+<li><a href="javascript:;"><em>Fighter</em></a></li>
+<li><a href="javascript:;"><em>Monk</em></a></li>
+<li><a href="javascript:;"><em>Paladin</em></a></li>
+<li><a href="javascript:;"><em>Ranger</em></a></li>
+<li><a href="javascript:;"><em>Rogue</em></a></li>
+<li><a href="javascript:;"><em>Sorcerer</em></a></li>
+<li><a href="javascript:;"><em>Warlock</em></a></li>
+<li><a href="javascript:;"><em>Wizard</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<h4 id="toc35"><span>Barbarian</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a barbarian because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>My devotion to my people lifted me in battle, making me powerful and dangerous.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The spirits of my ancestors called on me to carry out a great task.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I lost control in battle one day, and it was as if something else was manipulating my body, forcing it to kill every foe I could reach.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I went on a spiritual journey to find myself and instead found a spirit animal to guide, protect, and inspire me.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I was struck by lightning and lived. Afterward, I found a new strength within me that let me push beyond my limitations.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>My anger needed to be channeled into battle, or I risked becoming an indiscriminate killer.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<h4 id="toc36"><span>Bard</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a bard because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I awakened my latent bardic abilities through trial and error.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I was a gifted performer and attracted the attention of a master bard who schooled me in the old techniques.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I joined a loose society of scholars and orators to learn new techniques of performance and magic.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I felt a calling to recount the deeds of champions and heroes, to bring them alive in song and story.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I joined one of the great colleges to learn old lore, the secrets of magic, and the art of performance.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I picked up a musical instrument one day and instantly discovered that I could play it.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-2" style="display:none">
+<h4 id="toc37"><span>Cleric</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a cleric because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>A supernatural being in service to the gods called me to become a divine agent in the world.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I saw the injustice and horror in the world and felt moved to take a stand against them.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>My god gave me an unmistakable sign. I dropped everything to serve the divine.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Although I was always devout, it wasn't until I completed a pilgrimage that I knew my true calling.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I used to serve in my religion's bureaucracy but found I needed to work in the world, to bring the message of my faith to the darkest corners of the land.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I realize that my god works through me, and I do as commanded, even though I don't know why I was chosen to serve.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-3" style="display:none">
+<h4 id="toc38"><span>Druid</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a druid because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I saw too much devastation in the wild places, too much of nature's splendor ruined by the despoilers. I joined a circle of druids to fight back against the enemies of nature.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I found a place among a group of druids after I fled a catastrophe.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I have always had an affinity for animals, so I explored my talent to see how I could best use it.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I befriended a druid and was moved by druidic teachings. I decided to follow my friend's guidance and give something back to the world.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>While I was growing up, I saw spirits all around me — entities no one else could perceive. I sought out the druids to help me understand the visions and communicate with these beings.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I have always felt disgust for creatures of unnatural origin. For this reason, I immersed myself in the study of the druidic mysteries and became a champion of the natural order.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-4" style="display:none">
+<h4 id="toc39"><span>Fighter</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a fighter because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I wanted to hone my combat skills, and so I joined a war college.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I squired for a knight who taught me how to fight, care for a steed , and conduct myself with honor. I decided to take up that path for myself.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Horrible monsters descended on my community, killing someone I loved. I took up arms to destroy those creatures and others of a similar nature.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I joined the army and learned how to fight as part of a group.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I grew up fighting, and I refined my talents by defending myself against people who crossed me.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I could always pick up just about any weapon and know how to use it effectively.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-5" style="display:none">
+<h4 id="toc40"><span>Monk</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a monk because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I was chosen to study at a secluded monastery. There, I was taught the fundamental techniques required to eventually master a tradition.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I sought instruction to gain a deeper understanding of existence and my place in the world.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I stumbled into a portal to the Shadowfell and took refuge in a strange monastery, where I learned how to defend myself against the forces of darkness.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I was overwhelmed with grief after losing someone close to me, and I sought the advice of philosophers to help me cope with my loss.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I could feel that a special sort of power lay within me, so I sought out those who could help me call it forth and master it.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I was wild and undisciplined as a youngster, but then I realized the error of my ways. I applied to a monastery and became a monk as a way to live a life of discipline.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-6" style="display:none">
+<h4 id="toc41"><span>Paladin</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a paladin because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>A fantastical being appeared before me and called on me to undertake a holy quest.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>One of my ancestors left a holy quest unfulfilled, so I intend to finish that work.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The world is a dark and terrible place. I decided to serve as a beacon of light shining out against the gathering shadows.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I served as a paladin's squire, learning all I needed to swear my own sacred oath.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Evil must be opposed on all fronts. I feel compelled to seek out wickedness and purge it from the world.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Becoming a paladin was a natural consequence of my unwavering faith. In taking my vows, I became the holy sword of my religion.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-7" style="display:none">
+<h4 id="toc42"><span>Ranger</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a ranger because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I found purpose while I honed my hunting skills by bringing down dangerous animals at the edge of civilization.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I always had a way with animals, able to calm them with a soothing word and a touch.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I suffer from terrible wanderlust, so being a ranger gave me a reason not to remain in one place for too long.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I have seen what happens when the monsters come out from the dark. I took it upon myself to become the first line of defense against the evils that lie beyond civilization's borders.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I met a grizzled ranger who taught me woodcraft and the secrets of the wild lands.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I served in an army, learning the precepts of my profession while blazing trails and scouting enemy encampments.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-8" style="display:none">
+<h4 id="toc43"><span>Rogue</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a rogue because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>I've always been nimble and quick of wit, so I decided to use those talents to help me make my way in the world.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>An assassin or a thief wronged me, so I focused my training on mastering the skills of my enemy to better combat foes of that sort.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>An experienced rogue saw something in me and taught me several useful tricks.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>I decided to turn my natural lucky streak into the basis of a career, though I still realize that improving my skills is essential.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>I took up with a group of ruffians who showed m e how to get what I want through sneakiness rather than direct confrontation.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I'm a sucker for a shiny bauble or a sack of coins, as long as I can get my hands on it without risking life and limb.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-9" style="display:none">
+<h4 id="toc44"><span>Sorcerer</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a sorcerer because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>When I was born, all the water in the house froze solid , the milk spoiled, or all the iron turned to copper. My family is convinced that this event was a harbinger of stranger things to come for me.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I suffered a terrible emotional or physical strain, which brought forth my latent magical power. I have fought to control it ever since.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>My immediate family never spoke of my ancestors, and when I asked, they would change the subject. It wasn't until I started displaying strange talents that the full truth of my heritage came out.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>When a monster threatened one of my friends, I became filled with anxiety. I lashed out instinctively and blasted the wretched thing with a force that came from within me.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sensing something special in me, a stranger taught me how to control my gift.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>After I escaped from a magical conflagration, I realized that though I was unharmed, I was not unchanged. I began to exhibit unusual abilities that I am just beginning to understand.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-10" style="display:none">
+<h4 id="toc45"><span>Warlock</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a warlock because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>While wandering around in a forbidden place, I encountered an otherworldly being that offered to enter into a pact with me.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>I was examining a strange tome I found in an abandoned library when the entity that would become my patron suddenly appeared before me.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I stumbled into the clutches of my patron after I accidentally stepped through a magical doorway.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>When I was faced with a terrible crisis, I prayed to any being who would listen, and the creature that answered became my patron.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>My future patron visited me in my dreams and offered great power in exchange for my service.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>One of my ancestors had a pact with my patron, so that entity was determined to bind me to the same agreement.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-11" style="display:none">
+<h4 id="toc46"><span>Wizard</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d6</th>
+<th>I became a wizard because&#8230;</th>
+</tr>
+<tr>
+<td>1</td>
+<td>An old wizard chose me from among several candidates to serve an apprenticeship.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>When I became lost in a forest, a hedge wizard found me, took me in, and taught me the rudiments of magic.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>I grew up listening to tales of great wizards and knew I wanted to follow their path. I strove to be accepted at an academy of magic and succeeded.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>One of my relatives was an accomplished wizard who decided I was smart enough to learn the craft.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>While exploring an old tomb, library, or temple, I found a spellbook. I was immediately driven to learn all I could about becoming a wizard.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>I was a prodigy who demonstrated mastery of the arcane arts at an early age. When I became old enough to set out on my own, I did so to learn more magic and expand my power.</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabView8ef7a429487677605cfb589527236599 = new YAHOO.widget.TabView('wiki-tabview-8ef7a429487677605cfb589527236599');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<h2 id="toc47"><span>Life Events</span></h2>
+<p>No matter how long you've been alive, you have experienced at least one signature event that has markedly influenced your character. Life events include wondrous happenings and tragedies, conflicts and successes, and encounters with the unusual. They can help to explain why your character became an adventurer, and some might still affect your life even after they are long over.</p>
+<p>The older a character is, the greater the chance for multiple life events, as shown on the Life Events by Age table. If you have already chosen your character's starting age, see the entry in the Life Events column that corresponds to how old you are. Otherwise, you can roll dice to determine your current age and number of life events randomly.</p>
+<p>After you know the number of life events your character has experienced, roll once on the Life Events table for each of them. Many of the results on that table direct you to one of the secondary tables that follow. Once you have determined all of your character's life events, you can arrange them in any chronological order you see fit.</p>
+<h3 id="toc48"><span>Life Events by Age</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Current Age</th>
+<th>Life Events</th>
+</tr>
+<tr>
+<td>01-20</td>
+<td>20 years or younger</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21-59</td>
+<td>21-30 years</td>
+<td>1d4</td>
+</tr>
+<tr>
+<td>60-69</td>
+<td>31-40 years</td>
+<td>1d6</td>
+</tr>
+<tr>
+<td>70-89</td>
+<td>41-50 years</td>
+<td>1d8</td>
+</tr>
+<tr>
+<td>90-99</td>
+<td>51-60 years</td>
+<td>1d10</td>
+</tr>
+<tr>
+<td>00</td>
+<td>61 years or older</td>
+<td>1d12</td>
+</tr>
+</table>
+<h3 id="toc49"><span>Life Events</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Event</th>
+</tr>
+<tr>
+<td>01-10</td>
+<td>You suffered a tragedy. Roll on the Tragedies table.</td>
+</tr>
+<tr>
+<td>11-20</td>
+<td>You gained a bit of good fortune. Roll on the Boons table.</td>
+</tr>
+<tr>
+<td>21-30</td>
+<td>You fell in love or got married. If you get this result more than once, you can choose to have a child instead. Work with your DM to determine the identity of your love interest.</td>
+</tr>
+<tr>
+<td>31-40</td>
+<td>You made an enemy of an adventurer. Roll a d6. An odd number indicates you are to blame for the rift, and an even number indicates you are blameless. Use the supplemental tables and work with your DM to determine this hostile character's identity and the danger this enemy poses to you.</td>
+</tr>
+<tr>
+<td>41-50</td>
+<td>You made a friend of an adventurer. Use the supplemental tables and work with your DM to add more detail to this friendly character and establish how your friendship began.</td>
+</tr>
+<tr>
+<td>51-70</td>
+<td>You spent time working in a job related to your background. Start the game with an extra 2d6 gp.</td>
+</tr>
+<tr>
+<td>71-75</td>
+<td>You met someone important. Use the supplemental tables to determine this character's identity and how this individual feels about you. Work out additional details with your DM as needed to fit this character into your backstory.</td>
+</tr>
+<tr>
+<td>76-80</td>
+<td>You went on an adventure. Roll on the Adventures table to see what happened to you. Work with your DM to determine the nature of the adventure and the creatures you encountered.</td>
+</tr>
+<tr>
+<td>81-85</td>
+<td>You had a supernatural experience. Roll on the Supernatural Events table to find out what it was.</td>
+</tr>
+<tr>
+<td>86-90</td>
+<td>You fought in a battle. Roll on the War table to learn what happened to you. Work with your DM to come up with the reason for the battle and the factions involved. It might have been a small conflict between your community and a band of ores, or it could have been a major battle in a larger war.</td>
+</tr>
+<tr>
+<td>91-95</td>
+<td>You committed a crime or were wrongly accused of doing so. Roll on the Crime table to determine the nature of the offense and on the Punishment table to see what became of you.</td>
+</tr>
+<tr>
+<td>96-99</td>
+<td>You encountered something magical. Roll on the Arcane Matters table.</td>
+</tr>
+<tr>
+<td>00</td>
+<td>Something truly strange happened to you. Roll on the Weird Stuff table.</td>
+</tr>
+</table>
+<h3 id="toc50"><span>Secondary Tables</span></h3>
+<p>These tables add detail to many of the results on the Life Events table. The tables are in alphabetical order.</p>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/yahooui/tabview-min.js"></script>
+<div id="wiki-tabview-70f1d35d9bde2acc026c8bf3e14caa37" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Adventures</em></a></li>
+<li><a href="javascript:;"><em>Arcane Matters</em></a></li>
+<li><a href="javascript:;"><em>Boons</em></a></li>
+<li><a href="javascript:;"><em>Crime</em></a></li>
+<li><a href="javascript:;"><em>Punishment</em></a></li>
+<li><a href="javascript:;"><em>Supernatural Events</em></a></li>
+<li><a href="javascript:;"><em>Tragedies</em></a></li>
+<li><a href="javascript:;"><em>War</em></a></li>
+<li><a href="javascript:;"><em>Weird Stuff</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<h4 id="toc51"><span>Adventures</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Outcome</th>
+</tr>
+<tr>
+<td>01-10</td>
+<td>You nearly died. You have nasty scars on your body, and you are missing an ear, 1d3 fingers, or 1d4 toes.</td>
+</tr>
+<tr>
+<td>11-20</td>
+<td>You suffered a grievous injury. Although the wound healed, it still pains you from time to time.</td>
+</tr>
+<tr>
+<td>21-30</td>
+<td>You were wounded, but in time you fully recovered.</td>
+</tr>
+<tr>
+<td>31-40</td>
+<td>You contracted a disease while exploring a filthy warren. You recovered from the disease, but you have a persistent cough, pockmarks on your skin, or prematurely gray hair.</td>
+</tr>
+<tr>
+<td>41-50</td>
+<td>You were poisoned by a trap or a monster. You recovered, but the next time you make a saving throw against poison, you make the saving throw with disadvantage.</td>
+</tr>
+<tr>
+<td>51-60</td>
+<td>You lost something of sentimental value to you during your adventure. Remove one trinket from your possessions.</td>
+</tr>
+<tr>
+<td>61-70</td>
+<td>You were terribly frightened by something you encountered and ran away, abandoning your companions to their fate.</td>
+</tr>
+<tr>
+<td>71-80</td>
+<td>You learned a great deal during your adventure. The next time you make an ability check or a saving throw, you have advantage on the roll.</td>
+</tr>
+<tr>
+<td>81-90</td>
+<td>You found some treasure on your adventure. You have 2d6 gp left from your share of it.</td>
+</tr>
+<tr>
+<td>91-99</td>
+<td>You found a considerable amount of treasure on your adventure. You have 1d20 + 50 gp left from your share of it.</td>
+</tr>
+<tr>
+<td>00</td>
+<td>You came across a common magic item (of the DM’s choice).</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<h4 id="toc52"><span>Arcane Matters</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d10</th>
+<th>Magical Event</th>
+</tr>
+<tr>
+<td>1</td>
+<td>You were charmed or frightened by a spell.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>You were injured by the effect of a spell.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>You drank a potion (of the DM’s choice).</td>
+</tr>
+<tr>
+<td>5</td>
+<td>You found a <a href="./wondrous-items:spell-scroll">Spell Scroll</a> (of the DM’s choice) and succeeded in casting the spell it contained.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>You were affected by teleportation magic.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>You turned invisible for a time.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>You identified an illusion for what it was.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>You saw a creature being conjured by magic.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Your fortune was read by a diviner. Roll twice on the Life Events table, but don’t apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true).</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-2" style="display:none">
+<h4 id="toc53"><span>Boons</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d10</th>
+<th>Boon</th>
+</tr>
+<tr>
+<td>1</td>
+<td>A friendly wizard gave you a <a href="./wondrous-items:spell-scroll">Spell Scroll</a> containing one cantrip (of the DM’s choice).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>You found a riding horse.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>You found some money. You have 1d20 gp in addition to your regular starting funds.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>A relative bequeathed you a simple weapon of your choice.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>You found something interesting. You gain one additional trinket.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A friendly alchemist gifted you with a <a href="./wondrous-items:Potion-of-healing">Potion of Healing</a> or a flask of acid, as you choose.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>You found a treasure map.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>A distant relative left you a stipend that enables you to live at the comfortable lifestyle for 1d20 years. If you choose to live at a higher lifestyle, you reduce the price of the lifestyle by 2 gp during that time period.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-3" style="display:none">
+<h4 id="toc54"><span>Crime</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d8</th>
+<th>Crime</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Murder</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Theft</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Burglary</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Assault</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Smuggling</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Kidnapping</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Extortion</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Counterfeiting</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-4" style="display:none">
+<h4 id="toc55"><span>Punishment</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d12</th>
+<th>Punishment</th>
+</tr>
+<tr>
+<td>1-3</td>
+<td>You did not commit the crime and were exonerated after being accused.</td>
+</tr>
+<tr>
+<td>4-6</td>
+<td>You committed the crime or helped do so, but nonetheless the authorities found you not guilty.</td>
+</tr>
+<tr>
+<td>7-8</td>
+<td>You were nearly caught in the act. You had to flee and are wanted in the community where the crime occurred.</td>
+</tr>
+<tr>
+<td>9-12</td>
+<td>You were caught and convicted. You spent time in jail, chained to an oar, or performing hard labor. You served a sentence of 1d4 years or succeeded in escaping after that much time.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-5" style="display:none">
+<h4 id="toc56"><span>Supernatural Events</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Event</th>
+</tr>
+<tr>
+<td>01-05</td>
+<td>You were ensorcelled by a fey and enslaved for 1d6 years before you escaped.</td>
+</tr>
+<tr>
+<td>06-10</td>
+<td>You saw a demon and ran away before it could do anything to you.</td>
+</tr>
+<tr>
+<td>11-15</td>
+<td>A devil tempted you. Make a DC 10 Wisdom saving throw. On a failed save, your alignment shifts one step towards evil (if it’s not evil already), and you start the game with an additional 1d20 + 50 gp.</td>
+</tr>
+<tr>
+<td>16-20</td>
+<td>You woke up one morning miles from your home, with no idea how you got there.</td>
+</tr>
+<tr>
+<td>21-30</td>
+<td>You visited a holy site and felt the presence of the divine there.</td>
+</tr>
+<tr>
+<td>31-40</td>
+<td>You witnessed a falling red star, a face appearing in the frost, or some other bizarre happening. You are certain that it was an omen of some sort.</td>
+</tr>
+<tr>
+<td>41-50</td>
+<td>You escaped certain death and believe it was the intervention of a god that saved you.</td>
+</tr>
+<tr>
+<td>51-60</td>
+<td>You witnessed a minor miracle.</td>
+</tr>
+<tr>
+<td>61-70</td>
+<td>You explored an empty house and found it to be haunted.</td>
+</tr>
+<tr>
+<td>71-75</td>
+<td>You were briefly possessed. Roll a d6 to determine what type of creature possessed you: 1, celestial; 2, devil; 3, demon; 4, fey; 5, elemental; 6, undead.</td>
+</tr>
+<tr>
+<td>76-80</td>
+<td>You saw a ghost.</td>
+</tr>
+<tr>
+<td>81-85</td>
+<td>You saw a ghoul feeding on a corpse.</td>
+</tr>
+<tr>
+<td>86-90</td>
+<td>A celestial or a fiend visited you in your dreams to give a warning of dangers to come.</td>
+</tr>
+<tr>
+<td>91-95</td>
+<td>You briefly visited the Feywild or the Shadowfell.</td>
+</tr>
+<tr>
+<td>96-00</td>
+<td>You saw a portal that you believe leads to another plane of existence.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-6" style="display:none">
+<h4 id="toc57"><span>Tragedies</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d12</th>
+<th>Tragedy</th>
+</tr>
+<tr>
+<td>1-2</td>
+<td>A family member or a close friend died. Roll on the <em>Cause of Death</em> supplemental table to find out how.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>A friendship ended bitterly, and the other person is now hostile to you. The cause might have been a misunderstanding or something you or the former friend did.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>You lost all your possessions in a disaster, and you had to rebuild your life.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>You were imprisoned for a crime you didn't commit and spent 1d6 years at hard labor, in jail, or shackled to an oar in a slave galley.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>War ravaged your home community, reducing everything to rubble and ruin. In the aftermath, you either helped your town rebuild or moved somewhere else.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>A lover disappeared without a trace. You have been looking for that person ever since.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A terrible blight in your home community caused crops to fail, and many starved. You lost a sibling or some other family member.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>You did something that brought terrible shame to you in the eyes of your family. You might have been involved in a scandal, dabbled in dark magic, or offended someone important. The attitude of your family members toward you becomes indifferent at best, though they might eventually forgive you.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>For a reason you were never told, you were exiled from your community. You then either wandered in the wilderness for a time or promptly found a new place to live.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>A romantic relationship ended. Roll a d6. An odd number means it ended with bad feelings, while an even number means it ended amicably.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>A current or prospective romantic partner of yours died. Roll on the Cause of Death supplemental table to find out how. If the result is murder, roll a d12. On a 1, you were responsible, whether directly or indirectly.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-7" style="display:none">
+<h4 id="toc58"><span>War</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d12</th>
+<th>War Outcome</th>
+</tr>
+<tr>
+<td>1</td>
+<td>You were knocked out and left for dead. You woke up hours later with no recollection of the battle.</td>
+</tr>
+<tr>
+<td>2-3</td>
+<td>You were badly injured in the fight, and you still bear the awful scars of those wounds.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>You ran away from the battle to save your life, but you still feel shame for your cowardice.</td>
+</tr>
+<tr>
+<td>5-7</td>
+<td>You suffered only minor injuries, and the wounds all healed without leaving scars.</td>
+</tr>
+<tr>
+<td>8-9</td>
+<td>You survived the battle, but you suffer from terrible nightmares in which you relive the experience.</td>
+</tr>
+<tr>
+<td>10-11</td>
+<td>You escaped the battle unscathed, though many of your friends were injured or lost.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>You acquitted yourself well in battle and are remembered as a hero. You might have received a medal for your bravery.</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-8" style="display:none">
+<h4 id="toc59"><span>Weird Stuff</span></h4>
+<table class="wiki-content-table">
+<tr>
+<th>d12</th>
+<th>What Happened</th>
+</tr>
+<tr>
+<td>1</td>
+<td>You were turned into a toad and remained in that form for 1d4 weeks.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>You were petrified and remained a stone statue for a time until someone freed you.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for 1d6 years.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A dragon held you as a prisoner for 1d4 months until adventurers killed it.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>You served a powerful adventurer as a hireling. You have only recently left that service. Use the supplemental tables and work with your DM to determine the basic details about your former employer.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>You went insane for 1d6 years and recently regained your sanity. A tic or some other bit of odd behavior might linger.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A lover of yours was secretly a silver dragon.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>You were captured by a cult and nearly sacrificed on an altar to the foul being the cultists served. You escaped, but you fear they will find you.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>You met a demigod, an archdevil, an archfey, a demon lord, or a titan, and you lived to tell the tale.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>You were swallowed by a giant fish and spent a month in its gullet before you escaped.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>A powerful being granted you a <a href="./spell:wish">Wish</a>, but you squandered it on something frivolous.</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabView70f1d35d9bde2acc026c8bf3e14caa37 = new YAHOO.widget.TabView('wiki-tabview-70f1d35d9bde2acc026c8bf3e14caa37');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<h2 id="toc60"><span>Supplemental Tables</span></h2>
+<p>The supplemental tables below give you a way to randomly determine characteristics and other facts about individuals who are part of your character’s life. Use these tables when directed to do so by another table, or when you simply want to come up with a piece of information quickly. The tables are in alphabetical order</p>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/yahooui/tabview-min.js"></script>
+<div id="wiki-tabview-b882acffc78895455a9cc66da397cb96" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Alignment</em></a></li>
+<li><a href="javascript:;"><em>Cause of Death</em></a></li>
+<li><a href="javascript:;"><em>Class</em></a></li>
+<li><a href="javascript:;"><em>Occupation</em></a></li>
+<li><a href="javascript:;"><em>Race</em></a></li>
+<li><a href="javascript:;"><em>Relationship</em></a></li>
+<li><a href="javascript:;"><em>Status</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<h3 id="toc61"><span>Alignment</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>3d6</th>
+<th>Alignment</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Chaotic evil (50%) or chaotic neutral (50%)</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>Lawful evil</td>
+</tr>
+<tr>
+<td>6-8</td>
+<td>Neutral evil</td>
+</tr>
+<tr>
+<td>9-12</td>
+<td>Neutral</td>
+</tr>
+<tr>
+<td>13-15</td>
+<td>Neutral good</td>
+</tr>
+<tr>
+<td>16-17</td>
+<td>Lawful good (50%) or lawful neutral (50%)</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Chaotic good (50%) or chaotic neutral (50%)</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<h3 id="toc62"><span>Cause of Death</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d12</th>
+<th>Cause of Death</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Murdered</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Killed in battle</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Accident related to class or occupation</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Accident unrelated to class or occupation</td>
+</tr>
+<tr>
+<td>6-7</td>
+<td>Natural causes, such as disease or old age</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Apparent suicide</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Torn apart by an animal or a natural disaster</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Consumed by a monster</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Executed for a crime or tortured to death</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Bizarre event, such as being hit by a meteorite, struck down by an angry god, or killed by a hatching slaad egg</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-2" style="display:none">
+<h3 id="toc63"><span>Class</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Class</th>
+</tr>
+<tr>
+<td>01-07</td>
+<td>Barbarian</td>
+</tr>
+<tr>
+<td>08-14</td>
+<td>Bard</td>
+</tr>
+<tr>
+<td>15-29</td>
+<td>Cleric</td>
+</tr>
+<tr>
+<td>30-36</td>
+<td>Druid</td>
+</tr>
+<tr>
+<td>37-52</td>
+<td>Fighter</td>
+</tr>
+<tr>
+<td>53-58</td>
+<td>Monk</td>
+</tr>
+<tr>
+<td>59-64</td>
+<td>Paladin</td>
+</tr>
+<tr>
+<td>65-70</td>
+<td>Ranger</td>
+</tr>
+<tr>
+<td>71-84</td>
+<td>Rogue</td>
+</tr>
+<tr>
+<td>85-89</td>
+<td>Sorcerer</td>
+</tr>
+<tr>
+<td>90-94</td>
+<td>Warlock</td>
+</tr>
+<tr>
+<td>95-00</td>
+<td>Wizard</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-3" style="display:none">
+<h3 id="toc64"><span>Occupation</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Occupation</th>
+</tr>
+<tr>
+<td>01-05</td>
+<td>Academic</td>
+</tr>
+<tr>
+<td>06-10</td>
+<td>Adventurer (roll on the Class table)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Aristocrat</td>
+</tr>
+<tr>
+<td>12-26</td>
+<td>Artisan or guild member</td>
+</tr>
+<tr>
+<td>27-31</td>
+<td>Criminal</td>
+</tr>
+<tr>
+<td>32-36</td>
+<td>Entertainer</td>
+</tr>
+<tr>
+<td>37-38</td>
+<td>Exile, hermit, or refugee</td>
+</tr>
+<tr>
+<td>39-43</td>
+<td>Explorer or wanderer</td>
+</tr>
+<tr>
+<td>44-55</td>
+<td>Farmer or herder</td>
+</tr>
+<tr>
+<td>56-60</td>
+<td>Hunter or trapper</td>
+</tr>
+<tr>
+<td>61-75</td>
+<td>Laborer</td>
+</tr>
+<tr>
+<td>76-80</td>
+<td>Merchant</td>
+</tr>
+<tr>
+<td>81-85</td>
+<td>Politician</td>
+</tr>
+<tr>
+<td>86-90</td>
+<td>Priest</td>
+</tr>
+<tr>
+<td>91-95</td>
+<td>Sailor</td>
+</tr>
+<tr>
+<td>96-00</td>
+<td>Soldier</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-4" style="display:none">
+<h3 id="toc65"><span>Race</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>d100</th>
+<th>Race</th>
+</tr>
+<tr>
+<td>01-40</td>
+<td>Human</td>
+</tr>
+<tr>
+<td>41-50</td>
+<td>Dwarf</td>
+</tr>
+<tr>
+<td>51-60</td>
+<td>Elf</td>
+</tr>
+<tr>
+<td>61-70</td>
+<td>Halfling</td>
+</tr>
+<tr>
+<td>71-75</td>
+<td>Dragonborn</td>
+</tr>
+<tr>
+<td>76-80</td>
+<td>Gnome</td>
+</tr>
+<tr>
+<td>81-85</td>
+<td>Half-elf</td>
+</tr>
+<tr>
+<td>86-90</td>
+<td>Half-orc</td>
+</tr>
+<tr>
+<td>91-95</td>
+<td>Tiefling</td>
+</tr>
+<tr>
+<td>96-00</td>
+<td>DM’s choice</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-5" style="display:none">
+<h3 id="toc66"><span>Relationship</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>3d4</th>
+<th>Attitude</th>
+</tr>
+<tr>
+<td>3-4</td>
+<td>Hostile</td>
+</tr>
+<tr>
+<td>5-10</td>
+<td>Friendly</td>
+</tr>
+<tr>
+<td>11-12</td>
+<td>Indifferent</td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-6" style="display:none">
+<h3 id="toc67"><span>Status</span></h3>
+<table class="wiki-content-table">
+<tr>
+<th>3d6</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Dead (roll on the Cause of Death table)</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>Missing or unknown</td>
+</tr>
+<tr>
+<td>6-8</td>
+<td>Alive, but doing poorly due to injury, financial trouble, or relationship difficulties</td>
+</tr>
+<tr>
+<td>9-12</td>
+<td>Alive and well</td>
+</tr>
+<tr>
+<td>13-15</td>
+<td>Alive and quite successful</td>
+</tr>
+<tr>
+<td>16-17</td>
+<td>Alive and infamous</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Alive and famous</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabViewb882acffc78895455a9cc66da397cb96 = new YAHOO.widget.TabView('wiki-tabview-b882acffc78895455a9cc66da397cb96');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<h2 id="toc68"><span>What’s Next?</span></h2>
+<p>When you're finished using these tables, you'll have a collection of facts and notes that — at a minimum — encapsulate what your character has been doing in the world up till now. Sometimes that might be all the information you want, but you don't have to stop there.</p>
+<p>By using your creativity to stitch all these bits together into a continuous narrative, you can create a full-fledged autobiography for your character in as little as a few sentences — an excellent example of how the whole is greater than the sum of its parts.</p>
+<p>Did you get a couple of results on the tables that don't outright contradict each other but also don't seem to fit together smoothly? If so, now is your chance to explain what happened to you. For instance, let's say you were born in a castle, but your childhood home was in the wilderness. It could be that your parents traveled from their forest home to seek help from a midwife at the castle when your mother was close to giving birth. Or your parents might have been members of the castle's staff before you were born, but they were released from service soon after you came into the world.</p>
+<p>In addition to deepening your own roleplaying experience, your character's history presents your DM with opportunities to weave those elements into the story of the campaign. Any way you look at it, adding definition to your character's pre-adventuring life is time well spent.</p>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cyclods.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cyclods.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cyclods.wikidot.com">CycloDS Revolution</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://exciting.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/exciting.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://exciting.wikidot.com">exciting</a></h3>
+            <div class="desc">          
+              exciting, all electron DFT
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://cicnsandbox.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/cicnsandbox.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://cicnsandbox.wikidot.com">混沌中文沙盒站</a></h3>
+            <div class="desc">          
+              心灵迷宫 启悟在望
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://stallmanism.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/stallmanism.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://stallmanism.wikidot.com">Stallmanism</a></h3>
+            <div class="desc">          
+              a Religion for the 21st Century
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

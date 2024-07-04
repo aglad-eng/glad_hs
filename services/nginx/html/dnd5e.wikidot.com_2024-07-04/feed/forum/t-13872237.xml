@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Obsolete UA</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13872237/obsolete-ua</link>
+		<description>Posts in the discussion thread &quot;Obsolete UA&quot; - What do with UA that has been updated with a new version, converted to published content and UA that is old enough that it will likely never be published.</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13872237#post-4826685</guid>
+				<title>Re: Obsolete UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13872237/obsolete-ua#post-4826685</link>
+				<description></description>
+				<pubDate>Tue, 24 Nov 2020 05:12:56 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I think that having a link on the page leading to obsolete UA might be nice so that we preserve the old versions of them, but getting them off of the main page to reduce clutter would be helpful. Additionally, separating the published content from the remaining UA so that it isn't all one amorphous blob on the main page would be very nice as well.</p> <p>I also agree regarding the ranger. We're working on getting the PHB ranger with the optional class features from Tasha's, but it'll take some time, especially if we want to keep the revised ranger options on the website rather than erase them entirely.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13872237#post-4826515</guid>
+				<title>Re: Obsolete UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13872237/obsolete-ua#post-4826515</link>
+				<description></description>
+				<pubDate>Mon, 23 Nov 2020 22:53:51 +0000</pubDate>
+				<wikidot:authorName>qorinthian</wikidot:authorName>				<wikidot:authorUserId>6517502</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I agree with Option 2. The problem with UA is when revisions of the same UA comes out, it starts to clutter the main and class pages. For class pages, I'd even advocate for having a section for Published content, then a second combined section with UA and Homebrew content. (I personally think homebrew content not by Wizards is already questionable, but it's okay.)</p> <p>This also extends to the Ranger. Now that Tasha's has provided alternate class options to make the Ranger better, I really think we should revert Ranger to PHB, and create a new page for Revised Ranger. PHB Ranger can link to published subclasses; Revised Ranger can link to UA versions of subclasses.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13872237#post-4826467</guid>
+				<title>Obsolete UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13872237/obsolete-ua#post-4826467</link>
+				<description></description>
+				<pubDate>Mon, 23 Nov 2020 20:59:23 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So I'm curious what everyone thinks about obsolete UA. With Tasha's coming out, there's a significant number of UA subclasses that are no longer valid because they've been promoted to published content. We have people adding that content now (thank you everyone who is contributing). I can think of a couple options for what we can do.</p> <ol> <li>Retain Obsolete UA Content <ol> <li>Main Page <ol> <li>A: Leave Obsolete UA where it is</li> <li>B: Move Obsolete UA to a separate section under each class heading</li> <li>C: Move Obsolete UA to a separate section entirely, similar to the Homebrew content</li> </ol> </li> <li>Class Pages <ol> <li>A: Leave Obsolete UA where it is</li> <li>B: Move Obsolete UA to a separate section similar to other homebrew content</li> </ol> </li> </ol> </li> <li>Remove Obsolete UA content <ol> <li>Main Page: Self Explanatory</li> <li>Class Pages: Self Explanatory <ol> <li>An alternative to removing the data entirely is to add references and/or links to the UA content on the published subclass pages. This would remove the clutter of having obsolete UA, but would also keep it easily accessible for anyone that wants to see it.</li> </ol> </li> </ol> </li> </ol> <p>I'm leaning towards option 2, just removing the UA content entirely, but adding in the references on the published subclass pages.</p> <p>This also brings up old UA that was never published, like the City &amp; Protection Domains for the cleric. That can be addressed later, there's a lot less of those than things that became obsolete because of the release of Tasha's.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

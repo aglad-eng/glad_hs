@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Forum Category - DND 5th Edition Deleted threads</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887289;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "forum:category";
+        OZONE.request.timestamp = 1720132786;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "forum:category";
+        WIKIREQUEST.info.pageId = 48865947;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="../../../local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="../../../local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="../../../common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Posts in the forum category &quot;Deleted threads&quot;" href="../../../feed/forum/cp-2177752.xml"/><link rel="alternate" type="application/rss+xml" title="Threads in the forum category &quot;Deleted threads&quot;" href="../../../feed/forum/ct-2177752.xml"/><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="../../../random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="../../../index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/forum/c-2177752/p/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../../index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="../../../main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="../../../system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="52#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../../help:_home">User Guide</a></li>
+<li><a href="../../../help:first-time-user">First Time User</a></li>
+<li><a href="../../../help:quick-reference">Quick Reference</a></li>
+<li><a href="../../../help:creating-pages">Creating Pages</a></li>
+<li><a href="../../../help:editing-pages">Editing Pages</a></li>
+<li><a href="../../../help:navigation-bars">Navigation Bars</a></li>
+<li><a href="../../../help:using-modules">Using Modules</a></li>
+<li><a href="../../../help:templates">Templates</a></li>
+<li><a href="../../../help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="52#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../../_admin">Site Manager</a></li>
+<li><a href="../../../nav:top">Edit Top Bar</a></li>
+<li><a href="../../../nav:side">Edit Side Bar</a></li>
+<li><a href="../../../css:_home">CSS Manager</a></li>
+<li><a href="../../../system:recent-changes">Recent Changes</a></li>
+<li><a href="../../../system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="../../../help:_home">User Guide</a></li>
+<li><a href="../../../help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="../../../main:about">About</a></li>
+<li><a href="../../../main:contact">Contact</a></li>
+<li><a href="../../../legal:_home">Legal</a></li>
+<li><a href="../../../forum:start">Discussion Forums</a></li>
+<li><a href="../../../system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/forum/c-2177752/p/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Forum Category</span></div>
+          
+          
+
+
+
+<div id="page-content">
+
+<div class="forum-category-box">
+		<div class="forum-breadcrumbs">
+		<a href="http://dnd5e.wikidot.com/forum/start">Forum</a>
+		&raquo;
+		Hidden /
+		Deleted threads
+	</div>
+	
+	<div class="description-block well">
+		<div class="statistics">
+			Number of threads: 1045<br/>
+			Number of posts: 1083<br/>
+			<span class="rss-icon"><img src="http://www.wikidot.com/common--theme/base/images/feed/feed-icon-14x14.png" alt="rss icon"/></span>
+			RSS: <a href="../../../feed/forum/ct-2177752.xml">New threads</a> | <a href="../../../feed/forum/cp-2177752.xml">New posts</a>
+		
+		</div>
+		Deleted forum discussions should go here.
+	</div>
+	
+			<div class="options">
+			Order by: <div class="btn btn-primary disabled btn-small btn-sm"><strong>Last post date</strong></div> <a href="../sort/start" class="btn btn-primary btn-small btn-sm">Thread starting date</a>
+		</div>	
+		
+	<div class="new-post">
+		<a href="http://dnd5e.wikidot.com/forum:new-thread/c/2177752" class="btn btn-primary">Create a new thread</a>
+	</div>
+	
+					<div class="pager"><span class="pager-no">page 52 of 53</span><span class="target"><a href="51">&laquo; previous</a></span><span class="target"><a href="1">1</a></span><span class="target"><a href="2">2</a></span><span class="dots">...</span><span class="target"><a href="50">50</a></span><span class="target"><a href="51">51</a></span><span class="current">52</span><span class="target"><a href="53">53</a></span><span class="target"><a href="53">next &raquo;</a></span></div>
+	
+	
+	<table style="width: 98%" class="table">
+		<tr class="head">
+			<td>
+				Thread name			</td>
+			<td>
+				Started			</td>
+			<td>
+				Posts			</td>
+			<td>
+				Recent post			</td>
+		</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13655003/artificer-weapon-proficiency">Artificer Weapon Proficiency</a><br/>
+					</div>
+					<div class="description">
+						Artificers lost Hand/Heavy Crossbow proficiency.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/archfiend487" onclick="WIKIDOT.page.listeners.userInfo(6752230); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6752230&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Archfiend487" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6752230)"/></a><a href="http://www.wikidot.com/user:info/archfiend487" onclick="WIKIDOT.page.listeners.userInfo(6752230); return false;" >Archfiend487</a></span> <br/>
+					<span class="odate time_1597808926 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">19 Aug 2020 03:48</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/mtruitt" onclick="WIKIDOT.page.listeners.userInfo(6444238); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6444238&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="mTruitt" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6444238)"/></a><a href="http://www.wikidot.com/user:info/mtruitt" onclick="WIKIDOT.page.listeners.userInfo(6444238); return false;" >mTruitt</a></span><br/>
+							<span class="odate time_1597826055 format_%28%25O%20%25A%29">19 Aug 2020 08:34</span>
+							<a href="../../t-13655003/artificer-weapon-proficiency#post-4751477">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13650754/removing-outdated-subclasses">Removing outdated subclasses</a><br/>
+					</div>
+					<div class="description">
+						Discussion on where we draw the line
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/qorinthian" onclick="WIKIDOT.page.listeners.userInfo(6517502); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6517502&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="qorinthian" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6517502)"/></a><a href="http://www.wikidot.com/user:info/qorinthian" onclick="WIKIDOT.page.listeners.userInfo(6517502); return false;" >qorinthian</a></span> <br/>
+					<span class="odate time_1597694457 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">17 Aug 2020 20:00</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13592524/new-subclasses-missing-from-the-frontpage">New subclasses missing from the Frontpage?</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6675660&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Valkyria Grey" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6675660)"/></a><a href="http://www.wikidot.com/user:info/valkyria-grey" onclick="WIKIDOT.page.listeners.userInfo(6675660); return false;" >Valkyria Grey</a></span> <br/>
+					<span class="odate time_1595942563 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">28 Jul 2020 13:22</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1595977750 format_%28%25O%20%25A%29">28 Jul 2020 23:09</span>
+							<a href="../../t-13592524/new-subclasses-missing-from-the-frontpage#post-4732598">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13500508/some-questions-from-a-newbie">Some questions from a newbie</a><br/>
+					</div>
+					<div class="description">
+						after looking through the wiki i have some beginner questions.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/puffington" onclick="WIKIDOT.page.listeners.userInfo(6185284); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6185284&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Puffington" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6185284)"/></a><a href="http://www.wikidot.com/user:info/puffington" onclick="WIKIDOT.page.listeners.userInfo(6185284); return false;" >Puffington</a></span> <br/>
+					<span class="odate time_1594157884 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">07 Jul 2020 21:38</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span><br/>
+							<span class="odate time_1595803732 format_%28%25O%20%25A%29">26 Jul 2020 22:48</span>
+							<a href="../../t-13500508/some-questions-from-a-newbie#post-4730456">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13560611/error-in-cleric-spell-list">error in cleric spell list</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/armor007" onclick="WIKIDOT.page.listeners.userInfo(5094744); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5094744&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="ArMor007" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5094744)"/></a><a href="http://www.wikidot.com/user:info/armor007" onclick="WIKIDOT.page.listeners.userInfo(5094744); return false;" >ArMor007</a></span> <br/>
+					<span class="odate time_1595033483 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">18 Jul 2020 00:51</span>
+				</td>
+				<td class="posts">
+					3
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/bonarvichi" onclick="WIKIDOT.page.listeners.userInfo(6678232); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6678232&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="bonarvichi" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6678232)"/></a><a href="http://www.wikidot.com/user:info/bonarvichi" onclick="WIKIDOT.page.listeners.userInfo(6678232); return false;" >bonarvichi</a></span><br/>
+							<span class="odate time_1595689521 format_%28%25O%20%25A%29">25 Jul 2020 15:05</span>
+							<a href="../../t-13560611/error-in-cleric-spell-list#post-4729283">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13577769/ua-feats-have-pages-but-arent-linked-to-on-the-frontpage">UA feats have pages, but arent linked to on the frontpage</a><br/>
+					</div>
+					<div class="description">
+						The new UA feats that were released this month have pages made for them, but arent accessible on the front page of the site
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6662241&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="NCat and Others" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6662241)"/></a><a href="http://www.wikidot.com/user:info/ncat-and-others" onclick="WIKIDOT.page.listeners.userInfo(6662241); return false;" >NCat and Others</a></span> <br/>
+					<span class="odate time_1595553172 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">24 Jul 2020 01:12</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13494329/error-in-the-horizon-walker-ranger-subclass">Error in the Horizon Walker Ranger Subclass</a><br/>
+					</div>
+					<div class="description">
+						Misses Extra Attack
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser deleted" data-id="6222999"><img class="small" src="http://www.wikidot.com/common--images/avatars/default/a16.png" alt=""/>(account deleted)</span> <br/>
+					<span class="odate time_1593988625 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 Jul 2020 22:37</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13091319/error-in-the-circle-of-the-spores-subclass-power-symbiotic-e">Error in the circle of the spores subclass power &quot;Symbiotic Entity&quot;</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/nirvand" onclick="WIKIDOT.page.listeners.userInfo(6170611); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6170611&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="nirvand" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6170611)"/></a><a href="http://www.wikidot.com/user:info/nirvand" onclick="WIKIDOT.page.listeners.userInfo(6170611); return false;" >nirvand</a></span> <br/>
+					<span class="odate time_1582976226 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">29 Feb 2020 11:37</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593373208 format_%28%25O%20%25A%29">28 Jun 2020 19:40</span>
+							<a href="../../t-13091319/error-in-the-circle-of-the-spores-subclass-power-symbiotic-e#post-4703492">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13080716/error-in-the-swarmkeeper-ranger-subclass">Error in the Swarmkeeper Ranger Subclass</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/bobalugee1940" onclick="WIKIDOT.page.listeners.userInfo(4381784); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=4381784&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Bobalugee1940" style="background-image:url(http://www.wikidot.com/userkarma.php?u=4381784)"/></a><a href="http://www.wikidot.com/user:info/bobalugee1940" onclick="WIKIDOT.page.listeners.userInfo(4381784); return false;" >Bobalugee1940</a></span> <br/>
+					<span class="odate time_1582664021 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">25 Feb 2020 20:53</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593373163 format_%28%25O%20%25A%29">28 Jun 2020 19:39</span>
+							<a href="../../t-13080716/error-in-the-swarmkeeper-ranger-subclass#post-4703491">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-10621013/elf-ages">Elf ages</a><br/>
+					</div>
+					<div class="description">
+						Elves live a lot longer than 250 years.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/space-shaman" onclick="WIKIDOT.page.listeners.userInfo(5235030); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5235030&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Space Shaman" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5235030)"/></a><a href="http://www.wikidot.com/user:info/space-shaman" onclick="WIKIDOT.page.listeners.userInfo(5235030); return false;" >Space Shaman</a></span> <br/>
+					<span class="odate time_1552444969 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">13 Mar 2019 02:42</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372992 format_%28%25O%20%25A%29">28 Jun 2020 19:36</span>
+							<a href="../../t-10621013/elf-ages#post-4703490">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13168468/error-in-the-mending-spell-page">Error in the &#039;Mending&#039; spell page</a><br/>
+					</div>
+					<div class="description">
+						the casting time is wrong (its 1 minute not one action), and i dont want to bother the server owner over this and i dont know how to contact the mods.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/earlsocksiii" onclick="WIKIDOT.page.listeners.userInfo(5359723); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5359723&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="EarlSocksIII" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5359723)"/></a><a href="http://www.wikidot.com/user:info/earlsocksiii" onclick="WIKIDOT.page.listeners.userInfo(5359723); return false;" >EarlSocksIII</a></span> <br/>
+					<span class="odate time_1584742475 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">20 Mar 2020 22:14</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372873 format_%28%25O%20%25A%29">28 Jun 2020 19:34</span>
+							<a href="../../t-13168468/error-in-the-mending-spell-page#post-4703488">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-10987022/bugbears-wisdom">Bugbears Wisdom</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/fredor" onclick="WIKIDOT.page.listeners.userInfo(5278983); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5278983&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="fredor" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5278983)"/></a><a href="http://www.wikidot.com/user:info/fredor" onclick="WIKIDOT.page.listeners.userInfo(5278983); return false;" >fredor</a></span> <br/>
+					<span class="odate time_1554444298 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 Apr 2019 06:04</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372802 format_%28%25O%20%25A%29">28 Jun 2020 19:33</span>
+							<a href="../../t-10987022/bugbears-wisdom#post-4703487">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-12576079/the-oath-of-redemption-paladin">The Oath of Redemption Paladin?</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/iced-tea" onclick="WIKIDOT.page.listeners.userInfo(5687597); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5687597&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Iced Tea" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5687597)"/></a><a href="http://www.wikidot.com/user:info/iced-tea" onclick="WIKIDOT.page.listeners.userInfo(5687597); return false;" >Iced Tea</a></span> <br/>
+					<span class="odate time_1569282557 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">23 Sep 2019 23:49</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372640 format_%28%25O%20%25A%29">28 Jun 2020 19:30</span>
+							<a href="../../t-12576079/the-oath-of-redemption-paladin#post-4703483">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-10849020/misty-step-casting-time">Misty Step Casting Time</a><br/>
+					</div>
+					<div class="description">
+						Misty Step&#039;s casting time should be 1 bonus action
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/jrtroopa" onclick="WIKIDOT.page.listeners.userInfo(5263985); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5263985&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="jrtroopa" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5263985)"/></a><a href="http://www.wikidot.com/user:info/jrtroopa" onclick="WIKIDOT.page.listeners.userInfo(5263985); return false;" >jrtroopa</a></span> <br/>
+					<span class="odate time_1553824368 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">29 Mar 2019 01:52</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372583 format_%28%25O%20%25A%29">28 Jun 2020 19:29</span>
+							<a href="../../t-10849020/misty-step-casting-time#post-4703481">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13185049/error-in-paladin-spell-list">Error in Paladin Spell list</a><br/>
+					</div>
+					<div class="description">
+						Silent image is listed there. I believe it shouldn&#039;t be.
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/sir-francis" onclick="WIKIDOT.page.listeners.userInfo(6272780); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6272780&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Sir Francis" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6272780)"/></a><a href="http://www.wikidot.com/user:info/sir-francis" onclick="WIKIDOT.page.listeners.userInfo(6272780); return false;" >Sir Francis</a></span> <br/>
+					<span class="odate time_1585292037 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 Mar 2020 06:53</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372503 format_%28%25O%20%25A%29">28 Jun 2020 19:28</span>
+							<a href="../../t-13185049/error-in-paladin-spell-list#post-4703479">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13170573/fighter-subclass-banneret-is-not-official-not-tagged-and-sho">Fighter subclass &quot;Banneret&quot; is not official, not tagged, and should be removed?</a><br/>
+					</div>
+					<div class="description">
+						Fighter subclass &quot;Banneret&quot; is not official and not tagged and should be removed?
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/red74pure" onclick="WIKIDOT.page.listeners.userInfo(5924239); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=5924239&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Red74pure" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5924239)"/></a><a href="http://www.wikidot.com/user:info/red74pure" onclick="WIKIDOT.page.listeners.userInfo(5924239); return false;" >Red74pure</a></span> <br/>
+					<span class="odate time_1584832729 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">21 Mar 2020 23:18</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372311 format_%28%25O%20%25A%29">28 Jun 2020 19:25</span>
+							<a href="../../t-13170573/fighter-subclass-banneret-is-not-official-not-tagged-and-sho#post-4703477">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13215997/error-in-tabaxi-page">Error in Tabaxi page</a><br/>
+					</div>
+					<div class="description">
+						Wrong walking speed listed
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser deleted" data-id="6304680"><img class="small" src="http://www.wikidot.com/common--images/avatars/default/a16.png" alt=""/>(account deleted)</span> <br/>
+					<span class="odate time_1586170948 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">06 Apr 2020 11:02</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1593372197 format_%28%25O%20%25A%29">28 Jun 2020 19:23</span>
+							<a href="../../t-13215997/error-in-tabaxi-page#post-4703474">Jump!</a>
+															</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13437822/wotc-matthew-mercer-homebrew-lingering-soul">WOTC Matthew Mercer homebrew Lingering Soul</a><br/>
+					</div>
+					<div class="description">
+						Wondering if the class should be added?
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/keegan-taylor" onclick="WIKIDOT.page.listeners.userInfo(6536056); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6536056&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Keegan Taylor" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6536056)"/></a><a href="http://www.wikidot.com/user:info/keegan-taylor" onclick="WIKIDOT.page.listeners.userInfo(6536056); return false;" >Keegan Taylor</a></span> <br/>
+					<span class="odate time_1592499851 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">18 Jun 2020 17:04</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13273454/life-transference">Life  Transference</a><br/>
+					</div>
+					<div class="description">
+						Life  Transference hasn&#039;t anything written on it
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ramias" onclick="WIKIDOT.page.listeners.userInfo(6381932); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6381932&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="ramias" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6381932)"/></a><a href="http://www.wikidot.com/user:info/ramias" onclick="WIKIDOT.page.listeners.userInfo(6381932); return false;" >ramias</a></span> <br/>
+					<span class="odate time_1588022304 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">27 Apr 2020 21:18</span>
+				</td>
+				<td class="posts">
+					1
+				</td>
+				<td class="last">
+											&nbsp;
+									</td>
+			</tr>
+					<tr class="">
+				<td class="name">
+					<div class="title">
+												<a href="../../t-13010884/error-in-the-druid-2nd-level-animal-messenger-spell">Error in the druid 2nd level &quot;Animal messenger&quot; spell.</a><br/>
+					</div>
+					<div class="description">
+						
+					</div>
+				</td>
+				<td class="started">
+					by: <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/david-marcil" onclick="WIKIDOT.page.listeners.userInfo(6089224); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089224&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="David Marcil" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089224)"/></a><a href="http://www.wikidot.com/user:info/david-marcil" onclick="WIKIDOT.page.listeners.userInfo(6089224); return false;" >David Marcil</a></span> <br/>
+					<span class="odate time_1580845698 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">04 Feb 2020 19:48</span>
+				</td>
+				<td class="posts">
+					2
+				</td>
+				<td class="last">
+																								by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=6089401&amp;amp;size=small&amp;amp;timestamp=1720132786" alt="Skyao" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6089401)"/></a><a href="http://www.wikidot.com/user:info/skyao" onclick="WIKIDOT.page.listeners.userInfo(6089401); return false;" >Skyao</a></span><br/>
+							<span class="odate time_1582311079 format_%28%25O%20%25A%29">21 Feb 2020 18:51</span>
+							<a href="../../t-13010884/error-in-the-druid-2nd-level-animal-messenger-spell#post-4511147">Jump!</a>
+															</td>
+			</tr>
+			</table>
+	
+			<div class="pager"><span class="pager-no">page 52 of 53</span><span class="target"><a href="51">&laquo; previous</a></span><span class="target"><a href="1">1</a></span><span class="target"><a href="2">2</a></span><span class="dots">...</span><span class="target"><a href="50">50</a></span><span class="target"><a href="51">51</a></span><span class="current">52</span><span class="target"><a href="53">53</a></span><span class="target"><a href="53">next &raquo;</a></span></div>
+		
+</div></div>
+
+
+
+
+
+
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://tibasicdev.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/tibasicdev.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://tibasicdev.wikidot.com">TI-Basic Developer</a></h3>
+            <div class="desc">          
+              The TI-Basic Information Repository
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scp-channel-cn.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-channel-cn.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scp-channel-cn.wikidot.com">SCP中文频道</a></h3>
+            <div class="desc">          
+              开放，包容，前进
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://mathaerobics4samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/mathaerobics4samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://mathaerobics4samvedna.wikidot.com">Math Aerobics</a></h3>
+            <div class="desc">          
+              ADIDAS - All Day I Dream About Sums..!!
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://blank-template.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/blank-template.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://blank-template.wikidot.com">Blank Template</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

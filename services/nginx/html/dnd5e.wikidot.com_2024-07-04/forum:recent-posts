@@ -1,0 +1,3122 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Recent Forum Posts - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887289;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "forum:recent-posts";
+        OZONE.request.timestamp = 1720132619;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "forum:recent-posts";
+        WIKIREQUEST.info.pageId = 48865948;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/forum/ForumRecentPostsModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./forum:recent-posts#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./forum:recent-posts#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Recent Forum Posts</span></div>
+          
+          
+
+
+
+<div id="page-content">
+
+<div class="forum-recent-posts-box" >
+	<form onsubmit="return false;" action="http://dnd5e.wikidot.com/dummy.html" method="get">
+		<table class="form">
+			<tr>
+				<td>
+					From categories: 
+				</td>
+				<td>
+					<select id="recent-posts-category">
+						<option value="" selected="selected">All categories</option>
+													<option value="2177751">Community: Open Topic</option>
+											</select>
+					<input class="buttons btn btn-primary" type="button" value="Update" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList()"/>
+				</td>
+			</tr>
+		</table>
+	</form>
+
+	<div id="forum-recent-posts-list">
+		
+
+<div id="recent-posts-container">
+    <div class="pager"><span class="pager-no">page 1</span><span class="current">1</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(2)">2</a></span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(3)">3</a></span><span class="dots">...</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(2)">next &raquo;</a></span></div>
+
+    <div class="thread-container">
+                      
+		<div class="post" id="post-6538664">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6538664">
+																	<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po#post-6538664">NovAtel Waypoint Inertial Explorer v9.0</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1718275884 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">13 Jun 2024 10:51</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po">ππ√+2348162236155..📢..JOIN OCCULT FOR MONEY 💰 PO</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6538664">
+									
+
+<p>Torrent download ICAMPost v22 Trimble Inpho UASMaster v14 OptiFDTD v15 Simplant Pro v18.5 Materialise.3-matic v18<br />
+<span style="text-decoration: line-through;">-</span>minidown#mail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+GuideMia v4.8<br />
+AEGIS v0.19.65.505<br />
+Amberg Tunnel v2.22<br />
+AnyBody Modeling System v8.0.1 x64<br />
+ASAP v2020<br />
+AGI Systems Tool Kit (STK) 2023 x64<br />
+aprinter v2016<br />
+Amada AP100 v7.0<br />
+Aldec Active-HDL v10.4.183.6396<br />
+Anylogic pro v8.9 x64<br />
+aspenONE v14.1<br />
+ATP-EMTP v6.1<br />
+ATK.Magic.Tool.Suite v7.43.Win<br />
+Attributestudio VVA 2020<br />
+AutoForm Plus R11&#160;11.0.0.6 Win64<br />
+BobCAD-CAM v36 x64<br />
+BAE ShipWeight Enterprise 13.0 x64<br />
+bysoft v7.2.0.1<br />
+BR&amp;E Promax 6.0 x64<br />
+CAESAR 2024<br />
+CYMCAP 9.0<br />
+CLC Genomics Workbench 23.0.5<br />
+cgg geovation v2016<br />
+CMG Suite v2024<br />
+codeV 2023<br />
+Concept StarVision v7.0<br />
+c-tech evs2023<br />
+Certainty3D TopoDOT 2024<br />
+Coventor MEMS+ 4.0<br />
+Coventor SEMulator3D v9.3<br />
+Coventor.CoventorWare.2016.v10.1.Win<br />
+Crystal Prod 2022<br />
+crystal specman thinman v2015.1<br />
+Crosslight APSYS 2021 x64<br />
+CrossLight Pics3D v2020 x64<br />
+Datamine Discover v2023<br />
+Datamine datablast 2.2.3.8 x64<br />
+DATAM COPRA RF v2013<br />
+DATEM Summit Evolution v7.7&#160;2020<br />
+DesignBuilder v7.0.0.084<br />
+Depth Insight v2015<br />
+Deswik.Suite v2024 x64<br />
+DHI Mike zero 2023<br />
+DHI FEFLOW 2023 v8.1<br />
+DNV Sesam 2022 x64<br />
+DNV Phast &amp; Safeti v9.0.73.0 With KFX v4.0.10 Win64<br />
+DDS FEMtools v5.0<br />
+DIgSILENT PowerFactory 2022<br />
+Dionisos v4.2<br />
+Drillnet v2.0.3<br />
+drillbench v2016.1.1<br />
+Dynel 2D Dynel 3D<br />
+Dyadem PHA-Pro 8.13<br />
+eFilm Workstation v4.2<br />
+ERDAS IMAGINE 2023<br />
+ERDAS ORIMA 2022<br />
+Earthimager2d3d ZondRes2d Res2Dinv<br />
+EMTP4.3.12<br />
+Ensoft suite v2024<br />
+Encom ModelVision v17.0<br />
+Tensor Research ModelVision v17.5<br />
+Earth Volumetric Studio v2023<br />
+Envirosim BioWin 6.2.11<br />
+Engineered Software PIPE-FLO Pro v19.0.3747<br />
+epoffice v2023<br />
+EFI Fiery v7.0<br />
+Etap.PowerStation.v23<br />
+ETA Inventium PreSys 2020R1 x64<br />
+Exa PowerFlow 2019<br />
+Fabricator v2013<br />
+FlexiSIGN &amp; PRINT v12.2<br />
+FlexScan3D v3.3.22.12<br />
+FracMan v8.0<br />
+forward.net v3.0&#160;2019<br />
+Forsk Atoll v3.4.1 x64<br />
+flownex SE 2020 v8.11<br />
+Frontline Excel Solver v2023.3<br />
+Fracpro v2022<br />
+GC-PowerStation v23.1.8<br />
+GE.GateCycle.v6.14<br />
+Geneious Prime v2023<br />
+GEOSLOPE GeoStudio 2024<br />
+Geochemist Workbench v11.0.8<br />
+Geomodeling VVA AttributeStudio 9.1<br />
+Geographix GeoGraphix discovery 2022<br />
+Geosyn v2016.1<br />
+GeoSLAM hub 6.2<br />
+Paradigm Geolog 2022<br />
+GeoMap v4.0<br />
+GEO5 v2022<br />
+MineSched Surpac v2024<br />
+GEOVIA MineSched v2024<br />
+GeoModeller2023 v4.2.2 x64<br />
+GeoTeric SVI 2023<br />
+GOHFER v9.5.0<br />
+GOGEO FracPredictor v2014<br />
+Green Hills MULTI for MIPS v4.2.1<br />
+Green Mountain mesa v16.3<br />
+Gxplorer v2024<br />
+Hampson Russell Suite 13<br />
+HONEYWELL.UniSim.Design.Suite.R492<br />
+Hydromantis.GPS-X.v8.0.1 Win<br />
+HydroComp NavCad v2021<br />
+HTRI Xchanger Suite v9.0<br />
+HYPACK 2022<br />
+IMST Empire XPU v8.1.1<br />
+Interactive Petrophysics 5.3<br />
+Innovyze InfoWorks ICM 2023 x64<br />
+IBM Rational SDL and TTCN Suite v6.3<br />
+IBM Rational DOORs 9.6.1.11<br />
+Icaros IPS v4.2<br />
+ICAMPost v22<br />
+IGI ParCAM v8.82<br />
+IHS Petra 2021 v3.15.2<br />
+IHS Kingdom Suite SMT 2023<br />
+IHS Harmony 2021<br />
+IHS welltest 2019<br />
+InterWell v2019.1<br />
+IHS QUE$TOR 2023 Q1<br />
+Insight Earth v3.5 x64<br />
+Intergraph PVElite 2024<br />
+Itasca Griddle 2.00.12<br />
+Itasca UDEC v7.00.50 x64<br />
+Jason WorkBench 12<br />
+JewelSuite Subsurface Modeling v2022<br />
+JETCAM EXPERT V15.6<br />
+justcgm v5.1<br />
+Kappa Workstation v5.5<br />
+KBC Petro-SIM 7.2<br />
+Lantek Expert v28<br />
+Leapfrog Geo v2023<br />
+Leica Cyclone 3dr v2024 x64<br />
+Landmark DecisionSpace Geosciences 10.5<br />
+Landmark EDT 5000.17.2<br />
+LDRA TestBed v9.4.1<br />
+Lead v4.0<br />
+Lighttools v2023<br />
+linkmaster v3.0.84<br />
+LucidShape v2022<br />
+MagiCAD v2018<br />
+MapMatrix v4.2<br />
+Maptek vulcan 2023<br />
+Maptek I-Site Studio 7.0.5<br />
+Materialise Mimics 26<br />
+Materialise.3-matic v18 x64<br />
+Materialise e-Stage v7.3 x64<br />
+Materialise SimPlant O&amp;O v3.0<br />
+MicroSurvey FieldGenius v11.0.2<br />
+MagneForce v5.1<br />
+MAX PAC NREC 2023.0.7<br />
+Meyer v2019<br />
+MEMRESEARCH EM3DS V2010&#160;11.0<br />
+MESA Expert v16.3<br />
+MindCAD 2D&amp;3D v2022<br />
+Mician uWave Wizard 2020 v9.0<br />
+MineSight MinePlan 16.0.3<br />
+midas xd v5.0<br />
+Motorcad v12.2.5<br />
+MVTec HALCON 22<br />
+NovAtel Waypoint Inertial Explorer v9.0<br />
+Napa v2020<br />
+norsar v2023<br />
+Neuralog Desktop 2021.12<br />
+Oasys.Suite 19.0 x64<br />
+OMNI 3D v2021 x64<br />
+OpendTect v7.0<br />
+Optima Opty-way CAD v7.4<br />
+openflow v2023<br />
+Optisystem v21 x64<br />
+Optispice v5.3.1 x64<br />
+OptiBPM v13.0 x64<br />
+Optiwave OptiFDTD v15.0 x64<br />
+orcaflex v11.4<br />
+ORA CODEV 2023<br />
+Optimal.Solutions.Sculptor.v3.0<br />
+Optenni Lab v4.3 x64<br />
+PaleoScan v2023<br />
+Palisade Decision Tools Suite v8.5<br />
+Paulin Research Group 2019<br />
+Paradigm Geolog 2022<br />
+Paradigm Epos v2022<br />
+Paradigm Sysdrill v11<br />
+PC-DMIS v2023<br />
+petrosys v2019.3<br />
+PerGeos v2022<br />
+petra v4.0.11<br />
+Petroleum Experts IPM v12.5<br />
+PLS-CADD v16.8<br />
+PHOTOMOD v5.21<br />
+photomesh v7.4<br />
+PhotoModeler Scanner &amp; Motion v2016<br />
+Pinnacle stimpro v2022<br />
+Pipe Flow Expert v8.16.1.1<br />
+Pix4D matic 1.54.3<br />
+PLEXOS 9.0 x64<br />
+pointCab 4Revit 1.5.0 x64<br />
+pointCab Origins 4.0 R8<br />
+Polar.Instruments.Si8000.2016.v16.05<br />
+Polar.Instruments.Si9000.2016.v16.05<br />
+Polar.Instruments.Speedstack.2016.v16.01<br />
+PVTsim Nova v6.0 x64<br />
+PSS E v35.5<br />
+PSCAD v5<br />
+PSDTO3D v9.9<br />
+PVsyst v7.0<br />
+Radimpex tower7 v7.5.20<br />
+Remcom Wireless InSite 3.3.1 x64<br />
+ReflexW v10.4<br />
+rhapsody v9.0<br />
+RISA-3D v18.0 x64<br />
+Riegl RiSCAN Pro v2.14&#160;64bit<br />
+Romax Designer R20<br />
+Roxar RMS v13.1<br />
+RokDoc.2023.1<br />
+RSoft 2023<br />
+SCADE Suite R17.3<br />
+Schlumberger ECLIPSE v2023 Win64<br />
+Schlumberger Petrel v2024 Win64<br />
+Schlumberger.PIPESIM v2023.1 x64<br />
+Schlumberger OFM v2022.1<br />
+Schlumberger OLGA 2020 x64<br />
+Schlumberger petromod v2023 x64<br />
+Schlumberger Techlog v2023.1<br />
+Senergy Interactive Petrophysics v5.1<br />
+Secure Hydraulics v2011<br />
+SegdToolbox v1.2<br />
+sendra v2015.2<br />
+SES CDEGS v18<br />
+sheetworks V22<br />
+SeisMod 4 SIMO4.2<br />
+Shipconstructor 2023 Win64<br />
+shoemaster v2019<br />
+Sherlock v7.212 +Inspect<br />
+SimSci PROII v10.2 Win64<br />
+Simulation admet predictor v9.0<br />
+SKM PowerTools v10<br />
+SNT.QualNet.Developer.6.1.Win<br />
+SolidPlant 3D v2020<br />
+SOCET SET v5.6<br />
+SPT wellflo v8.3<br />
+socet GXP v4.3<br />
+SPEAG.SEMCAD.X.Matterhorn.20.0 x64<br />
+Stoner Pipeline Simulator(SPS) v10.7<br />
+Structure Studios VIP3D Suite v2.511 x64<br />
+tebis v4.1R5sp3<br />
+TechWiz LCD 3D v16<br />
+Tempest 2021.1<br />
+Tesseral Pro v5.2.1<br />
+Testif-i v2.07a<br />
+Thermo Scientific Open Inventor Toolkit 10.9.3<br />
+TomoPlus v5.9 linux<br />
+tomodel v8.0<br />
+tNavigator v2023.4<br />
+TICRA Tools 20.0<br />
+TRC Phdwin v2.10<br />
+Trimble EdgeWise v5.1<br />
+Trimble Business Center(TBC) v2023.11<br />
+Trimble RealWorks 2024<br />
+Trimble Inpho Photogrammetry v14 Win64<br />
+Trimble Inpho UASMaster v14 x64<br />
+Trimble Vico Office R6.8<br />
+Ucamco Ucamx v2023<br />
+UBC-GIF 6.0<br />
+vxworks v7<br />
+Virtual Surveyor 9.1<br />
+vpi transmission maker v11.4<br />
+Waterloo AquiferTest Pro 12.0 x64<br />
+Waterloo Visual MODFLOW Flex v10<br />
+WellFlo 6.9<br />
+wellcad v5.5 x64<br />
+whittle 2022<br />
+winglink 2.3.01<br />
+zemax opticstudio v2024<br />
+_<br />
+study</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6538664" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >NovAtel Waypoint Inertial Explorer v9.0</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1718275884 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">13 Jun 2024 10:51</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6538256">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6538256">
+																	<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po#post-6538256">Landmark DSG 10esp5.1.00</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1718207760 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Jun 2024 15:56</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po">ππ√+2348162236155..📢..JOIN OCCULT FOR MONEY 💰 PO</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6538256">
+									
+
+<p>fortest_PC.tool.X86.X64 pointCab 4Revit 1.5.0 x64 Geneious Prime v2023.2.1 AVEVA point cloud manager 5.5.1.0 x64<br />
+<span style="text-decoration: line-through;">-</span>allensam28#mail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+Synopsys TCAD Sentaurus Lithography PWA vD-2009.12 Linux64 &amp; Win<br />
+Structural Vibration Solutions DEWESoft ARTeMIS OMA v7.2.2.1<br />
+Structural Vibration Solutions DEWESoft ARTeMIS Modal Pro v7.2.2.4 Win64<br />
+Aquaveo Groundwater Modeling System Premium v10.7.6 Win64<br />
+Aquaveo Watershed Modeling System v11.2.4 Win64<br />
+CATIA Composer Refresh1 R2024 Win64<br />
+Itasca.PFC 2d v9.0<br />
+Itasca.PFC 3d v9.0<br />
+CGTech VERICUT v9.3.0 Win64<br />
+landmark drillworks 20.0.0<br />
+RUNET software cgFLOAT v15.02.2023<br />
+RUNET software Steel Sections EC3 v16.08.2023<br />
+RUNET software frame2Dexpress v16.08.2023<br />
+CSI SAFE 21.1.0.2330 Win64<br />
+tebis v4.1R5sp3<br />
+Bureau Veritas VeriSTAR Stability 2.1.2489<br />
+Bureau Veritas VeriSTAR Homer 1.4.4.24 x86x64<br />
+RUNET software Eurocode express v16.08.2023<br />
+RUNET software Steel Portal Frame EC3 v17.07.2023<br />
+Ansys Electronics 2022 R2 Linux64<br />
+Cimatron 2024<br />
+SAOR4.5<br />
+CSI.ETABS.v21.1.0.3261.Win64<br />
+CST Studio Suite 2022 Linux64<br />
+Fitec Schemaplic v7.6.1151.0<br />
+RUNET software Steel Portal Frame EC3 v17.07.2023<br />
+ZWCAD Architecture 2024 SP0 Win64<br />
+ZWCAD Professional 2024 SP0 Build 05.11.2023 Win64<br />
+Altair Flow Simulator 2022.3.0 Win64<br />
+Keysight PathWave Advanced Design System (ADS) 2024 Win64 &amp; Linux64<br />
+ProShake 2.0<br />
+RUNET software STEELexpress version 17.07.2023<br />
+RUNET software WOODexpress version 17.07.2023<br />
+Applied Imagery Quick Terrain Modeller v8.4.1 build 82879 USA Edition Win64<br />
+Cadcorp Suite 2023 Win64<br />
+RUNET.BETONexpress.24.07.2023<br />
+IDEA STATICA v21.1.4<br />
+Descon v8.0.2.287<br />
+Sivan.Design.CivilCAD.v10.4<br />
+Geomagic Control X 2022.1.0.70 Win64<br />
+CIMCO Edit 2023&#160;23.01.10 Win64<br />
+ESI.VAOne.2023.0.Win64.&amp;.Linux64<br />
+Hexagon.Vero.VISI.2023.1<br />
+Thunderhead.PyroSim.2023.1<br />
+ShipFlow v6.3<br />
+Approximatrix.Simply.Fortran.v3.31.3974.Win64<br />
+Approximatrix.Simply.Fortran.v3.31.3974.MacOS.x64<br />
+Approximatrix.Simply.Fortran.v3.31.3974.Linux.Debian.ARM64<br />
+Kameleon FireEx KFX 3.4.9<br />
+EIVA NaviSuite Beka NaviCat v4.6<br />
+EIVA NaviSuite Beka NaviPac v4.6.2<br />
+EIVA NaviSuite Mobula Core (Blue Robotics) v4.7.2<br />
+EIVA NaviSuite Mobula Pro (Blue Robotics) v4.7.2<br />
+EIVA NaviSuite Mobula Sonar (Blue Robotics) v4.7.2<br />
+EIVA NaviSuite NaviEdit v8.7.2<br />
+EIVA NaviSuite NaviScan v9.7.6<br />
+EIVA NaviSuite QC Toolbox v4.6.1<br />
+gPROMS ModelBuilder v7.1.1<br />
+Approximatrix.Simply.Fortran.v3.30.3966<br />
+Haiwell Cloud SCADA 3.36.9.8<br />
+Orcina.OrcaFlex.2019.v11.0a.Win64<br />
+Graitec.Gest.2024.0<br />
+Esri CityEngine 2023.0.8905 Win64<br />
+NCG CAM v19.0.4 Multilingual Win64<br />
+PROCAD 2D Plus 2024.0<br />
+dprowin 6<br />
+WinSim.DESIGN.II.v16.17<br />
+CABINET VISION 2023.2 x64<br />
+Zuken E3.series 2023 Build 24.00 Win64<br />
+NovAtel Waypoint Inertial Explorer v8.9.8520<br />
+Cadense.FIDELITY.2023.1<br />
+Autodesk InfoWorks ICM 2023.0 Ultimate Win64<br />
+Cadence Midas Safety Platform v23.03.002<br />
+Moment of Inspiration(MoI3D) v5.0<br />
+Chaos Corona 10 Hotfix 1 for 3DS Max 2016 - 2024<br />
+STM32CubeMX 6.9.0<br />
+STM32CubeProgrammer 2.14.0<br />
+iTwin Analytical Synchronizer 2023 Update 1 v23.01.00.119<br />
+Mentor Graphics PowerPro PowerPro 2022.1.1 Linux<br />
+DNV Sesam GeniE v8.7-01 Win64<br />
+GPTMap 2.6<br />
+Leica.Hexagon.HxMap.v4.3.0.Win64<br />
+FRED 11.12.0<br />
+Cadence 6SigmaDCX DataCenter Design Pro 2023.2<br />
+CIMCO Edit 2023&#160;23.01.08 Win64<br />
+GEO-SLOPE GeoStudio 2024<br />
+CGE Risk Management Solutions Wolters Kluwer BowTieXP AuditXP &amp; IncidentXP v12.0.0<br />
+Materialise Magics 27.0<br />
+Buhodra Ingenieria ISTRAM.ISPOL.v23.05.05.29<br />
+CAE Datamine Supervisor v8.15.0.3<br />
+Etap.PowerStation.v23.0<br />
+PTC.Creo.Schematics.10.0.0.0.Win64<br />
+Deep Excavation DeepFND Premium 2020<br />
+Deep Excavation Trench v2019<br />
+HydroComp PropCad v2018<br />
+Hexagon MSC Easy5&#160;2023.1 Win64<br />
+Hexagon MSC Digimat-CAE Moldex3D 2023.1 Win64<br />
+Hexagon MSC Digimat 2023.1 Win64<br />
+PLEXOS 9.0 x64<br />
+Schlumberger Waterloo Hydrogeologic Visual MODFLOW Flex v9.0 Build 9.0.412.45223 Win64<br />
+Cadence Virtuoso, Release Version ICADVM 20.1 ISR19 (20.10.190) Hotfix Only Linux<br />
+Deep Excavation HelixPile v2020<br />
+SIMetrix SIMPLIS Elite with DVM and Verilog for SIMPLIS R8.4 Win64<br />
+HONEYWELL UniSim Design Suite R492 (Build 24214 Release)<br />
+HTRI Xchanger Suite v9.0<br />
+Synopsys Tweaker vS-2021.06 SP5 Linux<br />
+CIMCO Edit 2023&#160;23.01.02 Win64<br />
+Plexim PLECS Standalone 4.7.5 Win64<br />
+Synopsys Fusion Compiler vT-2022.03 SP3 Linux<br />
+Cimatron 2024<br />
+Graitec ArchiWizard 2024.0 v12.0.0 Multilingual Win64<br />
+MITCalc 2.02 Win64<br />
+Trimble.Novapoint.2023.2.build.4293<br />
+Schlumberger (ex. Softbits) Flaresim 2023.2<br />
+CSI.Bridge.Advanced.with.Rating.v25.0.0.2331.Win64<br />
+Mestrelab Research Mnova (MestReNova) 14.3.1 Build 31739 Win64<br />
+CSI.SAP2000.v25.0.0.2334 Win64<br />
+Extreme Loading for Structures ELS 8.0 x64<br />
+Aquaveo Watershed Modeling System(WMS) v11.2.3 Full Win64<br />
+Cadence Xcelium Logic Simulator 23.03.002 Hotfix Linux<br />
+Cadence.SPECTRE.23.10.063.Linux<br />
+Graitec (ex. Arktec) Tricalc 2024.0 build 2023.06.27</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6538256" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Landmark DSG 10esp5.1.00</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1718207760 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Jun 2024 15:56</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6538254">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6538254">
+																	<a href="forum/t-16372347/windhoek-namibia-lost-love-spells-27780802727-reveal-ultimat#post-6538254">TICRA Tools 20.0</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1718207693 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Jun 2024 15:54</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16372347/windhoek-namibia-lost-love-spells-27780802727-reveal-ultimat">Windhoek Namibia Lost Love Spells +27780802727 Reveal Ultimate marriages Powers Tirana Albania USA</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6538254">
+									
+
+<p>ENGINEERING SOFTWARE'S SOLUTION'___PC.test DyRoBeS 22.00 Cadfil v2021 winglink 2.3.01 Avontus Scaffold designer 2021<br />
+<span style="text-decoration: line-through;">-</span>Sunsam28#yandex.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+DSD 5000.10.03&#160;5000.10.04 linux<br />
+Design-Expert v8.0.7.1<br />
+DVN Sima v4.2<br />
+3DFlow 3DF Zephyr Pro 1.012 Win64<br />
+3Muri v10<br />
+Arqcom.CAD-Earth.v4.1.7<br />
+Batch Plot DWG 2.4<br />
+CADSWES.RiverWare.v6.6.6.Win32_64<br />
+CATIA V5-6R2015 SP2 Win32_64<br />
+GSolver v5.2<br />
+Itasca.FLAC3D v9.0<br />
+Weise.Project.Manager.2022.0.0.7<br />
+Calsep PVTsim Nova v6.0<br />
+ArcGIS Pro v2.9.3<br />
+WindPRO 3.5<br />
+GLOBE Claritas v7.2.1<br />
+Weise Fluchtplan 2022.0.0.17<br />
+INDUCTA Products Suite 2022<br />
+Rhinoceros 7.18.22124.03001 Win64<br />
+Softree TerrainTools9 v9.0.463<br />
+Riegl Riprocess v1.9.2<br />
+Synopsys Verdi vR-2020.12 SP1 Linux64<br />
+Delcam Crispin ShoeMaker 2015 R2 SP5<br />
+Delcam Exchange 2016 Win64<br />
+Delcam_Crispin_Engineer_2015_R1_SP4<br />
+PetroMod 2023<br />
+DevCad Cam Pro 3.01b<br />
+OkMap 17.4.0 Win64<br />
+3dec v9.0<br />
+FLAC2D v9.0<br />
+FLAC3D v9.0<br />
+Massflow v9.0<br />
+KISSsoft 2022 SP4 Update Only Win64<br />
+NI Circuit Design Suite 14.3 Win64<br />
+OkMap Desktop 17.8.1 Win64<br />
+CHAMP 3.1.1<br />
+CSI.CSiXCAD.v19.1.0.0148<br />
+Proteus Professional 8.13 SP0 Build 31525<br />
+DevCad.Cam Pro v1.11a+DevFus.Cam v2.00a+DevFus.Foam v1.03<br />
+Geometric.GeomCaliper.2.8.1.Creo.4.0-8.0.Win64<br />
+B&amp;B-Agema.TDT2.TherModynamics.Design.Tool.2021.v2.14<br />
+ProtaStructure.Suite.Enterprise.2021.v5.1.255<br />
+Altair.Inspire.Extrude.2021.2.1.Win64<br />
+CAE Datamine Supervisor 8.15.0.2<br />
+Microwind v3.8.1.1<br />
+ESTECO modeFRONTIER 2020 R3 Win64<br />
+Mentor Graphics HyperLynx VX.2.10 Win64<br />
+ProtaStructure.Suite.Enterprise.2021.v5.1.252<br />
+Cadlink Signlab v9.1<br />
+smi4.5<br />
+Agilent Genesys v2014.03 x64<br />
+ArcGIS Server v10.1 for Linux<br />
+ArcGIS for Desktop v10.2.2<br />
+Atmel Studio 6.2 SP1<br />
+Actix.Analyzer.v5.1.314.242<br />
+Altair HyperWorks Desktop v13.0.110 Win64Linux64<br />
+Altium.Designer.V16.0.5.build271<br />
+Atmel Studio v6.2 SP2<br />
+Oasys.Pile.v19.8.5.0<br />
+Oasys.PDisp.v20.1.0.4.Win64<br />
+FlyProber v3.5<br />
+Roxar Tempest 2021.2.1 Win64<br />
+Virtual Surveyor 9.1<br />
+Leica MissionPro 12.11.0<br />
+Oasys.GSA.v10.1.60.42.Win64<br />
+ANSYS EMA3D Cable/Charge 2022 R1 Win64<br />
+Oasys.MassMotion.v11.0.12.0<br />
+Mastercam 2023 v25.0.15198.0 Win64<br />
+PSS Sincal 18.5<br />
+ARM Development Studio 2022.1 (build 202210907) Gold Edition Linux64<br />
+midas NFX 2022 R1 Build 2022.05.31 Multilingual Win64<br />
+ADT(Analog Designer's Toolbox) v1.1.8 Windows &amp; Linux<br />
+CIMCO Edit 2022&#160;22.1.22.0 Win64<br />
+Cadence Sigrity Suite 2022.10.200 Win64<br />
+EMTP4.3.12<br />
+Autodesk.Robot.Structural.Analysis.Pro.2023.0.1.Win64<br />
+Enscape 3.4.0 Build 84039<br />
+Graitec.OMD.2023<br />
+Ansys Products 2023 R1 Win64<br />
+DNV KFX v4.0<br />
+Blue Marble Geographic Calculator 2023 build 1105 Win64<br />
+Kongsberg LedaFlow Engineering v2.9<br />
+Cadence Fidelity 22.20.000 Linux<br />
+Cadence Fidelity Pointwise 22.10.002 Linux<br />
+Cadence Finemarine 10.02.001 Linux<br />
+F.I.R.S.T. Conval v11.3.0.1060<br />
+petromod v2023<br />
+3Dec 9.0<br />
+3dreshaper2023<br />
+Acca Edilus 43.00B<br />
+Adapt-Builder 2019.2<br />
+Adaptrade Builder 4.0.1<br />
+Alarmcad Professional 2021 V10.3.1<br />
+Alteryx Intelligence Suite 2021.1<br />
+GH Bladed v4.8<br />
+Ametank v15.2.16<br />
+Cimatron 2024<br />
+Anylogic Professional 8.7.11<br />
+Blue Marble Geographic Calculator 2023 Build 1172 Win64<br />
+Synopsys Verdi vT-2022.06 Linux32_64<br />
+CARIS HIPS and SIPS v11.4.15<br />
+Midas Gen 2021 v3.1 Win64<br />
+Nevercenter Silo 2023.1 Pro Win64<br />
+Schrodinger Suite 2023-1 Win64<br />
+Feldmann.Weynand.CoP2.Pro.v3.0.2<br />
+DeltaTech.Runoff.Lab.2018.0.20.266<br />
+GT Suite 2022<br />
+Geostru Easy HVSR v2022.26.4<br />
+StruSoft.FEM-Design.Suite.v22.00.001<br />
+Borland JBuilder X Enterprise 10.0.176.0<br />
+Borland JBuilder v9.0 Enterprise<br />
+Quantumwise Atomistix.Toolkit.v11.8.2<br />
+LimitState GEO 3.6.1 Build 26217 Win64<br />
+OptiNest Pro-Plus 2.32g<br />
+ESSS Rocky DEM 23.1.0 Win64<br />
+Weise Suite 2023<br />
+nTopology 3.40.2<br />
+CADware Engineering 3D Space ProfLT v14.0.0.51 Win64<br />
+CADware Engineering 3D Space TopoLT v14.0.0.51 Win64<br />
+OptiCut Pro-PP-Drillings 6.04f<br />
+Kesight Network Analyzer 2022<br />
+PROKON v5.0.02 build 06.07.2022<br />
+Rockware RockWorks 2022.07.28 Win64<br />
+IHS QUE$TOR 2023<br />
+Synopsys IC Compiler II (ICC2) vP-2019.03 SP1 Linux64<br />
+Zuken E3 series 2021 SP2 v22.20.0.0 Win64<br />
+ZwSoft ZWMeshWorks 2022 SP2 Win64<br />
+ZwSoft ZWSim 2022 SP2 Win64<br />
+ZwSoft ZWSim Electromagnetic 2022 SP2 Win64<br />
+ZwSoft ZWSim Structural 2022 Sp2 Win64<br />
+AVEVA.Marine.v12.1.SP5.26<br />
+CSI.ETABS.v20.3.0.2929.Win64<br />
+CYME CYMCAP v8.1 rev. 3 Build 88<br />
+Oasys.GSA.v10.1.59.30<br />
+Oasys.Greta.v19.3.5.0<br />
+AGI Systems Tool Kit (STK)STK12.6<br />
+CST STUDIO SUITE 2022.05 SP5 Win64<br />
+DraftSight Enterprise 2022 SP0 Win64<br />
+3Dsurvey 2.15.2 Win64<br />
+GeoScope v3.7<br />
+RevScope v3.7<br />
+MescopeNXT 23.0<br />
+Simufact.Additive.4.0<br />
+Aquaveo Watershed Modeling System 11.1.9 Win64<br />
+Oasys.Compos.v8.6.0.3<br />
+forward.net 3.0<br />
+Acoustics Engineering Sabin 3.0.76<br />
+Molsoft.ICM-Pro.v3.8-3<br />
+Tesseral Pro v5.2.1<br />
+Cadence.Pcell.PAS.v3.1.Linux<br />
+SPEOS v2022<br />
+Global Mapper 21.0 x64<br />
+Siemens.NX.1851.Win64<br />
+Hexagon ERDAS IMAGINE 2022 v16.7.0.1216<br />
+SeismoSoft Seismo Suite 2022.1.10<br />
+PackEdge-Plaot 18.1<br />
+DyRoBeS 22.00</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6538254" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >TICRA Tools 20.0</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1718207693 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 Jun 2024 15:54</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6537733">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6537733">
+																	<a href="forum/t-16372347/windhoek-namibia-lost-love-spells-27780802727-reveal-ultimat#post-6537733">I Need An Urgent Effective Spell Caster +27786988200</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/rick-kemp" onclick="WIKIDOT.page.listeners.userInfo(9170205); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9170205&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="rick kemp" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9170205)"/></a><a href="http://www.wikidot.com/user:info/rick-kemp" onclick="WIKIDOT.page.listeners.userInfo(9170205); return false;" >rick kemp</a></span> <span class="odate time_1718119817 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">11 Jun 2024 15:30</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16372347/windhoek-namibia-lost-love-spells-27780802727-reveal-ultimat">Windhoek Namibia Lost Love Spells +27780802727 Reveal Ultimate marriages Powers Tirana Albania USA</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6537733">
+									
+
+<p>I lost my marriage and beautiful home wrecked by unhappiness seeing my wife walk away over the lies she was fed with and insecurities which were never true. I vowed from the beginning never to be a cheat and stood my ground to ensure I built a happy home but unfortunately she never trusted me enough. I wandered for months trying to get her back and sought help from various sources including her family intervention but never yielded success. I came in contact with Dr Ogiso who I doubted at the earlier stage when i got in contact with . I had to keep hope alive and complied with the procedures just the way he explained everything to me. He assured me of her return which happened after 24 hours of the binding love spell and i am yet to find words to express how happy and appreciative i am, knowing my son and I have his mom back home to us. I am telling everyone about Dr Ogiso and his kind heart helping people. Call / whats app +27786988200</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6537733" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >I Need An Urgent Effective Spell Caster +27786988200</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/rick-kemp" onclick="WIKIDOT.page.listeners.userInfo(9170205); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9170205&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="rick kemp" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9170205)"/></a><a href="http://www.wikidot.com/user:info/rick-kemp" onclick="WIKIDOT.page.listeners.userInfo(9170205); return false;" >rick kemp</a></span>, <span class="odate time_1718119817 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">11 Jun 2024 15:30</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6535172">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6535172">
+																	<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po#post-6535172">+918929509036 Emergency Loan Available</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/je7367034" onclick="WIKIDOT.page.listeners.userInfo(9167852); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9167852&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="je7367034" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9167852)"/></a><a href="http://www.wikidot.com/user:info/je7367034" onclick="WIKIDOT.page.listeners.userInfo(9167852); return false;" >je7367034</a></span> <span class="odate time_1717915629 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Jun 2024 06:47</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16446972/pp-2348162236155-join-occult-for-money-po">ππ√+2348162236155..📢..JOIN OCCULT FOR MONEY 💰 PO</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6535172">
+									
+
+<p>Do you need Finance? Are you looking for Finance? Are you looking for finance to enlarge your business? We help individuals and companies to obtain finance for business expanding and to setup a new business ranging any amount. Get finance at affordable interest rate of 3%, Do you need this finance for business and to clear your bills? Then send us an email now for more information contact us now via (<span class="wiki-email">moc.liamg|678reffoecivreslaicnanif#moc.liamg|678reffoecivreslaicnanif</span>) whats-App +918929509036 Dr James Eric Finance Pvt Ltd Thanks</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6535172" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >+918929509036 Emergency Loan Available</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/je7367034" onclick="WIKIDOT.page.listeners.userInfo(9167852); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9167852&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="je7367034" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9167852)"/></a><a href="http://www.wikidot.com/user:info/je7367034" onclick="WIKIDOT.page.listeners.userInfo(9167852); return false;" >je7367034</a></span>, <span class="odate time_1717915629 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">09 Jun 2024 06:47</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6533665">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6533665">
+																	<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif#post-6533665">we monitize vitual funds to Btc and pay to your wallet or achieve a ccard package</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/monetizevirtualfunds" onclick="WIKIDOT.page.listeners.userInfo(9165378); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9165378&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="monetizevirtualfunds" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9165378)"/></a><a href="http://www.wikidot.com/user:info/monetizevirtualfunds" onclick="WIKIDOT.page.listeners.userInfo(9165378); return false;" >monetizevirtualfunds</a></span> <span class="odate time_1717723068 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">07 Jun 2024 01:17</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif">WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6533665">
+									
+
+<p>whatsap us &#8230;.+18032655021</p>
+<p>we monitize vitual funds to Btc and pay to your wallet or achieve a ccard package</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6533665" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >we monitize vitual funds to Btc and pay to your wallet or achieve a ccard package</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/monetizevirtualfunds" onclick="WIKIDOT.page.listeners.userInfo(9165378); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9165378&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="monetizevirtualfunds" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9165378)"/></a><a href="http://www.wikidot.com/user:info/monetizevirtualfunds" onclick="WIKIDOT.page.listeners.userInfo(9165378); return false;" >monetizevirtualfunds</a></span>, <span class="odate time_1717723068 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">07 Jun 2024 01:17</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6529891">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6529891">
+																	<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif#post-6529891">Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1717655238 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">06 Jun 2024 06:27</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif">WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6529891">
+									
+
+<p>Torrent download ICAMPost v22 Trimble Inpho UASMaster v14 OptiFDTD v15 Simplant Pro v18.5 Materialise.3-matic v18<br />
+<span style="text-decoration: line-through;">-</span>minidown#mail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+GuideMia v4.8<br />
+AEGIS v0.19.65.505<br />
+Amberg Tunnel v2.22<br />
+AnyBody Modeling System v8.0.1 x64<br />
+ASAP v2020<br />
+AGI Systems Tool Kit (STK) 2023 x64<br />
+aprinter v2016<br />
+Amada AP100 v7.0<br />
+Aldec Active-HDL v10.4.183.6396<br />
+Anylogic pro v8.9 x64<br />
+aspenONE v14.1<br />
+ATP-EMTP v6.1<br />
+ATK.Magic.Tool.Suite v7.43.Win<br />
+Attributestudio VVA 2020<br />
+AutoForm Plus R11&#160;11.0.0.6 Win64<br />
+BobCAD-CAM v36 x64<br />
+BAE ShipWeight Enterprise 13.0 x64<br />
+bysoft v7.2.0.1<br />
+BR&amp;E Promax 6.0 x64<br />
+CAESAR 2024<br />
+CYMCAP 9.0<br />
+CLC Genomics Workbench 23.0.5<br />
+cgg geovation v2016<br />
+CMG Suite v2024<br />
+codeV 2023<br />
+Concept StarVision v7.0<br />
+c-tech evs2023<br />
+Certainty3D TopoDOT 2024<br />
+Coventor MEMS+ 4.0<br />
+Coventor SEMulator3D v9.3<br />
+Coventor.CoventorWare.2016.v10.1.Win<br />
+Crystal Prod 2022<br />
+crystal specman thinman v2015.1<br />
+Crosslight APSYS 2021 x64<br />
+CrossLight Pics3D v2020 x64<br />
+Datamine Discover v2023<br />
+Datamine datablast 2.2.3.8 x64<br />
+DATAM COPRA RF v2013<br />
+DATEM Summit Evolution v7.7&#160;2020<br />
+DesignBuilder v7.0.0.084<br />
+Depth Insight v2015<br />
+Deswik.Suite v2024 x64<br />
+DHI Mike zero 2023<br />
+DHI FEFLOW 2023 v8.1<br />
+DNV Sesam 2022 x64<br />
+DNV Phast &amp; Safeti v9.0.73.0 With KFX v4.0.10 Win64<br />
+DDS FEMtools v5.0<br />
+DIgSILENT PowerFactory 2022<br />
+Dionisos v4.2<br />
+Drillnet v2.0.3<br />
+drillbench v2016.1.1<br />
+Dynel 2D Dynel 3D<br />
+Dyadem PHA-Pro 8.13<br />
+eFilm Workstation v4.2<br />
+ERDAS IMAGINE 2023<br />
+ERDAS ORIMA 2022<br />
+Earthimager2d3d ZondRes2d Res2Dinv<br />
+EMTP4.3.12<br />
+Ensoft suite v2024<br />
+Encom ModelVision v17.0<br />
+Tensor Research ModelVision v17.5<br />
+Earth Volumetric Studio v2023<br />
+Envirosim BioWin 6.2.11<br />
+Engineered Software PIPE-FLO Pro v19.0.3747<br />
+epoffice v2023<br />
+EFI Fiery v7.0<br />
+Etap.PowerStation.v23<br />
+ETA Inventium PreSys 2020R1 x64<br />
+Exa PowerFlow 2019<br />
+Fabricator v2013<br />
+FlexiSIGN &amp; PRINT v12.2<br />
+FlexScan3D v3.3.22.12<br />
+FracMan v8.0<br />
+forward.net v3.0&#160;2019<br />
+Forsk Atoll v3.4.1 x64<br />
+flownex SE 2020 v8.11<br />
+Frontline Excel Solver v2023.3<br />
+Fracpro v2022<br />
+GC-PowerStation v23.1.8<br />
+GE.GateCycle.v6.14<br />
+Geneious Prime v2023<br />
+GEOSLOPE GeoStudio 2024<br />
+Geochemist Workbench v11.0.8<br />
+Geomodeling VVA AttributeStudio 9.1<br />
+Geographix GeoGraphix discovery 2022<br />
+Geosyn v2016.1<br />
+GeoSLAM hub 6.2<br />
+Paradigm Geolog 2022<br />
+GeoMap v4.0<br />
+GEO5 v2022<br />
+MineSched Surpac v2024<br />
+GEOVIA MineSched v2024<br />
+GeoModeller2023 v4.2.2 x64<br />
+GeoTeric SVI 2023<br />
+GOHFER v9.5.0<br />
+GOGEO FracPredictor v2014<br />
+Green Hills MULTI for MIPS v4.2.1<br />
+Green Mountain mesa v16.3<br />
+Gxplorer v2024<br />
+Hampson Russell Suite 13<br />
+HONEYWELL.UniSim.Design.Suite.R492<br />
+Hydromantis.GPS-X.v8.0.1 Win<br />
+HydroComp NavCad v2021<br />
+HTRI Xchanger Suite v9.0<br />
+HYPACK 2022<br />
+IMST Empire XPU v8.1.1<br />
+Interactive Petrophysics 5.3<br />
+Innovyze InfoWorks ICM 2023 x64<br />
+IBM Rational SDL and TTCN Suite v6.3<br />
+IBM Rational DOORs 9.6.1.11<br />
+Icaros IPS v4.2<br />
+ICAMPost v22<br />
+IGI ParCAM v8.82<br />
+IHS Petra 2021 v3.15.2<br />
+IHS Kingdom Suite SMT 2023<br />
+IHS Harmony 2021<br />
+IHS welltest 2019<br />
+InterWell v2019.1<br />
+IHS QUE$TOR 2023 Q1<br />
+Insight Earth v3.5 x64<br />
+Intergraph PVElite 2024<br />
+Itasca Griddle 2.00.12<br />
+Itasca UDEC v7.00.50 x64<br />
+Jason WorkBench 12<br />
+JewelSuite Subsurface Modeling v2022<br />
+JETCAM EXPERT V15.6<br />
+justcgm v5.1<br />
+Kappa Workstation v5.5<br />
+KBC Petro-SIM 7.2<br />
+Lantek Expert v28<br />
+Leapfrog Geo v2023<br />
+Leica Cyclone 3dr v2024 x64<br />
+Landmark DecisionSpace Geosciences 10.5<br />
+Landmark EDT 5000.17.2<br />
+LDRA TestBed v9.4.1<br />
+Lead v4.0<br />
+Lighttools v2023<br />
+linkmaster v3.0.84<br />
+LucidShape v2022<br />
+MagiCAD v2018<br />
+MapMatrix v4.2<br />
+Maptek vulcan 2023<br />
+Maptek I-Site Studio 7.0.5<br />
+Materialise Mimics 26<br />
+Materialise.3-matic v18 x64<br />
+Materialise e-Stage v7.3 x64<br />
+Materialise SimPlant O&amp;O v3.0<br />
+MicroSurvey FieldGenius v11.0.2<br />
+MagneForce v5.1<br />
+MAX PAC NREC 2023.0.7<br />
+Meyer v2019<br />
+MEMRESEARCH EM3DS V2010&#160;11.0<br />
+MESA Expert v16.3<br />
+MindCAD 2D&amp;3D v2022<br />
+Mician uWave Wizard 2020 v9.0<br />
+MineSight MinePlan 16.0.3<br />
+midas xd v5.0<br />
+Motorcad v12.2.5<br />
+MVTec HALCON 22<br />
+NovAtel Waypoint Inertial Explorer v9.0<br />
+Napa v2020<br />
+norsar v2023<br />
+Neuralog Desktop 2021.12<br />
+Oasys.Suite 19.0 x64<br />
+OMNI 3D v2021 x64<br />
+OpendTect v7.0<br />
+Optima Opty-way CAD v7.4<br />
+openflow v2023<br />
+Optisystem v21 x64<br />
+Optispice v5.3.1 x64<br />
+OptiBPM v13.0 x64<br />
+Optiwave OptiFDTD v15.0 x64<br />
+orcaflex v11.4<br />
+ORA CODEV 2023<br />
+Optimal.Solutions.Sculptor.v3.0<br />
+Optenni Lab v4.3 x64<br />
+PaleoScan v2023<br />
+Palisade Decision Tools Suite v8.5<br />
+Paulin Research Group 2019<br />
+Paradigm Geolog 2022<br />
+Paradigm Epos v2022<br />
+Paradigm Sysdrill v11<br />
+PC-DMIS v2023<br />
+petrosys v2019.3<br />
+PerGeos v2022<br />
+petra v4.0.11<br />
+Petroleum Experts IPM v12.5<br />
+PLS-CADD v16.8<br />
+PHOTOMOD v5.21<br />
+photomesh v7.4<br />
+PhotoModeler Scanner &amp; Motion v2016<br />
+Pinnacle stimpro v2022<br />
+Pipe Flow Expert v8.16.1.1<br />
+Pix4D matic 1.54.3<br />
+PLEXOS 9.0 x64<br />
+pointCab 4Revit 1.5.0 x64<br />
+pointCab Origins 4.0 R8<br />
+Polar.Instruments.Si8000.2016.v16.05<br />
+Polar.Instruments.Si9000.2016.v16.05<br />
+Polar.Instruments.Speedstack.2016.v16.01<br />
+PVTsim Nova v6.0 x64<br />
+PSS E v35.5<br />
+PSCAD v5<br />
+PSDTO3D v9.9<br />
+PVsyst v7.0<br />
+Radimpex tower7 v7.5.20<br />
+Remcom Wireless InSite 3.3.1 x64<br />
+ReflexW v10.4<br />
+rhapsody v9.0<br />
+RISA-3D v18.0 x64<br />
+Riegl RiSCAN Pro v2.14&#160;64bit<br />
+Romax Designer R20<br />
+Roxar RMS v13.1<br />
+RokDoc.2023.1<br />
+RSoft 2023<br />
+SCADE Suite R17.3<br />
+Schlumberger ECLIPSE v2023 Win64<br />
+Schlumberger Petrel v2024 Win64<br />
+Schlumberger.PIPESIM v2023.1 x64<br />
+Schlumberger OFM v2022.1<br />
+Schlumberger OLGA 2020 x64<br />
+Schlumberger petromod v2023 x64<br />
+Schlumberger Techlog v2023.1<br />
+Senergy Interactive Petrophysics v5.1<br />
+Secure Hydraulics v2011<br />
+SegdToolbox v1.2<br />
+sendra v2015.2<br />
+SES CDEGS v18<br />
+sheetworks V22<br />
+SeisMod 4 SIMO4.2<br />
+Shipconstructor 2023 Win64<br />
+shoemaster v2019<br />
+Sherlock v7.212 +Inspect<br />
+SimSci PROII v10.2 Win64<br />
+Simulation admet predictor v9.0<br />
+SKM PowerTools v10<br />
+SNT.QualNet.Developer.6.1.Win<br />
+SolidPlant 3D v2020<br />
+SOCET SET v5.6<br />
+SPT wellflo v8.3<br />
+socet GXP v4.3<br />
+SPEAG.SEMCAD.X.Matterhorn.20.0 x64<br />
+Stoner Pipeline Simulator(SPS) v10.7<br />
+Structure Studios VIP3D Suite v2.511 x64<br />
+tebis v4.1R5sp3<br />
+TechWiz LCD 3D v16<br />
+Tempest 2021.1<br />
+Tesseral Pro v5.2.1<br />
+Testif-i v2.07a<br />
+Thermo Scientific Open Inventor Toolkit 10.9.3<br />
+TomoPlus v5.9 linux<br />
+tomodel v8.0<br />
+tNavigator v2023.4<br />
+TICRA Tools 20.0<br />
+TRC Phdwin v2.10<br />
+Trimble EdgeWise v5.1<br />
+Trimble Business Center(TBC) v2023.11<br />
+Trimble RealWorks 2024<br />
+Trimble Inpho Photogrammetry v14 Win64<br />
+Trimble Inpho UASMaster v14 x64<br />
+Trimble Vico Office R6.8<br />
+Ucamco Ucamx v2023<br />
+UBC-GIF 6.0<br />
+vxworks v7<br />
+Virtual Surveyor 9.1<br />
+vpi transmission maker v11.4<br />
+Waterloo AquiferTest Pro 12.0 x64<br />
+Waterloo Visual MODFLOW Flex v10<br />
+WellFlo 6.9<br />
+wellcad v5.5 x64<br />
+whittle 2022<br />
+winglink 2.3.01<br />
+zemax opticstudio v2024<br />
+_<br />
+study</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6529891" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1717655238 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">06 Jun 2024 06:27</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6510584">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6510584">
+																	<a href="forum/t-16658002/2347069966756-witchcraft-revenge-spells-powerful-classifieds#post-6510584">CYMCAP v9.0</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1715623477 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">13 May 2024 18:04</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16658002/2347069966756-witchcraft-revenge-spells-powerful-classifieds">+2347069966756 WITCHCRAFT REVENGE SPELLS,POWERFUL CLASSIFIEDS INSTANT DEATH SPELL CASTER ONLINE IN</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6510584">
+									
+
+<p>Torrent download Optisystem v21 x64 oli studio 10.0 oli esp flowsheet 10.0 MicroSurveyCAD 2020 v20 GeosuiteAllWorks2.6<br />
+<span style="text-decoration: line-through;">-</span>anwer8#nextmail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+DownStream Products 2021 v14.6.1848 Win64<br />
+Micrographics.Duct.Pro.v8.0.1.0.for.Autodesk.Inventor.2017-2022<br />
+form-Z Pro 9.2.0 Build A460 Multilingual Win64<br />
+Virtual Surveyor 9.1<br />
+KobiLabs.Kobi.Toolkit.for.AutoCAD.2018-2022.v2022.1.59<br />
+dassault Systemes BIOVIA Materials Studio 2020 v20.1.0.2728 Win64<br />
+Applied Flow Technology xStream v1.0.1107 build 2021.11.16<br />
+Real3D Professional v21.0 Win64<br />
+MESA Expert v16.3<br />
+POS 6.2.1<br />
+satsoft 3.2.0<br />
+Schlumberger Drillbench v2022.2<br />
+CLO_Standalone_5.1.320.44124_x64<br />
+Cortona3D.RapidAuthor.11.1.Win64<br />
+CeAS.ParatiePlus.v20.0.0<br />
+PVsyst v7.4.0.31973<br />
+eems 17.0<br />
+SpiceVision 2023.1<br />
+hyperpost2019<br />
+Clearedge3d EdgeWise 5.8<br />
+Kelton Engineering FLOCALC.net v2.2.0<br />
+AnyLogic Professional 8.8.3<br />
+Chemical Computing Group MOE v2019.0102<br />
+Antenna Magus Professional v5.4.0 Win<br />
+Ansys Products v16.0 Win64Linux64<br />
+Rocscience SWedge 7.0 x64<br />
+AutoForm.Plus.R11<br />
+qimera 2.5.4<br />
+Roxar RMS 2023 Win64<br />
+Trueart EasySplit v2.0 for LightWave<br />
+StruProg Beam EC v1.3.1<br />
+StruProg Beam EC5 v1.3.0<br />
+StruProg Bolts EC5 v1.3.0<br />
+StruProg ColBeam EC3 v1.3.1<br />
+StruProg Column EC5 v1.3.0<br />
+Crystal Prod 2022<br />
+AMIQ DVT eclipse IDE v19.1.22<br />
+MAXPACNREC2023.0.7<br />
+Ce.A.S. s.r.l. ParatiePlus v23.0.3<br />
+ETA Dynaform 7.1<br />
+FabriWIN v11.01<br />
+GEO-SLOPE.GeoStudio.2024<br />
+Noesis Optimus 2023.2 SP1 x64<br />
+Kelton Engineering FLOCALC.net v2.1.0 Win64<br />
+OpendTect.v7.0.4<br />
+RockWare.LogPlot.8.2022.1.31.x32.x64<br />
+BobCAD-CAM v36<br />
+DNV GL Maros v9.3.3 Win64<br />
+DNV GL TaroR v5.3.3 Win64<br />
+DNV GL Sensitivity M anager v1.3 Win64<br />
+Nemetschek.FRILO.2023.2<br />
+RockWare LogPlot 2024.3.6<br />
+SOFiSTiK 2024 SP0 Build 88 For Rhino 6-7 Win64<br />
+SOFiSTiK Structural Desktop 2024.0.1 SP0 Build 3 Win64<br />
+Carlson SurveyGNSS v2.3.6.0<br />
+EPLAN Harness proD 2024.0.3 Build 21408 Win64<br />
+EPLAN Pro Panel 2024.0.3 Win64<br />
+EPLAN Electric P8&#160;2024.0.3 Build 21408 Win64<br />
+tNavigator v23.4<br />
+NEC EMIStream v4.00.04 Win32<br />
+GOHFER v9.5.0<br />
+Landmark NexusVIP v5000.4.10.1 Win64<br />
+Geographic Calculator 2023 SP1 Win64<br />
+ChemEng Software Design ChemMaths v17.7<br />
+BioSolveIT infiniSee 5.1.0 Win64<br />
+Applied Flow Technology Arrow 2023 v10.0.1100<br />
+ProfiCAD 12.3.1<br />
+ETAP 22.0 x64<br />
+PRO_SAP 22.5 x64<br />
+Simerics MP 5.2 x64<br />
+SSI ShipConstructor Suite Ultimate 2023 x64<br />
+PHAWorks RA Edition 1.0.9382<br />
+Avontus Designer 2021 R2 x64<br />
+Schlumberger FracCADE v7.5<br />
+Safran Risk 21.1 x64<br />
+EViews Enterprise Edition 13.0 x64<br />
+Correlator3D 9.2 x64 FiXED<br />
+MillTraj 2.1 Liner Design Software<br />
+PVcase 2.13 x64<br />
+XLSTAT PREMIUM 2022.3 x64<br />
+Rocscience Slide3 v3.0<br />
+Slide2 v9.0 x64<br />
+windPRO 3.5 x64<br />
+BowTieXP Advanced 11.0.5<br />
+CatchmentSIM 3.6.1 x64<br />
+PVCAD Mega Bundle 29.1.1 x64<br />
+SmartPLS Professional 4.0.8.4 x64 FiXED<br />
+TreeAge Pro Healthcare 2022 R1.2 Windows/macOS<br />
+RapidMiner Studio Developer 9.10.8 Windows/Linux/macOS<br />
+Geneious Prime 2023<br />
+CLC Genomics Workbench Premium 23<br />
+PVTsim Nova 6.0 x64<br />
+Civil Designer 8.5 x64<br />
+Leapfrog Geo 2023 x64<br />
+ERDAS IMAGINE 2022 v16.7 x64<br />
+Schlumberger VISTA 2021.000.14177 x64<br />
+EASE Evac 1.1.90<br />
+Furgo jason 2024<br />
+Schlumberger Omni 3D 2020.000<br />
+PLEXOS 9.0 x64<br />
+AppSpider Pro 7.4.041.13<br />
+SCIA Engineer 21.1 x64<br />
+CGG GeoSoftware Suite 11.0.1 Jason12<br />
+DIgSILENT PowerFactory 2022 x64<br />
+EMTP 4.2.1 x64<br />
+WASP Suite 2022<br />
+Palisade DecisionTools Suite Industrial 8.2.2<br />
+Dynamic Web TWAIN 17.2.1 x86/x64<br />
+DesignBuilder 7.1<br />
+CivilGEO GeoHECRAS 3.1 x64<br />
+CivilGEO GeoHECHMS 1.0 x64<br />
+PulsimSuite 2.2.6 x64<br />
+NVivo Plus Release 1.6 v20.6.0.1121 x64<br />
+Maptek Vulcan 2023<br />
+EZ-FRISK 8.06<br />
+ODEON 16.08 Combined<br />
+NavCad Premium 2021<br />
+Midas Gen 2021 v3.1 x64<br />
+midas Design+ 2021 v3.1 x64<br />
+IES Virtual Environment 2021.4 x64<br />
+Gexcon Shell FRED 7.1.1<br />
+arcgis pro 3.1.2<br />
+CYMCAP 8.1<br />
+REF-N-WRITE 5.5<br />
+Stata MP 17.0 x64<br />
+LogPlot 8 Revision 2021.6.2 x64 Fixed<br />
+midas nGen 2022 v1.1 x64<br />
+ROHR2 v33.1<br />
+anyLogistix 2.10.1 x64<br />
+Peloton WellView 9.0<br />
+PHA-Pro 8.13<br />
+Schlumberger WellBook Stimulation &amp; CTS 9.0<br />
+DNAMAN X 10.0.2.128<br />
+Strand NGS 3.4 Windows<br />
+OpenSeesPL 2.7.6 x64<br />
+SoftGenetics GeneMarker 3.0.0<br />
+SoftGenetics Mutation Surveyor 5.1.2<br />
+Complete Dynamics Master Edition 20.10<br />
+GraphExpert Professional 1.5.6 x64<br />
+Extreme Loading for Structures – ELS 8.0 x64<br />
+SolidPlant 3D 2018 R1.2.5 for SOLIDWORKS</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6510584" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >CYMCAP v9.0</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1715623477 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">13 May 2024 18:04</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6509891">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6509891">
+																	<a href="forum/t-16658002/2347069966756-witchcraft-revenge-spells-powerful-classifieds#post-6509891">Retour d&#039;affection de l&#039;être aimé rapide en 24h</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9134789&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Tokpe11" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9134789)"/></a><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;" >Tokpe11</a></span> <span class="odate time_1715538724 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 18:32</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16658002/2347069966756-witchcraft-revenge-spells-powerful-classifieds">+2347069966756 WITCHCRAFT REVENGE SPELLS,POWERFUL CLASSIFIEDS INSTANT DEATH SPELL CASTER ONLINE IN</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6509891">
+									
+
+<p>Retour sur la page et contactez moi whasapp:+22957772427&#160;même si l'annonce effacé</p>
+<p>Grand maître spirituel, puissant médium voyant spécialiste des travaux occultes de rituel de richesse, de rituel de retour affectif rapide et voyance. Je suis le Maître spirituel Tokpe, je peux vous aider où que vous soyez dans le monde. Rituel pour gagner aux jeux de hasard et au LOTO?-PMU Euro million&#8230;<br />
+Rituel pour devenir star (Artiste, footballeur, influenceur&#8230;?)<br />
+Rituel pour devenir très riche<br />
+Rituel pour attirer la richesse?<br />
+Rituel pour attirer le bonheur?<br />
+Rituel pour avoir la prospérité?<br />
+Rituel pour avoir la fortune?<br />
+Rituel pour avoir d'enfant et la longévité?<br />
+Rituel pour attirer l'amour?<br />
+Rituel de retour affectif rapide</p>
+<p>Whatsapp : +22957772427</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6509891" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Retour d&#039;affection de l&#039;être aimé rapide en 24h</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9134789&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Tokpe11" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9134789)"/></a><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;" >Tokpe11</a></span>, <span class="odate time_1715538724 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 18:32</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6509887">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6509887">
+																	<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif#post-6509887">Retour d&#039;affection amoureux immédiat Tél +229 57 772 427</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9134789&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Tokpe11" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9134789)"/></a><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;" >Tokpe11</a></span> <span class="odate time_1715538597 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 18:29</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif">WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6509887">
+									
+
+<p>**Retour D'affection Immédiat en 24H whatsapp +22957772427<br />
+retour affectif amoureux immédiat, magie vodoun pour retenir son partenaire en amour rapidement magie vodoun pour faire retenir son partenaire en amour rapidement.</p>
+<p>Prévenir vaut mieux que guérir, il ne faut pas attendre le pire pour chercher à arranger.<br />
+Ce puissant rituel vaudoun du medium marabout voyant Professeur Tokpe est très conseillé pour ceux qui ont actuellement une vie amoureuse heureuse et rose.<br />
+Ce travail mystique vous permet de maintenir votre vie amoureuse toujours dans la meme flamme et d'etre à l'abris de toute séparation, disputes et autres problèmes de couple.<br />
+Ce rituel de magie vodou du medium marabout voyant Professeur Tokpe pour retenir son partenaire en amour, consite mystiquement à vous lier l'un à l'autre grace à deux puissants statuettes repésentant l'homme et la femme.<br />
+Pendant le rituel, vos noms et prénoms respectifs et vos dates d'anniversaire seront prononcé tout en invoquant les génie vodoun avec des prières et paroles magiques mystique d'amour très puissantes.</p>
+<p>A la fin, les deux statuettes seront liées et formeront une seule statuette qui sera ensuite jetté dans la mer.<br />
+Cependant votre amour durera autant que les deux statuettes seront liées donc pour l&quot;Éternité.<br />
+Prenez contacte avec le medium marabout voyant Professeur Tokope pour tout renseignement ou question.<br />
+Charmes, désenvoutent, filtre d'amour, formules magiques.<br />
+Magie rituel, magie banche. Magie noire, magie et sorcellerie, magie vaudou, rituel de retour affectif, rituel amoureux, rituel chance argent, rituel d'amour, rituel de chance, rituel de magie, rituel de magie blanche, rituel vodoun</p>
+<p>Retour D'affection Immédiat en 24H whatsapp +22957772427**</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6509887" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Retour d&#039;affection amoureux immédiat Tél +229 57 772 427</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9134789&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Tokpe11" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9134789)"/></a><a href="http://www.wikidot.com/user:info/tokpe11" onclick="WIKIDOT.page.listeners.userInfo(9134789); return false;" >Tokpe11</a></span>, <span class="odate time_1715538597 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 18:29</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6509708">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6509708">
+																	<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power#post-6509708">Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1715518319 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 12:51</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power">+27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6509708">
+									
+
+<p>Torrent download ICAMPost v22 Trimble Inpho UASMaster v14 OptiFDTD v15 Simplant Pro v18.5 Materialise.3-matic v18<br />
+<span style="text-decoration: line-through;">-</span>minidown#mail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+GuideMia v4.8<br />
+AEGIS v0.19.65.505<br />
+Amberg Tunnel v2.22<br />
+AnyBody Modeling System v8.0.1 x64<br />
+ASAP v2020<br />
+AGI Systems Tool Kit (STK) 2023 x64<br />
+aprinter v2016<br />
+Amada AP100 v7.0<br />
+Aldec Active-HDL v10.4.183.6396<br />
+Anylogic pro v8.8.4 x64<br />
+aspenONE v14.1<br />
+ATP-EMTP v6.1<br />
+ATK.Magic.Tool.Suite v7.43.Win<br />
+Attributestudio VVA 2020<br />
+AutoForm Plus R11&#160;11.0.0.6 Win64<br />
+BobCAD-CAM v36 x64<br />
+BAE ShipWeight Enterprise 13.0 x64<br />
+bysoft v7.2.0.1<br />
+BR&amp;E Promax 6.0 x64<br />
+CAESAR 2023<br />
+CYMCAP 9.0<br />
+CLC Genomics Workbench 23.0.5<br />
+cgg geovation v2016<br />
+CMG Suite v2024<br />
+codeV 2023<br />
+Concept StarVision v7.0<br />
+c-tech evs2023<br />
+Certainty3D TopoDOT 2024<br />
+Coventor MEMS+ 4.0<br />
+Coventor SEMulator3D v9.3<br />
+Coventor.CoventorWare.2016.v10.1.Win<br />
+Crystal Prod 2022<br />
+crystal specman thinman v2015.1<br />
+Crosslight APSYS 2021 x64<br />
+CrossLight Pics3D v2020 x64<br />
+Datamine Discover v2023<br />
+Datamine datablast 2.2.3.8 x64<br />
+DATAM COPRA RF v2013<br />
+DATEM Summit Evolution v7.7&#160;2020<br />
+DesignBuilder v7.0.0.084<br />
+Depth Insight v2015<br />
+Deswik.Suite v2024 x64<br />
+DHI Mike zero 2023<br />
+DHI FEFLOW 2023 v8.0<br />
+DNV Sesam 2022 x64<br />
+DNV Phast &amp; Safeti v9.0.73.0 With KFX v4.0.10 Win64<br />
+DDS FEMtools v5.0<br />
+DIgSILENT PowerFactory 2022<br />
+Dionisos v4.2<br />
+Drillnet v2.0.3<br />
+drillbench v2016.1.1<br />
+Dynel 2D Dynel 3D<br />
+Dyadem PHA-Pro 8.13<br />
+eFilm Workstation v4.2<br />
+ERDAS IMAGINE 2023<br />
+ERDAS ORIMA 2022<br />
+Earthimager2d3d ZondRes2d Res2Dinv<br />
+EMTP4.3.12<br />
+Ensoft suite v2024<br />
+Encom ModelVision v17.0<br />
+Tensor Research ModelVision v17.5<br />
+Earth Volumetric Studio v2023<br />
+Envirosim BioWin 6.2.11<br />
+Engineered Software PIPE-FLO Pro v19.0.3747<br />
+epoffice v2023<br />
+EFI Fiery v7.0<br />
+Etap.PowerStation.v23<br />
+ETA Inventium PreSys 2020R1 x64<br />
+Exa PowerFlow 2019<br />
+Fabricator v2013<br />
+FlexiSIGN &amp; PRINT v12.2<br />
+FlexScan3D v3.3.22.12<br />
+FracMan v8.0<br />
+forward.net v3.0&#160;2019<br />
+Forsk Atoll v3.4.1 x64<br />
+flownex SE 2020 v8.11<br />
+Frontline Solver 2021<br />
+Fracpro v2022<br />
+GC-PowerStation v23.1.8<br />
+GE.GateCycle.v6.14<br />
+Geneious Prime v2023<br />
+GEOSLOPE GeoStudio 2024<br />
+Geochemist Workbench v11.0.8<br />
+Geomodeling VVA AttributeStudio 9.1<br />
+Geographix GeoGraphix discovery 2022<br />
+Geosyn v2016.1<br />
+GeoSLAM hub 6.2<br />
+Paradigm Geolog 2022<br />
+GeoMap v4.0<br />
+GEO5 v2022<br />
+MineSched Surpac v2023<br />
+GEOVIA MineSched v2022<br />
+GeoModeller2023 v4.2.2 x64<br />
+GeoTeric SVI 2023<br />
+GOHFER v9.5.0<br />
+GOGEO FracPredictor v2014<br />
+Green Hills MULTI for MIPS v4.2.1<br />
+Green Mountain mesa v16.3<br />
+Gxplorer v2023<br />
+Hampson Russell Suite 13<br />
+HONEYWELL.UniSim.Design.Suite.R492<br />
+Hydromantis.GPS-X.v8.0.1 Win<br />
+HydroComp NavCad v2021<br />
+HTRI Xchanger Suite v9.0<br />
+HYPACK 2022<br />
+IMST Empire XPU v8.1.1<br />
+Interactive Petrophysics 5.1<br />
+Innovyze InfoWorks ICM 2023 x64<br />
+IBM Rational SDL and TTCN Suite v6.3<br />
+IBM Rational DOORs 9.6.1.11<br />
+Icaros IPS v4.2<br />
+ICAMPost v22<br />
+IGI ParCAM v8.82<br />
+IHS Petra 2021 v3.15.2<br />
+IHS Kingdom Suite SMT 2023<br />
+IHS Harmony 2021<br />
+IHS welltest 2019<br />
+InterWell v2019.1<br />
+IHS QUE$TOR 2023 Q1<br />
+Insight Earth v3.5 x64<br />
+Intergraph PVElite 2024<br />
+Itasca Griddle 2.00.12<br />
+Itasca UDEC v7.00.50 x64<br />
+Jason WorkBench 12<br />
+JewelSuite Subsurface Modeling v2022<br />
+JETCAM EXPERT V15.6<br />
+justcgm v5.1<br />
+Kappa Workstation v5.4001<br />
+KBC Petro-SIM 7.2<br />
+Lantek Expert v28<br />
+Leapfrog Geo v2023<br />
+Leica Cyclone 3dr v2024 x64<br />
+Landmark DecisionSpace Geosciences 10.5<br />
+Landmark EDT 5000.17.2<br />
+LDRA TestBed v9.4.1<br />
+Lead v4.0<br />
+Lighttools v2023<br />
+linkmaster v3.0.84<br />
+LucidShape v2022<br />
+MagiCAD v2018<br />
+MapMatrix v4.2<br />
+Maptek vulcan 2023<br />
+Maptek I-Site Studio 7.0.5<br />
+Materialise Mimics 26<br />
+Materialise.3-matic v18 x64<br />
+Materialise e-Stage v7.3 x64<br />
+Materialise SimPlant O&amp;O v3.0<br />
+MicroSurvey FieldGenius v11.0.2<br />
+MagneForce v5.1<br />
+MAX PAC NREC 2023.0.7<br />
+Meyer v2019<br />
+MEMRESEARCH EM3DS V2010&#160;11.0<br />
+MESA Expert v16.3<br />
+MindCAD 2D&amp;3D v2022<br />
+Mician uWave Wizard 2020 v9.0<br />
+MineSight MinePlan 16.0.3<br />
+midas xd v5.0<br />
+Motorcad v12.2.5<br />
+MVTec HALCON 22<br />
+NovAtel Waypoint Inertial Explorer v9.0<br />
+Napa v2020<br />
+norsar v2023<br />
+Neuralog Desktop 2021.12<br />
+Oasys.Suite 19.0 x64<br />
+OMNI 3D v2021 x64<br />
+OpendTect v7.0<br />
+Optima Opty-way CAD v7.4<br />
+openflow v2023<br />
+Optisystem v21 x64<br />
+Optispice v5.3.1 x64<br />
+OptiBPM v13.0 x64<br />
+Optiwave OptiFDTD v15.0 x64<br />
+orcaflex v11.4<br />
+ORA CODEV 2023<br />
+Optimal.Solutions.Sculptor.v3.0<br />
+Optenni Lab v4.3 x64<br />
+PaleoScan v2023<br />
+Palisade Decision Tools Suite v8.5<br />
+Paulin Research Group 2019<br />
+Paradigm Geolog 2022<br />
+Paradigm Epos v2022<br />
+Paradigm Sysdrill v11<br />
+PC-DMIS v2023<br />
+petrosys v2019.3<br />
+PerGeos v2022<br />
+petra v4.0.11<br />
+Petroleum Experts IPM v12.5<br />
+PLS-CADD v16.8<br />
+PHOTOMOD v5.21<br />
+photomesh v7.4<br />
+PhotoModeler Scanner &amp; Motion v2016<br />
+Pinnacle stimpro v2022<br />
+Pipe Flow Expert v8.16.1.1<br />
+Pix4D matic 1.54.3<br />
+PLEXOS 9.0 x64<br />
+pointCab 4Revit 1.5.0 x64<br />
+pointCab Origins 4.0 R8<br />
+Polar.Instruments.Si8000.2016.v16.05<br />
+Polar.Instruments.Si9000.2016.v16.05<br />
+Polar.Instruments.Speedstack.2016.v16.01<br />
+PVTsim Nova v6.0 x64<br />
+PSS E v35.5<br />
+PSCAD v5<br />
+PSDTO3D v9.9<br />
+PVsyst v7.0<br />
+Radimpex tower7 v7.5.20<br />
+Remcom Wireless InSite 3.3.1 x64<br />
+ReflexW v10.4<br />
+rhapsody v9.0<br />
+RISA-3D v18.0 x64<br />
+Riegl RiSCAN Pro v2.14&#160;64bit<br />
+Romax Designer R20<br />
+Roxar RMS v13.1<br />
+RokDoc.2023.1<br />
+RSoft 2023<br />
+SCADE Suite R17.3<br />
+Schlumberger ECLIPSE v2023 Win64<br />
+Schlumberger Petrel v2023 Win64<br />
+Schlumberger.PIPESIM v2023.1 x64<br />
+Schlumberger OFM v2022.1<br />
+Schlumberger OLGA 2020 x64<br />
+Schlumberger petromod v2023 x64<br />
+Schlumberger Techlog v2023.1<br />
+Senergy Interactive Petrophysics v5.1<br />
+Secure Hydraulics v2011<br />
+SegdToolbox v1.2<br />
+sendra v2015.2<br />
+SES CDEGS v18<br />
+sheetworks V22<br />
+SeisMod 4 SIMO4.2<br />
+Shipconstructor 2023 Win64<br />
+shoemaster v2019<br />
+Sherlock v7.212 +Inspect<br />
+SimSci PROII v10.2 Win64<br />
+Simulation admet predictor v9.0<br />
+SKM PowerTools v10<br />
+SNT.QualNet.Developer.6.1.Win<br />
+SolidPlant 3D v2020<br />
+SOCET SET v5.6<br />
+SPT wellflo v8.3<br />
+socet GXP v4.3<br />
+SPEAG.SEMCAD.X.Matterhorn.20.0 x64<br />
+Stoner Pipeline Simulator(SPS) v10.7<br />
+Structure Studios VIP3D Suite v2.511 x64<br />
+tebis v4.1R5sp3<br />
+TechWiz LCD 3D v16<br />
+Tempest 2021.1<br />
+Tesseral Pro v5.2.1<br />
+Testif-i v2.07a<br />
+Thermo Scientific Open Inventor Toolkit 10.9.3<br />
+TomoPlus v5.9 linux<br />
+tomodel v8.0<br />
+tNavigator v2023.4<br />
+TICRA Tools 20.0<br />
+TRC Phdwin v2.10<br />
+Trimble EdgeWise v5.1<br />
+Trimble Business Center(TBC) v2023.11<br />
+Trimble RealWorks 2024<br />
+Trimble Inpho Photogrammetry v14 Win64<br />
+Trimble Inpho UASMaster v14 x64<br />
+Trimble Vico Office R6.8<br />
+Ucamco Ucamx v2023<br />
+UBC-GIF 6.0<br />
+vxworks v7<br />
+Virtual Surveyor 9.1<br />
+vpi transmission maker v11.4<br />
+Waterloo AquiferTest Pro 12.0 x64<br />
+Waterloo Visual MODFLOW Flex v10<br />
+WellFlo 6.9<br />
+wellcad v5.5<br />
+whittle 2022<br />
+winglink 2.21.08<br />
+zemax opticstudio v2024<br />
+_<br />
+study</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6509708" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1715518319 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 12:51</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6509704">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6509704">
+																	<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac#post-6509704">Re: GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span> <span class="odate time_1715518210 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 12:50</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac">GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6509704">
+									
+
+<p>Torrent download ICAMPost v22 Trimble Inpho UASMaster v14 OptiFDTD v15 Simplant Pro v18.5 Materialise.3-matic v18<br />
+<span style="text-decoration: line-through;">-</span>minidown#mail.ru<span style="text-decoration: line-through;">-</span><br />
+Just for a test,anything you need<span style="text-decoration: line-through;">-</span><br />
+GuideMia v4.8<br />
+AEGIS v0.19.65.505<br />
+Amberg Tunnel v2.22<br />
+AnyBody Modeling System v8.0.1 x64<br />
+ASAP v2020<br />
+AGI Systems Tool Kit (STK) 2023 x64<br />
+aprinter v2016<br />
+Amada AP100 v7.0<br />
+Aldec Active-HDL v10.4.183.6396<br />
+Anylogic pro v8.8.4 x64<br />
+aspenONE v14.1<br />
+ATP-EMTP v6.1<br />
+ATK.Magic.Tool.Suite v7.43.Win<br />
+Attributestudio VVA 2020<br />
+AutoForm Plus R11&#160;11.0.0.6 Win64<br />
+BobCAD-CAM v36 x64<br />
+BAE ShipWeight Enterprise 13.0 x64<br />
+bysoft v7.2.0.1<br />
+BR&amp;E Promax 6.0 x64<br />
+CAESAR 2023<br />
+CYMCAP 9.0<br />
+CLC Genomics Workbench 23.0.5<br />
+cgg geovation v2016<br />
+CMG Suite v2024<br />
+codeV 2023<br />
+Concept StarVision v7.0<br />
+c-tech evs2023<br />
+Certainty3D TopoDOT 2024<br />
+Coventor MEMS+ 4.0<br />
+Coventor SEMulator3D v9.3<br />
+Coventor.CoventorWare.2016.v10.1.Win<br />
+Crystal Prod 2022<br />
+crystal specman thinman v2015.1<br />
+Crosslight APSYS 2021 x64<br />
+CrossLight Pics3D v2020 x64<br />
+Datamine Discover v2023<br />
+Datamine datablast 2.2.3.8 x64<br />
+DATAM COPRA RF v2013<br />
+DATEM Summit Evolution v7.7&#160;2020<br />
+DesignBuilder v7.0.0.084<br />
+Depth Insight v2015<br />
+Deswik.Suite v2024 x64<br />
+DHI Mike zero 2023<br />
+DHI FEFLOW 2023 v8.0<br />
+DNV Sesam 2022 x64<br />
+DNV Phast &amp; Safeti v9.0.73.0 With KFX v4.0.10 Win64<br />
+DDS FEMtools v5.0<br />
+DIgSILENT PowerFactory 2022<br />
+Dionisos v4.2<br />
+Drillnet v2.0.3<br />
+drillbench v2016.1.1<br />
+Dynel 2D Dynel 3D<br />
+Dyadem PHA-Pro 8.13<br />
+eFilm Workstation v4.2<br />
+ERDAS IMAGINE 2023<br />
+ERDAS ORIMA 2022<br />
+Earthimager2d3d ZondRes2d Res2Dinv<br />
+EMTP4.3.12<br />
+Ensoft suite v2024<br />
+Encom ModelVision v17.0<br />
+Tensor Research ModelVision v17.5<br />
+Earth Volumetric Studio v2023<br />
+Envirosim BioWin 6.2.11<br />
+Engineered Software PIPE-FLO Pro v19.0.3747<br />
+epoffice v2023<br />
+EFI Fiery v7.0<br />
+Etap.PowerStation.v23<br />
+ETA Inventium PreSys 2020R1 x64<br />
+Exa PowerFlow 2019<br />
+Fabricator v2013<br />
+FlexiSIGN &amp; PRINT v12.2<br />
+FlexScan3D v3.3.22.12<br />
+FracMan v8.0<br />
+forward.net v3.0&#160;2019<br />
+Forsk Atoll v3.4.1 x64<br />
+flownex SE 2020 v8.11<br />
+Frontline Solver 2021<br />
+Fracpro v2022<br />
+GC-PowerStation v23.1.8<br />
+GE.GateCycle.v6.14<br />
+Geneious Prime v2023<br />
+GEOSLOPE GeoStudio 2024<br />
+Geochemist Workbench v11.0.8<br />
+Geomodeling VVA AttributeStudio 9.1<br />
+Geographix GeoGraphix discovery 2022<br />
+Geosyn v2016.1<br />
+GeoSLAM hub 6.2<br />
+Paradigm Geolog 2022<br />
+GeoMap v4.0<br />
+GEO5 v2022<br />
+MineSched Surpac v2023<br />
+GEOVIA MineSched v2022<br />
+GeoModeller2023 v4.2.2 x64<br />
+GeoTeric SVI 2023<br />
+GOHFER v9.5.0<br />
+GOGEO FracPredictor v2014<br />
+Green Hills MULTI for MIPS v4.2.1<br />
+Green Mountain mesa v16.3<br />
+Gxplorer v2023<br />
+Hampson Russell Suite 13<br />
+HONEYWELL.UniSim.Design.Suite.R492<br />
+Hydromantis.GPS-X.v8.0.1 Win<br />
+HydroComp NavCad v2021<br />
+HTRI Xchanger Suite v9.0<br />
+HYPACK 2022<br />
+IMST Empire XPU v8.1.1<br />
+Interactive Petrophysics 5.1<br />
+Innovyze InfoWorks ICM 2023 x64<br />
+IBM Rational SDL and TTCN Suite v6.3<br />
+IBM Rational DOORs 9.6.1.11<br />
+Icaros IPS v4.2<br />
+ICAMPost v22<br />
+IGI ParCAM v8.82<br />
+IHS Petra 2021 v3.15.2<br />
+IHS Kingdom Suite SMT 2023<br />
+IHS Harmony 2021<br />
+IHS welltest 2019<br />
+InterWell v2019.1<br />
+IHS QUE$TOR 2023 Q1<br />
+Insight Earth v3.5 x64<br />
+Intergraph PVElite 2024<br />
+Itasca Griddle 2.00.12<br />
+Itasca UDEC v7.00.50 x64<br />
+Jason WorkBench 12<br />
+JewelSuite Subsurface Modeling v2022<br />
+JETCAM EXPERT V15.6<br />
+justcgm v5.1<br />
+Kappa Workstation v5.4001<br />
+KBC Petro-SIM 7.2<br />
+Lantek Expert v28<br />
+Leapfrog Geo v2023<br />
+Leica Cyclone 3dr v2024 x64<br />
+Landmark DecisionSpace Geosciences 10.5<br />
+Landmark EDT 5000.17.2<br />
+LDRA TestBed v9.4.1<br />
+Lead v4.0<br />
+Lighttools v2023<br />
+linkmaster v3.0.84<br />
+LucidShape v2022<br />
+MagiCAD v2018<br />
+MapMatrix v4.2<br />
+Maptek vulcan 2023<br />
+Maptek I-Site Studio 7.0.5<br />
+Materialise Mimics 26<br />
+Materialise.3-matic v18 x64<br />
+Materialise e-Stage v7.3 x64<br />
+Materialise SimPlant O&amp;O v3.0<br />
+MicroSurvey FieldGenius v11.0.2<br />
+MagneForce v5.1<br />
+MAX PAC NREC 2023.0.7<br />
+Meyer v2019<br />
+MEMRESEARCH EM3DS V2010&#160;11.0<br />
+MESA Expert v16.3<br />
+MindCAD 2D&amp;3D v2022<br />
+Mician uWave Wizard 2020 v9.0<br />
+MineSight MinePlan 16.0.3<br />
+midas xd v5.0<br />
+Motorcad v12.2.5<br />
+MVTec HALCON 22<br />
+NovAtel Waypoint Inertial Explorer v9.0<br />
+Napa v2020<br />
+norsar v2023<br />
+Neuralog Desktop 2021.12<br />
+Oasys.Suite 19.0 x64<br />
+OMNI 3D v2021 x64<br />
+OpendTect v7.0<br />
+Optima Opty-way CAD v7.4<br />
+openflow v2023<br />
+Optisystem v21 x64<br />
+Optispice v5.3.1 x64<br />
+OptiBPM v13.0 x64<br />
+Optiwave OptiFDTD v15.0 x64<br />
+orcaflex v11.4<br />
+ORA CODEV 2023<br />
+Optimal.Solutions.Sculptor.v3.0<br />
+Optenni Lab v4.3 x64<br />
+PaleoScan v2023<br />
+Palisade Decision Tools Suite v8.5<br />
+Paulin Research Group 2019<br />
+Paradigm Geolog 2022<br />
+Paradigm Epos v2022<br />
+Paradigm Sysdrill v11<br />
+PC-DMIS v2023<br />
+petrosys v2019.3<br />
+PerGeos v2022<br />
+petra v4.0.11<br />
+Petroleum Experts IPM v12.5<br />
+PLS-CADD v16.8<br />
+PHOTOMOD v5.21<br />
+photomesh v7.4<br />
+PhotoModeler Scanner &amp; Motion v2016<br />
+Pinnacle stimpro v2022<br />
+Pipe Flow Expert v8.16.1.1<br />
+Pix4D matic 1.54.3<br />
+PLEXOS 9.0 x64<br />
+pointCab 4Revit 1.5.0 x64<br />
+pointCab Origins 4.0 R8<br />
+Polar.Instruments.Si8000.2016.v16.05<br />
+Polar.Instruments.Si9000.2016.v16.05<br />
+Polar.Instruments.Speedstack.2016.v16.01<br />
+PVTsim Nova v6.0 x64<br />
+PSS E v35.5<br />
+PSCAD v5<br />
+PSDTO3D v9.9<br />
+PVsyst v7.0<br />
+Radimpex tower7 v7.5.20<br />
+Remcom Wireless InSite 3.3.1 x64<br />
+ReflexW v10.4<br />
+rhapsody v9.0<br />
+RISA-3D v18.0 x64<br />
+Riegl RiSCAN Pro v2.14&#160;64bit<br />
+Romax Designer R20<br />
+Roxar RMS v13.1<br />
+RokDoc.2023.1<br />
+RSoft 2023<br />
+SCADE Suite R17.3<br />
+Schlumberger ECLIPSE v2023 Win64<br />
+Schlumberger Petrel v2023 Win64<br />
+Schlumberger.PIPESIM v2023.1 x64<br />
+Schlumberger OFM v2022.1<br />
+Schlumberger OLGA 2020 x64<br />
+Schlumberger petromod v2023 x64<br />
+Schlumberger Techlog v2023.1<br />
+Senergy Interactive Petrophysics v5.1<br />
+Secure Hydraulics v2011<br />
+SegdToolbox v1.2<br />
+sendra v2015.2<br />
+SES CDEGS v18<br />
+sheetworks V22<br />
+SeisMod 4 SIMO4.2<br />
+Shipconstructor 2023 Win64<br />
+shoemaster v2019<br />
+Sherlock v7.212 +Inspect<br />
+SimSci PROII v10.2 Win64<br />
+Simulation admet predictor v9.0<br />
+SKM PowerTools v10<br />
+SNT.QualNet.Developer.6.1.Win<br />
+SolidPlant 3D v2020<br />
+SOCET SET v5.6<br />
+SPT wellflo v8.3<br />
+socet GXP v4.3<br />
+SPEAG.SEMCAD.X.Matterhorn.20.0 x64<br />
+Stoner Pipeline Simulator(SPS) v10.7<br />
+Structure Studios VIP3D Suite v2.511 x64<br />
+tebis v4.1R5sp3<br />
+TechWiz LCD 3D v16<br />
+Tempest 2021.1<br />
+Tesseral Pro v5.2.1<br />
+Testif-i v2.07a<br />
+Thermo Scientific Open Inventor Toolkit 10.9.3<br />
+TomoPlus v5.9 linux<br />
+tomodel v8.0<br />
+tNavigator v2023.4<br />
+TICRA Tools 20.0<br />
+TRC Phdwin v2.10<br />
+Trimble EdgeWise v5.1<br />
+Trimble Business Center(TBC) v2023.11<br />
+Trimble RealWorks 2024<br />
+Trimble Inpho Photogrammetry v14 Win64<br />
+Trimble Inpho UASMaster v14 x64<br />
+Trimble Vico Office R6.8<br />
+Ucamco Ucamx v2023<br />
+UBC-GIF 6.0<br />
+vxworks v7<br />
+Virtual Surveyor 9.1<br />
+vpi transmission maker v11.4<br />
+Waterloo AquiferTest Pro 12.0 x64<br />
+Waterloo Visual MODFLOW Flex v10<br />
+WellFlo 6.9<br />
+wellcad v5.5 x64<br />
+whittle 2022<br />
+winglink 2.21.08<br />
+zemax opticstudio v2024<br />
+_<br />
+study</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6509704" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=8408956&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="manual28" style="background-image:url(http://www.wikidot.com/userkarma.php?u=8408956)"/></a><a href="http://www.wikidot.com/user:info/manual28" onclick="WIKIDOT.page.listeners.userInfo(8408956); return false;" >manual28</a></span>, <span class="odate time_1715518210 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">12 May 2024 12:50</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6502915">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6502915">
+																	<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac#post-6502915">GET BACK ALL YOUR LOST/SCAMMED CRYPTO WITH LEE ULTIMATE HACKER</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/alexender-orlean" onclick="WIKIDOT.page.listeners.userInfo(9127238); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9127238&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Alexender Orlean" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9127238)"/></a><a href="http://www.wikidot.com/user:info/alexender-orlean" onclick="WIKIDOT.page.listeners.userInfo(9127238); return false;" >Alexender Orlean</a></span> <span class="odate time_1714939720 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 May 2024 20:08</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac">GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6502915">
+									
+
+<p>Two weeks ago, I found myself ensnared in a web of deceit, falling victim to a deceptive crypto investment ad that promised unrealistically high returns. Blindly trusting in the allure of quick wealth, I invested my life savings of about $250,000, only to have it disappear before my eyes. The devastation of losing my hard-earned funds to investment theft was overwhelming. As I frantically attempted to contact the supposed support team, I realized I had fallen prey to a sophisticated scam. With my hopes dashed and my finances in ruins, I was resigned to the grim reality of my situation – until I stumbled upon a glimmer of hope in the form of Lee Ultimate Hacker. Through a stroke of luck, I came across a review detailing the remarkable work of Lee Ultimate Hacker in recovering lost funds from cryptocurrency scams. Without hesitation, I reached out to them, desperate for a lifeline in my darkest hour. From the moment I made contact, I knew I had found a beacon of hope amidst the chaos of fraud and deception. Lee Ultimate Hacker's exceptional team of experts wasted no time in springing into action. Employing a combination of forensic analysis and digital currency recovery techniques, they meticulously traced the elusive trail of my stolen funds. Their dedication and expertise were evident at every turn, instilling in me a newfound sense of hope and optimism. Four days ago, I received the news I had scarcely dared to hope for – Lee Ultimate Hacker had successfully recovered all of my lost funds. The sense of relief and gratitude that washed over me was immeasurable. Not only had they restored my financial security, but they had also restored my faith in humanity. To anyone who finds themselves in a similar predicament, I cannot recommend Lee Ultimate Hacker highly enough. Their unwavering commitment to their client's well-being, combined with their unparalleled expertise in cryptocurrency recovery, sets them apart as a beacon of hope in a sea of uncertainty. Trust in their abilities, and let them guide you towards&nbsp;redemption.<br />
+LEEULTIMATEHACKER@ AOL. COM<br />
+Support @ leeultimatehacker . com.<br />
+telegram:LEEULTIMATE<br />
+wh@tsapp +1 (715) 314 - 9248</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6502915" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >GET BACK ALL YOUR LOST/SCAMMED CRYPTO WITH LEE ULTIMATE HACKER</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/alexender-orlean" onclick="WIKIDOT.page.listeners.userInfo(9127238); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9127238&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Alexender Orlean" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9127238)"/></a><a href="http://www.wikidot.com/user:info/alexender-orlean" onclick="WIKIDOT.page.listeners.userInfo(9127238); return false;" >Alexender Orlean</a></span>, <span class="odate time_1714939720 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 May 2024 20:08</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6502645">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6502645">
+																	<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac#post-6502645">Re: GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/zaniya-medlin" onclick="WIKIDOT.page.listeners.userInfo(9126913); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9126913&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Zaniya Medlin" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9126913)"/></a><a href="http://www.wikidot.com/user:info/zaniya-medlin" onclick="WIKIDOT.page.listeners.userInfo(9126913); return false;" >Zaniya Medlin</a></span> <span class="odate time_1714915796 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 May 2024 13:29</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16603231/get-your-money-back-from-bitcoin-cryptocurrency-scams-contac">GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6502645">
+									
+
+<p>Discovering that I had mined several Bitcoins worth $650,000 eight years ago only to lose access to my account and login was a devastating blow, especially with pressing financial obligations looming overhead. With tuition fees and my mother's mounting medical bills weighing heavily on my mind, I embarked on a desperate search for a solution. After months of fruitless attempts, a glimmer of hope appeared in the form of a Facebook post about a digital assets recovery service provider: the Daniel Meuli Web Recovery team. With nothing to lose and everything to gain, I decided to take a chance and enlist their help. To my utter amazement and delight, the Daniel Meuli Web Recovery team managed to recover my long-lost Bitcoin wallet from eight years ago! Their expertise and professionalism were nothing short of astounding, and I couldn't be happier with the outcome. Not only did they accomplish the seemingly impossible task of recovering my lost assets, but they did so in a remarkably short amount of time. What truly sets the Daniel Meuli Web Recovery team apart is their unwavering dedication to their clients. From the moment I reached out to them, they provided me with unparalleled support and guidance every step of the way. Their professionalism and expertise instilled confidence in me, knowing that my case was in capable hands. Moreover, the team took proactive measures to secure my account and prevent future breaches, ensuring that I could rest easy knowing that my assets were safe and protected. Their attention to detail and commitment to cybersecurity left me impressed and grateful for their services. Even now, long after my Bitcoin wallet has been recovered, I continue to rely on the Daniel Meuli Web Recovery team for their expertise and assistance. Whether it's for ongoing security measures or advice on digital asset management, I trust them implicitly to provide me with the support I need. In conclusion, I wholeheartedly recommend the Daniel Meuli Web Recovery team to anyone who finds themselves in a similar predicament. Their professionalism, expertise, and dedication to their clients are unmatched, and I am eternally grateful for their invaluable assistance. If you need digital asset recovery services, look no further than the Daniel Meuli Web Recovery team – they truly are the best in the business. Email Danielmeuliweberecovery @ email . com<br />
+Telegram user Danielmeuli</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6502645" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: GET YOUR MONEY BACK FROM BITCOIN &amp; CRYPTOCURRENCY SCAMS - CONTACT CAPTAIN WEBGENESIS</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/zaniya-medlin" onclick="WIKIDOT.page.listeners.userInfo(9126913); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9126913&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="Zaniya Medlin" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9126913)"/></a><a href="http://www.wikidot.com/user:info/zaniya-medlin" onclick="WIKIDOT.page.listeners.userInfo(9126913); return false;" >Zaniya Medlin</a></span>, <span class="odate time_1714915796 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">05 May 2024 13:29</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497518">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497518">
+																	<a href="forum/t-16420725/voodoo-love-spell-caster-in-durban-bring-back-lost-lovers-in#post-6497518">Re: Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436868 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:27</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16420725/voodoo-love-spell-caster-in-durban-bring-back-lost-lovers-in">Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497518">
+									
+
+<p>BUY 100% UNDETECTABLE COUNTERFEIT BANKNOTE PASSPORT , DRIVERS LICENSE,ID, https::::://perfectdocky.com<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe<br />
+WhatsApp……………..+4915212626456</p>
+<p>We are the best and Unique producer of HIGH QUALITY Undetectable counterfeit Banknotes. With over a billion of our products circulating around the world. We offer only original high-quality counterfeit currency NOTES. We ship worldwide. We also print and sell Grade A banknotes of over 52 currencies in the world. Here is your chance to be a millionaire. Our money is perfectly reproduced, Indistinguishable to the eye and to the touch. We are sending in various sizes, packed and hidden. All our notes carry all the holograms and water marks and pass the light detector test. We will deliver the money directly to your home without the interference of customs . We have a Huge quantity ready in stock. EUROS,DOLLARS AND POUNDS AND NOVELTY DOCUMENTS LIKE PASSPORTS,ID CARDS,GREEN CARDS AND DRIVERS LICENSE.</p>
+<p>NOTE … WE ALSO DO FACE TO FACE DEAL FOR BIGGER DEALS AND NOT SMALL AMOUNT</p>
+<p>Contact us for more information using the information below:</p>
+<p>email »»»»» <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp……………..+4915212626456</p>
+<p>We use the latest technology to produce our notes so that it looks 100% identical to the real note. This thus implies all security features present in the real notes are present in the note we make. Our team is made up of Quality IT technicians from Morocco, US, Russia, India, Korea and China etc We offer high quality counterfeit NOTES for all currencies.<br />
+Why would you buy from us?<br />
+Our banknotes contain the following security features that make<br />
+It is genius and we have the best grade counterfeit in the world both Euro and Dollar and any bills of your choice you want.<br />
+Security features of our bank notes below :<br />
+Intaglio printing<br />
+Watermarks<br />
+Security thread<br />
+See-through register<br />
+Special foil/special foil elements<br />
+Iridescent stripe / shifting colors.</p>
+<p>Contact us for more information using the information below:</p>
+<p>email »»»»» <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp……………..+4915212626456</p>
+<p>Our banknotes are printed on 80% cotton 20% cellulose paper which differs substantially from normal paper. By using a special printing technique, several picture elements on the front of the banknote are identifiable by touch. The guidelines on detecting counterfeit currency give a comparison of genuine and falsified security features.</p>
+<p>Our bills/notes bypass everything, counterfeit pens and machines.<br />
+Can be used in banks but can be used elsewhere same like normal money<br />
+We have the best HOLOGRAMS AND DUPLICATING MACHINES<br />
+UV: YES</p>
+<p>EUR - Euro<br />
+USD - US Dollar<br />
+DNR - DINAR<br />
+GBP - British Pound<br />
+INR - Indian Rupee<br />
+AUD - Australian Dollar<br />
+CAD - Canadian Dollar<br />
+AED - Emirati Dirham<br />
+ZAR - Rand<br />
+CHF - Swiss Franc<br />
+CNY - Chinese Yuan Renminbi<br />
+MYR - Malaysian RinggitTHB - Thai Bah<br />
+NZD - New Zealand Dollar<br />
+SAR - Saudi Arabian RiyalQAR - Qatari Riyal</p>
+<p>Contact us for more information using the information below:</p>
+<p>WhatsApp……………..+4915212626456<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497518" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436868 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:27</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497517">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497517">
+																	<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power#post-6497517">Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436842 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:27</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power">+27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497517">
+									
+
+<p>BUY 100% UNDETECTABLE COUNTERFEIT BANKNOTE PASSPORT , DRIVERS LICENSE,ID, https::::://perfectdocky.com<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe<br />
+WhatsApp……………..+4915212626456</p>
+<p>We are the best and Unique producer of HIGH QUALITY Undetectable counterfeit Banknotes. With over a billion of our products circulating around the world. We offer only original high-quality counterfeit currency NOTES. We ship worldwide. We also print and sell Grade A banknotes of over 52 currencies in the world. Here is your chance to be a millionaire. Our money is perfectly reproduced, Indistinguishable to the eye and to the touch. We are sending in various sizes, packed and hidden. All our notes carry all the holograms and water marks and pass the light detector test. We will deliver the money directly to your home without the interference of customs . We have a Huge quantity ready in stock. EUROS,DOLLARS AND POUNDS AND NOVELTY DOCUMENTS LIKE PASSPORTS,ID CARDS,GREEN CARDS AND DRIVERS LICENSE.</p>
+<p>NOTE … WE ALSO DO FACE TO FACE DEAL FOR BIGGER DEALS AND NOT SMALL AMOUNT</p>
+<p>Contact us for more information using the information below:</p>
+<p>email »»»»» <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp……………..+4915212626456</p>
+<p>We use the latest technology to produce our notes so that it looks 100% identical to the real note. This thus implies all security features present in the real notes are present in the note we make. Our team is made up of Quality IT technicians from Morocco, US, Russia, India, Korea and China etc We offer high quality counterfeit NOTES for all currencies.<br />
+Why would you buy from us?<br />
+Our banknotes contain the following security features that make<br />
+It is genius and we have the best grade counterfeit in the world both Euro and Dollar and any bills of your choice you want.<br />
+Security features of our bank notes below :<br />
+Intaglio printing<br />
+Watermarks<br />
+Security thread<br />
+See-through register<br />
+Special foil/special foil elements<br />
+Iridescent stripe / shifting colors.</p>
+<p>Contact us for more information using the information below:</p>
+<p>email »»»»» <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp……………..+4915212626456</p>
+<p>Our banknotes are printed on 80% cotton 20% cellulose paper which differs substantially from normal paper. By using a special printing technique, several picture elements on the front of the banknote are identifiable by touch. The guidelines on detecting counterfeit currency give a comparison of genuine and falsified security features.</p>
+<p>Our bills/notes bypass everything, counterfeit pens and machines.<br />
+Can be used in banks but can be used elsewhere same like normal money<br />
+We have the best HOLOGRAMS AND DUPLICATING MACHINES<br />
+UV: YES</p>
+<p>EUR - Euro<br />
+USD - US Dollar<br />
+DNR - DINAR<br />
+GBP - British Pound<br />
+INR - Indian Rupee<br />
+AUD - Australian Dollar<br />
+CAD - Canadian Dollar<br />
+AED - Emirati Dirham<br />
+ZAR - Rand<br />
+CHF - Swiss Franc<br />
+CNY - Chinese Yuan Renminbi<br />
+MYR - Malaysian RinggitTHB - Thai Bah<br />
+NZD - New Zealand Dollar<br />
+SAR - Saudi Arabian RiyalQAR - Qatari Riyal</p>
+<p>Contact us for more information using the information below:</p>
+<p>WhatsApp……………..+4915212626456<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497517" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436842 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:27</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497515">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497515">
+																	<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif#post-6497515">Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436797 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:26</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif">WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497515">
+									
+
+<p>BUY 100% UNDETECTABLE COUNTERFEIT BANKNOTE PASSPORT , DRIVERS LICENSE,ID, https::::://perfectdocky.com<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe<br />
+WhatsApp&#8230;&#8230;&#8230;&#8230;&#8230;..+4915212626456</p>
+<p>We are the best and Unique producer of HIGH QUALITY Undetectable counterfeit Banknotes. With over a billion of our products circulating around the world. We offer only original high-quality counterfeit currency NOTES. We ship worldwide. We also print and sell Grade A banknotes of over 52 currencies in the world. Here is your chance to be a millionaire. Our money is perfectly reproduced, Indistinguishable to the eye and to the touch. We are sending in various sizes, packed and hidden. All our notes carry all the holograms and water marks and pass the light detector test. We will deliver the money directly to your home without the interference of customs . We have a Huge quantity ready in stock. EUROS,DOLLARS AND POUNDS AND NOVELTY DOCUMENTS LIKE PASSPORTS,ID CARDS,GREEN CARDS AND DRIVERS LICENSE.</p>
+<p>NOTE &#8230; WE ALSO DO FACE TO FACE DEAL FOR BIGGER DEALS AND NOT SMALL AMOUNT</p>
+<p>Contact us for more information using the information below:</p>
+<p>email &#187;&#187;&#187;&#187;&#187; <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp&#8230;&#8230;&#8230;&#8230;&#8230;..+4915212626456</p>
+<p>We use the latest technology to produce our notes so that it looks 100% identical to the real note. This thus implies all security features present in the real notes are present in the note we make. Our team is made up of Quality IT technicians from Morocco, US, Russia, India, Korea and China etc We offer high quality counterfeit NOTES for all currencies.<br />
+Why would you buy from us?<br />
+Our banknotes contain the following security features that make<br />
+It is genius and we have the best grade counterfeit in the world both Euro and Dollar and any bills of your choice you want.<br />
+Security features of our bank notes below :<br />
+Intaglio printing<br />
+Watermarks<br />
+Security thread<br />
+See-through register<br />
+Special foil/special foil elements<br />
+Iridescent stripe / shifting colors.</p>
+<p>Contact us for more information using the information below:</p>
+<p>email &#187;&#187;&#187;&#187;&#187; <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+https::::://perfectdocky.com<br />
+WhatsApp&#8230;&#8230;&#8230;&#8230;&#8230;..+4915212626456</p>
+<p>Our banknotes are printed on 80% cotton 20% cellulose paper which differs substantially from normal paper. By using a special printing technique, several picture elements on the front of the banknote are identifiable by touch. The guidelines on detecting counterfeit currency give a comparison of genuine and falsified security features.</p>
+<p>Our bills/notes bypass everything, counterfeit pens and machines.<br />
+Can be used in banks but can be used elsewhere same like normal money<br />
+We have the best HOLOGRAMS AND DUPLICATING MACHINES<br />
+UV: YES</p>
+<p>EUR - Euro<br />
+USD - US Dollar<br />
+DNR - DINAR<br />
+GBP - British Pound<br />
+INR - Indian Rupee<br />
+AUD - Australian Dollar<br />
+CAD - Canadian Dollar<br />
+AED - Emirati Dirham<br />
+ZAR - Rand<br />
+CHF - Swiss Franc<br />
+CNY - Chinese Yuan Renminbi<br />
+MYR - Malaysian RinggitTHB - Thai Bah<br />
+NZD - New Zealand Dollar<br />
+SAR - Saudi Arabian RiyalQAR - Qatari Riyal</p>
+<p>Contact us for more information using the information below:</p>
+<p>WhatsApp&#8230;&#8230;&#8230;&#8230;&#8230;..+4915212626456<br />
+email <span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+Telegram..@noteglobe</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497515" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436797 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:26</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497514">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497514">
+																	<a href="forum/t-16420725/voodoo-love-spell-caster-in-durban-bring-back-lost-lovers-in#post-6497514">Re: Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436698 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:24</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16420725/voodoo-love-spell-caster-in-durban-bring-back-lost-lovers-in">Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497514">
+									
+
+<p>buy real and fake passports ( https::::perfectdocky(dot)com )drivers license, residence permit, id card,<br />
+Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp… +4915212626456</p>
+<p>legit cleandocs are the leading second valid passport &amp; citizenship specialists with over 10 years in the industry. Contact us for a personal and confidential consultation. We are specialists in the production of real database registered novelty passports, Driver's License, ID Cards , Residence Permit, SSN, Full Citizenship Package, Diploma's, IELTS / TOEFL, Certificates and many more in which we record all information about the client in the proposed database system. Everything is real, and the client without problems uses the document legally.</p>
+<p>We make it easier for everyone to acquire a registered international passport, driver's license and more regardless of where you are from.</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456 Buy high quality undetectable grade AA+ counterfeit banknoteCounterfeit money, also known as fake or forged currency, has been a problem for economies worldwide for centuries. While it may seem counterintuitive, the existence and circulation of counterfeit money can actually be beneficial to a country's economy and financial system. In recent years, the rise of the internet has made it easier for people to buy counterfeit money online, and this article will explore the importance of counterfeit money, both historically and in the current digital age</p>
+<p>WhatsApp: +4915212626456 Buy Fake CAB Bills in USA/ Buy Xanax, buy fake U.S. dollar/ USD, Euro / EUR, fake Japanese yen / JPY, Sterling/GBP, Renminbi/CNY, Australian dollar/AUD, Canadian dollar/CAD, WhatsApp +4915212626456 Swiss franc / CHF, Hong Kong dollar / HKD, Singapore dollar/SGD, Swedish krona/SEK, South Korean won/KRW, Norwegian krone/NOK,</p>
+<p>New Zealand dollar/NZD, Indian rupee/INR, Mexican peso/MXN, New Taiwan dollar/TWD, South African rand/ZAR, Brazilian real/BRL,</p>
+<p>Danish krone/DKK, Polish złoty/PLN, Thai baht/THB, Israeli new shekel/ILS, Indonesian rupiah/IDR, Czech koruna/CZK,</p>
+<p>UAE dirham/AED, Turkish lira/TRY, Hungarian forint, Chilean peso/CLP, Saudi riyal/SAR, Philippine peso/PHP, Malaysian ringgit/MYR,</p>
+<p>Colombian peso/COP, Russian ruble/RUB, Romanian leu/RON, Peruvian sol/PEN, Bahraini dinar/BHD, Bulgarian lev/BGN, Argentine peso,</p>
+<p>Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp… +4915212626456</p>
+<p>Buy Drivers License Online</p>
+<p>Buy Registered Drivers License Online</p>
+<p>Buy Real Drivers License Online</p>
+<p>Buy Fake Drivers License Online</p>
+<p>Buy Passport Online</p>
+<p>Buy Registered Passport Online</p>
+<p>Buy Us Passport Online</p>
+<p>Buy A Spanish Passport</p>
+<p>Buy Canadian Passport Online</p>
+<p>Buy German Passport Online</p>
+<p>Buy Italian Passport</p>
+<p>Buy Passport Online Austria</p>
+<p>Buy Australia Passport Online</p>
+<p>Buy British Passport Online</p>
+<p>Buy A Malaysian Passport Online</p>
+<p>Buy Eu Passport Online Buy Passports</p>
+<p>Online With Shipping And Delivery</p>
+<p>Buy Real Passport Online</p>
+<p>Buy Spanish Passport Online</p>
+<p>Buy A Us Passport Online</p>
+<p>Buy Real Us Passport Online</p>
+<p>Buy Dutch Passport Online</p>
+<p>Buy Singapore Passport Online</p>
+<p>Buy Japan Passport Online</p>
+<p>Buy Austria Passport online</p>
+<p>Buy Finland Passport Online</p>
+<p>Buy France Passport Online</p>
+<p>Buy Luxembourg Passport online</p>
+<p>Buy south Korean Passport online</p>
+<p>Buy Sweden passport online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>Buy Uk Drivers License</p>
+<p>Buy Us Driver's License Online</p>
+<p>Buy Drivers License Australia</p>
+<p>Buy German Drivers License Online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>buy Social Security Number/Buy Card Adoption Certificatesbuy Emancipation Documentsbuy Birth Certificatesbuy Marriage Certificatesbuy College Degrees</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497514" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: Voodoo Love Spell Caster In Durban, Bring Back Lost Lovers In Soweto Gauteng Call ☏ +27782830887</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436698 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:24</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497513">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497513">
+																	<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power#post-6497513">Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436662 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:24</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16371334/27836747188-lottery-spell-caster-in-australia-usa:most-power">+27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497513">
+									
+
+<p>buy real and fake passports ( https::::perfectdocky(dot)com )drivers license, residence permit, id card,<br />
+Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp… +4915212626456</p>
+<p>legit cleandocs are the leading second valid passport &amp; citizenship specialists with over 10 years in the industry. Contact us for a personal and confidential consultation. We are specialists in the production of real database registered novelty passports, Driver's License, ID Cards , Residence Permit, SSN, Full Citizenship Package, Diploma's, IELTS / TOEFL, Certificates and many more in which we record all information about the client in the proposed database system. Everything is real, and the client without problems uses the document legally.</p>
+<p>We make it easier for everyone to acquire a registered international passport, driver's license and more regardless of where you are from.</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456 Buy high quality undetectable grade AA+ counterfeit banknoteCounterfeit money, also known as fake or forged currency, has been a problem for economies worldwide for centuries. While it may seem counterintuitive, the existence and circulation of counterfeit money can actually be beneficial to a country's economy and financial system. In recent years, the rise of the internet has made it easier for people to buy counterfeit money online, and this article will explore the importance of counterfeit money, both historically and in the current digital age</p>
+<p>WhatsApp: +4915212626456 Buy Fake CAB Bills in USA/ Buy Xanax, buy fake U.S. dollar/ USD, Euro / EUR, fake Japanese yen / JPY, Sterling/GBP, Renminbi/CNY, Australian dollar/AUD, Canadian dollar/CAD, WhatsApp +4915212626456 Swiss franc / CHF, Hong Kong dollar / HKD, Singapore dollar/SGD, Swedish krona/SEK, South Korean won/KRW, Norwegian krone/NOK,</p>
+<p>New Zealand dollar/NZD, Indian rupee/INR, Mexican peso/MXN, New Taiwan dollar/TWD, South African rand/ZAR, Brazilian real/BRL,</p>
+<p>Danish krone/DKK, Polish złoty/PLN, Thai baht/THB, Israeli new shekel/ILS, Indonesian rupiah/IDR, Czech koruna/CZK,</p>
+<p>UAE dirham/AED, Turkish lira/TRY, Hungarian forint, Chilean peso/CLP, Saudi riyal/SAR, Philippine peso/PHP, Malaysian ringgit/MYR,</p>
+<p>Colombian peso/COP, Russian ruble/RUB, Romanian leu/RON, Peruvian sol/PEN, Bahraini dinar/BHD, Bulgarian lev/BGN, Argentine peso,</p>
+<p>Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp… +4915212626456</p>
+<p>Buy Drivers License Online</p>
+<p>Buy Registered Drivers License Online</p>
+<p>Buy Real Drivers License Online</p>
+<p>Buy Fake Drivers License Online</p>
+<p>Buy Passport Online</p>
+<p>Buy Registered Passport Online</p>
+<p>Buy Us Passport Online</p>
+<p>Buy A Spanish Passport</p>
+<p>Buy Canadian Passport Online</p>
+<p>Buy German Passport Online</p>
+<p>Buy Italian Passport</p>
+<p>Buy Passport Online Austria</p>
+<p>Buy Australia Passport Online</p>
+<p>Buy British Passport Online</p>
+<p>Buy A Malaysian Passport Online</p>
+<p>Buy Eu Passport Online Buy Passports</p>
+<p>Online With Shipping And Delivery</p>
+<p>Buy Real Passport Online</p>
+<p>Buy Spanish Passport Online</p>
+<p>Buy A Us Passport Online</p>
+<p>Buy Real Us Passport Online</p>
+<p>Buy Dutch Passport Online</p>
+<p>Buy Singapore Passport Online</p>
+<p>Buy Japan Passport Online</p>
+<p>Buy Austria Passport online</p>
+<p>Buy Finland Passport Online</p>
+<p>Buy France Passport Online</p>
+<p>Buy Luxembourg Passport online</p>
+<p>Buy south Korean Passport online</p>
+<p>Buy Sweden passport online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>Buy Uk Drivers License</p>
+<p>Buy Us Driver's License Online</p>
+<p>Buy Drivers License Australia</p>
+<p>Buy German Drivers License Online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>buy Social Security Number/Buy Card Adoption Certificatesbuy Emancipation Documentsbuy Birth Certificatesbuy Marriage Certificatesbuy College Degrees</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497513" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: +27836747188 Lottery Spell Caster in Australia,USA: Most Powerful Lottery Spells to Win the Mega Mi</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436662 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:24</span>
+		</div>
+	</div>
+ 
+                      
+		<div class="post" id="post-6497511">
+		<div class="long">
+			<div class="head">
+								<div class="title" id="post-title-6497511">
+																	<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif#post-6497511">Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+									</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span> <span class="odate time_1714436620 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:23</span>
+																	<br/>
+						in discussion <a href="forum/c-2177751/open-topic">Community / Open Topic</a> &raquo;
+						<a href="forum/t-16641739/whatsapp-371-204-33160-wir-bieten-gueltiges-b2-goethe-zertif">WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a>
+														</div>
+			</div>
+			<div class="content" id="post-content-6497511">
+									
+
+<p>buy real and fake passports ( https::::perfectdocky(dot)com )drivers license, residence permit, id card,<br />
+Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp&#8230; +4915212626456</p>
+<p>legit cleandocs are the leading second valid passport &amp; citizenship specialists with over 10 years in the industry. Contact us for a personal and confidential consultation. We are specialists in the production of real database registered novelty passports, Driver's License, ID Cards , Residence Permit, SSN, Full Citizenship Package, Diploma's, IELTS / TOEFL, Certificates and many more in which we record all information about the client in the proposed database system. Everything is real, and the client without problems uses the document legally.</p>
+<p>We make it easier for everyone to acquire a registered international passport, driver's license and more regardless of where you are from.</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456 Buy high quality undetectable grade AA+ counterfeit banknoteCounterfeit money, also known as fake or forged currency, has been a problem for economies worldwide for centuries. While it may seem counterintuitive, the existence and circulation of counterfeit money can actually be beneficial to a country's economy and financial system. In recent years, the rise of the internet has made it easier for people to buy counterfeit money online, and this article will explore the importance of counterfeit money, both historically and in the current digital age</p>
+<p>WhatsApp: +4915212626456 Buy Fake CAB Bills in USA/ Buy Xanax, buy fake U.S. dollar/ USD, Euro / EUR, fake Japanese yen / JPY, Sterling/GBP, Renminbi/CNY, Australian dollar/AUD, Canadian dollar/CAD, WhatsApp +4915212626456 Swiss franc / CHF, Hong Kong dollar / HKD, Singapore dollar/SGD, Swedish krona/SEK, South Korean won/KRW, Norwegian krone/NOK,</p>
+<p>New Zealand dollar/NZD, Indian rupee/INR, Mexican peso/MXN, New Taiwan dollar/TWD, South African rand/ZAR, Brazilian real/BRL,</p>
+<p>Danish krone/DKK, Polish złoty/PLN, Thai baht/THB, Israeli new shekel/ILS, Indonesian rupiah/IDR, Czech koruna/CZK,</p>
+<p>UAE dirham/AED, Turkish lira/TRY, Hungarian forint, Chilean peso/CLP, Saudi riyal/SAR, Philippine peso/PHP, Malaysian ringgit/MYR,</p>
+<p>Colombian peso/COP, Russian ruble/RUB, Romanian leu/RON, Peruvian sol/PEN, Bahraini dinar/BHD, Bulgarian lev/BGN, Argentine peso,</p>
+<p>Contact Us :::::<span class="wiki-email">moc.ykcodtcefrep|ofni#moc.ykcodtcefrep|ofni</span><br />
+WhatsApp&#8230; +4915212626456</p>
+<p>Buy Drivers License Online</p>
+<p>Buy Registered Drivers License Online</p>
+<p>Buy Real Drivers License Online</p>
+<p>Buy Fake Drivers License Online</p>
+<p>Buy Passport Online</p>
+<p>Buy Registered Passport Online</p>
+<p>Buy Us Passport Online</p>
+<p>Buy A Spanish Passport</p>
+<p>Buy Canadian Passport Online</p>
+<p>Buy German Passport Online</p>
+<p>Buy Italian Passport</p>
+<p>Buy Passport Online Austria</p>
+<p>Buy Australia Passport Online</p>
+<p>Buy British Passport Online</p>
+<p>Buy A Malaysian Passport Online</p>
+<p>Buy Eu Passport Online Buy Passports</p>
+<p>Online With Shipping And Delivery</p>
+<p>Buy Real Passport Online</p>
+<p>Buy Spanish Passport Online</p>
+<p>Buy A Us Passport Online</p>
+<p>Buy Real Us Passport Online</p>
+<p>Buy Dutch Passport Online</p>
+<p>Buy Singapore Passport Online</p>
+<p>Buy Japan Passport Online</p>
+<p>Buy Austria Passport online</p>
+<p>Buy Finland Passport Online</p>
+<p>Buy France Passport Online</p>
+<p>Buy Luxembourg Passport online</p>
+<p>Buy south Korean Passport online</p>
+<p>Buy Sweden passport online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>Buy Uk Drivers License</p>
+<p>Buy Us Driver's License Online</p>
+<p>Buy Drivers License Australia</p>
+<p>Buy German Drivers License Online</p>
+<p>Visit the website: https::::perfectdocky(dot)com</p>
+<p>WhatsApp contact: +4915212626456</p>
+<p>buy Social Security Number/Buy Card Adoption Certificatesbuy Emancipation Documentsbuy Birth Certificatesbuy Marriage Certificatesbuy College Degrees</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+																			</div>
+									
+			<div id="post-options-6497511" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+						<a class="title" href="javascript:;" >Re: WhatsApp(+371 204 33160)Wir bieten gültiges b2 Goethe-Zertifikat ohne Prüfungen A1-A2-B1-B2- C1-C2</a> by <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;"  ><img class="small" src="http://www.wikidot.com/avatar.php?userid=9037215&amp;amp;size=small&amp;amp;timestamp=1720132619" alt="emmanasmith" style="background-image:url(http://www.wikidot.com/userkarma.php?u=9037215)"/></a><a href="http://www.wikidot.com/user:info/emmanasmith" onclick="WIKIDOT.page.listeners.userInfo(9037215); return false;" >emmanasmith</a></span>, <span class="odate time_1714436620 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">30 Apr 2024 00:23</span>
+		</div>
+	</div>
+ 
+            </div>
+
+    <div class="pager"><span class="pager-no">page 1</span><span class="current">1</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(2)">2</a></span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(3)">3</a></span><span class="dots">...</span><span class="target"><a href="javascript:;" onclick="WIKIDOT.modules.ForumRecentPostsModule.listeners.updateList(2)">next &raquo;</a></span></div>
+</div>
+	</div>
+
+</div></div>
+
+
+
+
+
+
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://marvelrevolution.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/marvelrevolution.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://marvelrevolution.wikidot.com">Marvel Revolution MUCK</a></h3>
+            <div class="desc">          
+              Join the Revolution
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://contraptor.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/contraptor.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://contraptor.wikidot.com">Contraptor</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://bisgmit.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bisgmit.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://bisgmit.wikidot.com">Bisgmit</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://backrooms-wiki-bu.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/backrooms-wiki-bu.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://backrooms-wiki-bu.wikidot.com">Wikidot后室-Bucket分站（BU分站）</a></h3>
+            <div class="desc">          
+              你从未来来过这里
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Summon Beast</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13893344/summon-beast</link>
+		<description>Posts in the discussion thread &quot;Summon Beast&quot; - Incomplete section of stat block?</description>
+				<copyright></copyright>
+		<lastBuildDate>Thu, 04 Jul 2024 22:40:00 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13893344#post-4835174</guid>
+				<title>Re: Summon Beast</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13893344/summon-beast#post-4835174</link>
+				<description></description>
+				<pubDate>Thu, 03 Dec 2020 13:31:11 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed, thanks for the heads up. Amazing what a small, missing piece of code can do.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13893344#post-4834920</guid>
+				<title>Summon Beast</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13893344/summon-beast#post-4834920</link>
+				<description></description>
+				<pubDate>Thu, 03 Dec 2020 06:29:11 +0000</pubDate>
+				<wikidot:authorName>Out of Time</wikidot:authorName>				<wikidot:authorUserId>4858050</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey, I noticed that the beast stat block for the beast summoned by Summon Beast doesn't have a section for speed.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

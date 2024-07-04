@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>Page Tags - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 11887293;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "system:page-tags";
+        OZONE.request.timestamp = 1720132742;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "system:page-tags";
+        WIKIREQUEST.info.pageId = 48865967;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/css/wiki/pagestagcloud/PagesTagCloudModule.css);
+
+
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="../../local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="../../local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="../../common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="../../random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="../../index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/system:page-tags/tag/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="../../main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="../../system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="conjuration#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+<li><a href="../../help:quick-reference">Quick Reference</a></li>
+<li><a href="../../help:creating-pages">Creating Pages</a></li>
+<li><a href="../../help:editing-pages">Editing Pages</a></li>
+<li><a href="../../help:navigation-bars">Navigation Bars</a></li>
+<li><a href="../../help:using-modules">Using Modules</a></li>
+<li><a href="../../help:templates">Templates</a></li>
+<li><a href="../../help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="conjuration#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="../../_admin">Site Manager</a></li>
+<li><a href="../../nav:top">Edit Top Bar</a></li>
+<li><a href="../../nav:side">Edit Side Bar</a></li>
+<li><a href="../../css:_home">CSS Manager</a></li>
+<li><a href="../../system:recent-changes">Recent Changes</a></li>
+<li><a href="../../system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="../../help:_home">User Guide</a></li>
+<li><a href="../../help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="../../main:about">About</a></li>
+<li><a href="../../main:contact">Contact</a></li>
+<li><a href="../../legal:_home">Legal</a></li>
+<li><a href="../../forum:start">Discussion Forums</a></li>
+<li><a href="../../system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/system:page-tags/tag/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>Page Tags</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<div style="float:right; width: 50%;">	<div class="pages-tag-cloud-box">
+									<a class="tag" href="???"
+					style="font-size: 112%; color: rgb(124, 124, 188);"
+					>???</a>
+							<a class="tag" href="abjuration"
+					style="font-size: 121%; color: rgb(121, 121, 185);"
+					>abjuration</a>
+							<a class="tag" href="ai"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>ai</a>
+							<a class="tag" href="armor"
+					style="font-size: 125%; color: rgb(120, 120, 184);"
+					>armor</a>
+							<a class="tag" href="artifact"
+					style="font-size: 115%; color: rgb(123, 123, 187);"
+					>artifact</a>
+							<a class="tag" href="artificer"
+					style="font-size: 137%; color: rgb(116, 116, 180);"
+					>artificer</a>
+							<a class="tag" href="attuned"
+					style="font-size: 300%; color: rgb(64, 64, 128);"
+					>attuned</a>
+							<a class="tag" href="avatar"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>avatar</a>
+							<a class="tag" href="awakened"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>awakened</a>
+							<a class="tag" href="bard"
+					style="font-size: 161%; color: rgb(108, 108, 172);"
+					>bard</a>
+							<a class="tag" href="bard-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>bard-expanded</a>
+							<a class="tag" href="./bg:da"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>bg:da</a>
+							<a class="tag" href="bomt"
+					style="font-size: 121%; color: rgb(121, 121, 185);"
+					>bomt</a>
+							<a class="tag" href="./bp:gog"
+					style="font-size: 109%; color: rgb(125, 125, 189);"
+					>bp:gog</a>
+							<a class="tag" href="cantrip"
+					style="font-size: 118%; color: rgb(122, 122, 186);"
+					>cantrip</a>
+							<a class="tag" href="chonurgy"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>chonurgy</a>
+							<a class="tag" href="chronurgy"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>chronurgy</a>
+							<a class="tag" href="cleric"
+					style="font-size: 147%; color: rgb(113, 113, 177);"
+					>cleric</a>
+							<a class="tag" href="cleric-expanded"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>cleric-expanded</a>
+							<a class="tag" href="cm"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>cm</a>
+							<a class="tag" href="common"
+					style="font-size: 134%; color: rgb(117, 117, 181);"
+					>common</a>
+							<a class="tag" href="conjuration"
+					style="font-size: 139%; color: rgb(115, 115, 179);"
+					>conjuration</a>
+							<a class="tag" href="cos"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>cos</a>
+							<a class="tag" href="cr"
+					style="font-size: 110%; color: rgb(125, 125, 189);"
+					>cr</a>
+							<a class="tag" href="./cr:cn"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>cr:cn</a>
+							<a class="tag" href="dc"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>dc</a>
+							<a class="tag" href="divination"
+					style="font-size: 114%; color: rgb(123, 123, 187);"
+					>divination</a>
+							<a class="tag" href="dmg"
+					style="font-size: 199%; color: rgb(96, 96, 160);"
+					>dmg</a>
+							<a class="tag" href="druid"
+					style="font-size: 164%; color: rgb(108, 108, 172);"
+					>druid</a>
+							<a class="tag" href="druid-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>druid-expanded</a>
+							<a class="tag" href="dsdq"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>dsdq</a>
+							<a class="tag" href="dunamancy"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>dunamancy</a>
+							<a class="tag" href="egw"
+					style="font-size: 116%; color: rgb(123, 123, 187);"
+					>egw</a>
+							<a class="tag" href="eighth"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>eighth</a>
+							<a class="tag" href="enchantment"
+					style="font-size: 122%; color: rgb(121, 121, 185);"
+					>enchantment</a>
+							<a class="tag" href="./e:rlw"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>e:rlw</a>
+							<a class="tag" href="evocation"
+					style="font-size: 141%; color: rgb(115, 115, 179);"
+					>evocation</a>
+							<a class="tag" href="fifth"
+					style="font-size: 124%; color: rgb(120, 120, 184);"
+					>fifth</a>
+							<a class="tag" href="first"
+					style="font-size: 133%; color: rgb(118, 118, 182);"
+					>first</a>
+							<a class="tag" href="fourth"
+					style="font-size: 123%; color: rgb(121, 121, 185);"
+					>fourth</a>
+							<a class="tag" href="ftd"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ftd</a>
+							<a class="tag" href="ggr"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ggr</a>
+							<a class="tag" href="gos"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>gos</a>
+							<a class="tag" href="graviturgy"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>graviturgy</a>
+							<a class="tag" href="hat"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>hat</a>
+							<a class="tag" href="homebrew"
+					style="font-size: 129%; color: rgb(119, 119, 183);"
+					>homebrew</a>
+							<a class="tag" href="./id:rf"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>id:rf</a>
+							<a class="tag" href="illusion"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>illusion</a>
+							<a class="tag" href="immortal"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>immortal</a>
+							<a class="tag" href="imr"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>imr</a>
+							<a class="tag" href="jrc"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>jrc</a>
+							<a class="tag" href="kgv"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>kgv</a>
+							<a class="tag" href="legendary"
+					style="font-size: 155%; color: rgb(110, 110, 174);"
+					>legendary</a>
+							<a class="tag" href="llk"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>llk</a>
+							<a class="tag" href="lmp"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>lmp</a>
+							<a class="tag" href="./lr:dtb"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>lr:dtb</a>
+							<a class="tag" href="mcv2"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>mcv2</a>
+							<a class="tag" href="mot"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>mot</a>
+							<a class="tag" href="necromancy"
+					style="font-size: 116%; color: rgb(123, 123, 187);"
+					>necromancy</a>
+							<a class="tag" href="ninth"
+					style="font-size: 108%; color: rgb(126, 126, 190);"
+					>ninth</a>
+							<a class="tag" href="nomad"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>nomad</a>
+							<a class="tag" href="ooa"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>ooa</a>
+							<a class="tag" href="paladin"
+					style="font-size: 119%; color: rgb(122, 122, 186);"
+					>paladin</a>
+							<a class="tag" href="paladin-expanded"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>paladin-expanded</a>
+							<a class="tag" href="pbtso"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>pbtso</a>
+							<a class="tag" href="poa"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>poa</a>
+							<a class="tag" href="potion"
+					style="font-size: 114%; color: rgb(124, 124, 188);"
+					>potion</a>
+							<a class="tag" href="psaim"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>psaim</a>
+							<a class="tag" href="qis"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>qis</a>
+							<a class="tag" href="ranger"
+					style="font-size: 127%; color: rgb(119, 119, 183);"
+					>ranger</a>
+							<a class="tag" href="ranger-expanded"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>ranger-expanded</a>
+							<a class="tag" href="rare"
+					style="font-size: 193%; color: rgb(98, 98, 162);"
+					>rare</a>
+							<a class="tag" href="ring"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>ring</a>
+							<a class="tag" href="ritual"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>ritual</a>
+							<a class="tag" href="rod"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>rod</a>
+							<a class="tag" href="rot"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>rot</a>
+							<a class="tag" href="sas"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>sas</a>
+							<a class="tag" href="scc"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>scc</a>
+							<a class="tag" href="scroll"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>scroll</a>
+							<a class="tag" href="sdw"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>sdw</a>
+							<a class="tag" href="second"
+					style="font-size: 135%; color: rgb(117, 117, 181);"
+					>second</a>
+							<a class="tag" href="seventh"
+					style="font-size: 111%; color: rgb(125, 125, 189);"
+					>seventh</a>
+							<a class="tag" href="sixth"
+					style="font-size: 119%; color: rgb(122, 122, 186);"
+					>sixth</a>
+							<a class="tag" href="skt"
+					style="font-size: 106%; color: rgb(126, 126, 190);"
+					>skt</a>
+							<a class="tag" href="sorcerer"
+					style="font-size: 196%; color: rgb(97, 97, 161);"
+					>sorcerer</a>
+							<a class="tag" href="sorcerer-expanded"
+					style="font-size: 107%; color: rgb(126, 126, 190);"
+					>sorcerer-expanded</a>
+							<a class="tag" href="staff"
+					style="font-size: 112%; color: rgb(124, 124, 188);"
+					>staff</a>
+							<a class="tag" href="tagged"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>tagged</a>
+							<a class="tag" href="tce"
+					style="font-size: 117%; color: rgb(123, 123, 187);"
+					>tce</a>
+							<a class="tag" href="tdcsr"
+					style="font-size: 113%; color: rgb(124, 124, 188);"
+					>tdcsr</a>
+							<a class="tag" href="technomagic"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>technomagic</a>
+							<a class="tag" href="third"
+					style="font-size: 130%; color: rgb(118, 118, 182);"
+					>third</a>
+							<a class="tag" href="toa"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>toa</a>
+							<a class="tag" href="tod"
+					style="font-size: 102%; color: rgb(127, 127, 191);"
+					>tod</a>
+							<a class="tag" href="transmutation"
+					style="font-size: 141%; color: rgb(115, 115, 179);"
+					>transmutation</a>
+							<a class="tag" href="typ"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>typ</a>
+							<a class="tag" href="uncommon"
+					style="font-size: 175%; color: rgb(104, 104, 168);"
+					>uncommon</a>
+							<a class="tag" href="unearthedarcana"
+					style="font-size: 118%; color: rgb(122, 122, 186);"
+					>unearthedarcana</a>
+							<a class="tag" href="unique"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>unique</a>
+							<a class="tag" href="veor"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>veor</a>
+							<a class="tag" href="very-rare"
+					style="font-size: 168%; color: rgb(106, 106, 170);"
+					>very-rare</a>
+							<a class="tag" href="vgm"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>vgm</a>
+							<a class="tag" href="vrgr"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>vrgr</a>
+							<a class="tag" href="wand"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>wand</a>
+							<a class="tag" href="warlock"
+					style="font-size: 162%; color: rgb(108, 108, 172);"
+					>warlock</a>
+							<a class="tag" href="warlock-expanded"
+					style="font-size: 107%; color: rgb(126, 126, 190);"
+					>warlock-expanded</a>
+							<a class="tag" href="wbw"
+					style="font-size: 105%; color: rgb(126, 126, 190);"
+					>wbw</a>
+							<a class="tag" href="wdh"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>wdh</a>
+							<a class="tag" href="wdmm"
+					style="font-size: 104%; color: rgb(127, 127, 191);"
+					>wdmm</a>
+							<a class="tag" href="weapon"
+					style="font-size: 162%; color: rgb(108, 108, 172);"
+					>weapon</a>
+							<a class="tag" href="wgte"
+					style="font-size: 101%; color: rgb(128, 128, 192);"
+					>wgte</a>
+							<a class="tag" href="wizard"
+					style="font-size: 248%; color: rgb(81, 81, 145);"
+					>wizard</a>
+							<a class="tag" href="wizard-expanded"
+					style="font-size: 108%; color: rgb(125, 125, 189);"
+					>wizard-expanded</a>
+							<a class="tag" href="wondrous-item"
+					style="font-size: 281%; color: rgb(70, 70, 134);"
+					>wondrous-item</a>
+							<a class="tag" href="wondrous-items"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>wondrous-items</a>
+							<a class="tag" href="wtge"
+					style="font-size: 100%; color: rgb(128, 128, 192);"
+					>wtge</a>
+							<a class="tag" href="wu-jen"
+					style="font-size: 103%; color: rgb(127, 127, 191);"
+					>wu-jen</a>
+							<a class="tag" href="xge"
+					style="font-size: 117%; color: rgb(123, 123, 187);"
+					>xge</a>
+						</div>
+	
+</div>
+<a name="pages"></a>
+<h2>List of pages tagged with <em>conjuration</em>:</h2> 
+
+
+<div class="pages-list" id="tagged-pages-list">
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:acid-splash">Acid Splash</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:air-bubble">Air Bubble</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:arcane-gate">Arcane Gate</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:arms-of-hadar">Arms of Hadar</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:blade-of-disaster">Blade of Disaster</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:call-lightning">Call Lightning</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:cloudkill">Cloudkill</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:cloud-of-daggers">Cloud of Daggers</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-animals">Conjure Animals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-barlgura">Conjure Barlgura (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-barrage">Conjure Barrage</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-celestial">Conjure Celestial</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-elemental">Conjure Elemental</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-fey">Conjure Fey</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-hezrou">Conjure Hezrou (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-knowbot">Conjure Knowbot (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-lesser-demon">Conjure Lesser Demon (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-minor-elementals">Conjure Minor Elementals</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-shadow-demon">Conjure Shadow Demon (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-volley">Conjure Volley</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-vrock">Conjure Vrock (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:conjure-woodland-beings">Conjure Woodland Beings</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:create-bonfire">Create Bonfire</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:create-food-and-water">Create Food and Water</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:demiplane">Demiplane</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:dimension-door">Dimension Door</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:drawmijs-instant-summons">Drawmij's Instant Summons</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:dream-of-the-blue-veil">Dream of the Blue Veil</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:dust-devil">Dust Devil</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:ensnaring-strike">Ensnaring Strike</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:entangle">Entangle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:evards-black-tentacles">Evard's Black Tentacles</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:far-step">Far Step</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:find-familiar">Find Familiar</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:find-greater-steed">Find Greater Steed</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:find-steed">Find Steed</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:find-vehicle">Find Vehicle (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:flaming-sphere">Flaming Sphere</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:flock-of-familiars">Flock of Familiars</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:fog-cloud">Fog Cloud</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:freedom-of-the-waves">Freedom of the Waves (HB)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:galders-speedy-courier">Galder's Speedy Courier</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:galders-tower">Galder's Tower</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:Gate">Gate</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:grasping-vine">Grasping Vine</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:grease">Grease</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:guardian-of-faith">Guardian of Faith</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:hail-of-thorns">Hail of Thorns</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:healing-elixir-ua">Healing Elixir (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:healing-spirit">Healing Spirit</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:heroes-feast">Heroes' Feast</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:house-of-cards-ua">House of Cards (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:hunger-of-hadar">Hunger Of Hadar</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:ice-knife">Ice Knife</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:incendiary-cloud">Incendiary Cloud</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:infernal-calling">Infernal Calling</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:infestation">Infestation</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:insect-plague">Insect Plague</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:leomunds-secret-chest">Leomund's Secret Chest</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:mage-hand">Mage Hand</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:maze">Maze</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:mighty-fortress">Mighty Fortress</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:misty-step">Misty Step</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:mordenkainens-faithful-hound">Mordenkainen's Faithful Hound</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:mordenkainens-magnificent-mansion">Mordenkainen's Magnificent Mansion</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:planar-ally">Planar Ally</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:plane-shift">Plane Shift</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:poison-spray">Poison Spray</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:produce-flame">Produce Flame</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:reality-break">Reality Break</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:scatter">Scatter</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:sleet-storm">Sleet Storm</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:spirit-guardians">Spirit Guardians</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:spray-of-cards">Spray Of Cards</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:spray-of-cards-ua">Spray of Cards (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:steel-wind-strike">Steel Wind Strike</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:stinking-cloud">Stinking Cloud</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:storm-of-vengeance">Storm of Vengeance</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-aberration">Summon Aberration</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-beast">Summon Beast</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-celestial">Summon Celestial</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-construct">Summon Construct</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-draconic-spirit">Summon Draconic Spirit</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-draconic-spirit-ua">Summon Draconic Spirit (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-elemental">Summon Elemental</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-fey">Summon Fey</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-fiend">Summon Fiend</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-greater-demon">Summon Greater Demon</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-lesser-demons">Summon Lesser Demons</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-shadowspawn">Summon Shadowspawn</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:summon-warrior-spirit">Summon Warrior Spirit (UA)</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:sword-burst">Sword Burst</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:teleport">Teleport</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:teleportation-circle">Teleportation Circle</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:temple-of-the-gods">Temple of the Gods</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:tensers-floating-disk">Tenser's Floating Disk</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:thunder-step">Thunder Step</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:tidal-wave">Tidal Wave</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:Transport-Via-Plants">Transport via Plants</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:tree-stride">Tree Stride</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:tsunami">Tsunami</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:unseen-servant">Unseen Servant</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:vortex-warp">Vortex Warp</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:wall-of-thorns">Wall of Thorns</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:watery-sphere">Watery Sphere</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:web">Web</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:wish">Wish</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:word-of-recall">Word of Recall</a>
+			</div>
+		</div>
+			<div class="pages-list-item">
+			<div class="title">
+				<a href="../../spell:wristpocket">Wristpocket</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://fifabeapro360.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fifabeapro360.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://fifabeapro360.wikidot.com">Fifa Be A Pro 360</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://gamemaker.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/gamemaker.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://gamemaker.wikidot.com">GameMaker: Studio Wiki</a></h3>
+            <div class="desc">          
+              GameMaker: Studio Tutorials &amp; Resources
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://wikirmaphil.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/wikirmaphil.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://wikirmaphil.wikidot.com">RMA Philosophy Events</a></h3>
+            <div class="desc">          
+              Events Site for UU RMA Philosophy Students
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://firedawnfolder.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/firedawnfolder.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://firedawnfolder.wikidot.com">FiredawnFolder</a></h3>
+            <div class="desc">          
+              The not-quite Inner Circle but close enough
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>

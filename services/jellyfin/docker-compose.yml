@@ -27,8 +27,8 @@ services:
       # Media files for jellyfin are hosted on the filebrowser directories so that 
       # my family and friends can upload their own media easily.
       ###
-      - ${GHS_DIR}/services/filebrowser/filebrowser_data/hosted_docs/jellyfin/tv_shows:/data/tvshows
-      - ${GHS_DIR}/services/filebrowser/filebrowser_data/hosted_docs/jellyfin/movies:/data/movies
+      - ${GHS_DIR}/services/jellyfin/uploaded_files/tv_shows:/data/tvshows
+      - ${GHS_DIR}/services/jellyfin/uploaded_files/movies:/data/movies
     ports:
       - 8096
       # - 8920:8920 #optional - Https webUI (you need to set up your own certificate).

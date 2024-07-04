@@ -1,0 +1,1326 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title>All Items - DND 5th Edition</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "dnd5e.wikidot.com";
+        WIKIREQUEST.info.siteId = 1475899;
+        WIKIREQUEST.info.siteUnixName = "dnd5e";
+        WIKIREQUEST.info.categoryId = 12795626;
+        WIKIREQUEST.info.themeId = 2386862;
+        WIKIREQUEST.info.requestPageName = "wondrous-items:all";
+        OZONE.request.timestamp = 1720132623;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'en';
+                WIKIREQUEST.info.pageUnixName = "wondrous-items:all";
+        WIKIREQUEST.info.pageId = 1316059897;
+                        WIKIREQUEST.info.lang = "en";
+        OZONE.lang = "en";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="en"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--javascript/WIKIDOT.combined.js"></script>
+            <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <link href="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--fonts/awesome/3.2.1/font-awesome.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    
+    <style type="text/css">
+body {
+  background-position: center 24px;
+}
+</style>
+<style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                /* bootstrap */
+            @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--bootstrap/3.2.0/bootstrap.min.css);
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--theme/bootstrap-base/css/style.css);
+                    @import url(http://dnd5e.wdfiles.com/local--theme/standard-yellow/style.css);
+            </style>
+    
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+        
+    <link rel="shortcut icon" href="local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="common--images/apple-touch-icon-114x114.png" />
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="http://dnd5e.wikidot.com/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script>window.nitroAds=window.nitroAds||{createAd:function(){window.nitroAds.queue.push(["createAd",arguments])},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script async src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<!---------------------------------------------------------
+  Standard Template Layout
+  Developed by the Wikidot Community
+  Version: 1.01.141118
+---------------------------------------------------------->
+<a name="page-top"></a>
+<div id="navi-bar">
+  <a class="logo" href="http://www.wikidot.com">
+    <span>Wikidot.com</span>
+  </a>
+  
+  <div class="new-site">
+    <form method="get" action="http://www.wikidot.com/new-site">
+      <input class="text empty" type="text" name="address" value="site-name"/>.wikidot.com
+    </form>
+  </div>
+  
+    <div class="share">
+    <span>Share on</span>
+    <a class="twitter" target="_blank" rel="nofollow" href="http://twitter.com/home?status=TITLE+URI"
+      title="Share on Twitter"
+    ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/twitter.png" alt="twitter"/></a>  
+    <a class="facebook" target="_blank" rel="nofollow" href="http://www.facebook.com/share.php?u=URI&amp;t=TITLE"
+      title="Share on Facebook"><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/facebook.gif" alt="Facebook"
+      /></a>  
+    <a class="delicious" target="_blank" rel="nofollow" href="http://delicious.com/save"
+      title="Share on Delicious"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/delicious.png" alt="Delicious"/></a>
+    <a class="digg" target="_blank" rel="nofollow" href="http://digg.com/submit?url=URI&amp;title=TITLE"
+      title="Post to Digg"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/digg.png" alt="Digg"/></a>
+    <a class="reddit" href="http://www.reddit.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to Reddit"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/reddit.png" alt="Reddit" border="0" /></a>
+    <a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=URI" rel="nofollow" target="_blank"
+      title="Post to StumbleUpon"
+      ><img src="http://d3g0gp89917ko0.cloudfront.net/v--b466fa696223/common--images/social/stumble.png" alt="Reddit" border="0" /></a>
+  </div>
+    
+    
+    
+  <a class="random-site" href="random-site.php"
+  title="Go to a random Wikidot site.">Explore &raquo;</a>
+  </div>
+<div id="navi-bar-shadow">&nbsp;</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  $j(function(){
+    var uri = window.location.href;
+    var title = document.title
+    
+    $j('#navi-bar .share a').each(function(){
+      $t = $j(this);
+      var u = $t.attr('href');
+      u = u.replace(/TITLE/, encodeURIComponent(title)).replace(/URI/, encodeURIComponent(uri));
+      $t.attr('href', u);
+    });
+    
+    $j('#navi-bar .share .facebook').click(function(e){
+      window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(uri)+'&t='+encodeURIComponent(title),'sharer','toolbar=0,status=0,width=626,height=436');
+      e.preventDefault();
+    });
+    $j('#navi-bar .share .delicious').click(function(e){
+      window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550');
+      e.preventDefault();
+    });
+  });
+  
+	$j('#navi-bar .new-site form').submit(function(e){
+	  e.preventDefault();
+	  var $i = $j('#navi-bar .new-site form input.text');
+	  if($i.hasClass('empty')){
+	    	var w = new OZONE.dialogs.ErrorDialog();
+  			w.content = "You need to enter a valid web address for your new wiki.";
+  			w.show();
+  			return;
+    }
+    var siteName = $i.attr('value');
+    siteName = siteName.replace(/^\s+/, '').replace(/\s+$/,'');
+		var p = {};
+		p.action = 'wiki/special/NewWikiWidgetAction';
+		p.event = 'newWiki';
+		p.siteName = siteName;
+		OZONE.ajax.requestModule(null, p, function(r){
+		  if(r.status == 'site_exists'){
+		    window.location.href = 'http://' + siteName + '.' + URL_DOMAIN;
+		    return;
+		  }
+		  if(!WIKIDOT.utils.handleError(r)) {return;}
+  		// seems fine.
+  		window.location.href='http://'+URL_HOST+'/new-site/address/'+r.unixName;
+		});
+	});
+	$j('#navi-bar .new-site form input.text').focus(function(){
+	  var $t = $j(this);
+	  if($t.hasClass('empty')){
+	    $t.removeClass('empty');
+	    $t.attr('value', '');
+	  }
+	});
+	//]]>
+</script>
+
+
+<div class="container-wrap-wrap">
+<div class="container-wrap">
+ 
+<header class="header-wrap" role="banner">
+  <div class="container header">
+    <div class="site-title">
+      <h1><a href="index.html"><span>DND 5th Edition</span></a></h1>
+      <h2><span>community wiki</span></h2>
+    </div>
+    <div class="login-status">
+      <a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Create account</a> <span>or</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Sign in</a> 
+    </div>
+    <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="http://dnd5e.wikidot.com/dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Search this site" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Search"/>
+    </form>
+</div>
+  </div>
+ 
+  
+  <nav class="top-bar-wrap navbar navbar-default" role="navigation">
+    <div class="container top-bar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-target">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Home</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-top-target">
+        
+
+<ul class="nav navbar-nav">
+<li><a href="./main:about">About <span class="fa fa-info-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li><a href="./system:join">Membership <span class="fa fa-user"><span style="white-space: pre-wrap;">&nbsp;</span></span></a></li>
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="./wondrous-items:all#">Help Docs <span class="fa fa-question-circle"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+<li><a href="./help:quick-reference">Quick Reference</a></li>
+<li><a href="./help:creating-pages">Creating Pages</a></li>
+<li><a href="./help:editing-pages">Editing Pages</a></li>
+<li><a href="./help:navigation-bars">Navigation Bars</a></li>
+<li><a href="./help:using-modules">Using Modules</a></li>
+<li><a href="./help:templates">Templates</a></li>
+<li><a href="./help:css-themes">CSS Themes</a></li>
+</ul>
+</li>
+<li class="dropdown admins-only"><a class="dropdown-toggle" data-toggle="dropdown" href="./wondrous-items:all#"><span class="fa fa-cog"><span style="white-space: pre-wrap;">&nbsp;</span></span></a>
+<ul class="dropdown-menu">
+<li><a href="_admin">Site Manager</a></li>
+<li><a href="./nav:top">Edit Top Bar</a></li>
+<li><a href="./nav:side">Edit Side Bar</a></li>
+<li><a href="./css:_home">CSS Manager</a></li>
+<li><a href="./system:recent-changes">Recent Changes</a></li>
+<li><a href="./system:list-all-pages">List All Pages</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+      </div>
+    </div>
+  </nav>
+  
+ 
+  <div class="header-extra-div-1"><span></span></div>
+  <div class="header-extra-div-2"><span></span></div>
+  <div class="header-extra-div-3"><span></span></div>
+</header>
+ 
+<main class="content-wrap" role="main">
+  <div class="container content">
+    <div class="row">
+    
+      <nav class="side-bar-wrap col-md-3">
+        <div class="side-bar">
+          <div class="side-bar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-side-target">
+              <span>Menu</span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse navbar-side-target">
+            
+
+<div class="text-center" style="margin-bottom: 12px;"><div class="error-block">You should be logged in to clone a site.</div></div>
+<h1 ><span>Site Navigation</span></h1>
+<ul>
+<li><a href="./help:_home">User Guide</a></li>
+<li><a href="./help:first-time-user">First Time User</a></li>
+</ul>
+<ul>
+<li><a href="./main:about">About</a></li>
+<li><a href="./main:contact">Contact</a></li>
+<li><a href="./legal:_home">Legal</a></li>
+<li><a href="./forum:start">Discussion Forums</a></li>
+<li><a href="./system:members">Members</a></li>
+</ul>
+<h1 ><span>Create a Page</span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="http://dnd5e.wikidot.com/dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="New page" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+          </div>
+        </div>
+      </nav>
+      
+      <div class="main-content-wrap col-md-9">
+      
+        <div class="main-content">
+          <div class="page-title page-header"><span>All Items</span></div>
+          
+          
+        
+            <!-- wikidot_top_728x90 -->
+<div id="wad-dnd5e-above-content" class="wd-adunit wd-ad-np wd-adunit-above_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-above-content', {
+  "refreshLimit": 10,
+  "refreshTime": 94,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 728, 90 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+<div id="page-content">
+
+<h3 id="toc0"><span>All Items</span></h3>
+<p><a href="./wondrous-items:abracadabrus">Abracadabrus</a><br />
+<a href="./wondrous-items:absorbing-tattoo">Absorbing Tattoo</a><br />
+<a href="./wondrous-items:acheron-blade">Acheron Blade</a><br />
+<a href="./wondrous-items:adamantine-armor">Adamantine Armor</a><br />
+<a href="./wondrous-items:adaptive-helm">Adaptive Helm</a><br />
+<a href="./wondrous-items:agony">Agony</a><br />
+<a href="./wondrous-items:akmon">Akmon: Hammer of Purphoros</a><br />
+<a href="./wondrous-items:alchemical-compendium">Alchemical Compendium</a><br />
+<a href="./wondrous-items:alchemy-jug-blue">Alchemy Jug Blue</a><br />
+<a href="./wondrous-items:alchemy-jug-orange">Alchemy Jug Orange</a><br />
+<a href="./wondrous-items:alchemy-jug">Alchemy Jug</a><br />
+<a href="./wondrous-items:all-purpose-tool">All Purpose Tool</a><br />
+<a href="./wondrous-items:amethyst-lodestone">Amethyst Lodestone</a><br />
+<a href="./wondrous-items:ammunition">Ammunition +1, +2, or +3</a><br />
+<a href="./wondrous-items:amulet-of-health">Amulet of Health</a><br />
+<a href="./wondrous-items:amulet-of-proof-against-detection-and-location">Amulet of Proof Against Detection and Location</a><br />
+<a href="./wondrous-items:amulet-of-protection-from-turning">Amulet of Protection From Turning</a><br />
+<a href="./wondrous-items:amulet-of-the-black-skull">Amulet of the Black Skull</a><br />
+<a href="./wondrous-items:amulet-of-the-devout">Amulet of the Devout</a><br />
+<a href="./wondrous-items:amulet-of-the-drunkard">Amulet of the Drunkard</a><br />
+<a href="./wondrous-items:amulet-of-the-planes">Amulet of the Planes</a><br />
+<a href="./wondrous-items:amulet-of-the-shield">Amulet of the Shield</a><br />
+<a href="./wondrous-items:animated-shield">Animated Shield</a><br />
+<a href="./wondrous-items:apparatus-of-kwalish">Apparatus of Kwalish</a><br />
+<a href="./wondrous-items:arcane-cannon">Arcane Cannon</a><br />
+<a href="./wondrous-items:arcane-grimoire">Arcane Grimoire</a><br />
+<a href="./wondrous-items:arcane-propulsion-arm">Arcane Propulsion Arm</a><br />
+<a href="./wondrous-items:armblade">Armblade</a><br />
+<a href="./wondrous-items:armor-1-2-3">Armor +1, +2, +3</a><br />
+<a href="./wondrous-items:armor-of-gleaming">Armor of Gleaming</a><br />
+<a href="./wondrous-items:armor-of-invulnerability">Armor of Invulnerability</a><br />
+<a href="./wondrous-items:armor-of-resistance">Armor of Resistance</a><br />
+<a href="./wondrous-items:armor-of-the-valiant-soul">Armor of the Valiant Soul</a><br />
+<a href="./wondrous-items:armor-of-vulnerability">Armor of Vulnerability</a><br />
+<a href="./wondrous-items:arrow-catching-shield">Arrow Catching Shield</a><br />
+<a href="./wondrous-items:arrow-of-slaying">Arrow of Slaying</a><br />
+<a href="./wondrous-items:astral-shard">Astral Shard</a><br />
+<a href="./wondrous-items:astromancy-archive">Astromancy Archive</a><br />
+<a href="./wondrous-items:atlas-of-endless-horizons">Atlas of Endless Horizons</a><br />
+<a href="./wondrous-items:axe-of-the-dwarvish-lords">Axe of the Dwarvish Lords</a><br />
+<a href="./wondrous-items:azuredge">Azuredge</a><br />
+<a href="./wondrous-items:baba-yagas-mortar-and-pestle">Baba Yaga's Mortar &amp; Pestle</a><br />
+<a href="./wondrous-items:badge-of-the-watch">Badge of the Watch</a><br />
+<a href="./wondrous-items:bag-of-beans">Bag of Beans</a><br />
+<a href="./wondrous-items:bag-of-devouring">Bag of Devouring</a><br />
+<a href="./wondrous-items:bag-of-holding">Bag of Holding</a><br />
+<a href="./wondrous-items:bag-of-tricks">Bag of Tricks</a><br />
+<a href="./wondrous-items:balance-of-harmony">Balance of Harmony</a><br />
+<a href="./wondrous-items:balloon-pack">Balloon Pack</a><br />
+<a href="./wondrous-items:band-of-shrouds">Band of Shrouds</a><br />
+<a href="./wondrous-items:banner-of-the-krig-rune">Banner of the Krig Rune</a><br />
+<a href="./wondrous-items:banshees-veil">Banshee's Veil</a><br />
+<a href="./wondrous-items:barrier-tattoo">Barrier Tattoo</a><br />
+<a href="./wondrous-items:battering-shield">Battering Shield</a><br />
+<a href="./wondrous-items:battle-standard-of-infernal-power">Battle Standard of Infernal Power</a><br />
+<a href="./wondrous-items:bead-of-force">Bead of Force</a><br />
+<a href="./wondrous-items:bead-of-nourishment">Bead of Nourishment</a><br />
+<a href="./wondrous-items:bead-of-refreshment">Bead of Refreshment</a><br />
+<a href="./wondrous-items:belabor">Belabor</a><br />
+<a href="./wondrous-items:belashyrras-beholder-crown">Belashyrra's Beholder Crown</a><br />
+<a href="./wondrous-items:bell-branch">Bell Branch</a><br />
+<a href="./wondrous-items:belt-of-dwarvenkind">Belt of Dwarvenkind</a><br />
+<a href="./wondrous-items:belt-of-giant-strength">Belt of Giant Strength</a><br />
+<a href="./wondrous-items:berserker-axe">Berserker Axe</a><br />
+<a href="./wondrous-items:bilgewater-cutlass">Bilgewater Cutlass</a><br />
+<a href="./wondrous-items:blackrazor">Blackrazor</a><br />
+<a href="./wondrous-items:blackstaff">Blackstaff</a><br />
+<a href="./wondrous-items:blade-of-broken-mirrors">Blade of Broken Mirrors</a><br />
+<a href="./wondrous-items:blade-of-ledros">Blade of Ledros</a><br />
+<a href="./wondrous-items:blade-of-the-medusa">Blade of the Medusa</a><br />
+<a href="./wondrous-items:blazing-bowstring">Blazing Bowstring</a><br />
+<a href="./wondrous-items:blightstaff">Blightstaff</a><br />
+<a href="./wondrous-items:blinkback-belt">Blinkback Belt</a><br />
+<a href="./wondrous-items:blod-stone">Blod Stone</a><br />
+<a href="./wondrous-items:blood-fury-tattoo">Blood Fury Tattoo</a><br />
+<a href="./wondrous-items:blood-of-the-lycanthrope-antidote">Blood of the Lycanthrope Antidote</a><br />
+<a href="./wondrous-items:blood-spear">Blood Spear</a><br />
+<a href="./wondrous-items:bloodaxe">Bloodaxe</a><br />
+<a href="./wondrous-items:bloodwell-vial">Bloodwell Vial</a><br />
+<a href="./wondrous-items:bobbing-lily-pad">Bobbing Lily Pad</a><br />
+<a href="./wondrous-items:bonecounter">Bonecounter</a><br />
+<a href="./wondrous-items:book-of-exalted-deeds">Book of Exalted Deeds</a><br />
+<a href="./wondrous-items:book-of-vile-darkness">Book of Vile Darkness</a><br />
+<a href="./wondrous-items:bookmark">Bookmark</a><br />
+<a href="./wondrous-items:boots-of-elvenkind">Boots of Elvenkind</a><br />
+<a href="./wondrous-items:boots-of-false-tracks">Boots of False Tracks</a><br />
+<a href="./wondrous-items:boots-of-haste">Boots of Haste</a><br />
+<a href="./wondrous-items:boots-of-levitation">Boots of Levitation</a><br />
+<a href="./wondrous-items:boots-of-speed">Boots of Speed</a><br />
+<a href="./wondrous-items:boots-of-striding-and-springing">Boots of Striding and Springing</a><br />
+<a href="./wondrous-items:boots-of-swiftness">Boots of Swiftness</a><br />
+<a href="./wondrous-items:boots-of-the-vigilant">Boots of the Vigilant</a><br />
+<a href="./wondrous-items:boots-of-the-winterlands">Boots of the Winterlands</a><br />
+<a href="./wondrous-items:bottle-of-boundless-coffee">Bottle of Boundless Coffee</a><br />
+<a href="./wondrous-items:bottled-breath">Bottled Breath</a><br />
+<a href="./wondrous-items:bowl-of-commanding-water-elementals">Bowl of Commanding Water Elementals</a><br />
+<a href="./wondrous-items:bracelet-of-rock-magic">Bracelet of Rock Magic</a><br />
+<a href="./wondrous-items:bracer-of-flying-daggers">Bracer of Flying Daggers</a><br />
+<a href="./wondrous-items:bracers-of-archery">Bracers of Archery</a><br />
+<a href="./wondrous-items:bracers-of-defense">Bracers of Defense</a><br />
+<a href="./wondrous-items:brazier-of-commanding-fire-elementals">Brazier of Commanding Fire Elementals</a><br />
+<a href="./wondrous-items:breathing-bubble">Breathing Bubble</a><br />
+<a href="./wondrous-items:bridle-of-capturing">Bridle of Capturing</a><br />
+<a href="./wondrous-items:brooch-of-living-essence">Brooch of Living Essence</a><br />
+<a href="./wondrous-items:brooch-of-shielding">Brooch of Shielding</a><br />
+<a href="./wondrous-items:broom-of-flying">Broom of Flying</a><br />
+<a href="./wondrous-items:butchers-bib">Butcher's Bib</a><br />
+<a href="./wondrous-items:cabals-ruin">cabals-ruin</a><br />
+<a href="./wondrous-items:candle-of-invocation">candle-of-invocation</a><br />
+<a href="./wondrous-items:candle-of-the-deep">candle-of-the-deep</a><br />
+<a href="./wondrous-items:cap-of-water-breathing">cap-of-water-breathing</a><br />
+<a href="./wondrous-items:cape-of-the-mountebank">cape-of-the-mountebank</a><br />
+<a href="./wondrous-items:carpet-of-flying">carpet-of-flying</a><br />
+<a href="./wondrous-items:cast-off-armor">cast-off-armor</a><br />
+<a href="./wondrous-items:cataclysm-bolts">cataclysm-bolts</a><br />
+<a href="./wondrous-items:cauldron-of-plenty">cauldron-of-plenty</a><br />
+<a href="./wondrous-items:cauldron-of-rebirth">cauldron-of-rebirth</a><br />
+<a href="./wondrous-items:censer-of-controlling-air-elementals">censer-of-controlling-air-elementals</a><br />
+<a href="./wondrous-items:chain-of-returning">chain-of-returning</a><br />
+<a href="./wondrous-items:charlatans-die">charlatans-die</a><br />
+<a href="./wondrous-items:charm-of-plant-command">charm-of-plant-command</a><br />
+<a href="./wondrous-items:chime-of-opening">chime-of-opening</a><br />
+<a href="./wondrous-items:chromatic-rose">chromatic-rose</a><br />
+<a href="./wondrous-items:chronolometer">chronolometer</a><br />
+<a href="./wondrous-items:cincture-of-the-stone-king">cincture-of-the-stone-king</a><br />
+<a href="./wondrous-items:circlet-of-barbed-vision">circlet-of-barbed-vision</a><br />
+<a href="./wondrous-items:circlet-of-blasting">circlet-of-blasting</a><br />
+<a href="./wondrous-items:circlet-of-wisdom">circlet-of-wisdom</a><br />
+<a href="./wondrous-items:clarotas-helmet">clarotas-helmet</a><br />
+<a href="./wondrous-items:claw-of-the-wyrm-rune">claw-of-the-wyrm-rune</a><br />
+<a href="./wondrous-items:claws-of-the-umber-hulk">claws-of-the-umber-hulk</a><br />
+<a href="./wondrous-items:cleansing-stone">cleansing-stone</a><br />
+<a href="./wondrous-items:cloak-of-arachnida">cloak-of-arachnida</a><br />
+<a href="./wondrous-items:cloak-of-billowing">cloak-of-billowing</a><br />
+<a href="./wondrous-items:cloak-of-displacement">cloak-of-displacement</a><br />
+<a href="./wondrous-items:cloak-of-elvenkind">cloak-of-elvenkind</a><br />
+<a href="./wondrous-items:cloak-of-invisibility">cloak-of-invisibility</a><br />
+<a href="./wondrous-items:cloak-of-many-fashions">cloak-of-many-fashions</a><br />
+<a href="./wondrous-items:cloak-of-protection">cloak-of-protection</a><br />
+<a href="./wondrous-items:cloak-of-the-bat">cloak-of-the-bat</a><br />
+<a href="./wondrous-items:cloak-of-the-manta-ray">cloak-of-the-manta-ray</a><br />
+<a href="./wondrous-items:clockwork-amulet">clockwork-amulet</a><br />
+<a href="./wondrous-items:clothes-of-mending">clothes-of-mending</a><br />
+<a href="./wondrous-items:coat-of-the-crest">coat-of-the-crest</a><br />
+<a href="./wondrous-items:coiling-grasp-tattoo">coiling-grasp-tattoo</a><br />
+<a href="./wondrous-items:coin-of-delving">coin-of-delving</a><br />
+<a href="./wondrous-items:conch-of-teleportation">conch-of-teleportation</a><br />
+<a href="./wondrous-items:condemner">condemner</a><br />
+<a href="./wondrous-items:corecut-dagger">corecut-dagger</a><br />
+<a href="./wondrous-items:corpse-slayer">corpse-slayer</a><br />
+<a href="./wondrous-items:cracked-driftglobe">cracked-driftglobe</a><br />
+<a href="./wondrous-items:craven-edge">craven-edge</a><br />
+<a href="./wondrous-items:crook-of-rao">crook-of-rao</a><br />
+<a href="./wondrous-items:crystal-ball">crystal-ball</a><br />
+<a href="./wondrous-items:crystal-blade">crystal-blade</a><br />
+<a href="./wondrous-items:crystalline-chronicle">crystalline-chronicle</a><br />
+<a href="./wondrous-items:cube-of-force">cube-of-force</a><br />
+<a href="./wondrous-items:cubic-gate">cubic-gate</a><br />
+<a href="./wondrous-items:cuddly-strixhaven-mascot">cuddly-strixhaven-mascot</a><br />
+<a href="./wondrous-items:cursed-luckstone">cursed-luckstone</a><br />
+<a href="./wondrous-items:daerns-instant-fortress">daerns-instant-fortress</a><br />
+<a href="./wondrous-items:dagger-of-denial">dagger-of-denial</a><br />
+<a href="./wondrous-items:dagger-of-venom">dagger-of-venom</a><br />
+<a href="./wondrous-items:dancing-sword">dancing-sword</a><br />
+<a href="./wondrous-items:danoths-visor">danoths-visor</a><br />
+<a href="./wondrous-items:dark-shard-amulet">dark-shard-amulet</a><br />
+<a href="./wondrous-items:dawnbringer">dawnbringer</a><br />
+<a href="./wondrous-items:dead-mans-plate">dead-mans-plate</a><br />
+<a href="./wondrous-items:deathwalkers-ward">deathwalkers-ward</a><br />
+<a href="./wondrous-items:decanter-of-endless-water">decanter-of-endless-water</a><br />
+<a href="./wondrous-items:deck-of-illusions">deck-of-illusions</a><br />
+<a href="./wondrous-items:deck-of-many-things">deck-of-many-things</a><br />
+<a href="./wondrous-items:deck-of-several-things">deck-of-several-things</a><br />
+<a href="./wondrous-items:defender">defender</a><br />
+<a href="./wondrous-items:dekella">dekella</a><br />
+<a href="./wondrous-items:demon-armor">demon-armor</a><br />
+<a href="./wondrous-items:demonomicon-of-iggwilv">demonomicon-of-iggwilv</a><br />
+<a href="./wondrous-items:devastation-orb">devastation-orb</a><br />
+<a href="./wondrous-items:devotees-censer">devotees-censer</a><br />
+<a href="./wondrous-items:dimensional-loop">dimensional-loop</a><br />
+<a href="./wondrous-items:dimensional-shackles">dimensional-shackles</a><br />
+<a href="./wondrous-items:dispelling-stone">dispelling-stone</a><br />
+<a href="./wondrous-items:docent">docent</a><br />
+<a href="./wondrous-items:doublet-of-dramatic-demise">doublet-of-dramatic-demise</a><br />
+<a href="./wondrous-items:draakhorn">draakhorn</a><br />
+<a href="./wondrous-items:dragon-mask">dragon-mask</a><br />
+<a href="./wondrous-items:dragon-scale-mail">dragon-scale-mail</a><br />
+<a href="./wondrous-items:dragon-touched-focus">dragon-touched-focus</a><br />
+<a href="./wondrous-items:dragon-vessel">dragon-vessel</a><br />
+<a href="./wondrous-items:dragon-wing-bow">dragon-wing-bow</a><br />
+<a href="./wondrous-items:dragonhide-belt">dragonhide-belt</a><br />
+<a href="./wondrous-items:dragonlance">dragonlance</a><br />
+<a href="./wondrous-items:dragons-wrath-weapon">dragons-wrath-weapon</a><br />
+<a href="./wondrous-items:dragonstaff-of-ahghairon">dragonstaff-of-ahghairon</a><br />
+<a href="./wondrous-items:dragontooth-dagger">dragontooth-dagger</a><br />
+<a href="./wondrous-items:dread-helm">dread-helm</a><br />
+<a href="./wondrous-items:Driftglobe">driftglobe</a><br />
+<a href="./wondrous-items:drown">drown</a><br />
+<a href="./wondrous-items:duplicitous-manuscript">duplicitous-manuscript</a><br />
+<a href="./wondrous-items:duskcrusher">duskcrusher</a><br />
+<a href="./wondrous-items:dust-of-corrosion">dust-of-corrosion</a><br />
+<a href="./wondrous-items:dust-of-deliciousness">dust-of-deliciousness</a><br />
+<a href="./wondrous-items:dust-of-disappearance">dust-of-disappearance</a><br />
+<a href="./wondrous-items:dust-of-dryness">dust-of-dryness</a><br />
+<a href="./wondrous-items:dust-of-sneezing-and-choking">dust-of-sneezing-and-choking</a><br />
+<a href="./wondrous-items:dwarven-plate">dwarven-plate</a><br />
+<a href="./wondrous-items:dwarven-thrower">dwarven-thrower</a><br />
+<a href="./wondrous-items:dyrrns-tentacle-whip">dyrrns-tentacle-whip</a><br />
+<a href="./wondrous-items:eagle-whistle">eagle-whistle</a><br />
+<a href="./wondrous-items:ear-horn-of-hearing">ear-horn-of-hearing</a><br />
+<a href="./wondrous-items:earring-of-message">earring-of-message</a><br />
+<a href="./wondrous-items:earthboard">earthboard</a><br />
+<a href="./wondrous-items:earworm">earworm</a><br />
+<a href="./wondrous-items:echo-stone">echo-stone</a><br />
+<a href="./wondrous-items:efreeti-bottle">efreeti-bottle</a><br />
+<a href="./wondrous-items:efreeti-chain">efreeti-chain</a><br />
+<a href="./wondrous-items:eldritch-claw-tattoo">eldritch-claw-tattoo</a><br />
+<a href="./wondrous-items:eldritch-staff">eldritch-staff</a><br />
+<a href="./wondrous-items:elemental-essence-shard">elemental-essence-shard</a><br />
+<a href="./wondrous-items:Elemental-gem">elemental-gem</a><br />
+<a href="./wondrous-items:elixir-of-health">elixir-of-health</a><br />
+<a href="./wondrous-items:elven-chain">elven-chain</a><br />
+<a href="./wondrous-items:emerald-pen">emerald-pen</a><br />
+<a href="./wondrous-items:enduring-spellbook">enduring-spellbook</a><br />
+<a href="./wondrous-items:ephixis">ephixis</a><br />
+<a href="./wondrous-items:ersatz-eye">ersatz-eye</a><br />
+<a href="./wondrous-items:everbright-lantern">everbright-lantern</a><br />
+<a href="./wondrous-items:eversmoking-bottle">eversmoking-bottle</a><br />
+<a href="./wondrous-items:eye-and-hand-of-vecna">eye-and-hand-of-vecna</a><br />
+<a href="./wondrous-items:eyes-of-charming">eyes-of-charming</a><br />
+<a href="./wondrous-items:eyes-of-minute-seeing">eyes-of-minute-seeing</a><br />
+<a href="./wondrous-items:eyes-of-the-eagle">eyes-of-the-eagle</a><br />
+<a href="./wondrous-items:fane-eater">fane-eater</a><br />
+<a href="./wondrous-items:far-gear">far-gear</a><br />
+<a href="./wondrous-items:far-realm-shard">far-realm-shard</a><br />
+<a href="./wondrous-items:feather-of-diatryma-summoning">feather-of-diatryma-summoning</a><br />
+<a href="./wondrous-items:feather-token">feather-token</a><br />
+<a href="./wondrous-items:fenthras">fenthras</a><br />
+<a href="./wondrous-items:feywild-shard">feywild-shard</a><br />
+<a href="./wondrous-items:figurine-of-wondrous-power">figurine-of-wondrous-power</a><br />
+<a href="./wondrous-items:finders-goggles">finders-goggles</a><br />
+<a href="./wondrous-items:firebrand-warhammer">firebrand-warhammer</a><br />
+<a href="./wondrous-items:flail-of-tiamat">flail-of-tiamat</a><br />
+<a href="./wondrous-items:flame-tongue">flame-tongue</a><br />
+<a href="./wondrous-items:flamefriend-lantern">flamefriend-lantern</a><br />
+<a href="./wondrous-items:flask-of-perpetual-booze">flask-of-perpetual-booze</a><br />
+<a href="./wondrous-items:flying-chariot">flying-chariot</a><br />
+<a href="./wondrous-items:folding-boat">folding-boat</a><br />
+<a href="./wondrous-items:frost-brand">frost-brand</a><br />
+<a href="./wondrous-items:fulminating-treatise">fulminating-treatise</a><br />
+<a href="./wondrous-items:galders-bubble-pipe">galders-bubble-pipe</a><br />
+<a href="./wondrous-items:gamblers-blade">gamblers-blade</a><br />
+<a href="./wondrous-items:gate-stone">gate-stone</a><br />
+<a href="./wondrous-items:gauntlets-of-flaming-fury">gauntlets-of-flaming-fury</a><br />
+<a href="./wondrous-items:gauntlets-of-ogre-power">gauntlets-of-ogre-power</a><br />
+<a href="./wondrous-items:gavel-of-the-venn-rune">gavel-of-the-venn-rune</a><br />
+<a href="./wondrous-items:gem-of-brightness">gem-of-brightness</a><br />
+<a href="./wondrous-items:gem-of-seeing">gem-of-seeing</a><br />
+<a href="./wondrous-items:ghost-lantern">ghost-lantern</a><br />
+<a href="./wondrous-items:ghost-step-tattoo">ghost-step-tattoo</a><br />
+<a href="./wondrous-items:glamerweave">glamerweave</a><br />
+<a href="./wondrous-items:glamoured-studded-leather">glamoured-studded-leather</a><br />
+<a href="./wondrous-items:glove-of-blasting">glove-of-blasting</a><br />
+<a href="./wondrous-items:gloves-of-missile-snaring">gloves-of-missile-snaring</a><br />
+<a href="./wondrous-items:gloves-of-soul-catching">gloves-of-soul-catching</a><br />
+<a href="./wondrous-items:gloves-of-swimming-and-climbing">gloves-of-swimming-and-climbing</a><br />
+<a href="./wondrous-items:gloves-of-thievery">gloves-of-thievery</a><br />
+<a href="./wondrous-items:gnomengarde-grenade">gnomengarde-grenade</a><br />
+<a href="./wondrous-items:goggles-of-night">goggles-of-night</a><br />
+<a href="./wondrous-items:goggles-of-object-reading">goggles-of-object-reading</a><br />
+<a href="./wondrous-items:graz-tchar">graz-tchar</a><br />
+<a href="./wondrous-items:grimoire-infinitus">grimoire-infinitus</a><br />
+<a href="./wondrous-items:grovelthrash">grovelthrash</a><br />
+<a href="./wondrous-items:guardian-emblem">guardian-emblem</a><br />
+<a href="./wondrous-items:guild-keyrune">guild-keyrune</a><br />
+<a href="./wondrous-items:guild-signet">guild-signet</a><br />
+<a href="./wondrous-items:gulthias-staff">gulthias-staff</a><br />
+<a href="./wondrous-items:gurts-greataxe">gurts-greataxe</a><br />
+<a href="./wondrous-items:hammer-of-thunderbolts">hammer-of-thunderbolts</a><br />
+<a href="./wondrous-items:hand-cone-of-clarity">hand-cone-of-clarity</a><br />
+<a href="./wondrous-items:harkon-s-bite">harkon-s-bite</a><br />
+<a href="./wondrous-items:hat-of-disguise">hat-of-disguise</a><br />
+<a href="./wondrous-items:hat-of-vermin">hat-of-vermin</a><br />
+<a href="./wondrous-items:hat-of-wizardry">hat-of-wizardry</a><br />
+<a href="./wondrous-items:hazirawn">hazirawn</a><br />
+<a href="./wondrous-items:headband-of-intellect">headband-of-intellect</a><br />
+<a href="./wondrous-items:heart-weavers-primer">heart-weavers-primer</a><br />
+<a href="./wondrous-items:hell-hound-cloak">hell-hound-cloak</a><br />
+<a href="./wondrous-items:hellfire-weapon">hellfire-weapon</a><br />
+<a href="./wondrous-items:helm-of-brilliance">helm-of-brilliance</a><br />
+<a href="./wondrous-items:helm-of-comprehending-languages">helm-of-comprehending-languages</a><br />
+<a href="./wondrous-items:helm-of-devil-command">helm-of-devil-command</a><br />
+<a href="./wondrous-items:helm-of-telepathy">helm-of-telepathy</a><br />
+<a href="./wondrous-items:helm-of-teleportation">helm-of-teleportation</a><br />
+<a href="./wondrous-items:helm-of-the-gods">helm-of-the-gods</a><br />
+<a href="./wondrous-items:helm-of-underwater-action">helm-of-underwater-action</a><br />
+<a href="./wondrous-items:hewards-handy-haversack">hewards-handy-haversack</a><br />
+<a href="./wondrous-items:hewards-handy-spice-pouch">hewards-handy-spice-pouch</a><br />
+<a href="./wondrous-items:hewards-hireling-armor">hewards-hireling-armor</a><br />
+<a href="./wondrous-items:hide-of-the-feral-guardian">hide-of-the-feral-guardian</a><br />
+<a href="./wondrous-items:holy-avenger">holy-avenger</a><br />
+<a href="./wondrous-items:holy-symbol-of-ravenkind">holy-symbol-of-ravenkind</a><br />
+<a href="./wondrous-items:honors-last-stand">honors-last-stand</a><br />
+<a href="./wondrous-items:hook-of-fishers-delight">hook-of-fishers-delight</a><br />
+<a href="./wondrous-items:horn-of-blasting">horn-of-blasting</a><br />
+<a href="./wondrous-items:horn-of-silent-alarm">horn-of-silent-alarm</a><br />
+<a href="./wondrous-items:horseshoes-of-a-zephyr">horseshoes-of-a-zephyr</a><br />
+<a href="./wondrous-items:horseshoes-of-speed">horseshoes-of-speed</a><br />
+<a href="./wondrous-items:hunters-coat">hunters-coat</a><br />
+<a href="./wondrous-items:icon-of-ravenloft">icon-of-ravenloft</a><br />
+<a href="./wondrous-items:iggwilv-s-cauldron">iggwilv-s-cauldron</a><br />
+<a href="./wondrous-items:illuminators-tattoo">illuminators-tattoo</a><br />
+<a href="./wondrous-items:illusionists-bracers">illusionists-bracers</a><br />
+<a href="./wondrous-items:imbued-wood-focus">imbued-wood-focus</a><br />
+<a href="./wondrous-items:Immovable-rod">immovable-rod</a><br />
+<a href="./wondrous-items:inescapable-lash">inescapable-lash</a><br />
+<a href="./wondrous-items:infernal-puzzle-box">infernal-puzzle-box</a><br />
+<a href="./wondrous-items:infernal-tack">infernal-tack</a><br />
+<a href="./wondrous-items:infiltrators-key">infiltrators-key</a><br />
+<a href="./wondrous-items:ingot-of-the-skold-rune">ingot-of-the-skold-rune</a><br />
+<a href="./wondrous-items:insignia-of-claws">insignia-of-claws</a><br />
+<a href="./wondrous-items:instrument-of-illusions">instrument-of-illusions</a><br />
+<a href="./wondrous-items:instrument-of-scribing">instrument-of-scribing</a><br />
+<a href="./wondrous-items:instrument-of-the-bards">instrument-of-the-bards</a><br />
+<a href="./wondrous-items:ioun-stone">ioun-stone</a><br />
+<a href="./wondrous-items:iron-bands-of-bilarro">iron-bands-of-bilarro</a><br />
+<a href="./wondrous-items:iron-flask">iron-flask</a><br />
+<a href="./wondrous-items:ironfang">ironfang</a><br />
+<a href="./wondrous-items:javelin-of-lightning">javelin-of-lightning</a><br />
+<a href="./wondrous-items:jewel-of-three-prayers">jewel-of-three-prayers</a><br />
+<a href="./wondrous-items:keen-dagger">keen-dagger</a><br />
+<a href="./wondrous-items:Keoghtoms-ointment">keoghtoms-ointment</a><br />
+<a href="./wondrous-items:keycharm">keycharm</a><br />
+<a href="./wondrous-items:khrusor">khrusor</a><br />
+<a href="./wondrous-items:kiss-of-the-changebringer">kiss-of-the-changebringer</a><br />
+<a href="./wondrous-items:knaves-eye-patch">knaves-eye-patch</a><br />
+<a href="./wondrous-items:korolnor-scepter">korolnor-scepter</a><br />
+<a href="./wondrous-items:kyrzins-ooze">kyrzins-ooze</a><br />
+<a href="./wondrous-items:lantern-of-revealing">lantern-of-revealing</a><br />
+<a href="./wondrous-items:lantern-of-tracking">lantern-of-tracking</a><br />
+<a href="./wondrous-items:lash-of-shadows">lash-of-shadows</a><br />
+<a href="./wondrous-items:last-stand-armor">last-stand-armor</a><br />
+<a href="./wondrous-items:leather-golem-armor">leather-golem-armor</a><br />
+<a href="./wondrous-items:libram-of-souls-and-flesh">libram-of-souls-and-flesh</a><br />
+<a href="./wondrous-items:lifewell-tattoo">lifewell-tattoo</a><br />
+<a href="./wondrous-items:living-armor">living-armor</a><br />
+<a href="./wondrous-items:living-gloves">living-gloves</a><br />
+<a href="./wondrous-items:loadstone">loadstone</a><br />
+<a href="./wondrous-items:lock-of-trickery">lock-of-trickery</a><br />
+<a href="./wondrous-items:longbow-of-the-sky-sentinel">longbow-of-the-sky-sentinel</a><br />
+<a href="./wondrous-items:lords-ensemble">lords-ensemble</a><br />
+<a href="./wondrous-items:lorehold-primer">lorehold-primer</a><br />
+<a href="./wondrous-items:lost-crown-of-besilmer">lost-crown-of-besilmer</a><br />
+<a href="./wondrous-items:lubas-tarokka-of-souls">lubas-tarokka-of-souls</a><br />
+<a href="./wondrous-items:luck-blade">luck-blade</a><br />
+<a href="./wondrous-items:luckstone">luckstone</a><br />
+<a href="./wondrous-items:luxon-beacon">luxon-beacon</a><br />
+<a href="./wondrous-items:lyre-of-building">lyre-of-building</a><br />
+<a href="./wondrous-items:mace-of-disruption">mace-of-disruption</a><br />
+<a href="./wondrous-items:mace-of-smiting">mace-of-smiting</a><br />
+<a href="./wondrous-items:mace-of-terror">mace-of-terror</a><br />
+<a href="./wondrous-items:mace-of-the-black-crown">mace-of-the-black-crown</a><br />
+<a href="./wondrous-items:maelstrom-gloves">maelstrom-gloves</a><br />
+<a href="./wondrous-items:magicians-judge">magicians-judge</a><br />
+<a href="./wondrous-items:mantle-of-spell-resistance">mantle-of-spell-resistance</a><br />
+<a href="./wondrous-items:mantle-of-the-tempest">mantle-of-the-tempest</a><br />
+<a href="./wondrous-items:manual-of-bodily-health">manual-of-bodily-health</a><br />
+<a href="./wondrous-items:manual-of-gainful-exercise">manual-of-gainful-exercise</a><br />
+<a href="./wondrous-items:manual-of-golems">manual-of-golems</a><br />
+<a href="./wondrous-items:manual-of-quickness-of-action">manual-of-quickness-of-action</a><br />
+<a href="./wondrous-items:Mariners-armor">mariners-armor</a><br />
+<a href="./wondrous-items:mask-of-the-beast">mask-of-the-beast</a><br />
+<a href="./wondrous-items:mask-of-the-dragon-queen">mask-of-the-dragon-queen</a><br />
+<a href="./wondrous-items:masque-charm">masque-charm</a><br />
+<a href="./wondrous-items:masquerade-tattoo">masquerade-tattoo</a><br />
+<a href="./wondrous-items:mastix">mastix</a><br />
+<a href="./wondrous-items:matalotok">matalotok</a><br />
+<a href="./wondrous-items:medal-of-muscle">medal-of-muscle</a><br />
+<a href="./wondrous-items:medal-of-the-conch">medal-of-the-conch</a><br />
+<a href="./wondrous-items:medal-of-the-horizonback">medal-of-the-horizonback</a><br />
+<a href="./wondrous-items:medal-of-the-maze">medal-of-the-maze</a><br />
+<a href="./wondrous-items:medal-of-the-meat-pie">medal-of-the-meat-pie</a><br />
+<a href="./wondrous-items:medal-of-the-wetlands">medal-of-the-wetlands</a><br />
+<a href="./wondrous-items:medal-of-wit">medal-of-wit</a><br />
+<a href="./wondrous-items:medallion-of-thoughts">medallion-of-thoughts</a><br />
+<a href="./wondrous-items:mighty-servant-of-leuk-o">mighty-servant-of-leuk-o</a><br />
+<a href="./wondrous-items:mind-blade">mind-blade</a><br />
+<a href="./wondrous-items:mind-carapace-armor">mind-carapace-armor</a><br />
+<a href="./wondrous-items:mind-lash">mind-lash</a><br />
+<a href="./wondrous-items:mirror-of-infinite-transpondence">mirror-of-infinite-transpondence</a><br />
+<a href="./wondrous-items:mirror-of-life-trapping">mirror-of-life-trapping</a><br />
+<a href="./wondrous-items:mirror-of-the-past">mirror-of-the-past</a><br />
+<a href="./wondrous-items:Mithral-Armor">mithral-armor</a><br />
+<a href="./wondrous-items:mizzium-apparatus">mizzium-apparatus</a><br />
+<a href="./wondrous-items:mizzium-armor">mizzium-armor</a><br />
+<a href="./wondrous-items:mizzium-mortar">mizzium-mortar</a><br />
+<a href="./wondrous-items:molten-bronze-skin">molten-bronze-skin</a><br />
+<a href="./wondrous-items:moodmark-paint">moodmark-paint</a><br />
+<a href="./wondrous-items:moon-sickle">moon-sickle</a><br />
+<a href="./wondrous-items:moon-touched-sword">moon-touched-sword</a><br />
+<a href="./wondrous-items:moonblade">moonblade</a><br />
+<a href="./wondrous-items:moonhammer">moonhammer</a><br />
+<a href="./wondrous-items:mummy-rot-antidote">mummy-rot-antidote</a><br />
+<a href="./wondrous-items:murgaxor-s-orb">murgaxor-s-orb</a><br />
+<a href="./wondrous-items:mystery-key">mystery-key</a><br />
+<a href="./wondrous-items:mythcarver">mythcarver</a><br />
+<a href="./wondrous-items:natures-mantle">natures-mantle</a><br />
+<a href="./wondrous-items:navigation-orb">navigation-orb</a><br />
+<a href="./wondrous-items:necklace-of-adaptation">necklace-of-adaptation</a><br />
+<a href="./wondrous-items:necklace-of-fireballs">necklace-of-fireballs</a><br />
+<a href="./wondrous-items:necklace-of-prayer-beads">necklace-of-prayer-beads</a><br />
+<a href="./wondrous-items:needle-of-mending">needle-of-mending</a><br />
+<a href="./wondrous-items:nepenthe">nepenthe</a><br />
+<a href="./wondrous-items:nether-scroll-of-azumar">nether-scroll-of-azumar</a><br />
+<a href="./wondrous-items:night-caller">night-caller</a><br />
+<a href="./wondrous-items:nightfall-pearl">nightfall-pearl</a><br />
+<a href="./wondrous-items:nine-lives-stealer">nine-lives-stealer</a><br />
+<a href="./wondrous-items:nolzurs-marvelous-pigments">nolzurs-marvelous-pigments</a><br />
+<a href="./wondrous-items:oathbow">oathbow</a><br />
+<a href="./wondrous-items:obsidian-flint-dragon-plate">obsidian-flint-dragon-plate</a><br />
+<a href="./wondrous-items:oceanic-weapon">oceanic-weapon</a><br />
+<a href="./wondrous-items:oil-of-etherealness">oil-of-etherealness</a><br />
+<a href="./wondrous-items:oil-of-sharpness">oil-of-sharpness</a><br />
+<a href="./wondrous-items:oil-of-slipperiness">oil-of-slipperiness</a><br />
+<a href="./wondrous-items:opal-of-the-ild-rune">opal-of-the-ild-rune</a><br />
+<a href="./wondrous-items:orb-of-direction">orb-of-direction</a><br />
+<a href="./wondrous-items:orb-of-dragonkind">orb-of-dragonkind</a><br />
+<a href="./wondrous-items:orb-of-shielding">orb-of-shielding</a><br />
+<a href="./wondrous-items:orb-of-the-stein-rune">orb-of-the-stein-rune</a><br />
+<a href="./wondrous-items:orb-of-the-veil">orb-of-the-veil</a><br />
+<a href="./wondrous-items:orb-of-time">orb-of-time</a><br />
+<a href="./wondrous-items:orcsplitter">orcsplitter</a><br />
+<a href="./wondrous-items:orcus-figurine">orcus-figurine</a><br />
+<a href="./wondrous-items:ornithopter-of-flying">ornithopter-of-flying</a><br />
+<a href="./wondrous-items:orrery-of-the-wanderer">orrery-of-the-wanderer</a><br />
+<a href="./wondrous-items:outer-essence-shard">outer-essence-shard</a><br />
+<a href="./wondrous-items:paper-bird">paper-bird</a><br />
+<a href="./wondrous-items:pariahs-shield">pariahs-shield</a><br />
+<a href="./wondrous-items:pearl-of-power">pearl-of-power</a><br />
+<a href="./wondrous-items:pennant-of-the-vind-rune">pennant-of-the-vind-rune</a><br />
+<a href="./wondrous-items:peregrine-mask">peregrine-mask</a><br />
+<a href="./wondrous-items:perfume-of-bewitching">perfume-of-bewitching</a><br />
+<a href="./wondrous-items:periapt-of-health">periapt-of-health</a><br />
+<a href="./wondrous-items:periapt-of-proof-against-poison">periapt-of-proof-against-poison</a><br />
+<a href="./wondrous-items:philter-of-love">philter-of-love</a><br />
+<a href="./wondrous-items:pipe-of-remembrance">pipe-of-remembrance</a><br />
+<a href="./wondrous-items:pipe-of-smoke-monsters">pipe-of-smoke-monsters</a><br />
+<a href="./wondrous-items:pipes-of-haunting">pipes-of-haunting</a><br />
+<a href="./wondrous-items:pipes-of-the-sewers">pipes-of-the-sewers</a><br />
+<a href="./wondrous-items:piwafwi-of-fire-resistance">piwafwi-of-fire-resistance</a><br />
+<a href="./wondrous-items:piwafwi">piwafwi</a><br />
+<a href="./wondrous-items:pixie-dust">pixie-dust</a><br />
+<a href="./wondrous-items:planecallers-codex">planecallers-codex</a><br />
+<a href="./wondrous-items:plate-armor-of-etherealness">plate-armor-of-etherealness</a><br />
+<a href="./wondrous-items:plate-of-the-dawnmartyr">plate-of-the-dawnmartyr</a><br />
+<a href="./wondrous-items:platinum-scarf">platinum-scarf</a><br />
+<a href="./wondrous-items:pole-of-angling">pole-of-angling</a><br />
+<a href="./wondrous-items:pole-of-collapsing">pole-of-collapsing</a><br />
+<a href="./wondrous-items:polymorph-blade">polymorph-blade</a><br />
+<a href="./wondrous-items:portable-hole">portable-hole</a><br />
+<a href="./wondrous-items:pot-of-awakening">pot-of-awakening</a><br />
+<a href="./wondrous-items:potion-of-advantage">potion-of-advantage</a><br />
+<a href="./wondrous-items:potion-of-animal-friendship">potion-of-animal-friendship</a><br />
+<a href="./wondrous-items:potion-of-aqueous-form">potion-of-aqueous-form</a><br />
+<a href="./wondrous-items:potion-of-clairvoyance">potion-of-clairvoyance</a><br />
+<a href="./wondrous-items:potion-of-climbing">potion-of-climbing</a><br />
+<a href="./wondrous-items:potion-of-diminution">potion-of-diminution</a><br />
+<a href="./wondrous-items:potion-of-dragons-majesty">potion-of-dragons-majesty</a><br />
+<a href="./wondrous-items:potion-of-fire-breath">potion-of-fire-breath</a><br />
+<a href="./wondrous-items:potion-of-flying">potion-of-flying</a><br />
+<a href="./wondrous-items:potion-of-gaseous-form">potion-of-gaseous-form</a><br />
+<a href="./wondrous-items:potion-of-giant-size">potion-of-giant-size</a><br />
+<a href="./wondrous-items:potion-of-giant-strength">potion-of-giant-strength</a><br />
+<a href="./wondrous-items:potion-of-growth">potion-of-growth</a><br />
+<a href="./wondrous-items:Potion-of-healing">potion-of-healing</a><br />
+<a href="./wondrous-items:potion-of-invisibility">potion-of-invisibility</a><br />
+<a href="./wondrous-items:potion-of-invulnerability">potion-of-invulnerability</a><br />
+<a href="./wondrous-items:potion-of-longevity">potion-of-longevity</a><br />
+<a href="./wondrous-items:potion-of-maximum-power">potion-of-maximum-power</a><br />
+<a href="./wondrous-items:potion-of-mind-control">potion-of-mind-control</a><br />
+<a href="./wondrous-items:potion-of-mind-reading">potion-of-mind-reading</a><br />
+<a href="./wondrous-items:potion-of-poison">potion-of-poison</a><br />
+<a href="./wondrous-items:potion-of-possibility">potion-of-possibility</a><br />
+<a href="./wondrous-items:potion-of-resistance">potion-of-resistance</a><br />
+<a href="./wondrous-items:potion-of-speed">potion-of-speed</a><br />
+<a href="./wondrous-items:Potion-of-water-breathing">potion-of-water-breathing</a><br />
+<a href="./wondrous-items:powder-keg">powder-keg</a><br />
+<a href="./wondrous-items:powered-armor">powered-armor</a><br />
+<a href="./wondrous-items:pressure-capsule">pressure-capsule</a><br />
+<a href="./wondrous-items:prismari-primer">prismari-primer</a><br />
+<a href="./wondrous-items:professor-orb">professor-orb</a><br />
+<a href="./wondrous-items:prosthetic-limb">prosthetic-limb</a><br />
+<a href="./wondrous-items:protective-verses">protective-verses</a><br />
+<a href="./wondrous-items:psi-crystal">psi-crystal</a><br />
+<a href="./wondrous-items:pyremaul">pyremaul</a><br />
+<a href="./wondrous-items:pyroconverger">pyroconverger</a><br />
+<a href="./wondrous-items:pyxis-of-pandemonium">pyxis-of-pandemonium</a><br />
+<a href="./wondrous-items:quaals-feather-token">quaals-feather-token</a><br />
+<a href="./wondrous-items:quandrix-primer">quandrix-primer</a><br />
+<a href="./wondrous-items:quiver-of-ehlonna">quiver-of-ehlonna</a><br />
+<a href="./wondrous-items:radiance">radiance</a><br />
+<a href="./wondrous-items:rakdos-riteknife">rakdos-riteknife</a><br />
+<a href="./wondrous-items:ravens-slumber">ravens-slumber</a><br />
+<a href="./wondrous-items:reincarnation-dust">reincarnation-dust</a><br />
+<a href="./wondrous-items:revelers-concertina">revelers-concertina</a><br />
+<a href="./wondrous-items:rhythm-makers-drum">rhythm-makers-drum</a><br />
+<a href="./wondrous-items:ring-of-animal-influence">ring-of-animal-influence</a><br />
+<a href="./wondrous-items:ring-of-djinni-summoning">ring-of-djinni-summoning</a><br />
+<a href="./wondrous-items:ring-of-elemental-command">ring-of-elemental-command</a><br />
+<a href="./wondrous-items:ring-of-evasion">ring-of-evasion</a><br />
+<a href="./wondrous-items:ring-of-free-action">ring-of-free-action</a><br />
+<a href="./wondrous-items:ring-of-invisibility">ring-of-invisibility</a><br />
+<a href="./wondrous-items:ring-of-jumping">ring-of-jumping</a><br />
+<a href="./wondrous-items:ring-of-mind-shielding">ring-of-mind-shielding</a><br />
+<a href="./wondrous-items:ring-of-obscuring">ring-of-obscuring</a><br />
+<a href="./wondrous-items:ring-of-protection">ring-of-protection</a><br />
+<a href="./wondrous-items:ring-of-red-fury">ring-of-red-fury</a><br />
+<a href="./wondrous-items:ring-of-regeneration">ring-of-regeneration</a><br />
+<a href="./wondrous-items:ring-of-resistance">ring-of-resistance</a><br />
+<a href="./wondrous-items:ring-of-shooting-stars">ring-of-shooting-stars</a><br />
+<a href="./wondrous-items:ring-of-spell-splitting">ring-of-spell-splitting</a><br />
+<a href="./wondrous-items:ring-of-spell-storing">ring-of-spell-storing</a><br />
+<a href="./wondrous-items:ring-of-spell-turning">ring-of-spell-turning</a><br />
+<a href="./wondrous-items:Ring-of-swimming">ring-of-swimming</a><br />
+<a href="./wondrous-items:ring-of-telekinesis">ring-of-telekinesis</a><br />
+<a href="./wondrous-items:ring-of-temporal-salvation">ring-of-temporal-salvation</a><br />
+<a href="./wondrous-items:ring-of-the-ram">ring-of-the-ram</a><br />
+<a href="./wondrous-items:ring-of-three-wishes">ring-of-three-wishes</a><br />
+<a href="./wondrous-items:ring-of-truth-telling">ring-of-truth-telling</a><br />
+<a href="./wondrous-items:ring-of-water-walking">ring-of-water-walking</a><br />
+<a href="./wondrous-items:ring-of-winter">ring-of-winter</a><br />
+<a href="./wondrous-items:ring-of-x-ray-vision">ring-of-x-ray-vision</a><br />
+<a href="./wondrous-items:robe-of-eyes">robe-of-eyes</a><br />
+<a href="./wondrous-items:robe-of-flaying">robe-of-flaying</a><br />
+<a href="./wondrous-items:robe-of-scintillating-colors">robe-of-scintillating-colors</a><br />
+<a href="./wondrous-items:robe-of-serpents">robe-of-serpents</a><br />
+<a href="./wondrous-items:robe-of-stars">robe-of-stars</a><br />
+<a href="./wondrous-items:robe-of-summer">robe-of-summer</a><br />
+<a href="./wondrous-items:robe-of-the-archmagi">robe-of-the-archmagi</a><br />
+<a href="./wondrous-items:robe-of-useful-items">robe-of-useful-items</a><br />
+<a href="./wondrous-items:rod-of-absorption">rod-of-absorption</a><br />
+<a href="./wondrous-items:rod-of-alertness">rod-of-alertness</a><br />
+<a href="./wondrous-items:rod-of-hand-warming">rod-of-hand-warming</a><br />
+<a href="./wondrous-items:rod-of-lordly-might">rod-of-lordly-might</a><br />
+<a href="./wondrous-items:rod-of-mercurial-form">rod-of-mercurial-form</a><br />
+<a href="./wondrous-items:rod-of-resurrection">rod-of-resurrection</a><br />
+<a href="./wondrous-items:rod-of-retribution">rod-of-retribution</a><br />
+<a href="./wondrous-items:rod-of-rulership">rod-of-rulership</a><br />
+<a href="./wondrous-items:rod-of-security">rod-of-security</a><br />
+<a href="./wondrous-items:rod-of-the-pact-keeper">rod-of-the-pact-keeper</a><br />
+<a href="./wondrous-items:rod-of-the-solitary-scout">rod-of-the-solitary-scout</a><br />
+<a href="./wondrous-items:rod-of-the-vonindod">rod-of-the-vonindod</a><br />
+<a href="./wondrous-items:Rope-of-Climbing">rope-of-climbing</a><br />
+<a href="./wondrous-items:rope-of-entanglement">rope-of-entanglement</a><br />
+<a href="./wondrous-items:rope-of-mending">rope-of-mending</a><br />
+<a href="./wondrous-items:rotor-of-return">rotor-of-return</a><br />
+<a href="./wondrous-items:ruby-of-the-war-mage">ruby-of-the-war-mage</a><br />
+<a href="./wondrous-items:ruby-weave-gem">ruby-weave-gem</a><br />
+<a href="./wondrous-items:ruidium-armor">ruidium-armor</a><br />
+<a href="./wondrous-items:ruidium-shield">ruidium-shield</a><br />
+<a href="./wondrous-items:ruidium-weapon">ruidium-weapon</a><br />
+<a href="./wondrous-items:ruinblade">ruinblade</a><br />
+<a href="./wondrous-items:ruins-wake">ruins-wake</a><br />
+<a href="./wondrous-items:ruinstone">ruinstone</a><br />
+<a href="./wondrous-items:rune-magic">rune-magic</a><br />
+<a href="./wondrous-items:Saddle-of-the-cavalier">saddle-of-the-cavalier</a><br />
+<a href="./wondrous-items:saint-markovias-thighbone">saint-markovias-thighbone</a><br />
+<a href="./wondrous-items:sapphire-buckler">sapphire-buckler</a><br />
+<a href="./wondrous-items:scaled-ornament">scaled-ornament</a><br />
+<a href="./wondrous-items:scarab-of-protection">scarab-of-protection</a><br />
+<a href="./wondrous-items:scimitar-of-speed">scimitar-of-speed</a><br />
+<a href="./wondrous-items:scissors-of-shadow-snipping">scissors-of-shadow-snipping</a><br />
+<a href="./wondrous-items:scorpion-armor">scorpion-armor</a><br />
+<a href="./wondrous-items:scribes-pen">scribes-pen</a><br />
+<a href="./wondrous-items:scroll-of-protection">scroll-of-protection</a><br />
+<a href="./wondrous-items:scroll-of-tarrasque-summoning">scroll-of-tarrasque-summoning</a><br />
+<a href="./wondrous-items:scroll-of-the-comet">scroll-of-the-comet</a><br />
+<a href="./wondrous-items:seeker-dart">seeker-dart</a><br />
+<a href="./wondrous-items:sekolahian-worshipping-statuette">sekolahian-worshipping-statuette</a><br />
+<a href="./wondrous-items:sending-stones">sending-stones</a><br />
+<a href="./wondrous-items:sentinel-shield">sentinel-shield</a><br />
+<a href="./wondrous-items:serpent-belt">serpent-belt</a><br />
+<a href="./wondrous-items:serpent-s-fang">serpent-s-fang</a><br />
+<a href="./wondrous-items:serpent-scale-armor">serpent-scale-armor</a><br />
+<a href="./wondrous-items:shadowfell-brand-tattoo">shadowfell-brand-tattoo</a><br />
+<a href="./wondrous-items:shadowfell-shard">shadowfell-shard</a><br />
+<a href="./wondrous-items:shard-of-the-ise-rune">shard-of-the-ise-rune</a><br />
+<a href="./wondrous-items:shatterspike">shatterspike</a><br />
+<a href="./wondrous-items:shield-of-expression">shield-of-expression</a><br />
+<a href="./wondrous-items:shield-of-far-sight">shield-of-far-sight</a><br />
+<a href="./wondrous-items:shield-of-missile-attraction">shield-of-missile-attraction</a><br />
+<a href="./wondrous-items:shield-of-retribution">shield-of-retribution</a><br />
+<a href="./wondrous-items:shield-of-the-hidden-lord">shield-of-the-hidden-lord</a><br />
+<a href="./wondrous-items:shiftweave">shiftweave</a><br />
+<a href="./wondrous-items:silken-spite">silken-spite</a><br />
+<a href="./wondrous-items:silverquill-primer">silverquill-primer</a><br />
+<a href="./wondrous-items:siren-song-lyre">siren-song-lyre</a><br />
+<a href="./wondrous-items:skingorger">skingorger</a><br />
+<a href="./wondrous-items:skyblinder-staff">skyblinder-staff</a><br />
+<a href="./wondrous-items:skysail">skysail</a><br />
+<a href="./wondrous-items:sling-bullets-of-althemone">sling-bullets-of-althemone</a><br />
+<a href="./wondrous-items:slippers-of-spider-climbing">slippers-of-spider-climbing</a><br />
+<a href="./wondrous-items:smokepowder">smokepowder</a><br />
+<a href="./wondrous-items:smoldering-armor">smoldering-armor</a><br />
+<a href="./wondrous-items:snicker-snack">snicker-snack</a><br />
+<a href="./wondrous-items:soul-coin">soul-coin</a><br />
+<a href="./wondrous-items:sovereign-glue">sovereign-glue</a><br />
+<a href="./wondrous-items:speaking-stone">speaking-stone</a><br />
+<a href="./wondrous-items:spear-of-backbiting">spear-of-backbiting</a><br />
+<a href="./wondrous-items:spell-bottle">spell-bottle</a><br />
+<a href="./wondrous-items:spell-gem">spell-gem</a><br />
+<a href="./wondrous-items:spell-scroll">spell-scroll</a><br />
+<a href="./wondrous-items:spellguard-shield">spellguard-shield</a><br />
+<a href="./wondrous-items:spellshard">spellshard</a><br />
+<a href="./wondrous-items:spellwrought-tattoo">spellwrought-tattoo</a><br />
+<a href="./wondrous-items:sphere-of-annihilation">sphere-of-annihilation</a><br />
+<a href="./wondrous-items:spider-staff">spider-staff</a><br />
+<a href="./wondrous-items:spies-murmur">spies-murmur</a><br />
+<a href="./wondrous-items:spire-of-conflux">spire-of-conflux</a><br />
+<a href="./wondrous-items:staff-of-adornment">staff-of-adornment</a><br />
+<a href="./wondrous-items:staff-of-birdcalls">staff-of-birdcalls</a><br />
+<a href="./wondrous-items:staff-of-charming">staff-of-charming</a><br />
+<a href="./wondrous-items:staff-of-defense">staff-of-defense</a><br />
+<a href="./wondrous-items:staff-of-dunamancy">staff-of-dunamancy</a><br />
+<a href="./wondrous-items:staff-of-fate">staff-of-fate</a><br />
+<a href="./wondrous-items:staff-of-fire">staff-of-fire</a><br />
+<a href="./wondrous-items:staff-of-flowers">staff-of-flowers</a><br />
+<a href="./wondrous-items:staff-of-frost">staff-of-frost</a><br />
+<a href="./wondrous-items:staff-of-healing">staff-of-healing</a><br />
+<a href="./wondrous-items:staff-of-power">staff-of-power</a><br />
+<a href="./wondrous-items:staff-of-striking">staff-of-striking</a><br />
+<a href="./wondrous-items:staff-of-swarming-insects">staff-of-swarming-insects</a><br />
+<a href="./wondrous-items:staff-of-the-adder">staff-of-the-adder</a><br />
+<a href="./wondrous-items:staff-of-the-forgotten-one">staff-of-the-forgotten-one</a><br />
+<a href="./wondrous-items:staff-of-the-ivory-claw">staff-of-the-ivory-claw</a><br />
+<a href="./wondrous-items:staff-of-the-magi">staff-of-the-magi</a><br />
+<a href="./wondrous-items:staff-of-the-python">staff-of-the-python</a><br />
+<a href="./wondrous-items:staff-of-the-woodlands">staff-of-the-woodlands</a><br />
+<a href="./wondrous-items:staff-of-thunder-and-lightning">staff-of-thunder-and-lightning</a><br />
+<a href="./wondrous-items:staff-of-withering">staff-of-withering</a><br />
+<a href="./wondrous-items:star-razor">star-razor</a><br />
+<a href="./wondrous-items:star-razor">star-razor</a><br />
+<a href="./wondrous-items:steel">steel</a><br />
+<a href="./wondrous-items:stone-of-controlling-earth-elementals">stone-of-controlling-earth-elementals</a><br />
+<a href="./wondrous-items:stone-of-golorr">stone-of-golorr</a><br />
+<a href="./wondrous-items:stone-of-ill-luck">stone-of-ill-luck</a><br />
+<a href="./wondrous-items:stonespeaker-crystal">stonespeaker-crystal</a><br />
+<a href="./wondrous-items:stonkys-ring">stonkys-ring</a><br />
+<a href="./wondrous-items:storm-boomerang">storm-boomerang</a><br />
+<a href="./wondrous-items:stormgirdle">stormgirdle</a><br />
+<a href="./wondrous-items:stormrider-boots">stormrider-boots</a><br />
+<a href="./wondrous-items:strixhaven-pennant">strixhaven-pennant</a><br />
+<a href="./wondrous-items:summers-dance">summers-dance</a><br />
+<a href="./wondrous-items:sun-blade">sun-blade</a><br />
+<a href="./wondrous-items:sunforger">sunforger</a><br />
+<a href="./wondrous-items:sunsword">sunsword</a><br />
+<a href="./wondrous-items:sword-of-answering">sword-of-answering</a><br />
+<a href="./wondrous-items:sword-of-kas">sword-of-kas</a><br />
+<a href="./wondrous-items:sword-of-life-stealing">sword-of-life-stealing</a><br />
+<a href="./wondrous-items:sword-of-sharpness">sword-of-sharpness</a><br />
+<a href="./wondrous-items:sword-of-the-paruns">sword-of-the-paruns</a><br />
+<a href="./wondrous-items:sword-of-vengeance">sword-of-vengeance</a><br />
+<a href="./wondrous-items:sword-of-wounding">sword-of-wounding</a><br />
+<a href="./wondrous-items:sword-of-zariel">sword-of-zariel</a><br />
+<a href="./wondrous-items:talisman-of-pure-good">talisman-of-pure-good</a><br />
+<a href="./wondrous-items:talisman-of-the-sphere">talisman-of-the-sphere</a><br />
+<a href="./wondrous-items:talisman-of-ultimate-evil">talisman-of-ultimate-evil</a><br />
+<a href="./wondrous-items:talking-doll">talking-doll</a><br />
+<a href="./wondrous-items:tankard-of-sobriety">tankard-of-sobriety</a><br />
+<a href="./wondrous-items:teeth-of-dahlver-nar">teeth-of-dahlver-nar</a><br />
+<a href="./wondrous-items:teleportation-tablet">teleportation-tablet</a><br />
+<a href="./wondrous-items:tentacle-rod">tentacle-rod</a><br />
+<a href="./wondrous-items:the-bloody-end">the-bloody-end</a><br />
+<a href="./wondrous-items:the-infernal-machine-of-lum-the-mad">the-infernal-machine-of-lum-the-mad</a><br />
+<a href="./wondrous-items:thermal-cube">thermal-cube</a><br />
+<a href="./wondrous-items:thessaltoxin-antidote">thessaltoxin-antidote</a><br />
+<a href="./wondrous-items:timepiece-of-travel">timepiece-of-travel</a><br />
+<a href="./wondrous-items:tinderstrike">tinderstrike</a><br />
+<a href="./wondrous-items:tinkertop-bolt-blaster-1000">tinkertop-bolt-blaster-1000</a><br />
+<a href="./wondrous-items:titanstone-knuckles">titanstone-knuckles</a><br />
+<a href="./wondrous-items:tome-of-clear-thought">tome-of-clear-thought</a><br />
+<a href="./wondrous-items:tome-of-leadership-and-influence">tome-of-leadership-and-influence</a><br />
+<a href="./wondrous-items:tome-of-the-stilled-tongue">tome-of-the-stilled-tongue</a><br />
+<a href="./wondrous-items:tome-of-understanding">tome-of-understanding</a><br />
+<a href="./wondrous-items:topaz-annihilator">topaz-annihilator</a><br />
+<a href="./wondrous-items:trident-of-fish-command">trident-of-fish-command</a><br />
+<a href="./wondrous-items:two-birds-sling">two-birds-sling</a><br />
+<a href="./wondrous-items:unbreakable-arrow">unbreakable-arrow</a><br />
+<a href="./wondrous-items:universal-solvent">universal-solvent</a><br />
+<a href="./wondrous-items:ventilating-lungs">ventilating-lungs</a><br />
+<a href="./wondrous-items:verminshroud">verminshroud</a><br />
+<a href="./wondrous-items:veterans-cane">veterans-cane</a><br />
+<a href="./wondrous-items:vicious-weapon">vicious-weapon</a><br />
+<a href="./wondrous-items:vorpal-sword">vorpal-sword</a><br />
+<a href="./wondrous-items:vox-seeker">vox-seeker</a><br />
+<a href="./wondrous-items:voyager-staff">voyager-staff</a><br />
+<a href="./wondrous-items:walloping-ammunition">walloping-ammunition</a><br />
+<a href="./wondrous-items:wand-of-binding">wand-of-binding</a><br />
+<a href="./wondrous-items:wand-of-conducting">wand-of-conducting</a><br />
+<a href="./wondrous-items:wand-of-enemy-detection">wand-of-enemy-detection</a><br />
+<a href="./wondrous-items:wand-of-entangle">wand-of-entangle</a><br />
+<a href="./wondrous-items:wand-of-fear">wand-of-fear</a><br />
+<a href="./wondrous-items:wand-of-fireballs">wand-of-fireballs</a><br />
+<a href="./wondrous-items:wand-of-lightning-bolts">wand-of-lightning-bolts</a><br />
+<a href="./wondrous-items:wand-of-magic-detection">wand-of-magic-detection</a><br />
+<a href="./wondrous-items:wand-of-magic-missiles">wand-of-magic-missiles</a><br />
+<a href="./wondrous-items:wand-of-orcus">wand-of-orcus</a><br />
+<a href="./wondrous-items:wand-of-paralysis">wand-of-paralysis</a><br />
+<a href="./wondrous-items:wand-of-polymorph">wand-of-polymorph</a><br />
+<a href="./wondrous-items:wand-of-pyrotechnics">wand-of-pyrotechnics</a><br />
+<a href="./wondrous-items:wand-of-scowls">wand-of-scowls</a><br />
+<a href="./wondrous-items:Wand-of-secrets">wand-of-secrets</a><br />
+<a href="./wondrous-items:wand-of-smiles">wand-of-smiles</a><br />
+<a href="./wondrous-items:wand-of-the-war-mage">wand-of-the-war-mage</a><br />
+<a href="./wondrous-items:wand-of-viscid-globs">wand-of-viscid-globs</a><br />
+<a href="./wondrous-items:wand-of-web">wand-of-web</a><br />
+<a href="./wondrous-items:wand-of-winter">wand-of-winter</a><br />
+<a href="./wondrous-items:wand-of-wonder">wand-of-wonder</a><br />
+<a href="./wondrous-items:wand-sheath">wand-sheath</a><br />
+<a href="./wondrous-items:waste-hunter-blade">waste-hunter-blade</a><br />
+<a href="./wondrous-items:watchful-helm">watchful-helm</a><br />
+<a href="./wondrous-items:wave">wave</a><br />
+<a href="./wondrous-items:waythe">waythe</a><br />
+<a href="./wondrous-items:weapon-1-2-3">weapon-1-2-3</a><br />
+<a href="./wondrous-items:weapon-of-certain-death">weapon-of-certain-death</a><br />
+<a href="./wondrous-items:weapon-of-warning">weapon-of-warning</a><br />
+<a href="./wondrous-items:weird-tank">weird-tank</a><br />
+<a href="./wondrous-items:well-of-many-worlds">well-of-many-worlds</a><br />
+<a href="./wondrous-items:wheel-of-stars">wheel-of-stars</a><br />
+<a href="./wondrous-items:wheel-of-wind-and-water">wheel-of-wind-and-water</a><br />
+<a href="./wondrous-items:whelm">whelm</a><br />
+<a href="./wondrous-items:whisper">whisper</a><br />
+<a href="./wondrous-items:will-of-the-talon">will-of-the-talon</a><br />
+<a href="./wondrous-items:wind-fan">wind-fan</a><br />
+<a href="./wondrous-items:windvane">windvane</a><br />
+<a href="./wondrous-items:winged-boots">winged-boots</a><br />
+<a href="./wondrous-items:wings-of-flying">wings-of-flying</a><br />
+<a href="./wondrous-items:wingwear">wingwear</a><br />
+<a href="./wondrous-items:witchlight-vane">witchlight-vane</a><br />
+<a href="./wondrous-items:witchlight-watch">witchlight-watch</a><br />
+<a href="./wondrous-items:witherbloom-primer">witherbloom-primer</a><br />
+<a href="./wondrous-items:woodcutter-s-axe">woodcutter-s-axe</a><br />
+<a href="./wondrous-items:wraps-of-dyamak">wraps-of-dyamak</a><br />
+<a href="./wondrous-items:wreath-of-the-prism">wreath-of-the-prism</a><br />
+<a href="./wondrous-items:wyrmskull-throne">wyrmskull-throne</a><br />
+<a href="./wondrous-items:ythryn-mythallar">ythryn-mythallar</a><br />
+<a href="./wondrous-items:book-of-vile-darkness-variant">book-of-vile-darkness-variant</a><br />
+<a href="./wondrous-items:constantoris-portrait">constantoris-portrait</a><br />
+<a href="./wondrous-items:dagger-of-blindsight">dagger-of-blindsight</a><br />
+<a href="./wondrous-items:fish-suit">fish-suit</a><br />
+<a href="./wondrous-items:flying-citadel-helm">flying-citadel-helm</a><br />
+<a href="./wondrous-items:hammock-of-worlds">hammock-of-worlds</a><br />
+<a href="./wondrous-items:kagonesti-forest-shroud">kagonesti-forest-shroud</a><br />
+<a href="./wondrous-items:mirror-of-reflected-pasts">mirror-of-reflected-pasts</a><br />
+<a href="./wondrous-items:rings-of-shared-suffering">rings-of-shared-suffering</a><br />
+<a href="./wondrous-items:shard-of-xeluan">shard-of-xeluan</a><br />
+<a href="./wondrous-items:shard-solitaire">shard-solitaire</a><br />
+<a href="./wondrous-items:talarith">talarith</a><br />
+<a href="./wondrous-items:wildspace-orrery">wildspace-orrery</a></p>
+</div>
+
+
+
+
+        
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-dnd5e-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script>
+window['nitroAds'].createAd('wad-dnd5e-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+
+          
+          <div class="page-info-break"></div>
+          <div class="page-options-container"></div>
+          <div id="action-area" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+ 
+<footer class="footer-wrap" role="contentinfo">
+  <div class="container footer">
+    <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Help</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Terms of Service</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacy</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Report a bug</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Flag as objectionable</a>
+</div>
+Powered by <a href="http://www.wikidot.com">Wikidot.com</a> 
+    <div class="license-area">Unless otherwise stated, the content of this page is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a></div>
+  </div>
+  <div class="extrac-div-1"><span></span></div>
+  <div class="extrac-div-2"><span></span></div>
+  <div class="extrac-div-3"><span></span></div>
+</footer>
+ 
+<div id="footer-bar">
+  <div>
+     </div>
+  <h2>Other interesting sites</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://scr-wiki.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scr-wiki.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://scr-wiki.wikidot.com">SCR公司</a></h3>
+            <div class="desc">          
+              安全 • 收容 • 研究
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://advent-ro.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/advent-ro.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://advent-ro.wikidot.com">AdventRO Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://biol252-biol319.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/biol252-biol319.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://biol252-biol319.wikidot.com">Micro &amp; Epi @ Morningside Wiki</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://xilrin.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/xilrin.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://xilrin.wikidot.com">xilrin</a></h3>
+            <div class="desc">          
+              
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+</div> <!-- container-wrap -->
+ 
+<div class="extra-div-1"><span></span></div>
+<div class="extra-div-2"><span></span></div>
+<div class="extra-div-3"><span></span></div>
+<div class="extra-div-4"><span></span></div>
+<div class="extra-div-5"><span></span></div>
+<div class="extra-div-6"><span></span></div>
+</div> <!-- container-wrap-wrap -->
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Click here to edit contents of this page.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Click here to toggle editing of individual sections of the page (if possible).         Watch headings for an &quot;edit&quot; link when available.    </div>
+    <div id="edit-append-button-hovertip">
+        Append content without editing the whole page source.    </div>
+    <div id="history-button-hovertip">
+        Check out how this page has evolved in the past.    </div>
+    <div id="discuss-button-hovertip">
+        If you want to discuss contents of this page - this is the easiest way to do it.    </div>
+    <div id="files-button-hovertip">
+        View and manage file attachments for this page.    </div>
+    <div id="site-tools-button-hovertip">
+        A few useful tools to manage this Site.    </div>
+    <div id="backlinks-button-hovertip">
+        See pages that link to and include this page.    </div>
+    <div id="rename-move-button-hovertip">
+        Change the name (also URL address, possibly the category) of the page.    </div>
+    <div id="view-source-button-hovertip">
+        View wiki source for this page without editing.    </div>
+    <div id="parent-page-button-hovertip">  
+        View/set parent page (used for creating breadcrumbs and structured layout).    </div>
+            <div id="abuse-report-button-hovertip">
+            Notify administrators if there is objectionable content in this page.        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            General Wikidot.com documentation and help section.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com Terms of Service - what you can, what you should not etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com Privacy Policy.          
+        </div>
+    </div>
+</body>
+</html>
