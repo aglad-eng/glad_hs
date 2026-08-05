@@ -12,11 +12,13 @@ services:
     env_file:
       - .env
     ports:
-      - 3001
+      - 2283
     depends_on:
       - redis
       - database
     restart: unless-stopped
+    healthcheck:
+      disable: false
     networks:
       - immich_lan
 
@@ -33,12 +35,15 @@ services:
     env_file:
       - .env
     restart: unless-stopped
+    healthcheck:
+      disable: false
     networks:
       - immich_lan
+      
 
   redis:
     container_name: immich_redis
-    image: docker.io/redis:6.2-alpine@sha256:d6c2911ac51b289db208767581a5d154544f2b2fe4914ea5056443f62dc6e900
+    image: docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
     healthcheck:
       test: redis-cli ping || exit 1
     restart: unless-stopped
@@ -47,7 +52,7 @@ services:
 
   database:
     container_name: immich_postgres
-    image: docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+    image: ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0
     env_file:
       - .env
     environment:
@@ -55,14 +60,10 @@ services:
       POSTGRES_USER: ${DB_USERNAME}
       POSTGRES_DB: ${DB_DATABASE_NAME}
       POSTGRES_INITDB_ARGS: '--data-checksums'
+      # Uncomment the DB_STORAGE_TYPE: 'HDD' var if your database isn't stored on SSDs
+      DB_STORAGE_TYPE: 'HDD'
     volumes:
       - ${DB_DATA_LOCATION}:/var/lib/postgresql/data
-    command: ["postgres", "-c" ,"shared_preload_libraries=vectors.so", "-c", 'search_path="$$user", public, vectors', "-c", "logging_collector=on", "-c", "max_wal_size=2GB", "-c", "shared_buffers=512MB", "-c", "wal_compression=on"]
-    healthcheck:
-      test: pg_isready --dbname='${DB_DATABASE_NAME}' || exit 1; Chksum="$$(psql --dbname='${DB_DATABASE_NAME}' --username='${DB_USERNAME}' --tuples-only --no-align --command='SELECT COALESCE(SUM(checksum_failures), 0) FROM pg_stat_database')"; echo "checksum failure count is $$Chksum"; [ "$$Chksum" = '0' ] || exit 1
-      interval: 5m
-      start_interval: 30s
-      start_period: 5m
     restart: unless-stopped
     networks:
       - immich_lan
@@ -96,3 +97,4 @@ services:
 networks:
   immich_lan:
     external: true 
+    
