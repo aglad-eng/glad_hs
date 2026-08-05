@@ -21,6 +21,9 @@ services:
       - ${GHS_DIR}/services/nginx/nginx_config/conf.d:/etc/nginx/conf.d
       - ${GHS_DIR}/services/nginx/nginx_config/conf_templates:/etc/nginx/conf_templates
 
+      ### This stores my static html websites for serving
+      - ${GHS_DIR}/services/nginx/html:/var/www/html
+
       ### TLS certificates
       - /etc/letsencrypt:/etc/letsencrypt:ro
       - /tmp/acme_challenge:/tmp/acme_challenge

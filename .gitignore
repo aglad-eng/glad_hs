@@ -8,6 +8,7 @@
 *.sh
 .env
 *.env
+b2_credentials
 
 #Ignore sandbox folders
 unused_services/
@@ -17,6 +18,7 @@ unused_services/
 !acme_reg_example.sh
 !docker-network-all.sh
 !docker-all.sh
+!b2_backup.sh
 
 # Don't ignore our main files
 !docker-compose.yml

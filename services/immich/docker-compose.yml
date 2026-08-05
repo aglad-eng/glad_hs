@@ -6,37 +6,19 @@ services:
   immich-server:
     container_name: immich_server
     image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
-    command: [ "start.sh", "immich" ]
     volumes:
       - ${UPLOAD_LOCATION}:/usr/src/app/upload
       - /etc/localtime:/etc/localtime:ro
     env_file:
       - .env
     ports:
-      - 3001
+      - 2283
     depends_on:
       - redis
       - database
     restart: unless-stopped
-    networks:
-      - immich_lan
-
-  immich-microservices:
-    container_name: immich_microservices
-    image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
-    # extends:
-    #   file: hwaccel.yml
-    #   service: hwaccel
-    command: [ "start.sh", "microservices" ]
-    volumes:
-      - ${UPLOAD_LOCATION}:/usr/src/app/upload
-      - /etc/localtime:/etc/localtime:ro
-    env_file:
-      - .env
-    depends_on:
-      - redis
-      - database
-    restart: unless-stopped
+    healthcheck:
+      disable: false
     networks:
       - immich_lan
 
@@ -53,19 +35,24 @@ services:
     env_file:
       - .env
     restart: unless-stopped
+    healthcheck:
+      disable: false
     networks:
       - immich_lan
+      
 
   redis:
     container_name: immich_redis
-    image: registry.hub.docker.com/library/redis:6.2-alpine@sha256:84882e87b54734154586e5f8abd4dce69fe7311315e2fc6d67c29614c8de2672
+    image: docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
+    healthcheck:
+      test: redis-cli ping || exit 1
     restart: unless-stopped
     networks:
       - immich_lan
 
   database:
     container_name: immich_postgres
-    image: tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+    image: ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0
     env_file:
       - .env
     environment:
@@ -73,9 +60,10 @@ services:
       POSTGRES_USER: ${DB_USERNAME}
       POSTGRES_DB: ${DB_DATABASE_NAME}
       POSTGRES_INITDB_ARGS: '--data-checksums'
+      # Uncomment the DB_STORAGE_TYPE: 'HDD' var if your database isn't stored on SSDs
+      DB_STORAGE_TYPE: 'HDD'
     volumes:
       - ${DB_DATA_LOCATION}:/var/lib/postgresql/data
-    command: ["postgres", "-c" ,"shared_preload_libraries=vectors.so", "-c", 'search_path="$$user", public, vectors', "-c", "logging_collector=on", "-c", "max_wal_size=2GB", "-c", "shared_buffers=512MB", "-c", "wal_compression=on"]
     restart: unless-stopped
     networks:
       - immich_lan
@@ -109,3 +97,4 @@ services:
 networks:
   immich_lan:
     external: true 
+    
