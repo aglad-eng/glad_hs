@@ -5,13 +5,10 @@ services:
     container_name: vaultwarden
     hostname: vaultwarden
     restart: unless-stopped
-    image: vaultwarden/server:latest
+    image: vaultwarden/server:1.37.1
+    # previous image: vaultwarden/server:1.35.2
     # For explanations of environemnt variables see: https://github.com/dani-garcia/vaultwarden/blob/main/.env.template
     environment:
-      ### This environment variable disables forced https (this is because I have it hidden within local docker netowrk
-      #   behind a reverse proxy that is forced https)
-      - WEBSOCKET_ENABLED=true
-
       ###
       # Gmail has a free SMTP server (up to 500 or 1,000 per day).  It is easy to look up how to set up your credentials.
       ###
