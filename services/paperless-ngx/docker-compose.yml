@@ -34,7 +34,7 @@ version: "3.6"
 services:
   broker:
     container_name: paperless-broker
-    image: docker.io/library/redis:7
+    image: docker.io/library/redis:8
     restart: unless-stopped
     volumes:
       - ${GHS_DIR}/services/paperless-ngx/redisdata:/data
@@ -43,10 +43,10 @@ services:
 
   db:
     container_name: paperless-db
-    image: docker.io/library/postgres:15
+    image: docker.io/library/postgres:18
     restart: unless-stopped
     volumes:
-      - ${GHS_DIR}/services/paperless-ngx/pgdata:/var/lib/postgresql/data
+      - ${GHS_DIR}/services/paperless-ngx/pgdata:/var/lib/postgresql
     environment:
       POSTGRES_DB: paperless
       POSTGRES_USER: paperless
@@ -56,7 +56,7 @@ services:
 
   webserver:
     container_name: paperless-webserver
-    image: ghcr.io/paperless-ngx/paperless-ngx:latest
+    image: ghcr.io/paperless-ngx/paperless-ngx:3.0.5
     restart: unless-stopped
     depends_on:
       - db
@@ -79,6 +79,7 @@ services:
     environment:
       PAPERLESS_REDIS: redis://paperless-broker:6379
       PAPERLESS_DBHOST: db
+      PAPERLESS_DBENGINE: postgresql
       PAPERLESS_TIKA_ENABLED: 1
       PAPERLESS_TIKA_GOTENBERG_ENDPOINT: http://paperless-gotenberg:3000
       PAPERLESS_TIKA_ENDPOINT: http://paperless-tika:9998
@@ -87,7 +88,7 @@ services:
 
   gotenberg:
     container_name: paperless-gotenberg
-    image: docker.io/gotenberg/gotenberg:7.6
+    image: docker.io/gotenberg/gotenberg:8.34
     restart: unless-stopped
     # The gotenberg chromium route is used to convert .eml files. We do not
     # want to allow external content like tracking pixels or even javascript.
@@ -95,13 +96,12 @@ services:
       - "gotenberg"
       - "--chromium-disable-javascript=true"
       - "--chromium-allow-list=file:///tmp/.*"
-      - "--api-timeout=500s"
     networks:
       - paperless_lan
 
   tika:
     container_name: paperless-tika
-    image: ghcr.io/paperless-ngx/tika:latest
+    image: docker.io/apache/tika:latest
     restart: unless-stopped
     networks:
       - paperless_lan
