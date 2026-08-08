@@ -8,6 +8,9 @@
 *.sh
 .env
 *.env
+*.pem
+*.key
+
 b2_credentials
 
 #Ignore sandbox folders
@@ -25,3 +28,9 @@ unused_services/
 !.gitignore
 !LICENSE
 !README.md
+
+# Ignore AI tool stuff
+.claude/*
+.codex/*
+.copilotignore
+
